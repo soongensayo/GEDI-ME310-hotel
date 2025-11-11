@@ -26,7 +26,7 @@ Behind the scenes, hotels match reservations to specific rooms based on availabi
 ---
 
 ## 🏨 Experience Journey Map: Traditional Counter Check-In
-![Traditional Counter Check-In Flow](..assets/images/traditional-counter-check-in-flow.png)
+![Traditional Counter Check-In Flow](../assets/images/traditional-counter-check-in-flow.png)
 
 The check-in process is one of the most defining moments in the guest journey, shaping first impressions and setting the tone for the stay *(Mann, Scully, Straus & Tellez Holub, 2024).*  
 For luxury hotels, this stage embodies the brand’s promise of **seamlessness, warmth, and personalization**. Yet, traditional counter-based workflows often create friction due to outdated systems, fragmented communication, and process inefficiencies.
@@ -60,7 +60,7 @@ For luxury hotels, this stage embodies the brand’s promise of **seamlessness, 
 ---
 
 ## 🤖 Experience Journey Map: Kiosk Check-In
-![Kiosk Check-In Flow](..assets/images/kiosk-check-in-flow.png)
+![Kiosk Check-In Flow](../assets/images/kiosk-check-in-flow.png)
 
 As hotels adopt automation to boost efficiency and address labour shortages *(Workforce Singapore, 2023)*, **self-service kiosks** are becoming common. While these streamline check-in and key issuance, they also expose gaps in **emotional engagement** — a critical attribute of luxury hospitality *(Ecole Hôtelière de Lausanne, 2023).*
 
