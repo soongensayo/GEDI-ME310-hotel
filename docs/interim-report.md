@@ -108,7 +108,8 @@ Our design follows Ecole Hôtelière de Lausanne’s (2025) principle that AI in
 Collectively, these principles align with the project’s guiding objective - to reimagine luxury hospitality by bridging automation and human connection, ensuring that technology amplifies the guest experience rather than diluting it.
 
 ### Solution demo
-*[Hotelly Demo Video](../assets/videos/hotelly-demo.mov)*
+
+https://github.com/user-attachments/assets/videos/hotelly-demo.mov
 
 ### User Testing and Analysis
 To validate the Hotelly concept, we conducted early-stage user testing with front desk staff and hospitality trainees. The feedback provided valuable direction for refinement, summarized below:
