@@ -1,5 +1,5 @@
 ## 🧭 Experience Journey Map: Pre-Arrival
-![Pre-Arrival Flow](assets/images/pre-arrival-flow.png)
+![Pre-Arrival Flow](../assets/images/pre-arrival-flow.png)
 
 The **pre-arrival phase** establishes the foundation for the guest’s overall hotel experience. In luxury hospitality, this stage is not merely transactional but an opportunity to communicate attentiveness, personalization, and efficiency — qualities that define a premium brand. A seamless pre-arrival journey ensures that guests begin their stay feeling understood and valued, while the hotel benefits from streamlined operations and accurate data for service preparation *(Ecole Hôtelière de Lausanne, 2023).*
 
@@ -26,7 +26,7 @@ Behind the scenes, hotels match reservations to specific rooms based on availabi
 ---
 
 ## 🏨 Experience Journey Map: Traditional Counter Check-In
-![Traditional Counter Check-In Flow](assets/images/traditional-counter-check-in-flow.png)
+![Traditional Counter Check-In Flow](..assets/images/traditional-counter-check-in-flow.png)
 
 The check-in process is one of the most defining moments in the guest journey, shaping first impressions and setting the tone for the stay *(Mann, Scully, Straus & Tellez Holub, 2024).*  
 For luxury hotels, this stage embodies the brand’s promise of **seamlessness, warmth, and personalization**. Yet, traditional counter-based workflows often create friction due to outdated systems, fragmented communication, and process inefficiencies.
@@ -60,7 +60,7 @@ For luxury hotels, this stage embodies the brand’s promise of **seamlessness, 
 ---
 
 ## 🤖 Experience Journey Map: Kiosk Check-In
-![Kiosk Check-In Flow](assets/images/kiosk-check-in-flow.png)
+![Kiosk Check-In Flow](..assets/images/kiosk-check-in-flow.png)
 
 As hotels adopt automation to boost efficiency and address labour shortages *(Workforce Singapore, 2023)*, **self-service kiosks** are becoming common. While these streamline check-in and key issuance, they also expose gaps in **emotional engagement** — a critical attribute of luxury hospitality *(Ecole Hôtelière de Lausanne, 2023).*
 
