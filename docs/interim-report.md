@@ -109,7 +109,8 @@ Collectively, these principles align with the project’s guiding objective - to
 
 ### Solution demo
 
-![Hotelly Demo](../assets/videos/hotelly-demo.mp4)
+[![Hotelly Demo](https://img.youtube.com/vi/3t5eh34Za-s/0.jpg)](https://youtu.be/3t5eh34Za-s)
+
 
 ### User Testing and Analysis
 To validate the Hotelly concept, we conducted early-stage user testing with front desk staff and hospitality trainees. The feedback provided valuable direction for refinement, summarized below:
