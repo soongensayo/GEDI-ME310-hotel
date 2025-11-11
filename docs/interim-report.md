@@ -80,3 +80,52 @@ As hotels experiment with automation to enhance efficiency and reduce manpower d
 > ✨ **Summary:** While kiosks improve efficiency, they risk diluting the sense of luxury and human warmth that defines premium hospitality. True innovation must integrate automation *with* empathy — transforming check-in from a transaction into an orchestrated first impression.
 
 ---
+
+## 3. Hotelly - AI Overlay System for Front Desk Staff
+Building on the identified challenges of manpower shortages, inconsistent service quality, and rising guest expectations, our team developed Hotelly, an AI overlay system designed to discreetly support front desk staff during the hotel check-in process. Rather than replacing human hospitality, Hotelly enhances it. It serves as a real-time “co-pilot” that empowers staff to deliver warm, precise, and personalized service even under pressure.
+
+Hotelly operates as a context-aware assistive layer, providing live prompts, key guest information, and automated note capture during guest interactions. This helps staff maintain composure and consistency, ensuring that high-touch service standards are met regardless of varying experience levels among employees. The prototype was inspired by successful analogues such as Google Contact Center AI, Otter.ai, and Cluely, which have demonstrated the technical viability of real-time overlays in other high-stakes conversational environments (AmplifAI, 2024).
+
+### Design Rationale
+The design rationale behind Hotelly was grounded in a recurring insight from our user interviews and field research across luxury hotels: while technology can automate many back-end operations, frontline excellence remains a distinctly human craft that depends on knowledge, composure, and consistency. However, labour shortages, uneven training quality, and rising service expectations have stretched staff capacity thin (Workforce Singapore, 2023). Our aim was thus to design an assistive, not replacement-based, AI system - one that could elevate human performance rather than diminish it.
+
+#### Cognitive Load Reduction through Real-Time Guidance
+A major pain point uncovered during ethnographic observations was the mental juggling required of front desk staff during check-in. Staff must simultaneously manage guest verification, system input, small talk, and upselling, all while maintaining warmth and poise. Less experienced staff often hesitated or broke conversational flow when recalling hotel policies or local recommendations. Hotelly addresses this by providing context-sensitive, real-time prompts that surface relevant talking points, FAQs, or brand-aligned phrasing at the right moment.
+
+These suggestions appear through a minimal overlay interface, drawing inspiration from existing assistive tools such as Google Contact Center AI and Cluely, which have proven effective in delivering real-time intelligence without overwhelming the user (AmplifAI, 2024). This approach allows Hotelly to act as an on-the-job coach, supporting knowledge recall while allowing staff to focus on relationship-building.
+
+#### Preservation of Human Warmth through Peripheral Design
+Luxury hospitality is built upon emotional connection—the subtle warmth of conversation, eye contact, and anticipation of unspoken needs. Overly intrusive technology risks eroding this human essence. To preserve natural interaction, Hotelly adopts a peripheral design approach, meaning its overlay occupies the edges of the screen and delivers short, digestible bullet points rather than full sentences. This prevents staff from reading verbatim or appearing distracted.
+User research further indicated strong resistance toward smart-glasses interfaces, which were perceived as “awkward” and “dehumanizing” during guest-facing interactions. Therefore, our prototype was intentionally limited to desktop-based overlays that complement, rather than intrude upon, the service experience.
+
+#### Automation for Knowledge Continuity
+Another gap identified through user journey mapping was the loss of service continuity between shifts or staff members. When key guest preferences (such as preferred room temperature, pillow type, or breakfast timing) were captured verbally but never recorded, personalization suffered. To address this, Hotelly integrates automated note capture and summarization, transcribing live interactions into structured summaries. These notes are timestamped, categorized, and stored for future retrieval, facilitating smoother handovers between shifts and improving accuracy in post-stay personalization or dispute resolution.
+
+This design choice also supports training reinforcement, as staff can review past interactions to reflect on tone, phrasing, and guest response patterns - echoing AmplifAI’s (2024) model of “coaching through context.”
+
+#### Human-Centric AI Integration
+Our design follows Ecole Hôtelière de Lausanne’s (2025) principle that AI in hospitality should enhance, not replace, the warmth and empathy that define service. Hotelly is conceptualized as a co-pilot: a system that lightens cognitive load and improves precision without replacing judgement or authenticity. The system’s tone and visuals are deliberately subtle, prioritizing emotional intelligence and discretion over technological dominance.
+Collectively, these principles align with the project’s guiding objective - to reimagine luxury hospitality by bridging automation and human connection, ensuring that technology amplifies the guest experience rather than diluting it.
+
+### Solution demo
+*[Hotelly Demo Video](../assets/videos/hotelly-demo.mov)*
+
+### User Testing and Analysis
+To validate the Hotelly concept, we conducted early-stage user testing with front desk staff and hospitality trainees. The feedback provided valuable direction for refinement, summarized below:
+Real-Time Retrieval Builds Confidence
+Many users described Hotelly as enabling them to appear “more knowledgeable” and “calmer under pressure.” Staff found it particularly helpful in recalling park timings, local attractions, or property-specific policies that they could not always memorize. The ability to surface key facts instantly helped maintain smooth conversational flow and reduced anxiety, especially among newer employees. This validated our hypothesis that cognitive offloading through AI can elevate, not hinder guest interaction quality.
+
+### Training Potential Strongly Validated
+Participants widely recognized Hotelly’s potential as a training companion. New or junior staff saw it as a safety net that enabled them to handle complex guest requests more confidently. One participant noted: “It’s more useful as a training tool than in real life. But for new hires, it’s perfect.” This led to the concept of a dual-mode interface, a “Training Mode” with more guidance and feedback prompts, and a “Live Mode” optimized for minimal intrusion during actual guest interactions.
+
+### Automated Note-Taking as a Key Value Driver
+Automation of guest note capture was consistently highlighted as one of Hotelly’s most valuable features. Staff emphasized its potential for dispute resolution, shift continuity, and personalized service. However, they also noted that accuracy and brevity would be critical: “It even summarises preferences, that’s very helpful, but accuracy is important.”This feedback informed our next development milestone - integrating real-time summarization with adjustable confidence thresholds to balance automation and reliability.
+Managing Cognitive Offloading and Skill Atrophy
+While automation was largely welcomed, several respondents expressed concern about potential skill atrophy. Over-reliance on AI prompts might make staff dependent on the system rather than internalizing knowledge. As one user put it: “This could make staff lazy… they might just read off it instead of remembering.” These insights guided our philosophy that Hotelly should serve as a co-pilot, not a crutch, providing support while encouraging independent learning through gradual reduction of assistance.
+
+### Interface and Usability Feedback
+Aesthetics and legibility were key concerns. Staff preferred short bullet points, large fonts, and strong visual hierarchy for quick scanning. They emphasized that the overlay should never compete with the PMS (Property Management System) interface, but rather complement it. This will guide subsequent iterations focusing on adaptive UI scaling, contrast sensitivity, and contextual card grouping.
+
+### Discretion in Guest-Facing Interactions
+A final insight related to physical discretion was that participants felt that using smart glasses or overly visible devices risked making interactions feel robotic. Instead, staff favored screen-based overlays placed subtly on monitors or tablets. This feedback affirmed the decision to keep Hotelly’s presence peripheral and contextually embedded within existing workflows.
+Together, these insights underscored the importance of balance—between speed and subtlety, automation and authenticity, information and intuition.
