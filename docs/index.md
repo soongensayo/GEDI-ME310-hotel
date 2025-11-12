@@ -1,5 +1,5 @@
 ## Experience Journey Map: Pre-Arrival
-![Pre-Arrival Flow](../assets/images/pre-arrival-flow.png)
+![Pre-Arrival Flow](assets/images/pre-arrival-flow.png)
 
 The pre-arrival phase establishes the foundation for the guest’s overall hotel experience. In luxury hospitality, this stage is not merely transactional but an opportunity to communicate attentiveness, personalization, and efficiency — qualities that define a premium brand. A seamless pre-arrival journey ensures that guests begin their stay feeling understood and valued, while the hotel benefits from streamlined operations and accurate data for service preparation (Ecole Hôtelière de Lausanne, 2023).
 
@@ -22,7 +22,7 @@ Behind the scenes, the pre-arrival process culminates in room allocation, where 
 ---
 
 ## Experience Journey Map: Traditional Counter Check-In
-![Traditional Counter Check-In Flow](../assets/images/traditional-counter-check-in-flow.png)
+![Traditional Counter Check-In Flow](assets/images/traditional-counter-check-in-flow.png)
 
 The check-in process is one of the most defining moments in the guest journey, shaping first impressions and setting the tone for the stay (Mann, Scully, Straus & Tellez Holub, 2024). For luxury hotels, this stage embodies the brand’s promise of seamlessness, warmth, and personalization. Yet, as our field research and observations reveal, traditional counter-based check-in workflows can create friction for both guests and staff due to outdated system design, fragmented communication, and process inefficiencies.
 
@@ -55,7 +55,7 @@ The check-in process is one of the most defining moments in the guest journey, s
 ---
 
 ## Experience Journey Map: Kiosk Check-In (Alternative)
-![Kiosk Check-In Flow](../assets/images/kiosk-check-in-flow.png)
+![Kiosk Check-In Flow](assets/images/kiosk-check-in-flow.png)
 
 As hotels experiment with automation to enhance efficiency and reduce manpower dependency, **self-service kiosks** have become increasingly common, especially in business and mid-to-upscale hotels. These kiosks aim to streamline routine procedures such as guest identification, payment, and room key issuance — mirroring the self-check-in models seen in airports. In Singapore, automation has been widely encouraged to address labour shortages and operational inefficiencies in the hospitality sector (Workforce Singapore, 2023). However, while kiosk systems deliver measurable gains in speed and consistency, they also expose gaps in emotional engagement and personalization — both critical attributes of the luxury segment (Ecole Hôtelière de Lausanne, 2023).
 
@@ -109,7 +109,11 @@ Collectively, these principles align with the project’s guiding objective - to
 
 ### Solution demo
 
-[![Hotelly Demo](https://img.youtube.com/vi/3t5eh34Za-s/0.jpg)](https://youtu.be/3t5eh34Za-s)
+<iframe width="720" height="405"
+  src="https://www.youtube.com/embed/3t5eh34Za-s"
+  title="Hotelly Demo" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen></iframe>
 
 
 ### User Testing and Analysis
