@@ -30,123 +30,176 @@ We would like to express our gratitude to Dr Elliot Law and Mr Royston Shieh for
 
 **Table of Contents**
 
-[**Acknowledgements	2**](#acknowledgements)
-
-[**Abstract	3**](#abstract)
-
-[**Introduction	4**](#introduction)
-
-[Check-in Experience as a First Impression	4](#check-in-experience-as-a-first-impression)
-
-[Luxury in Modern Day Context	4](#luxury-in-modern-day-context)
-
-[**Background	5**](#background)
-
-[Global market growth	5](#global-market-growth)
-
-[Changing definition of luxury & guest experience	6](#changing-definition-of-luxury-&-guest-experience)
-
-[Global Trends	7](#global-trends)
-
-[Singapore’s Hospitality Trends	9](#singapore’s-hospitality-trends)
-
-[Singapore Labour Shortage	10](#singapore-labour-shortage)
-
-[Leveraging AI	12](#leveraging-ai)
-
-[**Primary Research	12**](#primary-research)
-
-[Overview & Methodology	12](#overview-&-methodology)
-
-[Hotel Sample and Participant Roles	12](#hotel-sample-and-participant-roles)
-
-[Data Collection Protocol	13](#data-collection-protocol)
-
-[Interview Design and Flow	13](#interview-design-and-flow)
-
-[Analysis Approach	13](#analysis-approach)
-
-[Key Themes and Insights from User Research	15](#key-themes-and-insights-from-user-research)
-
-[1\. Tech Stack and Integration Reality	15](#1.-tech-stack-and-integration-reality)
-
-[2\. Human Touch vs Automation	16](#2.-human-touch-vs-automation)
-
-[User Personas	18](#user-personas)
-
-[Overview	18](#overview)
-
-[Persona 1: Front Desk Staff (Extrovert)	18](#persona-1:-front-desk-staff-\(extrovert\))
-
-[Persona 2: Hotel Manager	19](#persona-2:-hotel-manager)
-
-[Application of Personas	19](#application-of-personas)
-
-[**Property Management System	20**](#property-management-system)
-
-[Role in Hotel Operations	20](#role-in-hotel-operations)
-
-[Limitations and Friction Points	20](#limitations-and-friction-points)
-
-[Implications for Design	20](#implications-for-design)
-
-[**Experience Journey Map: Pre-Arrival	21**](#experience-journey-map:-pre-arrival)
-
-[1\. Booking	21](#1.-booking)
-
-[2\. Confirmation Email	22](#2.-confirmation-email)
-
-[3\. Requests and Preferences	22](#3.-requests-and-preferences)
-
-[4\. Room Allocation	22](#4.-room-allocation)
-
-[**Experience Journey Map: Traditional Counter Check-In	23**](#experience-journey-map:-traditional-counter-check-in)
-
-[1\. Arrival	23](#1.-arrival)
-
-[2\. Greetings	24](#2.-greetings)
-
-[3\. Exchange of Information	24](#3.-exchange-of-information)
-
-[4\. Requests and Questions	24](#4.-requests-and-questions)
-
-[6\. Rooming	25](#6.-rooming)
-
-[**Experience Journey Map: Kiosk Check-In	25**](#experience-journey-map:-kiosk-check-in)
-
-[1\. Entering of Key Details	26](#1.-entering-of-key-details)
-
-[2\. Guest Photo and Passport Scanning	26](#2.-guest-photo-and-passport-scanning)
-
-[3\. Filling of Additional Fields and Signing of Terms & Conditions	26](#3.-filling-of-additional-fields-and-signing-of-terms-&-conditions)
-
-[4\. Collection of Key Card and Handling of Issues	27](#4.-collection-of-key-card-and-handling-of-issues)
-
-[**Stakeholders	28**](#stakeholders)
-
-[**Prototypes	28**](#prototypes)
-
-[1\. AIluvio	29](#1.-ailuvio)
-
-[2\. AI Kiosk Assistant	29](#2.-ai-kiosk-assistant)
-
-[3\. Hotelly \- AI Overlay System for Front Desk Staff	30](#3.-hotelly---ai-overlay-system-for-front-desk-staff)
-
-[User Testing and Analysis	32](#user-testing-and-analysis)
-
-[4\. Aria AI assistant	33](#4.-aria-ai-assistant)
-
-[**Key Takeaways	36**](#key-takeaways)
-
-[Strengths	36](#strengths)
-
-[Areas for Improvement/ Considerations	37](#areas-for-improvement/-considerations)
-
-[**Project Plan	38**](#project-plan)
-
-[**Conclusion	39**](#conclusion)
-
-[**Appendix	40**](#appendix)
+<div class="table-of-content">
+  <h2>Table of Contents</h2>
+  <sl-tree>
+    <sl-tree-item>
+      <a href="#acknowledgements">Acknowledgements</a>
+    </sl-tree-item>
+    <sl-tree-item>
+      <a href="#abstract">Abstract</a>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#introduction">Introduction</a>
+      <sl-tree-item>
+        <a href="#check-in-experience-as-a-first-impression">Check-in Experience as a First Impression</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#luxury-in-modern-day-context">Luxury in Modern Day Context</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#background">Background</a>
+      <sl-tree-item>
+        <a href="#global-market-growth">Global market growth</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#changing-definition-of-luxury-&-guest-experience">Changing definition of luxury &amp; guest experience</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#global-trends">Global Trends</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#singapore’s-hospitality-trends">Singapore’s Hospitality Trends</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#singapore-labour-shortage">Singapore Labour Shortage</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#leveraging-ai">Leveraging AI</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#primary-research">Primary Research</a>
+      <sl-tree-item expanded>
+        <a href="#overview-&-methodology">Overview &amp; Methodology</a>
+        <sl-tree-item>
+          <a href="#hotel-sample-and-participant-roles">Hotel Sample and Participant Roles</a>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#data-collection-protocol">Data Collection Protocol</a>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#interview-design-and-flow">Interview Design and Flow</a>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#analysis-approach">Analysis Approach</a>
+        </sl-tree-item>
+      </sl-tree-item>
+      <sl-tree-item expanded>
+        <a href="#key-themes-and-insights-from-user-research">Key Themes and Insights from User Research</a>
+        <sl-tree-item>
+          <a href="#1.-tech-stack-and-integration-reality">1. Tech Stack and Integration Reality</a>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#2.-human-touch-vs-automation">2. Human Touch vs Automation</a>
+        </sl-tree-item>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#user-personas">User Personas</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#property-management-system">Property Management System</a>
+      <sl-tree-item>
+        <a href="#role-in-hotel-operations">Role in Hotel Operations</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#limitations-and-friction-points">Limitations and Friction Points</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#implications-for-design">Implications for Design</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#experience-journey-map:-pre-arrival">Experience Journey Map: Pre-Arrival</a>
+      <sl-tree-item>
+        <a href="#1.-booking">1. Booking</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#2.-confirmation-email">2. Confirmation Email</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#3.-requests-and-preferences">3. Requests and Preferences</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#4.-room-allocation">4. Room Allocation</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#experience-journey-map:-traditional-counter-check-in">Experience Journey Map: Traditional Counter Check-In</a>
+      <sl-tree-item>
+        <a href="#1.-arrival">1. Arrival</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#2.-greetings">2. Greetings</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#3.-exchange-of-information">3. Exchange of Information</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#4.-requests-and-questions">4. Requests and Questions</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#6.-rooming">6. Rooming</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#experience-journey-map:-kiosk-check-in">Experience Journey Map: Kiosk Check-In</a>
+      <sl-tree-item>
+        <a href="#1.-entering-of-key-details">1. Entering of Key Details</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#2.-guest-photo-and-passport-scanning">2. Guest Photo and Passport Scanning</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#3.-filling-of-additional-fields-and-signing-of-terms-&-conditions">3. Filling of Additional Fields and Signing of Terms &amp; Conditions</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#4.-collection-of-key-card-and-handling-of-issues">4. Collection of Key Card and Handling of Issues</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item>
+      <a href="#stakeholders">Stakeholders</a>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#prototypes">Prototypes</a>
+      <sl-tree-item>
+        <a href="#1.-ailuvio">1. AIluvio</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#2.-ai-kiosk-assistant">2. AI Kiosk Assistant</a>
+      </sl-tree-item>
+      <sl-tree-item expanded>
+        <a href="#3.-hotelly---ai-overlay-system-for-front-desk-staff">3. Hotelly - AI Overlay System for Front Desk Staff</a>
+        <sl-tree-item>
+          <a href="#user-testing-and-analysis">User Testing and Analysis</a>
+        </sl-tree-item>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#4.-aria-ai-assistant">4. Aria AI assistant</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item expanded>
+      <a href="#key-takeaways">Key Takeaways</a>
+      <sl-tree-item>
+        <a href="#strengths">Strengths</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#areas-for-improvement/-considerations">Areas for Improvement/ Considerations</a>
+      </sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item>
+      <a href="#project-plan">Project Plan</a>
+    </sl-tree-item>
+    <sl-tree-item>
+      <a href="#conclusion">Conclusion</a>
+    </sl-tree-item>
+    <sl-tree-item>
+      <a href="#appendix">Appendix</a>
+    </sl-tree-item>
+  </sl-tree>
+</div>
 
 # Abstract {#abstract}
 
