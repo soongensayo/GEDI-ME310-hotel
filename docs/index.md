@@ -24,6 +24,247 @@ Mr Royston Shieh
 
 # 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.17.1/dist/themes/light.css">
+<script type="module">
+  import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.17.1/dist/components/tree/tree.js';
+  import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.17.1/dist/components/tree-item/tree-item.js';
+</script>
+<style>
+  .report-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .report-layout aside {
+    order: -1;
+  }
+
+  .report-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .table-of-content {
+    background: #f8f9fb;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 12px;
+    padding: 1.25rem;
+    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.08);
+  }
+
+  .table-of-content sl-tree {
+    --indent-guide-width: 0;
+    --sl-color-neutral-600: #111827;
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+
+  .table-of-content a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .table-of-content a:hover,
+  .table-of-content a:focus-visible {
+    text-decoration: underline;
+  }
+
+  @media (min-width: 960px) {
+    .report-layout {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+
+    .report-layout aside {
+      flex: 0 0 290px;
+      max-width: 290px;
+      position: sticky;
+      top: 5rem;
+      max-height: calc(100vh - 5rem);
+      overflow: hidden auto;
+      order: 0;
+    }
+  }
+</style>
+
+<div class="report-layout">
+  <aside>
+    **Table of Contents**
+
+    <div class="table-of-content">
+      <h2>Table of Contents</h2>
+      <sl-tree>
+        <sl-tree-item>
+          <a href="#acknowledgements">Acknowledgements</a>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#abstract">Abstract</a>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#introduction">Introduction</a>
+          <sl-tree-item>
+            <a href="#check-in-experience-as-a-first-impression">Check-in Experience as a First Impression</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#luxury-in-modern-day-context">Luxury in Modern Day Context</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#background">Background</a>
+          <sl-tree-item>
+            <a href="#global-market-growth">Global market growth</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#changing-definition-of-luxury-&-guest-experience">Changing definition of luxury &amp; guest experience</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#global-trends">Global Trends</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#singapore’s-hospitality-trends">Singapore’s Hospitality Trends</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#singapore-labour-shortage">Singapore Labour Shortage</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#leveraging-ai">Leveraging AI</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#primary-research">Primary Research</a>
+          <sl-tree-item expanded>
+            <a href="#overview-&-methodology">Overview &amp; Methodology</a>
+            <sl-tree-item>
+              <a href="#hotel-sample-and-participant-roles">Hotel Sample and Participant Roles</a>
+            </sl-tree-item>
+            <sl-tree-item>
+              <a href="#data-collection-protocol">Data Collection Protocol</a>
+            </sl-tree-item>
+            <sl-tree-item>
+              <a href="#interview-design-and-flow">Interview Design and Flow</a>
+            </sl-tree-item>
+            <sl-tree-item>
+              <a href="#analysis-approach">Analysis Approach</a>
+            </sl-tree-item>
+          </sl-tree-item>
+          <sl-tree-item expanded>
+            <a href="#key-themes-and-insights-from-user-research">Key Themes and Insights from User Research</a>
+            <sl-tree-item>
+              <a href="#1.-tech-stack-and-integration-reality">1. Tech Stack and Integration Reality</a>
+            </sl-tree-item>
+            <sl-tree-item>
+              <a href="#2.-human-touch-vs-automation">2. Human Touch vs Automation</a>
+            </sl-tree-item>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#user-personas">User Personas</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#property-management-system">Property Management System</a>
+          <sl-tree-item>
+            <a href="#role-in-hotel-operations">Role in Hotel Operations</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#limitations-and-friction-points">Limitations and Friction Points</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#implications-for-design">Implications for Design</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#experience-journey-map:-pre-arrival">Experience Journey Map: Pre-Arrival</a>
+          <sl-tree-item>
+            <a href="#1.-booking">1. Booking</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#2.-confirmation-email">2. Confirmation Email</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#3.-requests-and-preferences">3. Requests and Preferences</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#4.-room-allocation">4. Room Allocation</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#experience-journey-map:-traditional-counter-check-in">Experience Journey Map: Traditional Counter Check-In</a>
+          <sl-tree-item>
+            <a href="#1.-arrival">1. Arrival</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#2.-greetings">2. Greetings</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#3.-exchange-of-information">3. Exchange of Information</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#4.-requests-and-questions">4. Requests and Questions</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#6.-rooming">6. Rooming</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#experience-journey-map:-kiosk-check-in">Experience Journey Map: Kiosk Check-In</a>
+          <sl-tree-item>
+            <a href="#1.-entering-of-key-details">1. Entering of Key Details</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#2.-guest-photo-and-passport-scanning">2. Guest Photo and Passport Scanning</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#3.-filling-of-additional-fields-and-signing-of-terms-&-conditions">3. Filling of Additional Fields and Signing of Terms &amp; Conditions</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#4.-collection-of-key-card-and-handling-of-issues">4. Collection of Key Card and Handling of Issues</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#stakeholders">Stakeholders</a>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#prototypes">Prototypes</a>
+          <sl-tree-item>
+            <a href="#1.-ailuvio">1. AIluvio</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#2.-ai-kiosk-assistant">2. AI Kiosk Assistant</a>
+          </sl-tree-item>
+          <sl-tree-item expanded>
+            <a href="#3.-hotelly---ai-overlay-system-for-front-desk-staff">3. Hotelly - AI Overlay System for Front Desk Staff</a>
+            <sl-tree-item>
+              <a href="#user-testing-and-analysis">User Testing and Analysis</a>
+            </sl-tree-item>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#4.-aria-ai-assistant">4. Aria AI assistant</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item expanded>
+          <a href="#key-takeaways">Key Takeaways</a>
+          <sl-tree-item>
+            <a href="#strengths">Strengths</a>
+          </sl-tree-item>
+          <sl-tree-item>
+            <a href="#areas-for-improvement/-considerations">Areas for Improvement/ Considerations</a>
+          </sl-tree-item>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#project-plan">Project Plan</a>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#conclusion">Conclusion</a>
+        </sl-tree-item>
+        <sl-tree-item>
+          <a href="#appendix">Appendix</a>
+        </sl-tree-item>
+      </sl-tree>
+    </div>
+  </aside>
+  <div class="report-body">
+
 # **Acknowledgements** {#acknowledgements}
 
 We would like to express our gratitude to Dr Elliot Law and Mr Royston Shieh for their guidance
@@ -808,6 +1049,9 @@ Given the collaboration with our Stanford team across different time zones and c
 # 
 
 # Appendix {#appendix}
+
+</div>
+</div>
 
 References
 
