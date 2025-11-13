@@ -637,6 +637,64 @@ Given the collaboration with our Stanford team across different time zones and c
 
 # Appendix
 
+References
+
+AmplifAI. (2024). *Real-time agent assist for hospitality.* AmplifAI. [https://www.amplifai.com](https://www.amplifai.com/)
+
+UN Tourism. (2025, January 21). International tourism recovers pre-pandemic levels in 2024\. [https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024](https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024) 
+
+World Travel & Tourism Council. (2025, September 30). WTTC report shows travel & tourism set to support 91MN new jobs by 2035\. [https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035](https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035)
+
+Mann, R., Scully, E., Straus, M., & Tellez Holub, J. (2024, March 18). *How the world’s best hotels deliver exceptional customer experience*. McKinsey & Company. [https://www.mckinsey.com/industries/travel/our-insights/how-the-worlds-best-hotels-deliver-exceptional-customer-experience\#](https://www.mckinsey.com/industries/travel/our-insights/how-the-worlds-best-hotels-deliver-exceptional-customer-experience?utm_source=chatgpt.com#)
+
+*Frost & Sullivan.* (2024, August 8\) CX Growth Opportunities in the Travel & Hospitality Industry 2024 to 2025 [https://member-frost-com.libproxy1.nus.edu.sg/loginEnterprise?reportID=KAE7-01-00-00-00](https://member-frost-com.libproxy1.nus.edu.sg/loginEnterprise?reportID=KAE7-01-00-00-00) 
+
+D’Arpizio, C., Levato, F., & Montgolfier, J. de. (2024, January). *Long live luxury: Converge to expand through turbulence.* Bain & Company. [https://www.bain.com/insights/long-live-luxury-converge-to-expand-through-turbulence/ Bain+2Atagamma+2](https://www.bain.com/insights/long-live-luxury-converge-to-expand-through-turbulence/?utm_source=chatgpt.com)
+
+Mordor Intelligence. (2025, October 24). *Luxury hotel market – growth, trends, forecast (2025–2030).* [https://www.mordorintelligence.com/industry-reports/luxury-hotel-market](https://www.mordorintelligence.com/industry-reports/luxury-hotel-market)
+
+EHL Insights. (2023, November 8). *Luxury hospitality: Trends, challenges, and best practices.* [https://hospitalityinsights.ehl.edu/luxury-hospitality-trends-challenges-best-practices](https://hospitalityinsights.ehl.edu/luxury-hospitality-trends-challenges-best-practices)
+
+EHL Insights. (2025). *Hospitality Outlook 2025: Insights Report.*[https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025\_InsightsReport.pdf](https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025_InsightsReport.pdf) 
+
+Pine II, B. J., & Gilmore, J. H. (1998, July–August). *Welcome to the experience economy*. Harvard Business Review. [https://hbr.org/1998/07/welcome-to-the-experience-economy](https://hbr.org/1998/07/welcome-to-the-experience-economy?utm_source=chatgpt.com)
+
+Mordor Intelligence. (2025, August 21). Hospitality industry in Singapore: Size & share analysis. [https://www.mordorintelligence.com/industry-reports/hospitality-industry-in-singapore\#:\~:text=Luxury%20captured%2040.40%25%20of%202024,or%20downshift%20to%20budget%20convenience](https://www.mordorintelligence.com/industry-reports/hospitality-industry-in-singapore#:~:text=Luxury%20captured%2040.40%25%20of%202024,or%20downshift%20to%20budget%20convenience)
+
+Singapore Tourism Board. (2025, April 11). *Speech by Minister Grace Fu at the Tourism Industry Conference 2025\.* [https://www.stb.gov.sg/about-stb/media-publications/speeches/speech-by-ms-grace-fu--minister-for-sustainability-and-the-environment-and-minister-in-charge-of-trade-relations--at-tic-2025/](https://www.stb.gov.sg/about-stb/media-publications/speeches/speech-by-ms-grace-fu--minister-for-sustainability-and-the-environment-and-minister-in-charge-of-trade-relations--at-tic-2025/?utm_source=chatgpt.com)
+
+Singapore Tourism Board. (2025, February 4). *Singapore achieves historical high in tourism receipts in 2024\.* [https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024](https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024) (Singapore Tourism Board, 2025\)
+
+Singapore Tourism Board. (2025, September 18). *Hotels.* Retrieved from [https://www.stb.gov.sg/industries-experience-development/hotels](https://www.stb.gov.sg/industries-experience-development/hotels)
+
+Stanley, S. (2025, April 11). Singapore targets $50 billion in tourism receipts by 2040; eyes MICE sector as key growth driver. *The Straits Times*. [https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver](https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver)
+
+Singapore Tourism Board. (2025, February 4). *Singapore achieves historical high in tourism receipts in 2024*. [https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024/](https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024/?utm_source=chatgpt.com)
+
+Singapore Tourism Board. (2025, September 10). *Tourism Statistics.* [https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html](https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html?utm_source=chatgpt.com)
+
+MRSD, MOM. (2025, September 17). *Labour market report: Second quarter 2025\.* Ministry of Manpower, Singapore. [https://stats.mom.gov.sg/Pages/Labour-Market-Report-2Q-2025.aspx](https://stats.mom.gov.sg/Pages/Labour-Market-Report-2Q-2025.aspx?utm_source=chatgpt.com)
+
+Singapore Institute of Hospitality. (2024, March 20). *Why upskilling your staff is the most cost-effective solution to labour shortages.* [https://sih.edu.sg/why-upskilling-your-staff-is-the-most-cost-effective-solution-to-labour-shortages/](https://sih.edu.sg/why-upskilling-your-staff-is-the-most-cost-effective-solution-to-labour-shortages/) 
+
+Workforce Singapore. (2023, November 7). *Jobs Transformation Map for Hotels.* [https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels\_full-report\_v8-0\_public\_vf\_07112023.pdf](https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels_full-report_v8-0_public_vf_07112023.pdf)
+
+Ecole Hôtelière de Lausanne. (2025). *Hospitality outlook 2025: Insights report.* EHL Insights. [https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025\_InsightsReport.pdf](https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025_InsightsReport.pdf)
+
+Venture Corporation Ltd. (2025). *Reimagining a Premium Automated Hotel Check-In Experience: Project Brief.*
+
+*Publications. Singapore Hotel Association :: Publications publications. (n.d.-a). [https://sha.org.sg/publications/smart-hotel-technology-guides](https://sha.org.sg/publications/smart-hotel-technology-guides)*
+
+*Kapferer, J.-N., & Bastien, V. (2025). The luxury strategy break the rules of marketing to build luxury brands. Kogan Page, Limited.*
+
+*Luxe Eternal \- How Luxury Brands are reinventing for Success. (n.d.-a). [https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Luxe-Eternal-Luxury-Report-1.pdf](https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Luxe-Eternal-Luxury-Report-1.pdf)*
+
+Lüthy, B. (2025, January 23). *Key hospitality data & industry statistics to watch for 2025*. EHL Insights. [https://hospitalityinsights.ehl.edu/hospitality-industry-statistics](https://hospitalityinsights.ehl.edu/hospitality-industry-statistics?utm_source=chatgpt.com)
+
+Cayla, J. (2023, October 3). *Services staff are humans, too – and customers need to understand this*. Nanyang Business School, Nanyang Technological University. [https://www.ntu.edu.sg/business/news-events/news/story-detail/services-staff-are-humans-too-and-customers-need-to-understand-this](https://www.ntu.edu.sg/business/news-events/news/story-detail/services-staff-are-humans-too-and-customers-need-to-understand-this?utm_source=chatgpt.com)
+
+Choo, D. (2022, January 17). *The Big Read: At your service — or perhaps not, as manpower crunch worsens for hotels and restaurants*. Channel NewsAsia. [https://www.channelnewsasia.com/today/big-read/hotel-restaurants-manpower-jobs-vacancies-2437971](https://www.channelnewsasia.com/today/big-read/hotel-restaurants-manpower-jobs-vacancies-2437971?utm_source=chatgpt.com)
+
 
 <style>
   /* Sidebar Table of Contents Styles */
@@ -907,64 +965,6 @@ Given the collaboration with our Stanford team across different time zones and c
   </nav>
   
   <div class="main-content">
-
-References
-
-AmplifAI. (2024). *Real-time agent assist for hospitality.* AmplifAI. [https://www.amplifai.com](https://www.amplifai.com/)
-
-UN Tourism. (2025, January 21). International tourism recovers pre-pandemic levels in 2024\. [https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024](https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024) 
-
-World Travel & Tourism Council. (2025, September 30). WTTC report shows travel & tourism set to support 91MN new jobs by 2035\. [https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035](https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035)
-
-Mann, R., Scully, E., Straus, M., & Tellez Holub, J. (2024, March 18). *How the world’s best hotels deliver exceptional customer experience*. McKinsey & Company. [https://www.mckinsey.com/industries/travel/our-insights/how-the-worlds-best-hotels-deliver-exceptional-customer-experience\#](https://www.mckinsey.com/industries/travel/our-insights/how-the-worlds-best-hotels-deliver-exceptional-customer-experience?utm_source=chatgpt.com#)
-
-*Frost & Sullivan.* (2024, August 8\) CX Growth Opportunities in the Travel & Hospitality Industry 2024 to 2025 [https://member-frost-com.libproxy1.nus.edu.sg/loginEnterprise?reportID=KAE7-01-00-00-00](https://member-frost-com.libproxy1.nus.edu.sg/loginEnterprise?reportID=KAE7-01-00-00-00) 
-
-D’Arpizio, C., Levato, F., & Montgolfier, J. de. (2024, January). *Long live luxury: Converge to expand through turbulence.* Bain & Company. [https://www.bain.com/insights/long-live-luxury-converge-to-expand-through-turbulence/ Bain+2Atagamma+2](https://www.bain.com/insights/long-live-luxury-converge-to-expand-through-turbulence/?utm_source=chatgpt.com)
-
-Mordor Intelligence. (2025, October 24). *Luxury hotel market – growth, trends, forecast (2025–2030).* [https://www.mordorintelligence.com/industry-reports/luxury-hotel-market](https://www.mordorintelligence.com/industry-reports/luxury-hotel-market)
-
-EHL Insights. (2023, November 8). *Luxury hospitality: Trends, challenges, and best practices.* [https://hospitalityinsights.ehl.edu/luxury-hospitality-trends-challenges-best-practices](https://hospitalityinsights.ehl.edu/luxury-hospitality-trends-challenges-best-practices)
-
-EHL Insights. (2025). *Hospitality Outlook 2025: Insights Report.*[https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025\_InsightsReport.pdf](https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025_InsightsReport.pdf) 
-
-Pine II, B. J., & Gilmore, J. H. (1998, July–August). *Welcome to the experience economy*. Harvard Business Review. [https://hbr.org/1998/07/welcome-to-the-experience-economy](https://hbr.org/1998/07/welcome-to-the-experience-economy?utm_source=chatgpt.com)
-
-Mordor Intelligence. (2025, August 21). Hospitality industry in Singapore: Size & share analysis. [https://www.mordorintelligence.com/industry-reports/hospitality-industry-in-singapore\#:\~:text=Luxury%20captured%2040.40%25%20of%202024,or%20downshift%20to%20budget%20convenience](https://www.mordorintelligence.com/industry-reports/hospitality-industry-in-singapore#:~:text=Luxury%20captured%2040.40%25%20of%202024,or%20downshift%20to%20budget%20convenience)
-
-Singapore Tourism Board. (2025, April 11). *Speech by Minister Grace Fu at the Tourism Industry Conference 2025\.* [https://www.stb.gov.sg/about-stb/media-publications/speeches/speech-by-ms-grace-fu--minister-for-sustainability-and-the-environment-and-minister-in-charge-of-trade-relations--at-tic-2025/](https://www.stb.gov.sg/about-stb/media-publications/speeches/speech-by-ms-grace-fu--minister-for-sustainability-and-the-environment-and-minister-in-charge-of-trade-relations--at-tic-2025/?utm_source=chatgpt.com)
-
-Singapore Tourism Board. (2025, February 4). *Singapore achieves historical high in tourism receipts in 2024\.* [https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024](https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024) (Singapore Tourism Board, 2025\)
-
-Singapore Tourism Board. (2025, September 18). *Hotels.* Retrieved from [https://www.stb.gov.sg/industries-experience-development/hotels](https://www.stb.gov.sg/industries-experience-development/hotels)
-
-Stanley, S. (2025, April 11). Singapore targets $50 billion in tourism receipts by 2040; eyes MICE sector as key growth driver. *The Straits Times*. [https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver](https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver)
-
-Singapore Tourism Board. (2025, February 4). *Singapore achieves historical high in tourism receipts in 2024*. [https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024/](https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024/?utm_source=chatgpt.com)
-
-Singapore Tourism Board. (2025, September 10). *Tourism Statistics.* [https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html](https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html?utm_source=chatgpt.com)
-
-MRSD, MOM. (2025, September 17). *Labour market report: Second quarter 2025\.* Ministry of Manpower, Singapore. [https://stats.mom.gov.sg/Pages/Labour-Market-Report-2Q-2025.aspx](https://stats.mom.gov.sg/Pages/Labour-Market-Report-2Q-2025.aspx?utm_source=chatgpt.com)
-
-Singapore Institute of Hospitality. (2024, March 20). *Why upskilling your staff is the most cost-effective solution to labour shortages.* [https://sih.edu.sg/why-upskilling-your-staff-is-the-most-cost-effective-solution-to-labour-shortages/](https://sih.edu.sg/why-upskilling-your-staff-is-the-most-cost-effective-solution-to-labour-shortages/) 
-
-Workforce Singapore. (2023, November 7). *Jobs Transformation Map for Hotels.* [https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels\_full-report\_v8-0\_public\_vf\_07112023.pdf](https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels_full-report_v8-0_public_vf_07112023.pdf)
-
-Ecole Hôtelière de Lausanne. (2025). *Hospitality outlook 2025: Insights report.* EHL Insights. [https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025\_InsightsReport.pdf](https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025_InsightsReport.pdf)
-
-Venture Corporation Ltd. (2025). *Reimagining a Premium Automated Hotel Check-In Experience: Project Brief.*
-
-*Publications. Singapore Hotel Association :: Publications publications. (n.d.-a). [https://sha.org.sg/publications/smart-hotel-technology-guides](https://sha.org.sg/publications/smart-hotel-technology-guides)*
-
-*Kapferer, J.-N., & Bastien, V. (2025). The luxury strategy break the rules of marketing to build luxury brands. Kogan Page, Limited.*
-
-*Luxe Eternal \- How Luxury Brands are reinventing for Success. (n.d.-a). [https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Luxe-Eternal-Luxury-Report-1.pdf](https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Luxe-Eternal-Luxury-Report-1.pdf)*
-
-Lüthy, B. (2025, January 23). *Key hospitality data & industry statistics to watch for 2025*. EHL Insights. [https://hospitalityinsights.ehl.edu/hospitality-industry-statistics](https://hospitalityinsights.ehl.edu/hospitality-industry-statistics?utm_source=chatgpt.com)
-
-Cayla, J. (2023, October 3). *Services staff are humans, too – and customers need to understand this*. Nanyang Business School, Nanyang Technological University. [https://www.ntu.edu.sg/business/news-events/news/story-detail/services-staff-are-humans-too-and-customers-need-to-understand-this](https://www.ntu.edu.sg/business/news-events/news/story-detail/services-staff-are-humans-too-and-customers-need-to-understand-this?utm_source=chatgpt.com)
-
-Choo, D. (2022, January 17). *The Big Read: At your service — or perhaps not, as manpower crunch worsens for hotels and restaurants*. Channel NewsAsia. [https://www.channelnewsasia.com/today/big-read/hotel-restaurants-manpower-jobs-vacancies-2437971](https://www.channelnewsasia.com/today/big-read/hotel-restaurants-manpower-jobs-vacancies-2437971?utm_source=chatgpt.com)
 
   </div>
 </div>
