@@ -1,0 +1,265 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>1‑Star Hotel Reviews — Themes & Categories Dashboard</title>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --card: #ffffff;
+      --muted: #6b7280;
+      --bg: #0b1020;
+      --ink: #0f172a;
+    }
+    body {
+      background: linear-gradient(135deg, #0b1020 0%, #0e1630 100%);
+      color: #e5e7eb;
+      min-height: 100vh;
+    }
+    .glass {
+      background: rgba(255,255,255,0.06);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .chip {
+      border: 1px solid rgba(255,255,255,0.12);
+      background: rgba(255,255,255,0.06);
+    }
+    .plot-card {
+      transition: transform .15s ease, box-shadow .2s ease;
+    }
+    .plot-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 25px rgba(0,0,0,.25);
+    }
+    .footnote a { color: #93c5fd; text-decoration: underline; }
+  </style>
+</head>
+<body class="font-inter antialiased">
+  <div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 py-8 md:py-10">
+    <!-- Header -->
+    <header class="flex flex-col md:flex-row md:items-end md:justify-between gap-6 mb-8">
+      <div>
+        <h1 class="text-3xl md:text-4xl font-bold tracking-tight">1‑Star Hotel Reviews — Insight Dashboard</h1>
+        <p class="text-slate-300 mt-2 max-w-3xl">
+          Explore the <span class="font-semibold">Themes</span> most frequently mentioned in 1‑star reviews and drill down into
+          <span class="font-semibold">Categories</span> (specific issues) within each theme. Click a bar to update the donut.
+        </p>
+        <div class="flex flex-wrap gap-2 mt-4">
+          <span class="chip px-3 py-1 rounded-full text-sm text-slate-200">Interactive</span>
+          <span class="chip px-3 py-1 rounded-full text-sm text-slate-200">Self‑contained</span>
+          <span class="chip px-3 py-1 rounded-full text-sm text-slate-200">Embeds your CSV data</span>
+        </div>
+      </div>
+      <div class="glass rounded-2xl p-4 md:p-5">
+        <div id="summary" class="grid grid-cols-2 gap-4 text-center">
+          <div>
+            <div class="text-sm text-slate-300">Total Themes</div>
+            <div id="statThemes" class="text-2xl font-semibold">–</div>
+          </div>
+          <div>
+            <div class="text-sm text-slate-300">Total Categories</div>
+            <div id="statCats" class="text-2xl font-semibold">–</div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Controls -->
+    <section class="mb-6">
+      <div class="flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-4">
+        <label class="text-sm text-slate-200">Sort themes by:</label>
+        <div class="flex gap-2">
+          <button id="sortCount" class="chip px-3 py-1 rounded-md text-sm">Review Count</button>
+          <button id="sortShare" class="chip px-3 py-1 rounded-md text-sm">Share of Total %</button>
+          <button id="resetZoom" class="chip px-3 py-1 rounded-md text-sm hidden md:block">Reset Zoom</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Charts -->
+    <main class="grid grid-cols-1 lg:grid-cols-5 gap-6">
+      <section class="lg:col-span-3 glass rounded-2xl p-4 md:p-6 plot-card">
+        <h2 class="text-lg font-semibold mb-2">Themes</h2>
+        <div id="themeChart" style="height: 560px;"></div>
+      </section>
+
+      <section class="lg:col-span-2 glass rounded-2xl p-4 md:p-6 plot-card">
+        <div class="flex items-start justify-between gap-3">
+          <div>
+            <h2 class="text-lg font-semibold">Categories within Theme</h2>
+            <div id="selectedTheme" class="text-slate-300 text-sm">Click a theme bar to view details</div>
+          </div>
+          <div class="chip px-2 py-1 rounded-md text-xs self-start" id="themeShare">—</div>
+        </div>
+        <div id="categoryChart" style="height: 560px;"></div>
+      </section>
+    </main>
+
+    <!-- Table -->
+    <section class="glass rounded-2xl p-4 md:p-6 mt-6 plot-card overflow-x-auto">
+      <div class="flex items-center justify-between mb-3">
+        <h3 class="text-lg font-semibold">Detail Table</h3>
+        <input id="searchBox" placeholder="Search theme or category..." class="px-3 py-2 rounded-lg bg-transparent border border-white/20 focus:outline-none text-sm" />
+      </div>
+      <table class="min-w-full text-sm">
+        <thead class="text-left text-slate-300">
+          <tr>
+            <th class="py-2 pr-4">Theme</th>
+            <th class="py-2 pr-4">Category</th>
+            <th class="py-2 pr-4">Review Count</th>
+            <th class="py-2 pr-4">Share of Total %</th>
+            <th class="py-2 pr-4">Share within Theme %</th>
+          </tr>
+        </thead>
+        <tbody id="detailBody"></tbody>
+      </table>
+    </section>
+
+    <footer class="mt-8 text-xs text-slate-400 footnote">
+      Built for CDE4301 · Data: 1‑star reviews categorized into themes & categories. 
+      Tip: press <kbd>?</kbd> in a Plotly chart for help.
+    </footer>
+  </div>
+
+  <script>
+    // --- Embedded Data ---
+    const THEME_ROWS = [{"Theme": "Security & Privacy", "Review_Count": 19, "Share_of_Total_%": 15.97}, {"Theme": "Technology & Amenities", "Review_Count": 21, "Share_of_Total_%": 17.65}, {"Theme": "Reservation & Pre-Arrival", "Review_Count": 24, "Share_of_Total_%": 20.17}, {"Theme": "Facilities & Infrastructure", "Review_Count": 44, "Share_of_Total_%": 36.97}, {"Theme": "Food & Beverage Experience", "Review_Count": 45, "Share_of_Total_%": 37.82}, {"Theme": "Check-In & Check-Out Process", "Review_Count": 64, "Share_of_Total_%": 53.78}, {"Theme": "Room Assignment & Condition", "Review_Count": 74, "Share_of_Total_%": 62.18}, {"Theme": "Value-for-Money", "Review_Count": 78, "Share_of_Total_%": 65.55}, {"Theme": "Staff & Service Quality", "Review_Count": 114, "Share_of_Total_%": 95.8}];
+    const CAT_ROWS = [{"Theme": "Check-In & Check-Out Process", "Category": "Poor service", "Review_Count": 39, "Share_of_Total_%": 32.77, "Share_within_Theme_%": 60.94}, {"Theme": "Check-In & Check-Out Process", "Category": "Long Wait", "Review_Count": 29, "Share_of_Total_%": 24.37, "Share_within_Theme_%": 45.31}, {"Theme": "Check-In & Check-Out Process", "Category": "Surprise charges or billing mistakes", "Review_Count": 17, "Share_of_Total_%": 14.29, "Share_within_Theme_%": 26.56}, {"Theme": "Check-In & Check-Out Process", "Category": "System Errors", "Review_Count": 7, "Share_of_Total_%": 5.88, "Share_within_Theme_%": 10.94}, {"Theme": "Check-In & Check-Out Process", "Category": "Unclear Instructions", "Review_Count": 0, "Share_of_Total_%": 0.0, "Share_within_Theme_%": 0.0}, {"Theme": "Facilities & Infrastructure", "Category": "Pool, spa, gym not functioning or poorly maintained", "Review_Count": 25, "Share_of_Total_%": 21.01, "Share_within_Theme_%": 56.82}, {"Theme": "Facilities & Infrastructure", "Category": "Noise issues (thin walls, nearby construction, events)", "Review_Count": 17, "Share_of_Total_%": 14.29, "Share_within_Theme_%": 38.64}, {"Theme": "Facilities & Infrastructure", "Category": "Overcrowded or unavailable facilities despite being premium", "Review_Count": 4, "Share_of_Total_%": 3.36, "Share_within_Theme_%": 9.09}, {"Theme": "Food & Beverage Experience", "Category": "Long wait times for in-room dining or restaurants", "Review_Count": 27, "Share_of_Total_%": 22.69, "Share_within_Theme_%": 60.0}, {"Theme": "Food & Beverage Experience", "Category": "Limited menu choices vs. premium expectations", "Review_Count": 12, "Share_of_Total_%": 10.08, "Share_within_Theme_%": 26.67}, {"Theme": "Food & Beverage Experience", "Category": "Overpriced, low-quality food", "Review_Count": 10, "Share_of_Total_%": 8.4, "Share_within_Theme_%": 22.22}, {"Theme": "Food & Beverage Experience", "Category": "Hygiene/cleanliness of F&B areas", "Review_Count": 5, "Share_of_Total_%": 4.2, "Share_within_Theme_%": 11.11}, {"Theme": "Reservation & Pre-Arrival", "Category": "Lack of Confirmation", "Review_Count": 10, "Share_of_Total_%": 8.4, "Share_within_Theme_%": 41.67}, {"Theme": "Reservation & Pre-Arrival", "Category": "Inflexible Policies", "Review_Count": 8, "Share_of_Total_%": 6.72, "Share_within_Theme_%": 33.33}, {"Theme": "Reservation & Pre-Arrival", "Category": "Booking Error", "Review_Count": 6, "Share_of_Total_%": 5.04, "Share_within_Theme_%": 25.0}, {"Theme": "Room Assignment & Condition", "Category": "Maintenance issues (broken AC, shower, TV, etc.)", "Review_Count": 28, "Share_of_Total_%": 23.53, "Share_within_Theme_%": 37.84}, {"Theme": "Room Assignment & Condition", "Category": "Outdated or worn-out furnishings", "Review_Count": 25, "Share_of_Total_%": 21.01, "Share_within_Theme_%": 33.78}, {"Theme": "Room Assignment & Condition", "Category": "Room not ready upon arrival", "Review_Count": 23, "Share_of_Total_%": 19.33, "Share_within_Theme_%": 31.08}, {"Theme": "Room Assignment & Condition", "Category": "Poor cleanliness (dirty linens, bad odors, pests)", "Review_Count": 18, "Share_of_Total_%": 15.13, "Share_within_Theme_%": 24.32}, {"Theme": "Room Assignment & Condition", "Category": "Wrong room allocation (e.g., not the one booked)", "Review_Count": 17, "Share_of_Total_%": 14.29, "Share_within_Theme_%": 22.97}, {"Theme": "Security & Privacy", "Category": "Mishandling of guest belongings (lost luggage, theft)", "Review_Count": 8, "Share_of_Total_%": 6.72, "Share_within_Theme_%": 42.11}, {"Theme": "Security & Privacy", "Category": "Privacy breaches (noise from staff, unannounced entry)", "Review_Count": 5, "Share_of_Total_%": 4.2, "Share_within_Theme_%": 26.32}, {"Theme": "Security & Privacy", "Category": "Safety concerns (doors not locking properly, lack of visible security)", "Review_Count": 4, "Share_of_Total_%": 3.36, "Share_within_Theme_%": 21.05}, {"Theme": "Staff & Service Quality", "Category": "Poor problem resolution (slow or dismissive responses)", "Review_Count": 75, "Share_of_Total_%": 63.03, "Share_within_Theme_%": 65.79}, {"Theme": "Staff & Service Quality", "Category": "Rude, inattentive, or unhelpful staff", "Review_Count": 67, "Share_of_Total_%": 56.3, "Share_within_Theme_%": 58.77}, {"Theme": "Staff & Service Quality", "Category": "Over-promising but under-delivering on “luxury” standards", "Review_Count": 49, "Share_of_Total_%": 41.18, "Share_within_Theme_%": 42.98}, {"Theme": "Staff & Service Quality", "Category": "Lack of staff presence when needed", "Review_Count": 31, "Share_of_Total_%": 26.05, "Share_within_Theme_%": 27.19}, {"Theme": "Technology & Amenities", "Category": "Missing promised amenities (minibar, toiletries, etc.)", "Review_Count": 13, "Share_of_Total_%": 10.92, "Share_within_Theme_%": 61.9}, {"Theme": "Technology & Amenities", "Category": "Malfunctioning room technology (smart locks, lighting, automation)", "Review_Count": 8, "Share_of_Total_%": 6.72, "Share_within_Theme_%": 38.1}, {"Theme": "Technology & Amenities", "Category": "Confusing or unreliable apps/kiosks", "Review_Count": 1, "Share_of_Total_%": 0.84, "Share_within_Theme_%": 4.76}, {"Theme": "Technology & Amenities", "Category": "Wi-Fi issues (slow, unstable, not working)", "Review_Count": 1, "Share_of_Total_%": 0.84, "Share_within_Theme_%": 4.76}, {"Theme": "Value-for-Money", "Category": "Guests feeling the experience didn’t justify the high price", "Review_Count": 72, "Share_of_Total_%": 60.5, "Share_within_Theme_%": 92.31}, {"Theme": "Value-for-Money", "Category": "Comparing negatively to other 5-star or boutique hotels", "Review_Count": 18, "Share_of_Total_%": 15.13, "Share_within_Theme_%": 23.08}, {"Theme": "Value-for-Money", "Category": "Hidden charges / unexpected fees", "Review_Count": 10, "Share_of_Total_%": 8.4, "Share_within_Theme_%": 12.82}];
+
+    // --- Helpers ---
+    function fmtPct(x) { return (typeof x === 'number') ? x.toFixed(2) + '%' : x; }
+    function fmtInt(x) { return (x ?? 0).toLocaleString(); }
+
+    // Stats
+    document.getElementById('statThemes').textContent = fmtInt(new Set(THEME_ROWS.map(r => r.Theme)).size);
+    document.getElementById('statCats').textContent = fmtInt(CAT_ROWS.length);
+
+    // --- Build Theme Bar Chart ---
+    let themeSortKey = 'Review_Count'; // or 'Share_of_Total_%'
+
+    function getThemeSeries() {
+      const rows = [...THEME_ROWS];
+      rows.sort((a,b) => a[themeSortKey] - b[themeSortKey]); // asc for bottom-up
+      return {
+        y: rows.map(r => r.Theme),
+        x: rows.map(r => r.Review_Count),
+        text: rows.map(r => r['Share_of_Total_%']),
+        customdata: rows.map(r => [r['Share_of_Total_%']]),
+        type: 'bar',
+        orientation: 'h',
+        hovertemplate: '<b>%{y}</b><br>Reviews: %{x:,}<br>Share of total: %{text:.2f}%<extra></extra>',
+        marker: {
+          line: { width: 0 },
+        },
+      };
+    }
+
+    function renderThemeChart() {
+      const series = getThemeSeries();
+      const layout = {
+        margin: { l: 170, r: 20, t: 10, b: 40 },
+        paper_bgcolor: 'rgba(0,0,0,0)',
+        plot_bgcolor: 'rgba(0,0,0,0)',
+        xaxis: {
+          title: 'Review Count',
+          gridcolor: 'rgba(255,255,255,0.08)',
+          zeroline: false
+        },
+        yaxis: {
+          automargin: true,
+          gridcolor: 'rgba(255,255,255,0.08)'
+        },
+        showlegend: false
+      };
+      Plotly.newPlot('themeChart', [series], layout, {displaylogo:false, responsive:true});
+      const elem = document.getElementById('themeChart');
+      elem.on('plotly_click', (data) => {
+        const theme = data.points?.[0]?.y;
+        if (theme) updateCategoryChart(theme);
+      });
+    }
+
+    // --- Build Category Donut for a theme ---
+    function getCategoriesByTheme(theme) {
+      return CAT_ROWS.filter(r => r.Theme === theme);
+    }
+
+    function updateCategoryChart(theme) {
+      const rows = getCategoriesByTheme(theme).sort((a,b) => b.Review_Count - a.Review_Count);
+      const values = rows.map(r => r.Review_Count);
+      const labels = rows.map(r => r.Category);
+      const totals = THEME_ROWS.find(r => r.Theme === theme);
+      const share = totals ? totals['Share_of_Total_%'] : null;
+
+      const data = [{
+        values, labels,
+        type: 'pie', hole: .5, sort: false,
+        hovertemplate: '<b>%{label}</b><br>Reviews: %{value:,}<br>Share within theme: %{customdata:.2f}%<extra></extra>',
+        customdata: rows.map(r => r['Share_within_Theme_%']),
+      }];
+
+      const layout = {
+        margin: { t: 10, b: 10, l: 10, r: 10 },
+        paper_bgcolor: 'rgba(0,0,0,0)',
+        plot_bgcolor: 'rgba(0,0,0,0)',
+        showlegend: true,
+        legend: { font: { color: '#e5e7eb', size: 11 } }
+      };
+
+      Plotly.newPlot('categoryChart', data, layout, {displaylogo:false, responsive:true});
+      document.getElementById('selectedTheme').textContent = theme;
+      document.getElementById('themeShare').textContent = share !== null ? ('Share of total: ' + share.toFixed(2) + '%') : '—';
+    }
+
+    // --- Detail Table ---
+    function renderTable(filterText='') {
+      const body = document.getElementById('detailBody');
+      body.innerHTML = '';
+      const term = filterText.trim().toLowerCase();
+      for (const r of CAT_ROWS) {
+        const match = !term || r.Theme.toLowerCase().includes(term) || r.Category.toLowerCase().includes(term);
+        if (!match) continue;
+        const tr = document.createElement('tr');
+        tr.className = 'border-t border-white/10';
+        tr.innerHTML = `
+          <td class="py-2 pr-4 text-slate-100">${r.Theme}</td>
+          <td class="py-2 pr-4 text-slate-200">${r.Category}</td>
+          <td class="py-2 pr-4">${fmtInt(r.Review_Count)}</td>
+          <td class="py-2 pr-4">${Number(r['Share_of_Total_%']).toFixed(2)}%</td>
+          <td class="py-2 pr-4">${Number(r['Share_within_Theme_%']).toFixed(2)}%</td>
+        `;
+        tr.addEventListener('click', () => updateCategoryChart(r.Theme));
+        body.appendChild(tr);
+      }
+    }
+
+    // --- Interactions ---
+    document.getElementById('sortCount').addEventListener('click', () => {
+      themeSortKey = 'Review_Count';
+      renderThemeChart();
+    });
+    document.getElementById('sortShare').addEventListener('click', () => {
+      themeSortKey = 'Share_of_Total_%';
+      renderThemeChart();
+    });
+    document.getElementById('resetZoom').addEventListener('click', () => {
+      Plotly.relayout('themeChart', {'xaxis.autorange': true, 'yaxis.autorange': true});
+      Plotly.relayout('categoryChart', {});
+    });
+    document.getElementById('searchBox').addEventListener('input', (e) => renderTable(e.target.value));
+
+    // --- Init ---
+    renderThemeChart();
+    renderTable();
+    // Pre-select the most frequent theme
+    (function initSelectTopTheme() {
+      const top = [...THEME_ROWS].sort((a,b) => b.Review_Count - a.Review_Count)[0];
+      if (top) updateCategoryChart(top.Theme);
+    })();
+  </script>
+</body>
+</html>

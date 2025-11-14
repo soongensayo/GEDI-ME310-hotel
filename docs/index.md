@@ -125,7 +125,7 @@ Although labor shortages have improved slightly, they remain a persistant challe
 
 Overall, despite its global influence and scope, the hospitality sector continues to struggle with persistent difficulties in attracting and retaining personnel with the necessary skills (World Travel & Tourism Council, 2025), particularly those with the specialised skills required to deliver the personalised experiences travellers now expect, affect both service quality and operational efficiency (*Frost & Sullivan*, 2024\)
 
-## Singapore’s Hospitality Trends {#singapore’s-hospitality-trends}
+## Singapore’s Hospitality Trends
 
 Singapore’s tourism sector continues to show strong post-pandemic recovery and steady long-term growth potential. International visitor arrivals rose by 21 % from the previous year to reach 16.5 million, while tourism receipts climbed to a record SGD 29.8 billion—a historic high demonstrating the strength of the post-pandemic rebound (Singapore Tourism Board, 2025). This momentum is supported by a robust year-round calendar of international events and business conferences, combined with strategic marketing, collaboration with industry partners, new and upgraded attractions, all which enhanced Singapore’s appeal as both a leisure and MICE destination. 
 
@@ -151,7 +151,7 @@ To remain relevant, luxury hotels must deliver engaging and highly personalised 
 
 # Primary Research  {#primary-research}
 
-## Overview & Methodology {#overview-&-methodology}
+## Overview & Methodology
 
 ### Interviews with Hotels {#interviews-with-hotels}
 
@@ -181,16 +181,21 @@ This design enabled both structured coverage of key topics and flexibility for i
 
 Following transcription and data consolidation, we adopted an affinity clustering methodology supported by an empathy mapping framework to extract key insights. Each data point from interview transcripts was first classified within a six-category empathy map \- Think/Feel, See, Say/Do, Hear, Pains, and Gains.
 
-![][image2]
+![image2](assets/images/empathy-map.png)
 
 This facilitated a systematic visualization of user sentiments and experiences across all interviews. Subsequently, we conducted affinity clustering, grouping similar observations and identifying overarching themes and opportunity areas such as Pre-arrival Personalization, Booking and Channel Integration, and Handling of Special Requests and Exceptions.  
 These clusters were then distilled into key insights and design implications, forming the foundation for subsequent concept development and prototyping phases.
 
-![][image3]
+![image3](assets/images/affinity-clustering.png)
 
-### **Guest Experience Pain Points Analysis (1-Star Review Study)** {#guest-experience-pain-points-analysis-(1-star-review-study)}
+### **Guest Experience Pain Points Analysis (1-Star Review Study)**
 
 To complement our interviews with hotel staff and validate observed service challenges from the guest perspective, we conducted a quantitative analysis of 1-star guest reviews from major online travel platforms. This served as a data-driven complement to our qualitative research, allowing us to triangulate findings and identify consistent pain points across both operational and experiential dimensions. A dataset of 60+ reviews from five-star properties in Singapore was collected, cleaned, and structured. Each review was coded and categorized into sub-themes based on the nature of dissatisfaction expressed by guests, and these sub-themes were consolidated into higher-level themes through affinity clustering. To visualise the findings, we built an interactive dashboard (HTML) that presents the relative frequency of each theme and its underlying categories.
+<p>
+  <a href="assets/dashboards/hotel-review-dashboard.html" target="_blank" rel="noopener" style="display:inline-block;padding:0.5em 1.25em;background:#183153;color:#fff;border-radius:8px;font-weight:500;text-decoration:none;box-shadow:0 2px 8px rgba(20,30,80,0.06);margin-top:12px;">
+    View Interactive 1-Star Review Dashboard &rarr;
+  </a>
+</p>
 
 #### Overview of Findings {#overview-of-findings}
 
@@ -216,7 +221,7 @@ This analysis provided quantitative grounding for user empathy, reinforcing that
 
 ## Key Themes and Insights from Primary Research {#key-themes-and-insights-from-primary-research}
 
-#### **1\. Tech Stack and Integration Reality** {#1.-tech-stack-and-integration-reality}
+#### **1\. Tech Stack and Integration Reality** 
 
 Across all hotels, backend systems such as Opera PMS and Oracle Cloud are generally reliable and well-integrated within existing operational workflows. However, a high reliance on third-party software and the fragmentation between systems such as kiosks, tablets, and key card management create inefficiencies and compatibility issues. Several interviewees cited that implementing new technologies is costly and often constrained by vendor lock-in, data permissions, and cybersecurity concerns.
 
@@ -229,7 +234,7 @@ Insight Summary:
 * Cost and complexity deter experimentation with in-house technology.  
 * Hotels view technology as a tool for staff efficiency, not as a differentiator for luxury experience.
 
-#### **2\. Human Touch vs Automation** {#2.-human-touch-vs-automation}
+#### **2\. Human Touch vs Automation**
 
 The interviews revealed a strong and consistent belief that human touch is indispensable in luxury hospitality. While automation offers convenience, guests overwhelmingly associate luxury with personal attention, empathy, and conversation. Our interviewee from Shangri-La noted that 98–99% of guests still prefer to approach humans over kiosks, highlighting a deep-seated emotional expectation of being “welcomed.”
 
@@ -294,15 +299,15 @@ Insight Summary:
 * “Wow” moments are more often the result of emotional intelligence than technology.  
 * Guests remember personal gestures far more than procedural efficiency.
 
-## User Personas {#user-personas}
+## User Personas
 
-#### **Overview** {#overview-1}
+#### **Overview** 
 
 Building on the insights gathered from our interviews and affinity clustering analysis, we developed two user personas representing key stakeholders in the luxury hotel check-in ecosystem: the Front Desk Staff and the Hotel Manager. These personas encapsulate recurring behavioural patterns, motivations, and frustrations observed across different hotels and roles.
 
 By distilling common attributes into relatable archetypes, the personas helped the team anchor design decisions around real human needs rather than abstract assumptions. They serve as reference points to evaluate potential solutions \- ensuring that design directions remain grounded in the operational realities and emotional experiences of both staff and management.
 
-#### **Persona 1: Front Desk Staff (Extrovert)** {#persona-1:-front-desk-staff-(extrovert)}
+#### **Persona 1: Front Desk Staff (Extrovert)**
 
 This persona embodies the frontline employees who directly engage with guests during check-in. Typically sociable and service-driven, these individuals thrive on personal interaction and hospitality but face significant cognitive and emotional strain balancing human engagement with system-related administrative tasks.
 
@@ -365,24 +370,23 @@ Understanding PMS limitations is critical when reimagining the automated check-i
 
 # Experience Journey Map: Pre-Arrival {#experience-journey-map:-pre-arrival}
 
-![][image4]  
-(asset name: pre-arrival flow)
+![image4](assets/images/pre-arrival-flow.png)  
 
 The pre-arrival phase establishes the foundation for the guest’s overall hotel experience. In luxury hospitality, this stage is not merely transactional but an opportunity to communicate attentiveness, personalization, and efficiency — qualities that define a premium brand. A seamless pre-arrival journey ensures that guests begin their stay feeling understood and valued, while the hotel benefits from streamlined operations and accurate data for service preparation (Ecole Hôtelière de Lausanne, 2023).
 
-### **1\. Booking** {#1.-booking}
+### **1\. Booking**
 
 The booking process represents the first point of interaction between the guest and the property. Guests today increasingly prefer online travel agencies (OTAs) such as Booking.com or Expedia for their flexibility and ease of comparison (Frost & Sullivan, 2024). However, hotels prefer direct booking channels as these allow them to access guest data directly, enabling more targeted communication, personalization, and upselling opportunities (Workforce Singapore, 2023). According to the *Venture Corporation* project brief (2025), integrating personalized booking systems that synchronize with guest profiles allows hotels to anticipate needs—such as preferred room type, amenities, and check-in times—well before arrival. This not only optimizes operational planning but also reinforces the sense of exclusivity expected in the luxury segment (Mann, Scully, Straus & Tellez Holub, 2024).
 
-### **2\. Confirmation Email** {#2.-confirmation-email}
+### **2\. Confirmation Email** 
 
 The confirmation email is more than a transactional receipt; it acts as an early stage of relationship-building. Guests appreciate clear, accessible booking details and links that allow them to modify reservations, add services, or manage transportation requests with minimal friction. Many hotels leverage this touchpoint to include upselling and cross-selling content, such as dining experiences, spa packages, or transportation upgrades (Venture Corporation, 2025). From a service-design standpoint, the tone and aesthetic of these communications should reflect brand values — calm, refined, and anticipatory rather than commercial. According to McKinsey & Company (Mann et al., 2024), early digital interactions significantly influence brand perception and guest trust, with consistency across pre-arrival communication reinforcing an impression of quality and attentiveness.
 
-### **3\. Requests and Preferences** {#3.-requests-and-preferences}
+### **3\. Requests and Preferences** 
 
 This touchpoint captures the guest’s ability to communicate specific needs and personal preferences, such as bedding type, dietary restrictions, or room location. However, as identified during user interviews, guests often experience frustration when their pre-submitted requests appear ignored or require repetition during check-in. For hotels, collecting and managing such data remains challenging due to low engagement rates and fragmented information systems. Industry trends point toward integrating AI-powered preference engines that automatically compile and interpret guest data from previous stays to generate actionable insights for staff (Ecole Hôtelière de Lausanne, 2025). This enables hotels to deliver continuity of care and strengthen guest loyalty through subtle recognition of preferences — a hallmark of true luxury service (Pine & Gilmore, 1998).
 
-### **4\. Room Allocation** {#4.-room-allocation}
+### **4\. Room Allocation** 
 
 Behind the scenes, the pre-arrival process culminates in room allocation, where hotels match reservations to specific rooms based on availability, maintenance status, and guest requirements. In most luxury properties, this is managed by a reservations team or automated algorithm that pre-allocates rooms to optimize occupancy while accommodating personalized preferences (Workforce Singapore, 2023). When integrated with CRM and housekeeping systems, this process enhances both efficiency and guest satisfaction by ensuring that the assigned room is prepared and tailored to expectations prior to arrival. Automation at this stage also alleviates administrative load — an increasingly critical factor amid global hospitality manpower shortages (Singapore Institute of Hospitality, 2024).
 
@@ -390,30 +394,29 @@ Collectively, these pre-arrival touchpoints demonstrate the interdependence of t
 
 # Experience Journey Map: Traditional Counter Check-In {#experience-journey-map:-traditional-counter-check-in}
 
-![][image5]  
-(asset name: traditional counter check-in flow)
+![image5](assets/images/traditional-counter-check-in-flow.png)  
 
 The check-in process is one of the most defining moments in the guest journey, shaping first impressions and setting the tone for the stay (Mann, Scully, Straus & Tellez Holub, 2024). For luxury hotels, this stage embodies the brand’s promise of seamlessness, warmth, and personalization. Yet, as our field research and observations reveal, traditional counter-based check-in workflows can create friction for both guests and staff due to outdated system design, fragmented communication, and process inefficiencies.
 
-### **1\. Arrival** {#1.-arrival}
+### **1\. Arrival**
 
 **Guest perspective:** Upon arrival, guests often face queues before even reaching the front desk. Especially during peak hours, waiting time becomes a key source of frustration, undermining the perception of efficiency and exclusivity expected in premium hospitality. Luxury guests expect immediacy and recognition — long waits detract from that promise (Ecole Hôtelière de Lausanne, 2023).
 
 **Staff perspective:** Front desk staff must juggle multiple simultaneous tasks such as handling ongoing check-ins, attending to phone calls, and coordinating with bell staff. High guest volumes exacerbate this workload, leaving little time to deliver personalized attention (Workforce Singapore, 2023). Staff shortages, identified as one of the industry’s most pressing challenges, further intensify this pressure (Singapore Institute of Hospitality, 2024).
 
-### **2\. Greetings** {#2.-greetings}
+### **2\. Greetings**
 
 **Guest perspective:** The greeting moment, while brief, carries emotional weight. Guests notice whether the staff member smiles, greets them by name, or acknowledges special occasions. Inconsistent greetings often lead guests to perceive the interaction as transactional rather than genuine.
 
 **Staff perspective:** Staff acknowledge that they want to personalize greetings but often cannot recall guest details or lack access to the right information before the guest reaches the counter. This disconnect stems from the PMS interface limitations — information such as preferences or past stay notes is often buried within multiple tabs or outdated records (see §3.0 Property Management System).
 
-### **3\. Exchange of Information** {#3.-exchange-of-information}
+### **3\. Exchange of Information**
 
 **Guest perspective:** Guests frequently express frustration when asked to repeat information they have already provided during online booking or pre-arrival forms. This duplication creates an impression of inefficiency and poor data integration. Guests also find it unclear what staff are doing behind the screen, leading to perceptions of slowness or disorganization.
 
 **Staff perspective:** Staff report that they must navigate between multiple software systems (e.g., PMS, payment gateways, and ID verification tools) to complete a single check-in. This multitasking increases cognitive load and risk of error. Many noted difficulty in maintaining conversation with guests while simultaneously keying data, undermining the warmth of the interaction.
 
-### **4\. Requests and Questions** {#4.-requests-and-questions}
+### **4\. Requests and Questions**
 
 **Guest perspective:** Guests often hesitate to raise additional questions or requests during check-in, perceiving staff as too busy or unapproachable. When they do ask, responses may feel scripted or delayed due to staff needing to check information in other systems.
 
@@ -425,7 +428,7 @@ The check-in process is one of the most defining moments in the guest journey, s
 
 **Staff perspective:** Staff often continue inputting data or printing forms while handing over key cards. If last-minute changes occur (e.g., incorrect room setup), the responsibility still falls on the front desk, despite upstream system or communication failures. This creates stress and impacts morale.
 
-### **6\. Rooming** {#6.-rooming}
+### **6\. Rooming** 
 
 **Guest perspective:** After check-in, guests evaluate whether the in-room experience matches what was promised. A missing request or incorrect setup (e.g., twin instead of king bed) amplifies dissatisfaction, as it signals poor internal communication.
 
@@ -433,30 +436,29 @@ The check-in process is one of the most defining moments in the guest journey, s
 
 #  Experience Journey Map: Kiosk Check-In {#experience-journey-map:-kiosk-check-in}
 
-![][image6]  
-*(asset name: kiosk check-in flow)*
+![image6](assets/images/kiosk-check-in-flow.png)  
 
 As hotels experiment with automation to enhance efficiency and reduce manpower dependency, **self-service kiosks** have become increasingly common, especially in business and mid-to-upscale hotels. These kiosks aim to streamline routine procedures such as guest identification, payment, and room key issuance — mirroring the self-check-in models seen in airports. In Singapore, automation has been widely encouraged to address labour shortages and operational inefficiencies in the hospitality sector (Workforce Singapore, 2023). However, while kiosk systems deliver measurable gains in speed and consistency, they also expose gaps in emotional engagement and personalization — both critical attributes of the luxury segment (Ecole Hôtelière de Lausanne, 2023).
 
-### **1\. Entering of Key Details** {#1.-entering-of-key-details}
+### **1\. Entering of Key Details** 
 
 **Guest perspective:** Guests generally perceive the kiosk as efficient and straightforward, appreciating the ability to bypass long queues. However, many express frustration that they still have to manually enter personal information, even if these details were already provided during online booking. This duplication creates a sense of redundancy and contradicts the promise of a seamless digital experience.
 
 **Staff perspective:** The automation of initial data entry reduces front desk workload, allowing staff to supervise multiple kiosks simultaneously and assist guests only when necessary. This redeployment of manpower enables a more relaxed, concierge-like presence on the floor rather than behind the counter (Venture Corporation, 2025).
 
-### **2\. Guest Photo and Passport Scanning** {#2.-guest-photo-and-passport-scanning}
+### **2\. Guest Photo and Passport Scanning** 
 
 **Guest perspective:** The passport scanning and verification process reinforces efficiency but introduces a transactional, impersonal tone. Guests accustomed to high-touch luxury interactions often perceive the lack of human acknowledgment as diminishing the sense of welcome. This aligns with findings from McKinsey (Mann, Scully, Straus & Tellez Holub, 2024), which highlight that luxury guests prioritize personalized recognition and emotional connection above speed.
 
 **Staff perspective:** Kiosks significantly **reduce training time**, from an estimated one month to about a week, as staff no longer need to memorize complex PMS workflows. However, staff must still intervene frequently when the kiosk’s document recognition or verification system fails — especially with non-standard passports or international ID formats — revealing technical fragility beneath the automation veneer.
 
-### **3\. Filling of Additional Fields and Signing of Terms & Conditions** {#3.-filling-of-additional-fields-and-signing-of-terms-&-conditions}
+### **3\. Filling of Additional Fields and Signing of Terms & Conditions** 
 
 **Guest perspective:** This stage is where friction typically resurfaces. Guests may be required to fill in multiple mandatory fields, sign digital forms, and review terms on-screen. For less tech-savvy users or older guests, the interface can appear daunting, particularly if touch targets are small or instructions unclear. Such usability issues echo broader research noting that while self-service technologies improve efficiency, they can also alienate users when poorly designed (Ecole Hôtelière de Lausanne, 2025).
 
 **Staff perspective:** While kiosks handle the procedural aspects of check-in, they remain limited in scope — unable to accommodate **complex or exception-based requests** such as split billing, room upgrades, or special amenities. Staff must therefore monitor the kiosks closely to address these exceptions in real time, sometimes negating the efficiency gains.
 
-### **4\. Collection of Key Card and Handling of Issues** {#4.-collection-of-key-card-and-handling-of-issues}
+### **4\. Collection of Key Card and Handling of Issues** 
 
 **Guest perspective:** Guests expect the process to conclude smoothly once the key card is dispensed. However, issues such as incorrect room assignment, non-functional cards, or unmet special requests often require them to return to the counter — undermining the convenience of the kiosk experience. As one observed guest described, “I still have to go to the front desk anyway because of how limited the kiosk is.”
 
@@ -466,7 +468,7 @@ As hotels experiment with automation to enhance efficiency and reduce manpower d
 
 The luxury hotel check-in ecosystem involves a complex network of stakeholders whose roles, expectations, and challenges directly shape the check-in experience. This section outlines the four primary stakeholder groups: Guests, Front Office Staff, Hotel Managers, and Technology Departments. Their needs and pain points serve as the basis for our three design pillars: *Empowering Staff, Personalisation Intelligence,* and *Human-Centric Automation.Guests*
 
-##### **1\. Guests** {#1.-guests}
+##### **1\. Guests**
 
 They are the primary users of the check-in process and beneficiaries of service excellence. The check-in experience serves a diverse range of guest profiles, each with distinct expectations and challenges as seen in Image 1\.
 
@@ -494,7 +496,7 @@ While each guest segment varies in priorities, their foundational expectations r
 * Faster, smoother, low-friction check-in.  
 * Warm, personalised interactions that match luxury standards.
 
-##### **2\. Front-Office Staff** {#2.-front-office-staff}
+##### **2\. Front-Office Staff** 
 
 Front office staff are responsible for executing the end-to-end check-in process, which requires navigating complex systems like Opera PMS, verifying guest identities, processing payments, retrieving preferences, managing room allocations, and handling real-time guest inquiries. They must perform these administrative tasks while maintaining composure, warmth, and attentiveness.
 
@@ -589,15 +591,15 @@ To address this problem, we identified three design directions that will guide o
 
 Building on the needs and pain points of the four stakeholder groups, three core design directions were identified to guide the reimagining of a premium automated check-in experience. These directions align operational constraints with the emotional expectations of luxury hospitality, ensuring that technology enhances, rather than replaces, the human touch.
 
-##### **1\. Empower Staff Consistency and Confidence** {#1.-empower-staff-consistency-and-confidence}
+##### **1\. Empower Staff Consistency and Confidence** 
 
 This design direction focuses on enabling front-office staff to deliver consistently high-quality, luxury-standard service regardless of experience level, workload, or time of day. Rather than expecting individuals to “cope” with complex systems and multitasking, it emphasises designing processes and tools that reduce variability in performance, support clear decision-making under pressure, and give staff the confidence to stay composed, attentive, and guest-facing even in busy or stressful conditions.
 
-##### **2\. Personalisation and Guest Preference Intelligence** {#2.-personalisation-and-guest-preference-intelligence}
+##### **2\. Personalisation and Guest Preference Intelligence** 
 
 This design direction centres on transforming fragmented guest data into meaningful, timely personalisation across the check-in journey. It recognises that luxury guests expect to be known, remembered, and anticipated, and therefore prioritises systems and workflows that make preferences visible, interpretable, and actionable for staff. 
 
-##### **3\. Human-Centric Automation for Enhanced Hospitality** {#3.-human-centric-automation-for-enhanced-hospitality}
+##### **3\. Human-Centric Automation for Enhanced Hospitality** 
 
 This design direction addresses the tension between efficiency and human touch in luxury settings. It focuses on shaping automation so that it supports the overall hospitality experience and aligns with the emotional expectations of luxury guests, rather than reducing the interaction to a purely transactional process.
 
@@ -612,7 +614,7 @@ Figure X. Overview of the solutions prototyped across the guest journey.
 
 ## 
 
-## 1\. AIluvio {#1.-ailuvio}
+## 1\. AIluvio 
 
 Alluvio covers the pre-booking and booking phases of the luxury hotel check-in journey. Our goal is to design an intelligent, secure luxury system that intuitively captures and organises guest preferences. Through a fun, swipe-based interface, guests can build dynamic, evolving profiles while AI delivers personalised recommendations based on their preferences. Profiles can also securely store essential travel documents such as Visas, for easy and anytime access. With explicit consent, this information can be shared accurately across onboarded luxury hotels via secure integrations with their hotel management systems.
 
@@ -621,8 +623,9 @@ Design Rationale
 Most guests start looking for accommodation on Online Travel Agencies such as Booking.com, Expedia, Trip.com and Agoda. These platforms act as a centralised hub that allows users to compare prices, amenities and reviews across a wide range of properties, helping them find the best fit with minimal effort and high convenience. In recent years, many OTAs have expanded beyond hotel stays to include rental cars, attractions, flights and even airport transfers to the booked hotel, reinforcing their position as a one stop shop for travellers. According to a 2024 hotel distribution report, the vast majority of guests in Asia and Europe continue to book through these indirect channels, based on data from 2018 to 2023 as shown in Figure XX (Hotel Distribution Report, 2024). A similar pattern is observed in the United States, where data collected in 2019, 2021 and 2023 indicates that OTAs remain a dominant booking channel, as shown in Figure XX (Phocuswright Research, 2022). Together, these findings demonstrate how OTAs have become modern day leviathans in travel, shaping how guests search for and book their stays.
 
 **Figure XX: Share of direct and indirect online hotel bookings in Asia and Europe from 2019 to 2023**
+![imageasia](assets/images/asia-share.png)
+![imageeurope](assets/images/europe-share.png)
 
-*(asset name: asia share & europe share)*
 
 **Figure XX: Share of direct and indirect online hotel bookings in the United States in 2019, 2021 and 2023**
 
@@ -660,7 +663,7 @@ These insights from guests and staff helped clarify Alluvio’s positioning and 
 
 ## 
 
-## 2\. AI Kiosk Assistant  {#2.-ai-kiosk-assistant}
+## 2\. AI Kiosk Assistant 
 
 The AI Kiosk Assistant is a complementary device that works alongside existing self-service kiosks, keeping their speed while adding warmth and guidance. It uses a natural, conversational voice to talk with guests, help them through check-in, and gently capture their preferences. 
 
@@ -763,7 +766,7 @@ Additionally, we conducted early-stage user testing with potential guests in a s
 
 **Direction for refinement:** Refine the AI Kiosk Assistant to combine voice guidance with privacy-sensitive touch interactions
 
-## 3\. Hotelly \- AI Overlay System for Front Desk Staff {#3.-hotelly---ai-overlay-system-for-front-desk-staff}
+## 3\. Hotelly \- AI Overlay System for Front Desk Staff 
 
 Building on the identified challenges of manpower shortages, inconsistent service quality, and rising guest expectations, our team developed *Hotelly*, an AI overlay system designed to discreetly support front desk staff during the hotel check-in process. Rather than replacing human hospitality, Hotelly enhances it. It serves as a real-time “co-pilot” that empowers staff to deliver warm, precise, and personalized service even under pressure.
 
@@ -905,37 +908,6 @@ For hotel staff who need to reduce manual workload and multitasking, ARIA is an 
 
 Unlike manual workflows where staff must track guest requests while juggling real-time interactions, ARIA supports rather than replaces staff tasks by reducing administrative burden, keeping them in the loop for verification, and provide quick access to information. This ensures accuracy and trust while transforming the staff role to focus on meaningful guest engagement.
 
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
 
 # Key Takeaways {#key-takeaways}
 
@@ -964,26 +936,11 @@ AI should empower staff rather than replace their judgement. Many staff members 
 Real-World Deployment Considerations  
 Within the context of luxury hotels, practicality and seamless integration are essential. Any solution introduced must fit naturally into existing workflows, uphold service standards and avoid disrupting the guest experience. Thus, real-world deployment is another key consideration for us, requiring evaluation of both technical and operational feasibility from the onset to ensure that the solution can be integrated smoothly.
 
-# 
-
-# 
-
-# 
-
-# 
-
 # Project Plan {#project-plan}
 
 Given the collaboration with our Stanford team across different time zones and countries, much of our work will be remote. However, in-person meetings will take place, albeit briefly relative to the overall duration of the project. It is crucial that we develop a plan to ensure both our team and the Stanford team are aligned on milestones and deadlines. These meetings must be focused and efficient to ensure we stay on track with the timeline and make steady progress. They are essential for maintaining momentum and ensuring effective collaboration. With this in mind, we have developed a timeline that we are committed to following closely. The key milestones are outlined below:
 
-![][image9]  
-*(asset name: project plan)*
-
-# 
-
-# 
-
-# 
+![project](assets/images/project-plan.jpg)  
 
 # Conclusion {#conclusion}
 
@@ -994,16 +951,6 @@ From this process, we aim to extract the most valuable elements across our low-f
 Following this, we will work closely with our industry partner, Venture Corporation, as well as other technology vendors to develop a solution that is both practical and secure. Their expertise will be essential in guiding us through the creation of an integrated system that can operate smoothly within real hospitality environments and meet the expectations of luxury hotel operations.
 
 To support this progress, we will ensure clear delegation of tasks and maintain regular check-ins so that the team remains aligned and on track. With a structured approach and strong collaboration among all stakeholders, we are confident in our ability to develop a solution that has the potential to transform the luxury hotel check-in experience.
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
 
 # References {#references}
 
