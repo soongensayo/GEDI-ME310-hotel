@@ -125,7 +125,7 @@ Although labor shortages have improved slightly, they remain a persistant challe
 
 Overall, despite its global influence and scope, the hospitality sector continues to struggle with persistent difficulties in attracting and retaining personnel with the necessary skills (World Travel & Tourism Council, 2025), particularly those with the specialised skills required to deliver the personalised experiences travellers now expect, affect both service quality and operational efficiency (*Frost & Sullivan*, 2024\)
 
-## Singapore’s Hospitality Trends
+## Singapore's Hospitality Trends {#singapores-hospitality-trends}
 
 Singapore’s tourism sector continues to show strong post-pandemic recovery and steady long-term growth potential. International visitor arrivals rose by 21 % from the previous year to reach 16.5 million, while tourism receipts climbed to a record SGD 29.8 billion—a historic high demonstrating the strength of the post-pandemic rebound (Singapore Tourism Board, 2025). This momentum is supported by a robust year-round calendar of international events and business conferences, combined with strategic marketing, collaboration with industry partners, new and upgraded attractions, all which enhanced Singapore’s appeal as both a leisure and MICE destination. 
 
@@ -1013,7 +1013,7 @@ Similarly, the UN Tourism (2025) estimated that in 2024, about 1.4 billion touri
 
 Roles that depend on human interaction and services that are hard to automate will remain especially in high demand (World Travel & Tourism Council, 2025).
 
-**Singapore’s Hospitality Trends**
+**Singapore’s Hospitality Trends** {#singapore-hospitality-trends}
 
 Looking ahead, the Singapore Tourism Board (2025) forecasts tourism receipts of SGD 29 to 30.5 billion and expects international visitor arrivals to reach 17 to 18.5 million in 2025, maintaining the upward trajectory seen in 2024\.
 
@@ -1142,9 +1142,51 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
     margin-top: 8px;
   }
   
+  /* Collapsible TOC items */
+  .toc-sidebar > ul > li {
+    position: relative;
+  }
+  
+  .toc-sidebar > ul > li.has-children > a {
+    position: relative;
+    padding-left: 24px;
+    cursor: pointer;
+  }
+  
+  .toc-sidebar > ul > li.has-children > a::before {
+    content: '▸';
+    position: absolute;
+    left: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    color: #586069;
+    transition: transform 0.2s ease;
+    display: inline-block;
+  }
+  
+  .toc-sidebar > ul > li.has-children.expanded > a::before {
+    transform: translateY(-50%) rotate(90deg);
+  }
+  
+  .toc-sidebar > ul > li.has-children > a:hover::before {
+    color: #0366d6;
+  }
+  
   .toc-sidebar ul ul {
     margin-left: 12px;
     margin-top: 4px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.2s ease, margin 0.3s ease;
+    max-height: 5000px;
+    opacity: 1;
+  }
+  
+  .toc-sidebar > ul > li.has-children.collapsed > ul {
+    max-height: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0;
   }
   
   .toc-sidebar ul ul a {
@@ -1246,7 +1288,7 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
         <ul>
           <li><a href="#global-market-growth">Global market growth</a></li>
           <li><a href="#global-trends">Global Trends</a></li>
-          <li><a href="#singapore's-hospitality-trends">Singapore's Hospitality Trends</a></li>
+          <li><a href="#singapores-hospitality-trends">Singapore's Hospitality Trends</a></li>
           <li><a href="#singapore-labour-shortage">Singapore Labour Shortage</a></li>
           <li><a href="#leveraging-ai">Leveraging AI</a></li>
         </ul>
@@ -1379,3 +1421,56 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
 
   </div>
 </div>
+
+<script>
+  // Initialize collapsible TOC functionality
+  document.addEventListener('DOMContentLoaded', function() {
+    const tocSidebar = document.querySelector('.toc-sidebar');
+    if (!tocSidebar) return;
+    
+    // Find all top-level list items that have nested ul elements
+    const topLevelItems = tocSidebar.querySelectorAll('> ul > li');
+    
+    topLevelItems.forEach(function(item) {
+      const nestedUl = item.querySelector('> ul');
+      if (nestedUl) {
+        // Add has-children class and expanded by default
+        item.classList.add('has-children', 'expanded');
+        
+        // Add click handler to the link
+        const link = item.querySelector('> a');
+        if (link) {
+          link.addEventListener('click', function(e) {
+            // Check if the click is on a nested link - if so, let it work normally
+            const clickedLink = e.target.closest('a');
+            if (clickedLink && clickedLink !== link) {
+              return; // Allow nested links to work normally
+            }
+            
+            // Toggle collapsed/expanded state
+            e.preventDefault();
+            e.stopPropagation();
+            
+            if (item.classList.contains('expanded')) {
+              item.classList.remove('expanded');
+              item.classList.add('collapsed');
+            } else {
+              item.classList.remove('collapsed');
+              item.classList.add('expanded');
+            }
+            
+            // Still navigate to the section
+            const href = link.getAttribute('href');
+            if (href && href.startsWith('#')) {
+              const targetId = href.substring(1);
+              const targetElement = document.getElementById(targetId);
+              if (targetElement) {
+                targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              }
+            }
+          });
+        }
+      }
+    });
+  });
+</script>
