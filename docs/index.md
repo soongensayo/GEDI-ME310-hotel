@@ -153,8 +153,14 @@ Collectively, these five dimensions form the foundation of modern luxury hospita
 
 Demand for luxury tourism is rising faster than any other travel segment, supported by the growing number of wealthy individuals and a large base of younger, aspiring luxury travellers who are willing to spend more on upscale travel experiences (Tufft et al., 2024). Correspondingly, McKinsey & Company projects that the luxury segment will grow around 6% through 2025 (Mann et al., 2024\), outpacing all other chain-scale hotel classes. This momentum is reinforced by a broader shift in travel behaviour: in 2023, demand for high-end experiences and luxury travel surged and has continued to expand, with affluent individuals increasingly proritizing travel (EHL Insights, 2025). Frost & Sullivan (2024) similarly notes that many travellers are also willing to stretch their budgets for additional activities, supported by AMEX findings that 77% of travelers value the right experience over the trip’s cost. Reflecting this strong demand, global luxury hotel market is valued at approximately USD 139.9 billion in 2025 and is projected to expand to USD 201.37 billion by 2030, with a compound annual growth rate (CAGR) of 7.56% (Mordor Intelligence, 2025). As luxury and travel preferences evolve, affluent consumers increasingly prioritise unique and personalised experiences over traditional material forms of luxury and over cost saving considerations (Mann et al., 2024; Mordor Intelligence, 2025; EHL Insights, 2025).
 
-![image2](assets/images/luxury-hotel-market.png)
-![image2](assets/images/singapore-hospitality-market.png)
+<div style="display: flex; gap: 20px; margin: 20px 0; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 0 0 45%; min-width: 250px; max-width: 400px;">
+    <img src="assets/images/luxury-hotel-market.png" alt="Global Luxury Hotel Market Growth" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 0 0 45%; min-width: 250px; max-width: 400px;">
+    <img src="assets/images/singapore-hospitality-market.png" alt="Singapore Hospitality Market" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
 
 **Changing definition of luxury & guest experience**
 
@@ -196,37 +202,24 @@ To remain relevant, luxury hotels must deliver engaging and highly personalised 
 
 # Primary Research  {#primary-research}
 
-## Overview & Methodology
-
-### Interviews with Hotels {#interviews-with-hotels}
+## Interviews with Hotels and Analysis {#interviews-with-hotels}
 
 #### **Hotel Sample and Participant Roles** {#hotel-sample-and-participant-roles}
 
-To gain a holistic understanding of the current luxury hotel check-in experience, we conducted semi-structured interviews with hospitality professionals across four prominent hotels in Singapore: Shangri-La, Banyan Tree, Raffles Hotel, and Amara Hotel.
-
-Participants represented a diverse range of roles within the hotel ecosystem, including the Rooms Director, Front Desk Manager, Front Desk Staff, General Manager, and Head of Technology.
-
-These individuals were selected for their ability to offer operational, managerial, and technological perspectives. Initial contact was made through formal email outreach and online contact forms.
+To gain a holistic understanding of the current luxury hotel check-in experience, we conducted semi-structured interviews with hospitality professionals across four prominent hotels in Singapore: Shangri-La, Banyan Tree, Raffles Hotel, and Amara Hotel. Participants represented a diverse range of roles within the hotel ecosystem, including the Rooms Director, Front Desk Manager, Front Desk Staff, General Manager, and Head of Technology. These individuals were selected for their ability to offer operational, managerial, and technological perspectives. Initial contact was made through formal email outreach and online contact forms.
 
 #### **Data Collection Protocol** {#data-collection-protocol}
 
-Interviews were conducted between September and October 2025, following the protocol developed for this study (see *Interview Questions Flow* in Appendix). Each session began with an introduction to the research context and verbal consent for recording.
-
-The interviews were audio-recorded with consent and supplemented by extensive note-taking \- two team members recorded observations and verbatim quotes while the other two led the conversation.
-
-In three of the four hotels, participants additionally provided guided walkthroughs of their front-desk operations, allowing the research team to observe real-time workflows and backstage processes. Notably, one hotel granted permission for us to interact directly with their front-desk system, providing valuable insights into system interfaces and limitations.
+Interviews were conducted between September and October 2025, following the protocol developed for this study (see *Interview Questions Flow* in Appendix). Each session began with an introduction to the research context and verbal consent for recording. The interviews were audio-recorded with consent and supplemented by extensive note-taking \- two team members recorded observations and verbatim quotes while the other two led the conversation. In three of the four hotels, participants additionally provided guided walkthroughs of their front-desk operations, allowing the research team to observe real-time workflows and backstage processes. Notably, one hotel granted permission for us to interact directly with their front-desk system, providing valuable insights into system interfaces and limitations.
 
 #### **Interview Design and Flow** {#interview-design-and-flow}
 
-The semi-structured interview guide was designed around five thematic stages (*Warm-up & Context Setting, Operational Perspectives, Customer Interactions & Challenges, Technology Acceptance, and Future Vision*).
-
-This design enabled both structured coverage of key topics and flexibility for interviewees to share detailed narratives about daily operations, guest interactions, and technology adoption in premium hospitality environments.
+The semi-structured interview guide was designed around five thematic stages (*Warm-up & Context Setting, Operational Perspectives, Customer Interactions & Challenges, Technology Acceptance, and Future Vision*). This design enabled both structured coverage of key topics and flexibility for interviewees to share detailed narratives about daily operations, guest interactions, and technology adoption in premium hospitality environments.
 
 #### **Analysis Approach** {#analysis-approach}
 
 Following transcription and data consolidation, we adopted an affinity clustering methodology supported by an empathy mapping framework to extract key insights. Each data point from interview transcripts was first classified within a six-category empathy map \- Think/Feel, See, Say/Do, Hear, Pains, and Gains.
-
-![image2](assets/images/empathy-map.png)
+<img src="assets/images/empathy-map.png" alt="Empathy Map" style="width: 80%; max-width: 600px; margin: 20px auto; display: block;">
 
 This facilitated a systematic visualization of user sentiments and experiences across all interviews. Subsequently, we conducted affinity clustering, grouping similar observations and identifying overarching themes and opportunity areas such as Pre-arrival Personalization, Booking and Channel Integration, and Handling of Special Requests and Exceptions.  
 These clusters were then distilled into key insights and design implications, forming the foundation for subsequent concept development and prototyping phases.
@@ -1414,9 +1407,8 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
         <a href="#primary-research">Primary Research</a>
         <ul>
           <li>
-            <a href="#overview-&-methodology">Overview & Methodology</a>
+            <a href="#interviews-with-hotels">Interviews with Hotels</a>
             <ul>
-              <li><a href="#interviews-with-hotels">Interviews with Hotels</a></li>
               <li><a href="#hotel-sample-and-participant-roles">Hotel Sample and Participant Roles</a></li>
               <li><a href="#data-collection-protocol">Data Collection Protocol</a></li>
               <li><a href="#interview-design-and-flow">Interview Design and Flow</a></li>
