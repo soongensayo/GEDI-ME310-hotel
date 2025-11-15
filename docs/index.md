@@ -477,41 +477,71 @@ Collectively, these pre-arrival touchpoints demonstrate the interdependence of t
 
 The check-in process is one of the most defining moments in the guest journey, shaping first impressions and setting the tone for the stay (Mann, Scully, Straus & Tellez Holub, 2024). For luxury hotels, this stage embodies the brand’s promise of seamlessness, warmth, and personalization. Yet, as our field research and observations reveal, traditional counter-based check-in workflows can create friction for both guests and staff due to outdated system design, fragmented communication, and process inefficiencies.
 
-### **1\. Arrival**
 
-**Guest perspective:** Upon arrival, guests often face queues before even reaching the front desk. Especially during peak hours, waiting time becomes a key source of frustration, undermining the perception of efficiency and exclusivity expected in premium hospitality. Luxury guests expect immediacy and recognition — long waits detract from that promise (Ecole Hôtelière de Lausanne, 2023).
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleCounterDetails()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="counter-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Click to expand details on each stage
+  </button>
+  
+  <div id="counter-details" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">1. Arrival</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> Upon arrival, guests often face queues before even reaching the front desk. Especially during peak hours, waiting time becomes a key source of frustration, undermining the perception of efficiency and exclusivity expected in premium hospitality. Luxury guests expect immediacy and recognition — long waits detract from that promise.</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Front desk staff must juggle multiple simultaneous tasks such as handling ongoing check-ins, attending to phone calls, and coordinating with bell staff. High guest volumes exacerbate this workload, leaving little time to deliver personalized attention. Staff shortages, identified as one of the industry's most pressing challenges, further intensify this pressure (Singapore Institute of Hospitality, 2024).</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">2. Greetings</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> The greeting moment, while brief, carries emotional weight. Guests notice whether the staff member smiles, greets them by name, or acknowledges special occasions. Inconsistent greetings often lead guests to perceive the interaction as transactional rather than genuine.</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Staff acknowledge that they want to personalize greetings but often cannot recall guest details or lack access to the right information before the guest reaches the counter. This disconnect stems from the PMS interface limitations — information such as preferences or past stay notes is often buried within multiple tabs or outdated records.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">3. Exchange of Information</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> Guests frequently express frustration when asked to repeat information they have already provided during online booking or pre-arrival forms. This duplication creates an impression of inefficiency and poor data integration. Guests also find it unclear what staff are doing behind the screen, leading to perceptions of slowness or disorganization.</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Staff report that they must navigate between multiple software systems (e.g., PMS, payment gateways, and ID verification tools) to complete a single check-in. This multitasking increases cognitive load and risk of error. Many noted difficulty in maintaining conversation with guests while simultaneously keying data, undermining the warmth of the interaction.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">4. Requests and Questions</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> Guests often hesitate to raise additional questions or requests during check-in, perceiving staff as too busy or unapproachable. When they do ask, responses may feel scripted or delayed due to staff needing to check information in other systems.</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Employees shared that they sometimes struggle to answer guest questions on the spot, particularly regarding local recommendations or real-time room updates. When guests express dissatisfaction, front desk agents must escalate issues while staying composed — a difficult balance amid ongoing check-ins.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">5. Collection of Key Card</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> At this point, guests expect efficiency and clarity — they want to feel assured that their requests (such as late checkout or special amenities) have been noted. However, rushed handovers can create confusion and anxiety if guests are unsure about room details or inclusions.</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Staff often continue inputting data or printing forms while handing over key cards. If last-minute changes occur (e.g., incorrect room setup), the responsibility still falls on the front desk, despite upstream system or communication failures. This creates stress and impacts morale.</p>
+    </div>
+    
+    <div style="padding: 20px 0 24px 0;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">6. Rooming</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> After check-in, guests evaluate whether the in-room experience matches what was promised. A missing request or incorrect setup (e.g., twin instead of king bed) amplifies dissatisfaction, as it signals poor internal communication.</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Staff acknowledge that follow-up lapses can occur, especially when information from the PMS is not synced with housekeeping or concierge systems. When issues arise, front desk agents often receive the complaint despite not being responsible for the error, highlighting the fragmented nature of existing workflows.</p>
+    </div>
+  </div>
+</div>
 
-**Staff perspective:** Front desk staff must juggle multiple simultaneous tasks such as handling ongoing check-ins, attending to phone calls, and coordinating with bell staff. High guest volumes exacerbate this workload, leaving little time to deliver personalized attention (Workforce Singapore, 2023). Staff shortages, identified as one of the industry’s most pressing challenges, further intensify this pressure (Singapore Institute of Hospitality, 2024).
-
-### **2\. Greetings**
-
-**Guest perspective:** The greeting moment, while brief, carries emotional weight. Guests notice whether the staff member smiles, greets them by name, or acknowledges special occasions. Inconsistent greetings often lead guests to perceive the interaction as transactional rather than genuine.
-
-**Staff perspective:** Staff acknowledge that they want to personalize greetings but often cannot recall guest details or lack access to the right information before the guest reaches the counter. This disconnect stems from the PMS interface limitations — information such as preferences or past stay notes is often buried within multiple tabs or outdated records (see §3.0 Property Management System).
-
-### **3\. Exchange of Information**
-
-**Guest perspective:** Guests frequently express frustration when asked to repeat information they have already provided during online booking or pre-arrival forms. This duplication creates an impression of inefficiency and poor data integration. Guests also find it unclear what staff are doing behind the screen, leading to perceptions of slowness or disorganization.
-
-**Staff perspective:** Staff report that they must navigate between multiple software systems (e.g., PMS, payment gateways, and ID verification tools) to complete a single check-in. This multitasking increases cognitive load and risk of error. Many noted difficulty in maintaining conversation with guests while simultaneously keying data, undermining the warmth of the interaction.
-
-### **4\. Requests and Questions**
-
-**Guest perspective:** Guests often hesitate to raise additional questions or requests during check-in, perceiving staff as too busy or unapproachable. When they do ask, responses may feel scripted or delayed due to staff needing to check information in other systems.
-
-**Staff perspective:** Employees shared that they sometimes struggle to answer guest questions on the spot, particularly regarding local recommendations or real-time room updates. When guests express dissatisfaction, front desk agents must escalate issues while staying composed \- a difficult balance amid ongoing check-ins.
-
-**5\. Collection of Key Card**
-
-**Guest perspective:** At this point, guests expect efficiency and clarity — they want to feel assured that their requests (such as late checkout or special amenities) have been noted. However, rushed handovers can create confusion and anxiety if guests are unsure about room details or inclusions.
-
-**Staff perspective:** Staff often continue inputting data or printing forms while handing over key cards. If last-minute changes occur (e.g., incorrect room setup), the responsibility still falls on the front desk, despite upstream system or communication failures. This creates stress and impacts morale.
-
-### **6\. Rooming** 
-
-**Guest perspective:** After check-in, guests evaluate whether the in-room experience matches what was promised. A missing request or incorrect setup (e.g., twin instead of king bed) amplifies dissatisfaction, as it signals poor internal communication.
-
-**Staff perspective:** Staff acknowledge that follow-up lapses can occur, especially when information from the PMS is not synced with housekeeping or concierge systems. When issues arise, front desk agents often receive the complaint despite not being responsible for the error, highlighting the fragmented nature of existing workflows.
+<script>
+function toggleCounterDetails() {
+  const content = document.getElementById('counter-details');
+  const icon = document.getElementById('counter-toggle-icon');
+  const button = event.target.closest('button');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.innerHTML = '▼';
+    icon.style.transform = 'rotate(90deg)';
+    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
+  } else {
+    content.style.display = 'none';
+    icon.innerHTML = '▶';
+    icon.style.transform = 'rotate(0deg)';
+    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  }
+}
+</script>
 
 ## Kiosk Check-In {#kiosk-check-in}
 
