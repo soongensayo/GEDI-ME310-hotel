@@ -1156,8 +1156,7 @@ Together, these insights underscored the importance of balance—between speed a
 
 ## 4\. Aria AI assistant {#aria-ai-assistant}
 
-Aria is an AI assistant designed to help staff focus on conversation not typing. It empowers hospitality staff through voice-driven data capture, supporting real-time transcription without recording. Conversation details would automatically be autofilled into guest profile and request fields. Staff would also be supported by guided real-time prompts with answers to guest inquiries, provided with follow-up question suggestions, and a real-time summary of conversation and guest profile, enabling personalised recommendations. Aria could also reference safe external web searches, hotel policies, FAQs and internal databases such as available rooms. To maintain accuracy and accountability, staff should be able to manually verify, edit and approve all information. Consent, privacy, and data governance remain core. Aria would require explicit guest consent before activation and would retain transcripts only briefly for verification. Any stored text would be encrypted, with audit trails maintained for full compliance. Operationally, Aria could integrate with existing systems such as Opera PMS to support seamless workflow integration.
-
+Aria is an AI assistant designed to help staff focus on conversation rather than typing. It empowers hospitality staff through voice-driven data capture and real-time transcription without recording. Conversation details could be automatically autofilled into guest profile and request fields, while guided prompts provide answers to guest inquiries, suggest follow-up questions, generate real-time summaries, and support personalised recommendations. Aria could also reference hotel policies, FAQs, internal databases such as room availability, and safe external web information. To maintain accuracy and accountability, staff would be able to manually verify, edit, and approve all extracted information. Consent, privacy, and data governance remain central: Aria would require explicit guest consent before activation, retain transcripts only briefly for verification, encrypt any stored text, and maintain audit trails for compliance. Operationally, Aria could integrate with existing systems such as Opera PMS to support seamless workflow integration.
 
 ### Design Rationale (Primary)
 
@@ -1167,14 +1166,14 @@ From our interviews, we found that front desk staff often struggle to balance co
 
 As personal service by staff remains an important skill, research across luxury hospitality consistently shows that high-touch remains central to luxury, and technology should enhance rather than replace human warmth and empathy,(Dusit Thani College, cited in WTTC, 2025; Al-Hyari et al., 2023; Bharwani & Mathews, 2021; EHL Insights, 2025). This informs our decision to position Aria for staff support instead of replacement. 
 
-AI can streamline routine administrative tasks and boost efficiency, improving service quality and allowing employees to focus on higher-value meaning guest interactions, creating a lasting impression (EHL Insights, 2025). With relevance, Aria automates typing so staff can focus more on the guest. 
+AI can streamline routine administrative tasks and boost efficiency, improving service quality and allowing employees to focus on higher-value meaning guest interactions, creating a lasting impression (Bharwani & Mathews, 2021; EHL Insights, 2025). In this context, Aria automates typing so staff can focus more on the guest. 
 
 Moreover, technology enables superior guest service and improves guest satisfaction by helping hotels identify and anticipate guest needs. It acts as an efficiency enhancer that equips staff with real-time, guest-specific and directly relevant information, combining data-driven precision with human empathy to elevate personalisation experience and service (Al-Hyari et al., 2023; Bharwani & Mathews, 2021). This aligns with our design choice for Aria to analyses guest profiles to tailored prompts and service recommendations, and support staff with answers to guest questions. 
  
 
 ### Value Proposition
 
-For hotel staff who need to reduce manual workload and multitasking, ARIA is an AI-powered assistant that listens to guest conversations, automatically captures key information, and provides real-time intelligent prompts and answers. Delivering seamless and faster integration into hotel processes, allowing staff to focus on delivering personalized, high-touch guest experiences.
+For hotel staff who need to reduce manual workload while multitasking, ARIA is an AI-powered assistant that listens to guest conversations, automatically captures key information, and provides real-time intelligent prompts and answers. Delivering seamless and faster integration into hotel processes, allowing staff to focus on delivering personalized, high-touch guest experiences.
 
 Unlike manual workflows where staff must track guest requests while juggling real-time interactions, ARIA supports rather than replaces staff tasks by reducing administrative burden, keeping them in the loop for verification, and providing quick access to information. This ensures accuracy, reduces stress and enhances workflow.
 
@@ -1196,7 +1195,7 @@ Data protection was another major concern. A manager highlighted PDPA risks, not
 #### 3. Value of autofill
 Feedback also revealed mixed views about the usefulness of the auto-fill feature. The IT director acknowledged its value for capturing guest preferences and requests, noting that such requests could ideally be routed directly to service centres. However, the front office manager questioned its benefit for very short or simple interactions, where manual typing could be done quickly and easily. This informed our positioning that Aria is most beneficial in long, information-heavy, or multitasking situations rather than every check-in.
 
-#### 4. Additional Features
+### Future Additional Features
 Beyond face-to-face interactions, we also envision Aria being extended to phone calls and text messaging. Aria can listen to calls or read messages in real time, extract key details and requests, recommend replies, prepare summaries, and pre-fill guest profile fields. It can also integrate alongside our own or existing AI call/chat assistants adding autofill and structured data extraction capabilities rather than functioning solely as a reply generator and note taker. Across all channels, human verification remains required to ensure accuracy.
 
 
