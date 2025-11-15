@@ -935,9 +935,9 @@ As such, Alluvio keeps the convenience and reach of OTAs while creating a direct
 
 ### Solution Demo
 
-(Insert Web Platform Video)
+<iframe width="1000" height="600" src="https://youtube.com/embed/eHiLBygFeXg" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-(Insert App Platform Video)
+<iframe width="1000" height="600" src="https://youtube.com/embed/rrKjjsphujQ" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### User Testing and Analysis
 
@@ -1163,6 +1163,8 @@ Aria automates typing so staff can focuse more on the guest.
 As Dusit Thani College (cited in World Travel & Tourism Council, 2025\) notes, “We need technology to facilitate rather than replace staff—personal service remains such a core skill.” Employers are confident that automation and AI will transform—not eliminate—roles by enabling employee to be more productive. 
 
 Solution
+
+<iframe width="1000" height="600" src="https://youtube.com/embed/YVOP8cJANXY" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Information Retrieval & Personalise Suggestion**
 
