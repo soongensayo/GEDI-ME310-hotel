@@ -1378,7 +1378,7 @@ We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree.
 <p align="center">
   <img src="assets/images/Mandai.jpg" width="400">
 </p>
-<p align="center"><strong>Figure X.5. Mandai Rainforest Resort – arrival area (site visit photograph)</strong></p>
+<p align="center"><strong>Figure B.5. Mandai Rainforest Resort – arrival area (site visit photograph)</strong></p>
 
 ### Appendix C: Illustrative Quotes Supporting Key Insights
 
@@ -1387,7 +1387,7 @@ We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree.
 <p align="center">
   <img src="assets/images/Insight1.png" width="500">
 </p>
-<p align="center"><strong>Figure XX: Quotes that justify Insight 1/strong></p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 1</strong></p>
 
 These quotes highlight how guests perceive kiosks as mechanical and emotionless, lacking the warmth and conversational qualities of human interaction (see Figure XX).
 
@@ -1398,7 +1398,7 @@ Field observations showed guests hesitating, appearing confused, and ultimately 
 <p align="center">
   <img src="assets/images/Insight2.png" width="500">
 </p>
-<p align="center"><strong>Figure XX: Quotes that justify Insight 2/strong></p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 2</strong></p>
 
 Interview insights highlight that staff often need to station someone near the kiosk specifically because the kiosk lacks sufficient guidance and emotional reassurance (see Figure XX).
 
@@ -1407,7 +1407,7 @@ Interview insights highlight that staff often need to station someone near the k
 <p align="center">
   <img src="assets/images/Insight3.png" width="500">
 </p>
-<p align="center"><strong>Figure XX: Quotes that justify Insight 3/strong></p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 3</strong></p>
 
 These quotes show that guests paying premium rates expect personalised, human-led service, making self-service check-in feel mismatched with luxury hospitality standards (see Figure XX).
 
@@ -1416,7 +1416,7 @@ These quotes show that guests paying premium rates expect personalised, human-le
 <p align="center">
   <img src="assets/images/Insight4.png" width="500">
 </p>
-<p align="center"><strong>Figure XX: Quotes that justify Insight 4/strong></p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 4</strong></p>
 
 These quotes demonstrate how kiosks struggle not only with non-standard requests and special needs, but also with answering the wide range of questions guests typically ask; resulting in users defaulting to staff for support (see Figure XX).
 
