@@ -189,6 +189,8 @@ Figure 2 illustrates the top challenges and priorities identified by the hospita
 
 <img src="assets/images/Challenge_vs_Priorities.png" alt="Hospitality Industry Challenges and Priorities" style="width: 80%; max-width: 600px; margin: 20px auto; display: block;">
 
+<p align="center"><strong>Figure 2: Top Challenges and Priorities in Singapore Hospitality Industry</strong></p>
+
 Looking ahead, sustainable progress will depend on meaningful job redesign supported by labour-saving technologies to boost productivity and make hospitality careers more attractive.
 
 ## Leveraging AI {#leveraging-ai}
