@@ -1398,8 +1398,11 @@ In turn, this contributes to lost revenue opportunities, as teams are unable to 
 
 **Insight 1: Kiosks are too transactional and non-conversational**
 
-![Insight1](assets/images/Insight1.jpg)  
-Image 1: Kiosks are too transactional and non-conversational
+<p align="center">
+  <img src="assets/images/Insight1.jpg" width="500">
+</p>
+<p align="center"><em>Image 1: Kiosks are too transactional and non-conversational</em></p>
+
 
 These quotes highlight how guests perceive kiosks as mechanical and emotionless, lacking the warmth and conversational qualities of human interaction (see Image 1\)
 
@@ -1407,22 +1410,31 @@ These quotes highlight how guests perceive kiosks as mechanical and emotionless,
 
 Field observations showed guests hesitating, appearing confused, and ultimately abandoning the kiosk to seek staff; over a two-hour period, we observed at least three to four groups unsure of how to proceed
 
-![Insight2](assets/images/Insight2.jpg) 
-Image 2: Lack of Guidance & Emotional Reassurance
+<p align="center">
+  <img src="assets/images/Insight2.jpg" width="500">
+</p>
+<p align="center"><em>Image 2: Lack of Guidance & Emotional Reassurance</em></p>
+
 
 Interview insights highlight that staff often need to station someone near the kiosk specifically because the kiosk lacks sufficient guidance and emotional reassurance (see Image 2).
 
 **Insight 3: Misaligned with luxury price points**
 
-![Insight3](assets/images/Insight3.jpg)  
-Image 3: Misalignment with Luxury Expectation
+<p align="center">
+  <img src="assets/images/Insight3.jpg" width="500">
+</p>
+<p align="center"><em>Image 3: Misalignment with Luxury Expectation</em></p>
+
 
 These quotes show that guests paying premium rates expect personalised, human-led service, making self-service check-in feel mismatched with luxury hospitality standards (see Image 3).
 
 **Insight 4: Kiosks are inadequate when guests have questions or exceptions**
 
-![Insight4](assets/images/Insight4.jpg) 
-Image 4: Inadequacy for Questions & Exceptions
+<p align="center">
+  <img src="assets/images/Insight4.jpg" width="500">
+</p>
+<p align="center"><em>Image 4: Inadequacy for Questions & Exceptions</em></p>
+
 
 These quotes demonstrate how kiosks struggle not only with non-standard requests and special needs, but also with answering the wide range of questions guests typically ask; resulting in users defaulting to staff for support (see Image 4\)*.*
 
