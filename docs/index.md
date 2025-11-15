@@ -1327,7 +1327,7 @@ In turn, this contributes to lost revenue opportunities, as teams are unable to 
 
 **Insight 1: Kiosks are too transactional and non-conversational**
 
-![][image10]  
+![Insight1](assets/images/Insight1.jpg)  
 Image 1: Kiosks are too transactional and non-conversational
 
 These quotes highlight how guests perceive kiosks as mechanical and emotionless, lacking the warmth and conversational qualities of human interaction (see Image 1\)
@@ -1336,24 +1336,86 @@ These quotes highlight how guests perceive kiosks as mechanical and emotionless,
 
 Field observations showed guests hesitating, appearing confused, and ultimately abandoning the kiosk to seek staff; over a two-hour period, we observed at least three to four groups unsure of how to proceed
 
-![][image11]  
+![Insight2](assets/images/Insight2.jpg) 
 Image 2: Lack of Guidance & Emotional Reassurance
 
 Interview insights highlight that staff often need to station someone near the kiosk specifically because the kiosk lacks sufficient guidance and emotional reassurance (see Image 2).
 
 **Insight 3: Misaligned with luxury price points**
 
-**![][image12]**  
+![Insight3](assets/images/Insight3.jpg)  
 Image 3: Misalignment with Luxury Expectation
 
 These quotes show that guests paying premium rates expect personalised, human-led service, making self-service check-in feel mismatched with luxury hospitality standards (see Image 3).
 
 **Insight 4: Kiosks are inadequate when guests have questions or exceptions**
 
-**![][image13]**  
+![Insight4](assets/images/Insight4.jpg) 
 Image 4: Inadequacy for Questions & Exceptions
 
 These quotes demonstrate how kiosks struggle not only with non-standard requests and special needs, but also with answering the wide range of questions guests typically ask; resulting in users defaulting to staff for support (see Image 4\)*.*
+
+
+# Appendix X: Hotel and Industry Visits {#appendix}
+
+This appendix summarises the luxury hotels and organisations we visited as part of our primary research. Each visit helped us understand real-world check-in operations, constraints, and attitudes towards automation in luxury hospitality.
+
+**X.1 Amara Singapore**
+We visited Amara Singapore to observe front-office operations and better understand current check-in practices and guest–staff interactions.
+
+**Stakeholders engaged**
+**Gordon Aeria** – General Manager, Amara Singapore
+**Pearlyn** – Front Office Manager
+
+**X.2 Shangri-La Singapore**
+We conducted two visits to Shangri-La Singapore.
+The first visit focused on understanding the luxury hotel
+
+The second visit involved sharing and testing early-stage prototypes with hotel stakeholders to gather feedback.
+
+**Stakeholders engaged**
+**Devendra Pandey** – Director of Information Technology
+**Benny Fok** – Front Office Manager
+
+**Image reference**
+
+![Shangrila](assets/images/Shangrila.jpg)
+Figure X.2. Shangri-La Singapore (site visit photograph)
+
+**X.3 Raffles Hotel Singapore**
+At Raffles Hotel Singapore, we engaged with stakeholders to understand the perspectives from an iconic luxury heritage brand 
+
+**Stakeholders engaged**
+**Alfani Leonaris** – Lobby Operation Manager
+**Christian Westbeld** – Managing Director
+
+**Image reference**
+
+![raffles](assets/images/Raffles.jpg)
+Figure X.3. Raffles Hotel Singapore – lobby and entrance area (site visit photograph).
+
+**X.4 Banyan Tree Headquarters**
+We visited the Banyan Tree Headquarters to gain a brand-level perspective on guest experience and the strategic role of technology and AI across the group’s portfolio.
+
+**Stakeholder engaged**
+**Sheriann** – Business Development Team
+
+**Image reference**
+
+![Banyan](assets/images/Banyan.jpg)
+Figure X.4. Banyan Tree Headquarters (site visit photograph).
+
+**X.5 Mandai Rainforest Resort**
+We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree
+
+**Stakeholder engaged**
+**Joan Yao** – Director, Rooms
+
+**Image reference**
+
+![mandai](assets/images/Mandai.jpg)
+Figure X.5. Mandai Rainforest Resort – arrival and reception area (site visit photograph).
+
 
 <style>
   /* Sidebar Table of Contents Styles */
