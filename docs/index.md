@@ -758,7 +758,7 @@ While each guest segment varies in priorities, their foundational expectations r
         - Limited capability of current kiosks to handle complex or exception-based needs
       </p>
     </div>
-    
+
     <div style="padding: 20px 0 24px 0;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Needs</h4>
       <p style="margin: 0; line-height: 1.6; color: #444;">
@@ -770,7 +770,7 @@ While each guest segment varies in priorities, their foundational expectations r
 </div>
 
 <script>
-function toggleCounterDetails() {
+function toggleDefinitions() {
   const content = document.getElementById('guests-definitions');
   const icon = document.getElementById('guests-toggle-icon');
   const button = event.target.closest('button');
