@@ -584,7 +584,63 @@ They are the primary users of the check-in process and beneficiaries of service 
 ![][image7]  
 Image 1: Diverse Guest Profiles and Their Unique Check-In Challenges
 
-While each guest segment varies in priorities, their foundational expectations remain consistent.  
+While each guest segment varies in priorities, their foundational expectations remain consistent.
+
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleDefinitions()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="luxury-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Core Expectations, Pain Points, and Needs
+  </button>
+  
+  <div id="luxury-definitions" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Core Expectations</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        <strong>Core Expectations:</strong><br>
+        - Fast, seamless, low-friction check-in<br>
+        - Recognition, warmth, and personalisation<br>
+        - Clear communication and prompt issue resolution<br>
+        - Strong reassurance of data privacy and consent
+      </p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Pain Points</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        <strong>Pain Points:</strong><br>
+        - Long queues and waiting time, especially during peak hours<br>
+        - Inconsistency in greetings and human warmth<br>
+        - Impersonal kiosk interactions that feel “too mechanical” or “not worth the luxury price point”<br>
+        - Frustration when special requests or preferences are not reflected at check-in<br>
+        - Limited capability of current kiosks to handle complex or exception-based needs
+      </p>
+    </div>
+    
+    <div style="padding: 20px 0 24px 0;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Needs</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        <strong>Needs:</strong><br>
+        - Faster, smoother, low-friction check-in.<br>
+        - Warm, personalised interactions that match luxury standards.
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+  function toggleDefinitions() {
+    var x = document.getElementById("luxury-definitions");
+    var icon = document.getElementById("luxury-toggle-icon");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+      icon.textContent = "▼";
+    } else {
+      x.style.display = "none";
+      icon.textContent = "▶";
+    }
+  }
+</script>
+
 **Core Expectations:**
 
 * Fast, seamless, low-friction check-in  
