@@ -151,18 +151,17 @@ Collectively, these five dimensions form the foundation of modern luxury hospita
 
 ## Global market growth {#global-market-growth}
 
-Demand for luxury tourism is rising faster than any other travel segment, supported by the growing number of wealthy individuals and a large base of younger, aspiring luxury travellers who are willing to spend more on upscale travel experiences (Tufft et al., 2024). Correspondingly, McKinsey & Company (Mann et al., 2024) projects that the luxury segment will grow around 6% through 2025, outpacing all other chain-scale hotel classes. This momentum is reinforced by a broader shift in travel behaviour: in 2023, demand for high-end experiences and luxury travel surged and has continued to expand, with affluent individuals increasingly proritizing travel (EHL Insights, 2025). Frost & Sullivan (2024) similarly notes that many travellers are also willing to stretch their budgets for additional activities, supported by AMEX findings that 77% of travelers value the right experience over the trip’s cost. Reflecting this strong demand, the global luxury hotel market is valued at approximately USD 139.9 billion in 2025 and is projected to expand to USD 201.37 billion by 2030, with a compound annual growth rate (CAGR) of 7.56% (Mordor Intelligence, 2025). As luxury and travel preferences evolve, affluent consumers increasingly prioritise unique and personalised experiences over traditional material forms of luxury and over cost saving considerations.
+Demand for luxury tourism is rising faster than any other travel segment, supported by the growing number of wealthy individuals and a large base of younger, aspiring luxury travellers who are willing to spend more on upscale travel experiences (Tufft et al., 2024). Correspondingly, McKinsey & Company (Mann et al., 2024) projects that the luxury segment will grow around 6% through 2025, outpacing all other chain-scale hotel classes. This momentum is reinforced by a broader shift in travel behaviour: in 2023, demand for high-end experiences and luxury travel surged and has continued to expand, with affluent individuals increasingly proritizing travel (EHL Insights, 2025). Frost & Sullivan (2024) similarly notes that many travellers are also willing to stretch their budgets for additional activities, supported by AMEX findings that 77% of travelers value the right experience over the trip’s cost. Reflecting this strong demand, the global luxury hotel market continues to grow significantly, as shown in Figure 1. As luxury and travel preferences evolve, affluent consumers increasingly prioritise unique and personalised experiences over traditional material forms of luxury and over cost saving considerations.
 
 <div style="display: flex; gap: 20px; margin: 20px 0; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 0 0 45%; min-width: 250px; max-width: 400px;">
     <img src="assets/images/luxury-hotel-market.png" alt="Global Luxury Hotel Market Growth" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <div style="flex: 0 0 45%; min-width: 250px; max-width: 400px;">
-    <img src="assets/images/singapore-hospitality-market.png" alt="Singapore Hospitality Market" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </div>
 </div>
 
-**Changing definition of luxury & guest experience**
+<p align="center"><strong>Figure 1: Global luxury hotel market growth</strong></p>
+
+## **Changing definition of luxury & guest experience**
 
 As more luxury accommodations enter the market, competition for affluent travellers is intensifying, and some features that are associated with luxury have been adopted by non-luxury hotels, e.g. rainfall shower heads (Mann et al., 2024). At the same time, the meaning of luxury is evolving, as affluent travellers increasingly prioritise unique experiences and vibrant atmospheres over opulent formality or material products (Mann et al., 2024). True luxury today is rooted less in high prices or lavish finishes, but in thoughtful, carefully executed service. Therefore, cultivating a culture of excellence, where staff anticipate guest needs, deliver beyond expectations, and create seamless, memorable experiences, has become a key advantageous differentiator (Mann et al., 2024). Accordingly, findings indicate that the top factor influencing travellers’ choice of a brand is not value, convenience, or even quality, but rather the positive past experiences they have had with a brand (Mann et al., 2024). As hotels become more similar in physical offerings, personalisation is emerging as the key driver of guest satisfaction and loyalty, PwC reports that 65% of customers consider personalisation essential and would pay up to 25% more for it (EHL Insights, 2025).
 This shift is further reinforced by younger luxury consumers, such as Millennials and Gen Z, who seek and expect luxury experiences that are authentic and personalised, catering to their unique preferences and needs, reflecting their identity and signalling a sense of exclusivity (EHL Insights, 2023). By 2030, the Millennials, Gen Z, and Gen Alpha, will collectively represent about 85% of all global luxury purchases, with Gen Z accounting for 25% to 30% (Bain & Company, 2024). In line with this, Gen Z significantly values personalised service higher than baby boomers, about 2.5 times more, underscoring its growing importance as younger consumers become the dominant luxury segment (Mann et al., 2024). 
@@ -186,7 +185,9 @@ Employers report that replacing foreign workers with locals has been difficult, 
 At the same time, foreign-worker quotas have been progressively tightened, from 50% in 2011 to 35% in 2021 to encourage productivity improvement and limit the sector’s ability to rely on foreign labour (Seah, 2022; Choo, 2022). Educational institutions have observed a leakage of hospitality students into other sectors which is often attributed to poor internship experiences and negative perceptions of hospitality careers (Workforce Singapore, 2023). 
 These challenges compounded by demographic shifts such as an ageing workforce and changing worker aspirations leave many hotels understaffed despite active recruitment. Thus, it is becoming increasingly critical to rebuild the hospitality talent pool to maintain long-term operations and guest satisfaction (Workforce Singapore, 2023; Singapore Institute of Hospitality, 2024). Understaffing reduces service speed and quality, increases inconsistency, and ultimately erodes guest satisfaction, brand reputation, and profitability in Singapore’s fast-paced hospitality landscape (Singapore Institute of Hospitality, 2024).
 
-Figure X illustrates the top challenges and priorities identified by the hospitality industry, highlighting how manpower constraints continue to be a central concern.
+Figure 2 illustrates the top challenges and priorities identified by the hospitality industry, highlighting how manpower constraints continue to be a central concern.
+
+<img src="assets/images/Challenge_vs_Priorities.png" alt="Hospitality Industry Challenges and Priorities" style="width: 80%; max-width: 600px; margin: 20px auto; display: block;">
 
 Looking ahead, sustainable progress will depend on meaningful job redesign supported by labour-saving technologies to boost productivity and make hospitality careers more attractive.
 
@@ -220,11 +221,13 @@ The semi-structured interview guide was designed around five thematic stages (*W
 
 Following transcription and data consolidation, we adopted an affinity clustering methodology supported by an empathy mapping framework to extract key insights. Each data point from interview transcripts was first classified within a six-category empathy map \- Think/Feel, See, Say/Do, Hear, Pains, and Gains.
 <img src="assets/images/empathy-map.png" alt="Empathy Map" style="width: 80%; max-width: 600px; margin: 20px auto; display: block;">
+<p align="center"><strong>Figure 3: Empathy Map</strong></p>
 
 This facilitated a systematic visualization of user sentiments and experiences across all interviews. Subsequently, we conducted affinity clustering, grouping similar observations and identifying overarching themes and opportunity areas such as Pre-arrival Personalization, Booking and Channel Integration, and Handling of Special Requests and Exceptions.  
 These clusters were then distilled into key insights and design implications, forming the foundation for subsequent concept development and prototyping phases.
 
 ![image3](assets/images/affinity-clustering.png)
+<p align="center"><strong>Figure 4: Affinity Clustering Map</strong></p>
 
 ### **Guest Experience Pain Points Analysis (1-Star Review Study)** {#guest-experience-pain-points-analysis}
 
@@ -491,6 +494,7 @@ Understanding PMS limitations is critical when reimagining the automated check-i
 ## Pre-Arrival {#pre-arrival}
 
 ![image4](assets/images/pre-arrival-flow.png)  
+<p align="center"><strong>Figure 5: Pre-arrival Flow</strong></p>
 
 The pre-arrival phase establishes the foundation for the guest’s overall hotel experience. In luxury hospitality, this stage is not merely transactional but an opportunity to communicate attentiveness, personalization, and efficiency — qualities that define a premium brand. A seamless pre-arrival journey ensures that guests begin their stay feeling understood and valued, while the hotel benefits from streamlined operations and accurate data for service preparation (Ecole Hôtelière de Lausanne, 2023).
 
@@ -548,6 +552,7 @@ Collectively, these pre-arrival touchpoints demonstrate the interdependence of t
 ## Traditional Counter Check-In {#traditional-counter-check-in}
 
 ![image5](assets/images/traditional-counter-check-in-flow.png)  
+<p align="center"><strong>Figure 6: Counter Check-in Flow</strong></p>
 
 The check-in process is one of the most defining moments in the guest journey, shaping first impressions and setting the tone for the stay (Mann, Scully, Straus & Tellez Holub, 2024). For luxury hotels, this stage embodies the brand’s promise of seamlessness, warmth, and personalization. Yet, as our field research and observations reveal, traditional counter-based check-in workflows can create friction for both guests and staff due to outdated system design, fragmented communication, and process inefficiencies.
 
@@ -619,7 +624,8 @@ function toggleCounterDetails() {
 
 ## Kiosk Check-In {#kiosk-check-in}
 
-![image6](assets/images/kiosk-check-in-flow.png)  
+![image6](assets/images/kiosk-check-in-flow.png) 
+<p align="center"><strong>Figure 7: Kiosk Check-in Flow</strong></p> 
 
 As hotels experiment with automation to enhance efficiency and reduce manpower dependency, **self-service kiosks** have become increasingly common, especially in business and mid-to-upscale hotels. These kiosks aim to streamline routine procedures such as guest identification, payment, and room key issuance — mirroring the self-check-in models seen in airports. In Singapore, automation has been widely encouraged to address labour shortages and operational inefficiencies in the hospitality sector (Workforce Singapore, 2023). However, while kiosk systems deliver measurable gains in speed and consistency, they also expose gaps in emotional engagement and personalization — both critical attributes of the luxury segment.
 
@@ -684,8 +690,10 @@ The luxury hotel check-in ecosystem involves a complex network of stakeholders w
 
 They are the primary users of the check-in process and beneficiaries of service excellence. The check-in experience serves a diverse range of guest profiles, each with distinct expectations and challenges as seen in Image 1\.
 
-![guest profile](assets/images/DiverseGuestTypes.png)  
-Image 1: Diverse Guest Profiles and Their Unique Check-In Challenges
+<p align="center">
+  <img src="assets/images/DiverseGuestTypes.png" width="600">
+</p>
+<p align="center"><strong>Figure 8: Diverse Guest Profiles and Their Unique Check-In Challenges</strong></p>
 
 While each guest segment varies in priorities, their foundational expectations remain consistent.
 
@@ -974,7 +982,7 @@ Rather than converging immediately on a single concept, we adopted an explorator
 <p align="center">
   <img src="assets/images/SolutionsOverview.png" width="500">
 </p>
-<p align="center"><strong>Figure XX: Overview of the solutions prototyped across the guest journey</strong></p>
+<p align="center"><strong>Figure 9: Overview of the solutions prototyped across the guest journey</strong></p>
 
 ## 1\. Alluvio {#alluvio}
 
@@ -982,7 +990,7 @@ Alluvio covers the pre-booking and booking phases of the luxury hotel check-in j
 
 ### Design Rationale
 
-Most guests start looking for accommodation on Online Travel Agencies such as Booking.com, Expedia, Trip.com and Agoda. These platforms act as a centralised hub that allows users to compare prices, amenities and reviews across a wide range of properties, helping them find the best fit with minimal effort and high convenience. In recent years, many OTAs have expanded beyond hotel stays to include rental cars, attractions, flights and even airport transfers to the booked hotel, reinforcing their position as a one stop shop for travellers. According to a 2024 hotel distribution report, the vast majority of guests in Asia and Europe continue to book through these indirect channels, based on data from 2018 to 2023 as shown in Figure XX (Hotel Distribution Report, 2024). A similar pattern is observed in the United States, where data collected in 2019, 2021 and 2023 indicates that OTAs remain a dominant booking channel, as shown in Figure XX (Phocuswright Research, 2022). Together, these findings demonstrate how OTAs have become modern day leviathans in travel, shaping how guests search for and book their stays.
+Most guests start looking for accommodation on Online Travel Agencies such as Booking.com, Expedia, Trip.com and Agoda. These platforms act as a centralised hub that allows users to compare prices, amenities and reviews across a wide range of properties, helping them find the best fit with minimal effort and high convenience. In recent years, many OTAs have expanded beyond hotel stays to include rental cars, attractions, flights and even airport transfers to the booked hotel, reinforcing their position as a one stop shop for travellers. According to a 2024 hotel distribution report, the vast majority of guests in Asia and Europe continue to book through these indirect channels, based on data from 2018 to 2023 as shown in Figure 10 (Hotel Distribution Report, 2024). A similar pattern is observed in the United States, where data collected in 2019, 2021 and 2023 indicates that OTAs remain a dominant booking channel, as shown in Figure 11 (Phocuswright Research, 2022). Together, these findings demonstrate how OTAs have become modern day leviathans in travel, shaping how guests search for and book their stays.
 
 <div style="display: flex; gap: 20px; margin: 20px 0; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 0 0 45%; min-width: 250px; max-width: 400px;">
@@ -993,12 +1001,12 @@ Most guests start looking for accommodation on Online Travel Agencies such as Bo
   </div>
 </div>
 
-<p align="center"><strong>Figure XX: Share of direct and indirect online hotel bookings in Asia and Europe from 2019 to 2023</strong></p>
+<p align="center"><strong>Figure 10: Share of direct and indirect online hotel bookings in Asia and Europe from 2019 to 2023</strong></p>
   
 <p align="center">
   <img src="assets/images/USA-share.png" width="400">
 </p>
-<p align="center"><strong>Figure XX: Share of direct and indirect online hotel bookings in the United States in 2019, 2021 and 2023</strong></p>
+<p align="center"><strong>Figure 11: Share of direct and indirect online hotel bookings in the United States in 2019, 2021 and 2023</strong></p>
 
 
 However, while OTAs bring clear benefits to guests, they are not as well received by hotels. OTAs function as intermediaries, which can introduce misrepresentation of hotel offerings, including outdated photos, inaccurate descriptions or missing amenities (Goswami, 2024). From our interviews with hotel staff, we also learned that OTAs do not always pass on guest information accurately and in some cases do not share it at all. This breakdown in communication can lead to guest dissatisfaction when preferences or special requests are not properly recorded or honoured at the property.
@@ -1230,7 +1238,7 @@ Given the collaboration with our Stanford team across different time zones and c
 
 ![project](assets/images/ProjectPlan.png)  
 
-<p align="center"><strong>Figure XX: Project Plan</strong></p>
+<p align="center"><strong>Figure 12: Project Plan</strong></p>
 
 # Conclusion {#conclusion}
 
