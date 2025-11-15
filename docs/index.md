@@ -919,51 +919,67 @@ function togglehotelmanagementDefinitions() {
 }
 </script>
 
-**Role Expectations:**
-
-* Ensure consistent service quality across varying staff skill levels  
-* Manage manpower allocation, scheduling, and team performance  
-* Oversee guest satisfaction scores and service recovery protocols  
-* Make decisions on technology investment and operations
-
-**Pain Points:**
-
-* Persistent manpower shortages and high turnover.  
-* Maintaining consistent service quality with inexperienced staff.  
-* Fragmented tech stack leading to inefficiencies.  
-* High cost and complexity of implementing new technology.  
-* Pressure to balance luxury expectations with operational constraints.
-
-**Needs:**
-
-* Tools that increase staff productivity and reduce training time.  
-* Cost-effective, scalable solutions that integrate with existing systems.  
-* Visibility into operational bottlenecks and performance trends.  
-* Systems that reduce service inconsistencies and empowers staff
-
 ##### **4\. Technology Department** {#4.-technology-department}
 
 Technology departments maintain the hotel’s digital ecosystem, including PMS, kiosk systems, CRM platforms, keycard systems, automated check-in solutions, and cybersecurity protocols. They ensure that systems remain compliant with data protection policies. Additionally, they support integrations, automation implementation and maintenance, troubleshooting system failures, and evaluating new technologies for feasibility and ROI. Their work underpins the operational reliability needed for smooth check-ins and personalised guest experiences.
 
-**Role Expectations:**
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggletechDefinitions()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="tech-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Click to expand Technology Department [Core Expectations, Pain Points, and Needs]
+  </button>
+  
+  <div id="tech-definitions" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Core Expectations</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        - Maintain system reliability, uptime, and integration health<br> 
+        - Oversee data governance, cybersecurity, and PDPA compliance<br> 
+        - Support deployment, troubleshooting, and tech adoption<br>   
+        - Ensure smooth operation of PMS, kiosks, key systems, and APIs
+      </p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Pain Points</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        - Legacy systems with limited flexibility and heavy vendor lock-in<br>
+        - Integration issues between kiosks, PMS, and CRM systems<br>
+        - High risk associated with AI overhearing or data misuse
+      </p>
+    </div>
 
-* Maintain system reliability, uptime, and integration health.  
-* Oversee data governance, cybersecurity, and PDPA compliance.  
-* Support deployment, troubleshooting, and tech adoption.  
-* Ensure smooth operation of PMS, kiosks, key systems, and APIs.
+    <div style="padding: 20px 0 24px 0;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Needs</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        - Modular and easily maintainable solutions<br>
+        - Secure systems with strong privacy protections and local processing<br>
+        - Minimal disruption to operations during integration<br>
+        - Reduced dependency on third-party vendors
+      </p>
+    </div>
+  </div>
+</div>
 
-**Pain Points:**
-
-* Legacy systems with limited flexibility and heavy vendor lock-in.  
-* Integration issues between kiosks, PMS, and CRM systems.  
-* High risk associated with AI overhearing or data misuse..
-
-**Needs:**
-
-* Modular and easily maintainable solutions.  
-* Secure systems with strong privacy protections and local processing.  
-* Minimal disruption to operations during integration.  
-* Reduced dependency on third-party vendors.
+<script>
+function toggletechDefinitions() {
+  const content = document.getElementById('tech-definitions');
+  const icon = document.getElementById('tech-toggle-icon');
+  const button = event.target.closest('button');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.innerHTML = '▼';
+    icon.style.transform = 'rotate(90deg)';
+    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
+  } else {
+    content.style.display = 'none';
+    icon.innerHTML = '▶';
+    icon.style.transform = 'rotate(0deg)';
+    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  }
+}
+</script>
 
 **Scope Refinement**  
 While our stakeholder analysis considered guests, front-office staff, hotel management, and technology departments, we subsequently narrowed the primary focus of this project to guests and front-office staff. These two groups sit at the centre of the check-in interaction and experience its pain points most directly. By prioritising their needs, we are able to address the most visible breakdowns in the current journey, while still generating downstream benefits for management and technology teams through improved consistency, usability, and data quality.
