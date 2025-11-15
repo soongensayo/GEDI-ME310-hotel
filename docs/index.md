@@ -1437,13 +1437,13 @@ Building on the insights gathered from our interviews and affinity clustering an
 By distilling common attributes into relatable archetypes, the personas helped the team anchor design decisions around real human needs rather than abstract assumptions. They serve as reference points to evaluate potential solutions - ensuring that design directions remain grounded in the operational realities and emotional experiences of both staff and management.
 
 **Persona 1: Front Desk Staff (Extrovert)**
-This persona embodies the frontline employees who directly engage with guests during check-in. Typically sociable and service-driven, these individuals thrive on personal interaction and hospitality but face significant cognitive and emotional strain balancing human engagement with system-related administrative tasks.
+This persona embodies the frontline employees who directly engage with guests during check-in. Typically sociable and service-driven, these individuals thrive on personal interaction and hospitality but face significant cognitive and emotional strain balancing human engagement with system-related administrative tasks.<br>
 **Key Characteristics:**
 - Behaviours: Greets guests warmly, keys in details manually, manages guest expectations and complaints in real-time.
 - Goals: To provide seamless service, input guest data accurately, and maintain composure under pressure.
 - Pain Points: Struggles with complex systems like Opera PMS; repetitive, multitasking-heavy workflows; and emotionally draining guest interactions.
 - Personality: Extroverted, warm, yet occasionally overwhelmed or careless under stress.
-- Motivations: Desire to make guests feel valued and to perform well under managerial supervision — often driven by pride in hospitality and fear of reprimand.
+- Motivations: Desire to make guests feel valued and to perform well under managerial supervision — often driven by pride in hospitality and fear of reprimand.<br>
 **Design Implication:**
 Tools targeting this persona should emphasize simplicity, real-time guidance, and emotional relief, reducing manual data entry, streamlining multitasking, and allowing staff to focus on the relational side of service.
 
