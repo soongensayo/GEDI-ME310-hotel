@@ -1183,26 +1183,13 @@ Hotelly operates as a context-aware assistive layer, providing live prompts, key
 
 ### Design Rationale {#design-rationale}
 
-The design rationale behind Hotelly was grounded in a recurring insight from our user interviews and field research across luxury hotels: while technology can automate many back-end operations, frontline excellence remains a distinctly human craft that depends on knowledge, composure, and consistency. However, labour shortages, uneven training quality, and rising service expectations have stretched staff capacity thin (Workforce Singapore, 2023). Our aim was thus to design an assistive, not replacement-based, AI system \- one that could elevate human performance rather than diminish it.
+The design rationale behind Hotelly was shaped by a recurring insight from our fieldwork across luxury hotels: although technology can streamline back-end processes, the essence of frontline hospitality remains profoundly human. Guest-facing excellence depends on staff judgement, composure, and consistent delivery, all traits that are increasingly difficult to maintain amid labour shortages, variable training quality, and rising expectations for personalization (Workforce Singapore, 2023). Rather than pursuing automation for its own sake, the team anchored the concept in an assistive paradigm: augmenting human capability rather than replacing it. Hotelly was therefore conceived as an AI co-pilot that strengthens service delivery while preserving the warmth and intentionality associated with luxury hospitality.
 
-Cognitive Load Reduction through Real-Time Guidance  
-A major pain point uncovered during ethnographic observations was the *mental juggling* required of front desk staff during check-in. Staff must simultaneously manage guest verification, system input, small talk, and upselling, all while maintaining warmth and poise. Less experienced staff often hesitated or broke conversational flow when recalling hotel policies or local recommendations. Hotelly addresses this by providing context-sensitive, real-time prompts that surface relevant talking points, FAQs, or brand-aligned phrasing at the right moment.
+A key challenge uncovered during ethnographic observations was the cognitive load placed on front desk staff. Check-in requires parallel management of guest verification, data entry, problem-solving, and rapport-building - all while staying attentive and composed. Less experienced staff often struggled to recall phrasing, hotel policies, or local recommendations without breaking conversational flow. To address this, Hotelly introduces context-sensitive, real-time guidance delivered through a minimal peripheral overlay. This design takes inspiration from tools such as Google Contact Center AI and Cluely, which demonstrate how subtle prompts can bolster performance without becoming intrusive. By surfacing relevant information at the right moment, Hotelly supports knowledge recall and reduces hesitation, enabling staff to maintain natural interaction and human presence.
+Preserving emotional connection was another foundational principle. Luxury guests consistently emphasized the value of eye contact, warmth, and authentic conversation; intrusive technology was seen as detracting from these qualities. User testing revealed strong resistance toward head-mounted interfaces, which were described as “awkward” and “dehumanizing.” As a result, Hotelly intentionally adopts a desktop-based design with compact, digestible prompts that live at the edges of the interface. This ensures that guidance remains available without pulling attention away from the guest or encouraging staff to read verbatim from a script. The system complements the choreography of human interaction.
 
-These suggestions appear through a minimal overlay interface, drawing inspiration from existing assistive tools such as Google Contact Center AI and Cluely, which have proven effective in delivering real-time intelligence without overwhelming the user (AmplifAI, 2024). This approach allows Hotelly to act as an *on-the-job coach*, supporting knowledge recall while allowing staff to focus on relationship-building.
+Beyond moment-to-moment guidance, Hotelly also addresses a broader operational gap: the loss of service continuity between shifts. Many hotels suffer from inconsistent documentation of guest preferences and interactions, leading to lapses in personalization. Hotelly’s automated note capture and summarization create structured, timestamped records of guest conversations, improving handovers and supporting more accurate post-stay personalization and dispute resolution. This mirrors contemporary coaching systems (AmplifAI, 2024), where reflective review strengthens team capability over time. Together, these design choices reflect Ecole Hôtelière de Lausanne’s (2025) principle that AI in hospitality should enhance, not replace, empathy and human judgement. Ultimately, Hotelly aims to bridge automation with emotional intelligence, elevating the guest experience by empowering the people at its center.
 
-Preservation of Human Warmth through Peripheral Design  
-Luxury hospitality is built upon emotional connection—the subtle warmth of conversation, eye contact, and anticipation of unspoken needs. Overly intrusive technology risks eroding this human essence. To preserve natural interaction, Hotelly adopts a peripheral design approach, meaning its overlay occupies the edges of the screen and delivers short, digestible bullet points rather than full sentences. This prevents staff from reading verbatim or appearing distracted.  
-User research further indicated strong resistance toward smart-glasses interfaces, which were perceived as “awkward” and “dehumanizing” during guest-facing interactions. Therefore, our prototype was intentionally limited to desktop-based overlays that complement, rather than intrude upon, the service experience.
-
-Automation for Knowledge Continuity  
-Another gap identified through user journey mapping was the *loss of service continuity* between shifts or staff members. When key guest preferences (such as preferred room temperature, pillow type, or breakfast timing) were captured verbally but never recorded, personalization suffered. To address this, Hotelly integrates automated note capture and summarization, transcribing live interactions into structured summaries. These notes are timestamped, categorized, and stored for future retrieval, facilitating smoother handovers between shifts and improving accuracy in post-stay personalization or dispute resolution.  
-
-This design choice also supports training reinforcement, as staff can review past interactions to reflect on tone, phrasing, and guest response patterns \- echoing AmplifAI’s (2024) model of *“coaching through context.”*
-
-Human-Centric AI Integration  
-Our design follows Ecole Hôtelière de Lausanne’s (2025) principle that AI in hospitality should enhance, not replace, the warmth and empathy that define service. Hotelly is conceptualized as a co-pilot: a system that lightens cognitive load and improves precision without replacing judgement or authenticity. The system’s tone and visuals are deliberately subtle, prioritizing emotional intelligence and discretion over technological dominance.
-
-Collectively, these principles align with the project’s guiding objective \- to reimagine luxury hospitality by bridging automation and human connection, ensuring that technology amplifies the guest experience rather than diluting it.
 
 ### Value Proposition {#value-proposition-1}
 
@@ -1210,7 +1197,7 @@ Hotelly delivers value by strengthening the quality and consistency of front des
 
 In addition, Hotelly automates the capture of guest notes, preferences, and key conversational details, reducing manual administrative work and improving continuity across shifts. By integrating lightweight automation with human-centric guidance, the system enhances personalization, reduces cognitive load, and reinforces a seamless, brand-aligned check-in experience that benefits both staff and guests.
 
-**Solution demo**
+### Solution demo {#hotelly-solution-demo}
 
 <iframe width="1000" height="600" src="https://www.youtube.com/embed/3t5eh34Za-s" title="Hotelly Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1218,106 +1205,64 @@ In addition, Hotelly automates the capture of guest notes, preferences, and key 
 
 To validate the Hotelly concept, we conducted early-stage user testing with front desk staff and hospitality trainees. The feedback provided valuable direction for refinement, summarized below:
 
-Real-Time Retrieval Builds Confidence  
+#### 1. Real-Time Retrieval Builds Confidence  
 Many users described Hotelly as enabling them to appear “more knowledgeable” and “calmer under pressure.” Staff found it particularly helpful in recalling park timings, local attractions, or property-specific policies that they could not always memorize. The ability to surface key facts instantly helped maintain smooth conversational flow and reduced anxiety, especially among newer employees. This validated our hypothesis that cognitive offloading through AI can *elevate, not hinder* guest interaction quality.
 
-Training Potential Strongly Validated  
+#### 2. Training Potential Strongly Validated  
 Participants widely recognized Hotelly’s potential as a training companion. New or junior staff saw it as a safety net that enabled them to handle complex guest requests more confidently. One participant noted: *“It’s more useful as a training tool than in real life. But for new hires, it’s perfect.”* This led to the concept of a dual-mode interface, a “Training Mode” with more guidance and feedback prompts, and a “Live Mode” optimized for minimal intrusion during actual guest interactions.
 
-Automated Note-Taking as a Key Value Driver  
+#### 3. Automated Note-Taking as a Key Value Driver  
 Automation of guest note capture was consistently highlighted as one of Hotelly’s most valuable features. Staff emphasized its potential for dispute resolution, shift continuity, and personalized service. However, they also noted that accuracy and brevity would be critical: *“It even summarises preferences, that’s very helpful, but accuracy is important.”*This feedback informed our next development milestone \- integrating real-time summarization with adjustable confidence thresholds to balance automation and reliability.
 
-Managing Cognitive Offloading and Skill Atrophy  
+#### 4. Managing Cognitive Offloading and Skill Atrophy  
 While automation was largely welcomed, several respondents expressed concern about potential *skill atrophy*. Over-reliance on AI prompts might make staff dependent on the system rather than internalizing knowledge. As one user put it: *“This could make staff lazy… they might just read off it instead of remembering.”* These insights guided our philosophy that Hotelly should serve as a co-pilot, not a crutch, providing support while encouraging independent learning through gradual reduction of assistance.
 
-Interface and Usability Feedback  
+#### 5. Interface and Usability Feedback  
 Aesthetics and legibility were key concerns. Staff preferred short bullet points, large fonts, and strong visual hierarchy for quick scanning. They emphasized that the overlay should never compete with the PMS (Property Management System) interface, but rather complement it. This will guide subsequent iterations focusing on adaptive UI scaling, contrast sensitivity, and contextual card grouping.
 
-Discretion in Guest-Facing Interactions  
+#### 6. Discretion in Guest-Facing Interactions  
 A final insight related to physical discretion was that participants felt that using smart glasses or overly visible devices risked making interactions feel robotic. Instead, staff favored screen-based overlays placed subtly on monitors or tablets. This feedback affirmed the decision to keep Hotelly’s presence peripheral and contextually embedded within existing workflows.
 
 Together, these insights underscored the importance of balance—between speed and subtlety, automation and authenticity, information and intuition.
 
-## 4\. Aria AI assistant {#4.-aria-ai-assistant}
+## 4\. Aria AI assistant {#aria-ai-assistant}
 
-Aria is a Ai assistant design to help staff focus on conversation not typing. We aim to design a seamless, AI assistant that empowers hospitality staff by automating repetitive administrative work through **auto-fill** and **intelligent recommendations**. Enabling staff to focus more on meaningful guest interactions **instead of data entry**, with secure integration into workflow processes, it reduces stress and enhances workflow, while **maintaining human oversight**.
+Aria is a Ai assistant design to help staff focus on conversation not typing. We aim to design a seamless, AI assistant that empowers hospitality staff by automating repetitive administrative work through **auto-fill** and **intelligent recommendations**. Enabling staff to focus more on meaningful guest interactions **instead of data entry**, with secure integration into workflow processes, it reduces stress and enhances workflow, while **maintaining human oversight**.Aria is an AI assistant designed to help staff focus on conversation not typing. It empowers hospitality staff through voice-driven data capture, supporting real-time transcription without recording. Extracted details would automatically be autofilled into guest profile and request fields. Staff would also be supported by guided real-time prompts with answers to guest inquiries, follow-up question suggestions, and a real-time summary of conversation and guest profile, enabling personalised recommendations. Aria could also reference hotel policies, FAQs, internal, safe external web searches databases such as available rooms. To maintain accuracy and accountability, staff should be able to manually verify, edit and approve all information. Consent, privacy, and data governance remain core. Aria would require explicit guest consent before activation, would not store raw audio, and would retain transcripts only briefly for verification. Any stored text would be encrypted, with audit trails maintained for full compliance. Operationally, Aria could integrate with existing systems such as Opera PMS to support seamless workflow integration.
 
-**Research Insights & Design Rationale**
-
-**From our interview we found that**
-
-* *“**I cannot be answering your enquiry and typing at the same time**… **What if I check in the wrong?**...Then I become very rude… I need to stop my hands and then I say… while I'm talking to you, my hands are not moving… then the next question you ask me is **why are you taking so long?”***  
-* *Staff have to **multi-task a lot ( phone call, chatbox etc.) Chatbot is actually front desk staff as well, answer multiple platforms at once causes confusion and information to get lost***  
-* ***Bombarded by many questions** (such as open/close time of zoo)*  
-* “**Whatever information obtained about the guest is manually keyed into Opera, one or two information miss out may happen, wrong information** (misspell)”  
-* 
-
-As Dusit Thani College (cited in World Travel & Tourism Council, 2025\) notes, “We need technology to facilitate rather than replace staff—personal service remains such a core skill.” 
-
-**AI improves guest satisfaction through operational efficiency and personalization**
-
-* AI increases guest satisfaction in luxury hotels. (Al-Hyari et al., 2023\)  
-* Technology enables superior guest service, impacts how we identify guest needs and provide highly personalised service (Bharwani & Mathews,2021)  
-* AI now streamlines many routine tasks, freeing employees to focus on higher-value, meaningful guest interactions and creating lasting impression. (EHL Insights, 2025\)
-
-**High-touch service remains core to luxury hospitality**
-
-* AI should enhance not replace human warmth and empathy that define hospitality. (Al-Hyari et al., 2023; EHL Insights, 2025\)  
-* High-touch should remains the core of luxury/premium hospitality (Bharwani & Mathews, 2021\)
-
-**AI should enhance, not replace, human interaction**
-
-* Luxury hotels employ technology to support staff efficiency rather than replaces frontline staff. (Bharwani & Mathews, 2021\)  
-* AI tools help save costs by automating tasks and reducing the need for human labor. (Al-Hyari et al., 2023\)  
-* Guest satisfaction & loyalty still depend on employee service quality. (Al-Hyari, Al Smadi, & Wesah, 2023\)  
-* Providing guests with instant assistance and support and handle routine requests, freeing up staff to focus on more complex tasks 
-
-* AI should enhance not replace human warmth and empathy that define hospitality. (Al-Hyari et al., 2023; EHL Insights, 2025\)  
-* AI now streamlines many routine tasks, freeing employees to focus on higher-value, meaningful guest interactions and creating lasting impression. (EHL Insights, 2025\)  
-* Technology enables superior guest service, impacts how we identify guest needs and provide highly personalised service (Bharwani & Mathews,2021)
 
 **Design Rationale**
 
-**Position Aria for staff support instead of replacement**
+From our interviews, we found that front desk staff often struggle to balance conversation and data entry. Staff members described needing to pause interactions to avoid mistakes, which prolongs the process. Staff also get bombarded with guest questions and also frequently need to multitask. Such as across calls, chatboxes, in-person queries, and typing into systems, some of which occur simultaneously. Since details are manually keyed into Opera, mistakes such as missing or wrong/misspelled information may occur. These insights highlight the need for a tool that reduces typing burden and supports accurate, real-time data capture.
 
-Aria automates typing so staff can focuse more on the guest.
+As personal service by staff remains an important skill, research across luxury hospitality consistently shows that high-touch remains central to luxury, and technology should enhance rather than replace human warmth and empathy,(Dusit Thani College, cited in WTTC, 2025; Al-Hyari et al., 2023; Bharwani & Mathews, 2021; EHL Insights, 2025). This informs our decision to position Aria for staff support instead of replacement. 
+AI can streamline routine administrative tasks and boost efficiency, improving service quality and allowing employees to focus on higher-value meaning guest interactions, creating a lasting impression (EHL Insights, 2025). This supports Aria to automate typing so staff can focus more on the guest. 
+Moreover, technology enables superior guest service and improves guest satisfaction by helping hotels identify and anticipate guest needs. It acts as an efficiency enhancer that equips staff with real-time, guest-specific and directly relevant information, combining data-driven precision with human empathy to elevate personalisation experience and service (Al-Hyari et al., 2023; Bharwani & Mathews, 2021). This aligns with our design choice for Aria to analyses guest profiles to tailored prompts and service recommendations, and support staff with answers to guest questions. 
 
-**Aria analyses guest profiles to suggest tailored prompts and service recommendations**
+### Value Proposition
 
-As Dusit Thani College (cited in World Travel & Tourism Council, 2025\) notes, “We need technology to facilitate rather than replace staff—personal service remains such a core skill.” Employers are confident that automation and AI will transform—not eliminate—roles by enabling employee to be more productive. 
+For hotel staff who need to reduce manual workload and multitasking, ARIA is an AI-powered assistant that listens to guest conversations, automatically captures key information, and provides real-time intelligent prompts and answers. Delivering seamless and faster integration into hotel processes, allowing staff to focus on delivering personalized, high-touch guest experiences.
 
-Solution
+Unlike manual workflows where staff must track guest requests while juggling real-time interactions, ARIA supports rather than replaces staff tasks by reducing administrative burden, keeping them in the loop for verification, and providing quick access to information. This ensures accuracy, reduces stress and enhances workflow.
+
+
+### Solution Demo
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/YVOP8cJANXY" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Information Retrieval & Personalise Suggestion**
+### User Testing & Analysis
 
-* AI analyses guest data to provide prompts and upsell suggestion.  
-* Provides knowledge retrieval and answer queries using hotel FAQs and databases.
+#### 1. Accuracy Concern
+During feedback sessions, managers raised concerns about accuracy and the risk of staff over-relying on AI. They worried that staff may lose focus or assume the system captured information when it did not, which could lead to problems. Staff emphasised that the effectiveness of an AI assistant depends heavily on its reliability and the need for staff to remain very attentive and actively verify information. In response, Aria can incorporate real-time confirmation prompts and to maintain accuracy and accountability and ensure that control over guest data always rests with staff. Concerns also emerged regarding microphone sensitivity and placement. Managers noted that counters in close proximity could cause the mic to pick up conversations from neighbouring guests. Solutions can include using directional microphones and training the AI to distinguish speakers to mitigate background voice capture.
 
-**Automate Note-Taking**
+#### 2. Data Protection
+Data protection was another major concern. A manager highlighted PDPA risks, noting that guests can be very sensitive about data protection such as voice and cited “voice leak scandals” as to why guests may fear being recorded and also mention the importance of assuring guests that all data is deleted. He also mentioned that some staff might activate the tool even without obtaining consent. To address this, Aria requires explicit consent before activation, uses real-time transcription without storing raw audio and should include a visible active indicator, enforce audit trails with logged user actions and timestamps, and automatically delete transcripts after a defined period with a logged deletion timestamp. The IT director further stressed that any stored transcript must be encrypted.
 
-* Voice to text capture  
-* Auto-fills guest profile and request
+#### 3. Value of autofill
+Feedback also revealed mixed views about the usefulness of the auto-fill feature. The IT director acknowledged its value for capturing guest preferences and requests, noting that such requests could ideally be routed directly to service centres. However, the front office manager questioned its benefit for very short or simple interactions, where manual typing could be done quickly and easily. This informed our positioning that Aria is most beneficial in long, information-heavy, or multitasking situations rather than every check-in.
 
-**Human-in-the-Loop**
+#### 4. Additional Features
+Beyond face-to-face interactions, we also envision Aria being extended to phone calls and text messaging. Aria can listen to calls or read messages in real time, extract key details and requests, recommend replies, prepare summaries, and pre-fill guest profile fields. It can also integrate alongside our own or existing AI call/chat assistants adding autofill and structured data extraction capabilities rather than functioning solely as a reply generator and note taker. Across all channels, human verification remains required to ensure accuracy.
 
-* Staff review before saving to ensures accuracy  
-* Allows easy correction by staff
-
-**Secure & Seamless Integration**
-
-* Local processing, no raw audio stored  
-* Guest consent prompts & audit trails  
-* Syncs with PMS/CRM/Service Centre 
-
-User Testing and Analysis
-
-Value Proposition
-
-For hotel staff who need to reduce manual workload and multitasking, ARIA is an AI-powered assistant that listens to guest conversations, automatically captures key information, and provides real-time intelligent prompts and answers. Delivering seamless and faster integration into hotel processes—allowing staff to focus on delivering personalized, high-touch guest experiences.
-
-Unlike manual workflows where staff must track guest requests while juggling real-time interactions, ARIA supports rather than replaces staff tasks by reducing administrative burden, keeping them in the loop for verification, and provide quick access to information. This ensures accuracy and trust while transforming the staff role to focus on meaningful guest engagement.
 
 
 # Key Takeaways {#key-takeaways}
