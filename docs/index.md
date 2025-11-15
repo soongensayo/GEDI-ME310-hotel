@@ -275,7 +275,7 @@ Insight Summary:
 
 **5\. Manpower and Role Design of Staff**
 
-The manpower shortage remains one of the most pressing issues in the industry. Recruiting and retaining hospitality workers, especially for front-desk roles, is increasingly difficult due to long hours, stress, and perceived lack of career progression.
+The manpower shortage remains one of the most pressing issues in the industry. Recruiting and retaining hospitality workers, especially for front-desk roles, is increasingly difficult due to long hours, stress, and perceived lack of career progression.  
 
 Technology can reduce repetitive tasks and support staff efficiency but cannot replace the emotional labor essential to guest satisfaction. Hotels have thus begun redesigning roles to combine operational efficiency with relational expertise, positioning staff near kiosks to assist guests and manage exceptions.
 
@@ -343,7 +343,7 @@ The personas collectively highlight the tension between human empathy and system
 
 # Property Management System {#property-management-system}
 
-Before analysing the guest journey, it is essential to understand the core technological infrastructure underpinning hotel operations: the **Property Management System (PMS)**. In the luxury hospitality context, the PMS serves as the central nervous system of the hotel, coordinating information across reservations, housekeeping, billing, and guest services (Ecole Hôtelière de Lausanne, 2025). It connects the **front desk**, **back office**, and **guest-facing digital platforms**, ensuring that data flows seamlessly from booking to check-in and post-stay follow-up.
+Before analysing the staff's and guest's 'user journeys', it is essential to understand the core technological infrastructure underpinning hotel operations: the **Property Management System (PMS)**. In the luxury hospitality context, the PMS serves as the central nervous system of the hotel, coordinating information across reservations, housekeeping, billing, and guest services (Ecole Hôtelière de Lausanne, 2025). It connects the **front desk**, **back office**, and **guest-facing digital platforms**, ensuring that data flows seamlessly from booking to check-in and post-stay follow-up.
 
 ### **Role in Hotel Operations** {#role-in-hotel-operations}
 
@@ -368,7 +368,8 @@ These inefficiencies are particularly problematic in the luxury segment, where s
 
 Understanding PMS limitations is critical when reimagining the automated check-in process. The system’s complexity and lack of integration often prevent staff from focusing on high-touch interactions—precisely the moments that differentiate luxury service (Mann, Scully, Straus & Tellez Holub, 2024). Therefore, future design interventions should not seek to replace the PMS entirely but to **augment it** \- for example, through an overlay interface or AI assistant that extracts and surfaces relevant information in real time, reducing friction while maintaining operational accuracy.
 
-# Experience Journey Map: Pre-Arrival {#experience-journey-map:-pre-arrival}
+# Experience Journey Maps {#experience-journey-maps}
+## Pre-Arrival {#pre-arrival}
 
 ![image4](assets/images/pre-arrival-flow.png)  
 
@@ -392,7 +393,7 @@ Behind the scenes, the pre-arrival process culminates in room allocation, where 
 
 Collectively, these pre-arrival touchpoints demonstrate the interdependence of technology, personalization, and operational design in shaping the luxury guest journey. A reimagined premium check-in experience must therefore begin *before* the guest arrives—bridging digital anticipation with physical hospitality through integrated, data-driven, and emotionally engaging systems (Venture Corporation, 2025).
 
-# Experience Journey Map: Traditional Counter Check-In {#experience-journey-map:-traditional-counter-check-in}
+## Traditional Counter Check-In {#traditional-counter-check-in}
 
 ![image5](assets/images/traditional-counter-check-in-flow.png)  
 
@@ -434,7 +435,7 @@ The check-in process is one of the most defining moments in the guest journey, s
 
 **Staff perspective:** Staff acknowledge that follow-up lapses can occur, especially when information from the PMS is not synced with housekeeping or concierge systems. When issues arise, front desk agents often receive the complaint despite not being responsible for the error, highlighting the fragmented nature of existing workflows.
 
-#  Experience Journey Map: Kiosk Check-In {#experience-journey-map:-kiosk-check-in}
+## Kiosk Check-In {#kiosk-check-in}
 
 ![image6](assets/images/kiosk-check-in-flow.png)  
 
@@ -614,7 +615,7 @@ Figure X. Overview of the solutions prototyped across the guest journey.
 
 ## 
 
-## 1\. AIluvio 
+## 1\. AIluvio
 
 Alluvio covers the pre-booking and booking phases of the luxury hotel check-in journey. Our goal is to design an intelligent, secure luxury system that intuitively captures and organises guest preferences. Through a fun, swipe-based interface, guests can build dynamic, evolving profiles while AI delivers personalised recommendations based on their preferences. Profiles can also securely store essential travel documents such as Visas, for easy and anytime access. With explicit consent, this information can be shared accurately across onboarded luxury hotels via secure integrations with their hotel management systems.
 
@@ -663,7 +664,7 @@ These insights from guests and staff helped clarify Alluvio’s positioning and 
 
 ## 
 
-## 2\. AI Kiosk Assistant 
+## 2\. AI Kiosk Assistant
 
 The AI Kiosk Assistant is a complementary device that works alongside existing self-service kiosks, keeping their speed while adding warmth and guidance. It uses a natural, conversational voice to talk with guests, help them through check-in, and gently capture their preferences. 
 
@@ -678,7 +679,7 @@ Through site visits to multiple hotels in Singapore and interviews with front-of
 
 Illustrative quotes supporting each insight are provided in Appendix X. These insights suggest that the core issue is not automation itself, but that current kiosk experiences lack emotional engagement, clear guidance, and a sense of being genuinely cared for.
 
-**Design Rationale (Secondary)**
+**Design Rationale (Secondary)**  
 
 Secondary research points to a persistent tension between automation and emotional connection in hospitality. Automation can improve efficiency and consistency, but it often reduces warmth and empathy; qualities that are central to genuine hospitality. Studies also show that when self-service systems replace face-to-face interaction, guest satisfaction tends to drop, especially in areas like personalisation and perceived service quality (Christou et al., 2023).
 
@@ -766,7 +767,7 @@ Additionally, we conducted early-stage user testing with potential guests in a s
 
 **Direction for refinement:** Refine the AI Kiosk Assistant to combine voice guidance with privacy-sensitive touch interactions
 
-## 3\. Hotelly \- AI Overlay System for Front Desk Staff 
+## 3\. Hotelly \- AI Overlay System for Front Desk Staff
 
 Building on the identified challenges of manpower shortages, inconsistent service quality, and rising guest expectations, our team developed *Hotelly*, an AI overlay system designed to discreetly support front desk staff during the hotel check-in process. Rather than replacing human hospitality, Hotelly enhances it. It serves as a real-time “co-pilot” that empowers staff to deliver warm, precise, and personalized service even under pressure.
 
@@ -786,7 +787,7 @@ Luxury hospitality is built upon emotional connection—the subtle warmth of con
 User research further indicated strong resistance toward smart-glasses interfaces, which were perceived as “awkward” and “dehumanizing” during guest-facing interactions. Therefore, our prototype was intentionally limited to desktop-based overlays that complement, rather than intrude upon, the service experience.
 
 Automation for Knowledge Continuity  
-Another gap identified through user journey mapping was the *loss of service continuity* between shifts or staff members. When key guest preferences (such as preferred room temperature, pillow type, or breakfast timing) were captured verbally but never recorded, personalization suffered. To address this, Hotelly integrates automated note capture and summarization, transcribing live interactions into structured summaries. These notes are timestamped, categorized, and stored for future retrieval, facilitating smoother handovers between shifts and improving accuracy in post-stay personalization or dispute resolution.
+Another gap identified through user journey mapping was the *loss of service continuity* between shifts or staff members. When key guest preferences (such as preferred room temperature, pillow type, or breakfast timing) were captured verbally but never recorded, personalization suffered. To address this, Hotelly integrates automated note capture and summarization, transcribing live interactions into structured summaries. These notes are timestamped, categorized, and stored for future retrieval, facilitating smoother handovers between shifts and improving accuracy in post-stay personalization or dispute resolution.  
 
 This design choice also supports training reinforcement, as staff can review past interactions to reflect on tone, phrasing, and guest response patterns \- echoing AmplifAI’s (2024) model of *“coaching through context.”*
 
@@ -915,14 +916,14 @@ The 4 proposed solutions collectively address different stages of the luxury hot
 
 ## Strengths {#strengths}
 
-Receptiveness to AI Solutions  
+Receptiveness to AI Solutions
 Hotel staff generally expressed a positive attitude toward adopting AI to streamline operations and enhance guest service. While they acknowledged that AI has yet to make significant strides in the hospitality industry, largely due to the fundamental importance of the human touch, they were open to exploring how AI could be seamlessly integrated into both guest-facing and staff-facing processes. The staff were particularly enthusiastic about collaborating with us, noting that our generation’s familiarity with technology and innovative ideas made us valuable partners in their efforts to modernise.
 
-Key Features for Front-end and Back-end Use  
+Key Features for Front-end and Back-end Use
 Although our staff-facing solutions were initially designed to streamline front-end tasks, hotel staff recognised their potential value in both front-end and back-end operations. For example, the Hotelly feature, which was primarily intended to assist with check-ins by recording conversations and generating a transcript at the end of the process, proved useful for tracking back-end metrics such as average check-in times across different staff members. This data can also be leveraged for staff training, performance tracking, and even resolving disputes. For instance, if a guest claims they were not informed about lounge access during check-in, the hotel could refer to the recorded transcript to verify whether the information was communicated correctly and take appropriate action.
 
-High Feasibility for Integration with Existing PMS and HMS Systems  
-A key focus during the ideation and low-fidelity prototyping phase was minimising the learning curve and adoption barriers for hotel staff. With our low-fidelity prototypes, hotel staff expressed confidence in the feasibility of integrating our solutions with existing PMS and HMS systems. This consideration was central to our design approach, as we aim for our future proof-of-concept prototype to feature an intuitive interface, incorporating familiar icons and symbols aligned with widely used systems such as Opera by Oracle. This ensures smooth integration and simplifies the learning process for staff.  
+High Feasibility for Integration with Existing PMS and HMS Systems
+A key focus during the ideation and low-fidelity prototyping phase was minimising the learning curve and adoption barriers for hotel staff. With our low-fidelity prototypes, hotel staff expressed confidence in the feasibility of integrating our solutions with existing PMS and HMS systems. This consideration was central to our design approach, as we aim for our future proof-of-concept prototype to feature an intuitive interface, incorporating familiar icons and symbols aligned with widely used systems such as Opera by Oracle. This ensures smooth integration and simplifies the learning process for staff.
 These insights validate our low-fidelity prototypes and provide a solid foundation for further development. They affirm that we are on the right track and offer valuable momentum as we move forward with refining and expanding our solutions.
 
 # Areas for Improvement/ Considerations {#areas-for-improvement/-considerations}
@@ -1074,12 +1075,20 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
   body {
     margin: 0;
     padding: 0;
+    padding-left: 320px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  }
+  
+  /* Limit content width for better readability */
+  body > *:not(.toc-sidebar):not(style):not(script) {
+    max-width: 1100px;
+    margin-right: auto;
   }
   
   .report-container {
     display: flex;
     min-height: 100vh;
+    margin-left: 0;
   }
   
   .toc-sidebar {
@@ -1205,10 +1214,10 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
   }
   
   .main-content {
-    margin-left: 300px;
-    margin-right: 100px;
-    padding: 40px 60px;
-    max-width: 900px;
+    margin-left: 320px;
+    margin-right: 60px;
+    padding: 40px 80px;
+    max-width: 1100px;
     line-height: 1.6;
   }
   
@@ -1334,31 +1343,11 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
         </ul>
       </li>
       <li>
-        <a href="#experience-journey-map:-pre-arrival">Experience Journey Map: Pre-Arrival</a>
+        <a href="#experience-journey-maps">Experience Journey Map: Pre-Arrival</a>
         <ul>
-          <li><a href="#1.-booking">1. Booking</a></li>
-          <li><a href="#2.-confirmation-email">2. Confirmation Email</a></li>
-          <li><a href="#3.-requests-and-preferences">3. Requests and Preferences</a></li>
-          <li><a href="#4.-room-allocation">4. Room Allocation</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="#experience-journey-map:-traditional-counter-check-in">Experience Journey Map: Traditional Counter Check-In</a>
-        <ul>
-          <li><a href="#1.-arrival">1. Arrival</a></li>
-          <li><a href="#2.-greetings">2. Greetings</a></li>
-          <li><a href="#3.-exchange-of-information">3. Exchange of Information</a></li>
-          <li><a href="#4.-requests-and-questions">4. Requests and Questions</a></li>
-          <li><a href="#6.-rooming">6. Rooming</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="#experience-journey-map:-kiosk-check-in">Experience Journey Map: Kiosk Check-In</a>
-        <ul>
-          <li><a href="#1.-entering-of-key-details">1. Entering of Key Details</a></li>
-          <li><a href="#2.-guest-photo-and-passport-scanning">2. Guest Photo and Passport Scanning</a></li>
-          <li><a href="#3.-filling-of-additional-fields-and-signing-of-terms-&-conditions">3. Filling of Additional Fields and Signing of Terms & Conditions</a></li>
-          <li><a href="#4.-collection-of-key-card-and-handling-of-issues">4. Collection of Key Card and Handling of Issues</a></li>
+          <li><a href="#pre-arrival">Pre-arrival</a></li>
+          <li><a href="#traditional-counter-check-in">Traditional Counter Check-in</a></li>
+          <li><a href="#kiosk-check-in">Kiosk Check-in</a></li>
         </ul>
       </li>
       <li>
