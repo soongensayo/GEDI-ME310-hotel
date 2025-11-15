@@ -243,12 +243,36 @@ Across all hotels, backend systems such as Opera PMS and Oracle Cloud are genera
 
 While hotels are keen to adopt automation, integration challenges between systems (e.g., PMS, kiosk, key systems) hinder seamless execution. Many expressed that current kiosk technologies fail to meet luxury standards, with system glitches and limited customization affecting guest experience. As a result, technology upgrades remain incremental, focusing on reducing staff workload rather than transforming the overall check-in experience.
 
-Insight Summary:
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleInsightSummary2()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="insight-summary-toggle-icon2" style="transition: transform 0.3s ease;">▶</span>
+    Insight Summary — Click to expand
+  </button>
 
-* Backend systems are stable, but frontend integrations remain disjointed.  
-* Third-party dependencies limit flexibility and innovation.  
-* Cost and complexity deter experimentation with in-house technology.  
-* Hotels view technology as a tool for staff efficiency, not as a differentiator for luxury experience.
+  <div id="insight-summary-details2" style="display: none; padding: 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <ul style="margin: 0; padding-left: 20px; color: #444; line-height: 1.6;">
+      <li>Backend systems are stable, but frontend integrations remain disjointed.</li>
+      <li>Third-party dependencies limit flexibility and innovation.</li>
+      <li>Cost and complexity deter experimentation with in-house technology.</li>
+      <li>Hotels view technology as a tool for staff efficiency, not as a differentiator for luxury experience.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  function toggleInsightSummary2() {
+    const content = document.getElementById("insight-summary-details2");
+    const icon = document.getElementById("insight-summary-toggle-icon2");
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
 
 #### **2\. Human Touch vs Automation**
 
@@ -256,12 +280,36 @@ The interviews revealed a strong and consistent belief that human touch is indis
 
 Automation is therefore best applied to backend operations (data entry, room allocation, and reporting) while front-facing interactions must preserve warmth and human presence. Many managers also emphasized that automation should be framed as a complement, not a replacement, to service. The challenge lies in balancing efficiency with emotional connection, ensuring guests experience speed without losing the personal engagement that defines luxury.
 
-Insight Summary:
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleInsightSummary()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="insight-summary-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Insight Summary — Click to expand
+  </button>
 
-* Human interaction is the core of luxury service.  
-* Automation should be limited to support roles, not guest-facing processes.  
-* Guests interpret human presence as a sign of attentiveness and exclusivity.  
-* Emotional connection remains the most powerful differentiator in premium hospitality.
+  <div id="insight-summary-details" style="display: none; padding: 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <ul style="margin: 0; padding-left: 20px; color: #444; line-height: 1.6;">
+      <li>Human interaction is the core of luxury service.</li>
+      <li>Automation should be limited to support roles, not guest-facing processes.</li>
+      <li>Guests interpret human presence as a sign of attentiveness and exclusivity.</li>
+      <li>Emotional connection remains the most powerful differentiator in premium hospitality.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  function toggleInsightSummary() {
+    const content = document.getElementById("insight-summary-details");
+    const icon = document.getElementById("insight-summary-toggle-icon");
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
 
 **3\. Staff Tools and Empowerment**
 
@@ -269,12 +317,36 @@ Frontline staff expressed that while tools like Opera and HotSOS are indispensab
 
 Empowerment emerged as a central motivator: when staff have autonomy to resolve issues or make small gestures (e.g., using a discretionary budget to delight guests), morale and service quality improve significantly. Conversely, rigid processes or lack of cross-department awareness lead to inefficiencies and frustration.
 
-Insight Summary:
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleInsightSummary1()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="insight-summary-toggle-icon1" style="transition: transform 0.3s ease;">▶</span>
+    Insight Summary — Click to expand
+  </button>
 
-* Staff need intuitive, well-integrated tools for smoother daily operations.  
-* Training and empowerment directly influence service quality.  
-* Excessive complexity in systems contributes to stress and human error.  
-* Empowered staff are more capable of delivering personalized and responsive service.
+  <div id="insight-summary-details1" style="display: none; padding: 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <ul style="margin: 0; padding-left: 20px; color: #444; line-height: 1.6;">
+      <li>Staff need intuitive, well-integrated tools for smoother daily operations.</li>
+      <li>Training and empowerment directly influence service quality.</li>
+      <li>Excessive complexity in systems contributes to stress and human error.</li>
+      <li>Empowered staff are more capable of delivering personalized and responsive service.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  function toggleInsightSummary1() {
+    const content = document.getElementById("insight-summary-details1");
+    const icon = document.getElementById("insight-summary-toggle-icon1");
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
 
 **4\. Pre-arrival Data and Personalisation**
 
@@ -282,12 +354,37 @@ Hotels strive to capture guest preferences before arrival through membership pro
 
 Luxury guests expect a personal touch proportionate to what they pay, yet personalization across all guests is impractical due to scale and manpower constraints. As a result, hotels tend to reserve full personalization for returning or VIP guests, while others receive standardized experiences.
 
-Insight Summary:
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleInsightSummary4()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="insight-summary-toggle-icon4" style="transition: transform 0.3s ease;">▶</span>
+    Insight Summary — Click to expand
+  </button>
 
-* Pre-arrival data collection is strong, but execution consistency varies.  
-* Systemic and manpower constraints prevent personalization for all guests.  
-* True personalization relies on data integration and staff initiative.  
-* Guests still expect visible recognition and tailored gestures that affirm their value.
+  <div id="insight-summary-details4" style="display: none; padding: 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <ul style="margin: 0; padding-left: 20px; color: #444; line-height: 1.6;">
+      <li>Pre-arrival data collection is good, but execution consistency varies.</li>
+      <li>Systemic and manpower constraints prevent personalization for all guests.</li>
+      <li>True personalization relies on data integration and staff initiative.</li>
+      <li>Guests still expect visible recognition and tailored gestures that affirm their value.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  function toggleInsightSummary4() {
+    const content = document.getElementById("insight-summary-details4");
+    const icon = document.getElementById("insight-summary-toggle-icon4");
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
+
 
 **5\. Manpower and Role Design of Staff**
 
@@ -295,12 +392,36 @@ The manpower shortage remains one of the most pressing issues in the industry. R
 
 Technology can reduce repetitive tasks and support staff efficiency but cannot replace the emotional labor essential to guest satisfaction. Hotels have thus begun redesigning roles to combine operational efficiency with relational expertise, positioning staff near kiosks to assist guests and manage exceptions.
 
-Insight Summary:
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleInsightSummary5()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="insight-summary-toggle-icon5" style="transition: transform 0.3s ease;">▶</span>
+    Insight Summary — Click to expand
+  </button>
 
-* Persistent labour shortages heighten reliance on technology.  
-* Staff are still central to guest experience, even in automated systems.  
-* Hybrid role designs (e.g., kiosk assistants) are emerging as pragmatic solutions.  
-* Maintaining hospitality’s emotional core remains a human-dependent challenge.
+  <div id="insight-summary-details5" style="display: none; padding: 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <ul style="margin: 0; padding-left: 20px; color: #444; line-height: 1.6;">
+      <li>Persistent labour shortages heighten reliance on technology.</li>
+      <li>Staff are still central to guest experience, even in automated systems.</li>
+      <li>Hybrid role designs (e.g., kiosk assistants) are emerging as pragmatic solutions.</li>
+      <li>Maintaining hospitality’s emotional core remains a human-dependent challenge.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  function toggleInsightSummary5() {
+    const content = document.getElementById("insight-summary-details5");
+    const icon = document.getElementById("insight-summary-toggle-icon5");
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
 
 **6\. Service Recovery and “Wow” Moments**
 
@@ -308,12 +429,36 @@ Service recovery emerged as a defining factor separating good from exceptional h
 
 However, this culture varies across hotels. Some operate under strict approval hierarchies, limiting their ability to recover gracefully from service lapses. Interviewees emphasized that true “wow” moments often stem from staff intuition and empathy, not protocol.
 
-Insight Summary:
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleInsightSummary6()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="insight-summary-toggle-icon6" style="transition: transform 0.3s ease;">▶</span>
+    Insight Summary — Click to expand
+  </button>
 
-* Consistency in service recovery varies across organizations.  
-* Empowered staff can turn service failures into positive memories.  
-* “Wow” moments are more often the result of emotional intelligence than technology.  
-* Guests remember personal gestures far more than procedural efficiency.
+  <div id="insight-summary-details6" style="display: none; padding: 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <ul style="margin: 0; padding-left: 20px; color: #444; line-height: 1.6;">
+      <li>Consistency in service recovery varies across organizations.</li>
+      <li>Empowered staff can turn service failures into positive memories.</li>
+      <li>"Wow" moments are more often the result of emotional intelligence than technology.</li>
+      <li>Guests remember personal gestures far more than procedural efficiency.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  function toggleInsightSummary6() {
+    const content = document.getElementById("insight-summary-details6");
+    const icon = document.getElementById("insight-summary-toggle-icon6");
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
 
 ## User Personas
 
