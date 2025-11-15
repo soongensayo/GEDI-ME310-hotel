@@ -131,18 +131,14 @@ function toggleLuxuryDefinitions() {
   const icon = document.getElementById('luxury-toggle-icon');
   const button = event.target.closest('button');
   
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-    icon.innerHTML = '▼';
-    icon.style.transform = 'rotate(90deg)';
-    button.innerHTML = button.innerHTML.replace('Expand to view', 'Collapse').replace('▶', '▼');
-  } else {
-    content.style.display = 'none';
-    icon.innerHTML = '▶';
-    icon.style.transform = 'rotate(0deg)';
-    button.innerHTML = button.innerHTML.replace('Collapse', 'Expand to view').replace('▼', '▶');
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
   }
-}
 </script> 
 
 Collectively, these five dimensions form the foundation of modern luxury hospitality and serve as our guiding principles for reimagining the luxury hotel check-in journey.
