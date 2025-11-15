@@ -581,7 +581,7 @@ The luxury hotel check-in ecosystem involves a complex network of stakeholders w
 
 They are the primary users of the check-in process and beneficiaries of service excellence. The check-in experience serves a diverse range of guest profiles, each with distinct expectations and challenges as seen in Image 1\.
 
-![][image7]  
+![guest profile](assets/images/DiverseGuestTypes.png)  
 Image 1: Diverse Guest Profiles and Their Unique Check-In Challenges
 
 While each guest segment varies in priorities, their foundational expectations remain consistent.
