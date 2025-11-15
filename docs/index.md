@@ -1196,7 +1196,8 @@ Data protection was another major concern. A manager highlighted PDPA risks, not
 Feedback also revealed mixed views about the usefulness of the auto-fill feature. The IT director acknowledged its value for capturing guest preferences and requests, noting that such requests could ideally be routed directly to service centres. However, the front office manager questioned its benefit for very short or simple interactions, where manual typing could be done quickly and easily. This informed our positioning that Aria is most beneficial in long, information-heavy, or multitasking situations rather than every check-in.
 
 ### Future Additional Features
-Beyond face-to-face interactions, we also envision Aria being extended to phone calls and text messaging. Aria can listen to calls or read messages in real time, extract key details and requests, recommend replies, prepare summaries, and pre-fill guest profile fields. It can also integrate alongside our own or existing AI call/chat assistants adding autofill and structured data extraction capabilities rather than functioning solely as a reply generator and note taker. Across all channels, human verification remains required to ensure accuracy.
+Beyond face-to-face interactions, we also envision Aria being extended to phone calls and text messaging. Aria could listen to calls or read messages in real time, extract and autofill key details and requests, recommend replies and prepare summaries. Across all channels, human verification would remain required to ensure accuracy.
+
 
 
 
