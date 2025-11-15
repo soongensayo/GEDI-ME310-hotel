@@ -1299,14 +1299,16 @@ To support this progress, we will ensure clear delegation of tasks and maintain 
       
 27. Singapore Tourism Board. (2025, April 11). Speech by Ms Grace Fu, minister for Sustainability and the environment and minister-in-charge of trade relations, at TIC 2025\. [https://www.stb.gov.sg/about-stb/media-publications/speeches/speech-by-ms-grace-fu--minister-for-sustainability-and-the-environment-and-minister-in-charge-of-trade-relations--at-tic-2025/](https://www.stb.gov.sg/about-stb/media-publications/speeches/speech-by-ms-grace-fu--minister-for-sustainability-and-the-environment-and-minister-in-charge-of-trade-relations--at-tic-2025/)   
 28. Singapore Tourism Board. (2025, February 4). Singapore achieves historical high in tourism receipts in 2024\. [https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024](https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-achieves-historical-high-in-tourism-receipts-in-2024) (Singapore Tourism Board, 2025\)  
-29. Singapore Tourism Board. (2025, September 18). Hotels. Retrieved from [https://www.stb.gov.sg/industries-experience-development/hotels](https://www.stb.gov.sg/industries-experience-development/hotels)  
-30. Stanley, S. (2025, April 11). Singapore targets $50 billion in tourism receipts by 2040; eyes MICE sector as key growth driver. The Straits Times. [https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver](https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver)  
-31. Tufft, C., Constantin, M., Pacca, M., & Mann, R. (2024, May 29). Updating perceptions about today’s luxury traveler. McKinsey & Company. [https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler](https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler)   
-32. UN Tourism. (2025, January 21). International tourism recovers pre-pandemic levels in 2024\. [https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024](https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024)   
-33. Venture Corporation Ltd. (2025). Reimagining a Premium Automated Hotel Check-In Experience: Project Brief.  
-34. Workforce Singapore. (2023, November 7). The Future of Jobs and Skills in Singapore’s Hotel Industry [https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels\_full-report\_v8-0\_public\_vf\_07112023.pdf](https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels_full-report_v8-0_public_vf_07112023.pdf)  
-35. World Travel & Tourism Council. (2025, September 30). WTTC report shows travel & tourism set to support 91MN new jobs by 2035\. [https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035](https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035)  
-36. World Travel & Tourism Council. (2025). The future of work in travel & tourism: The key trends shaping workforce strategies. World Travel & Tourism Council.
+29. Singapore Tourism Board. (2025, September 10). Tourism Statistics. [https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html](https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html)   
+30. Singapore Tourism Board. (2025, September 18). Hotels. Retrieved from [https://www.stb.gov.sg/industries-experience-development/hotels](https://www.stb.gov.sg/industries-experience-development/hotels)  
+31. Stanley, S. (2025, April 11). Singapore targets $50 billion in tourism receipts by 2040; eyes MICE sector as key growth driver. The Straits Times. [https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver](https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver)  
+32. Tufft, C., Constantin, M., Pacca, M., & Mann, R. (2024, May 29). Updating perceptions about today’s luxury traveler. McKinsey & Company. [https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler](https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler)   
+33. UN Tourism. (2025, January 21). International tourism recovers pre-pandemic levels in 2024\. [https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024](https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024)   
+34. Venture Corporation Ltd. (2025). Reimagining a Premium Automated Hotel Check-In Experience: Project Brief.  
+35. Workforce Singapore. (2023, November 7). The Future of Jobs and Skills in Singapore’s Hotel Industry [https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels\_full-report\_v8-0\_public\_vf\_07112023.pdf](https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels_full-report_v8-0_public_vf_07112023.pdf)  
+36. World Travel & Tourism Council. (2025, September 30). WTTC report shows travel & tourism set to support 91MN new jobs by 2035\. [https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035](https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035)  
+37. World Travel & Tourism Council. (2025). The future of work in travel & tourism: The key trends shaping workforce strategies. World Travel & Tourism Council.
+ 
 
 # Appendices {#appendix}
 
@@ -1320,13 +1322,14 @@ The Luxury Traveler Survey from Skift further highlights a trend towards splurgi
 
 This is shaped by the declining ability of luxury goods to signal social standing, driven by their increased accessibility and the growing prevalence of high-quality fakes (EHL Insights, 2023).
 
-Similarly, the UN Tourism (2025) estimated that in 2024, about 1.4 billion tourists travelled internationally, indicating almost complete recovery (99%) of pre-pandemic levels—fueled by strong post-pandemic demand, robust performance from large source markets and the ongoing recovery of destinations in Asia and the Pacific. The sector’s strong rebound is also becoming a powerful engine for global job creation, with projections to support about 371 million jobs this year (World Travel & Tourism Council, 2025). International arrivals are projected to rise a further 3%–5% in 2025 (UN Tourism, 2025).
+**Global Trends**
+The almost complete recovery (99%) of pre-pandemic levels is fueled by strong post-pandemic demand, robust performance from large source markets and the ongoing recovery of destinations in Asia and the Pacific. The sector’s strong rebound is also becoming a powerful engine for global job creation, with projections to support about 371 million jobs this year (World Travel & Tourism Council, 2025). International arrivals are projected to rise a further 3%–5% in 2025 (UN Tourism, 2025).
 
 Roles that depend on human interaction and services that are hard to automate will remain especially in high demand (World Travel & Tourism Council, 2025).
 
 **Singapore’s Hospitality Trends**
 
-Looking ahead, the Singapore Tourism Board (2025) forecasts tourism receipts of SGD 29 to 30.5 billion and expects international visitor arrivals to reach 17 to 18.5 million in 2025, maintaining the upward trajectory seen in 2024\.
+Looking ahead, the Singapore Tourism Board (2025) forecasts tourism receipts of SGD 29 to 30.5 billion and expects international visitor arrivals to reach 17 to 18.5 million in 2025, maintaining the upward trajectory seen in 2024.
 
 Mordor Intelligence (2025) projects the hospitality sector will reach a market size of USD 21.18 billion in 2025 and grow further to USD 28.51 billion by 2030, representing a compound annual growth rate (CAGR) of 6.12 %. 
 
@@ -1340,13 +1343,11 @@ At the same time rising competition from new brands, distribution channels, and 
 
 **Singapore Labour Shortage**
 
-The Singapore Business Federation notes that foreign manpower remains essential to meeting service demand due to the shrinking pool of willing local job seekers (Seah, K. C., 2022). Post-COVID recovery has reignited consumer demand, yet the industry’s workforce has not rebounded at the same pace  (Singapore Institute of Hospitality, 2024\). Singapore's recruitment and retention problem in the service industry threatens growth (Cayla, 2023). 
-
-Employees are often required to work extended hours, resulting in fatigue, burnout, and even higher turnover rates (Singapore Institute of Hospitality, 2024\). 
+The Singapore Business Federation notes that foreign manpower remains essential to meeting service demand due to the shrinking pool of willing local job seekers (Seah, K. C., 2022). Post-COVID recovery has reignited consumer demand, yet the industry’s workforce has not rebounded at the same pace  (Singapore Institute of Hospitality, 2024). Singapore's recruitment and retention problem in the service industry threatens growth (Cayla, 2023). 
 
 Service workers feel that customers undervalue the skills and expertise required for their jobs, hospitality employees often undertake years of rigorous training, yet their skills are unappreciated (Cayla, 2023).
 
-In turn, this contributes to lost revenue opportunities, as teams are unable to manage demand (Singapore Institute of Hospitality, 2024\). 
+Lost revenue opportunities, as teams are unable to manage demand (Singapore Institute of Hospitality, 2024). 
 
 ### Appendix B: Hotel and Industry Visits {#appendix}
 
