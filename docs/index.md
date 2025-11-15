@@ -1439,27 +1439,32 @@ Building on the insights gathered from our interviews and affinity clustering an
 By distilling common attributes into relatable archetypes, the personas helped the team anchor design decisions around real human needs rather than abstract assumptions. They serve as reference points to evaluate potential solutions - ensuring that design directions remain grounded in the operational realities and emotional experiences of both staff and management.
 
 **Persona 1: Front Desk Staff (Extrovert)**
-This persona embodies the frontline employees who directly engage with guests during check-in. Typically sociable and service-driven, these individuals thrive on personal interaction and hospitality but face significant cognitive and emotional strain balancing human engagement with system-related administrative tasks.<br>
+This persona embodies the frontline employees who directly engage with guests during check-in. Typically sociable and service-driven, these individuals thrive on personal interaction and hospitality but face significant cognitive and emotional strain balancing human engagement with system-related administrative tasks.
+
 **Key Characteristics:**
 - Behaviours: Greets guests warmly, keys in details manually, manages guest expectations and complaints in real-time.
 - Goals: To provide seamless service, input guest data accurately, and maintain composure under pressure.
 - Pain Points: Struggles with complex systems like Opera PMS; repetitive, multitasking-heavy workflows; and emotionally draining guest interactions.
 - Personality: Extroverted, warm, yet occasionally overwhelmed or careless under stress.
-- Motivations: Desire to make guests feel valued and to perform well under managerial supervision — often driven by pride in hospitality and fear of reprimand.<br>
+- Motivations: Desire to make guests feel valued and to perform well under managerial supervision — often driven by pride in hospitality and fear of reprimand.
+
 **Design Implication:**
 Tools targeting this persona should emphasize simplicity, real-time guidance, and emotional relief, reducing manual data entry, streamlining multitasking, and allowing staff to focus on the relational side of service.
 
-Persona 2: Hotel Manager
+**Persona 1: Hotel Manager**
 This persona represents middle- to upper-level managers responsible for overall service quality, staff coordination, and technology adoption. They bridge guest expectations, staff realities, and corporate objectives, often balancing efficiency goals with the preservation of brand hospitality standards.
-Key Characteristics:
-Behaviours: Conducts team meetings, supervises operations, and occasionally intervenes in guest escalations.
-Goals: Improve consistency, empower staff autonomy, enhance efficiency and guest satisfaction.
-Pain Points: Fragmented tech systems, difficulty retaining skilled staff, and pressure to adopt technologies that may disrupt daily operations.
-Personality: Charismatic and outwardly confident, but at times detached from on-the-ground challenges.
-Motivations: Enhance hotel reputation, improve guest ratings, and optimize operations to manage costs effectively.
-Design Implication:
+
+**Key Characteristics:**
+- Behaviours: Conducts team meetings, supervises operations, and occasionally intervenes in guest escalations.
+- Goals: Improve consistency, empower staff autonomy, enhance efficiency and guest satisfaction.
+- Pain Points: Fragmented tech systems, difficulty retaining skilled staff, and pressure to adopt technologies that may disrupt daily operations.
+- Personality: Charismatic and outwardly confident, but at times detached from on-the-ground challenges.
+- Motivations: Enhance hotel reputation, improve guest ratings, and optimize operations to manage costs effectively.
+
+**Design Implication:**
 Solutions for this persona should provide visibility, control, and actionable insights. This enables managers to monitor performance, empower teams, and assess new technology adoption without micromanaging.
-Application of Personas
+
+**Application of Personas**
 The personas collectively highlight the tension between human empathy and system efficiency - a central challenge in reimagining the luxury check-in experience. By referencing these personas in subsequent design stages (such as journey mapping and prototyping), the team can ensure that innovations remain empathetic to staff realities while aligning with managerial objectives for scalability and consistency.
 
 
