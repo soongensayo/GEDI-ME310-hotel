@@ -1038,9 +1038,11 @@ Most guests start looking for accommodation on Online Travel Agencies such as Bo
 </div>
 
 
-**Figure XX: Share of direct and indirect online hotel bookings in the United States in 2019, 2021 and 2023**
+<p align="center">
+  <img src="assets/images/USA-share.png" width="400">
+</p>
+<p align="center"><em>Figure XX: Share of direct and indirect online hotel bookings in the United States in 2019, 2021 and 2023</em></p>
 
-*(asset name: USA share)*
 
 However, while OTAs bring clear benefits to guests, they are not as well received by hotels. OTAs function as intermediaries, which can introduce misrepresentation of hotel offerings, including outdated photos, inaccurate descriptions or missing amenities (Goswami, 2024). From our interviews with hotel staff, we also learned that OTAs do not always pass on guest information accurately and in some cases do not share it at all. This breakdown in communication can lead to guest dissatisfaction when preferences or special requests are not properly recorded or honoured at the property.
 
