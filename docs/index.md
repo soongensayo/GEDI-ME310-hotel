@@ -1065,7 +1065,7 @@ For hotels, it encourages higher kiosk adoption without the cost and disruption 
 
 * **Conversational Guidance:** Natural voice interaction that welcomes guests, explains steps, and reduces confusion at the kiosk.
 
-* **Policy- & Knowledge-Aware:** Powered by OpenAI’s large language model that can be tailored with hotel policies, FAQs, and local information, so responses stay accurate and context-specific.
+* **Policy & Knowledge Awareness:** Powered by OpenAI’s large language model that can be tailored with hotel policies, FAQs, and local information, so responses stay accurate and context-specific.
 
 * **Exception Handling & Escalation:** Lets guests ask simple questions (e.g. late check-out, bedding type, package entitlements) and either provides guided answers or seamlessly routes the issue to front-office staff when human intervention is needed.
 
@@ -1202,26 +1202,26 @@ Beyond face-to-face interactions, we also envision Aria being extended to phone 
 The 4 proposed solutions collectively address different stages of the luxury hotel check-in journey, encompassing elements of pre-booking, booking, check-in, and stay. 2 of these concepts are focused on guest-facing experiences aimed at streamlining and enhancing guest satisfaction while the other two lean more towards staff-facing solutions designed to improve operational efficiency, thereby indirectly enriching the overall guest experience. Together, these solutions offer a comprehensive exploration of the luxury hotel check-in process. Through user testing sessions conducted with both hotel staff and guests, several key insights were identified that consistently emerged across all 4 of our low-fidelity prototypes. The following section presents these key takeaways, which will guide our next phase of design refinement and development.
 
 ## Strengths {#strengths}
-
-Receptiveness to AI Solutions
+##### **1\. Receptiveness to AI Solutions** 
 Hotel staff generally expressed a positive attitude toward adopting AI to streamline operations and enhance guest service. While they acknowledged that AI has yet to make significant strides in the hospitality industry, largely due to the fundamental importance of the human touch, they were open to exploring how AI could be seamlessly integrated into both guest-facing and staff-facing processes. The staff were particularly enthusiastic about collaborating with us, noting that our generation’s familiarity with technology and innovative ideas made us valuable partners in their efforts to modernise.
 
-Key Features for Front-end and Back-end Use
+##### **2\. Key Features for Front-end and Back-end Use** 
 Although our staff-facing solutions were initially designed to streamline front-end tasks, hotel staff recognised their potential value in both front-end and back-end operations. For example, the Hotelly feature, which was primarily intended to assist with check-ins by recording conversations and generating a transcript at the end of the process, proved useful for tracking back-end metrics such as average check-in times across different staff members. This data can also be leveraged for staff training, performance tracking, and even resolving disputes. For instance, if a guest claims they were not informed about lounge access during check-in, the hotel could refer to the recorded transcript to verify whether the information was communicated correctly and take appropriate action.
 
-High Feasibility for Integration with Existing PMS and HMS Systems
-A key focus during the ideation and low-fidelity prototyping phase was minimising the learning curve and adoption barriers for hotel staff. With our low-fidelity prototypes, hotel staff expressed confidence in the feasibility of integrating our solutions with existing PMS and HMS systems. This consideration was central to our design approach, as we aim for our future proof-of-concept prototype to feature an intuitive interface, incorporating familiar icons and symbols aligned with widely used systems such as Opera by Oracle. This ensures smooth integration and simplifies the learning process for staff.
+##### **3\. High Feasibility for Integration with Existing PMS and HMS Systems** 
+A key focus during the ideation and low-fidelity prototyping phase was minimising the learning curve and adoption barriers for hotel staff. With our low-fidelity prototypes, hotel staff expressed confidence in the feasibility of integrating our solutions with existing PMS and HMS systems. This consideration was central to our design approach, as we aim for our future proof-of-concept prototype to feature an intuitive interface, incorporating familiar icons and symbols aligned with widely used systems such as Opera by Oracle. This ensures smooth integration and simplifies the learning process for staff.<br>
+
 These insights validate our low-fidelity prototypes and provide a solid foundation for further development. They affirm that we are on the right track and offer valuable momentum as we move forward with refining and expanding our solutions.
 
-# Areas for Improvement / Considerations {#areas-for-improvement}
+## Areas for Improvements/ Considerations {#areas-for-improvement}
 
-Data Privacy and Security Concerns  
+##### **1\. Data Privacy and Security Concerns** 
 Data privacy and security are critical considerations in the hospitality industry, where large volumes of sensitive guest information are handled daily. As such, ensuring that all data is stored and transferred safely is essential. Any breach would not only lead to financial penalties and operational disruption but also reputational damage for the hotel. Protecting guest information must therefore be a priority, and our solutions need to uphold the highest standards of data protection.
 
-Balancing Human Judgement and AI Adoption  
+##### **2\. Balancing Human Judgement and AI Adoption** 
 AI should empower staff rather than replace their judgement. Many staff members shared that technology designed to streamline operations should remain invisible to guests, supporting their work without creating over reliance. This underscores the need to maintain a balanced relationship between automation and human decision-making. The way moving forward will be to explore how AI can enhance staff capabilities while ensuring they retain the skill and confidence to deliver quality service independently. We believe this balance is achievable through sustained research, user testing and iterative refinement.
 
-Real-World Deployment Considerations  
+##### **3\. Real-World Deployment Considerations** 
 Within the context of luxury hotels, practicality and seamless integration are essential. Any solution introduced must fit naturally into existing workflows, uphold service standards and avoid disrupting the guest experience. Thus, real-world deployment is another key consideration for us, requiring evaluation of both technical and operational feasibility from the onset to ensure that the solution can be integrated smoothly.
 
 # Project Plan {#project-plan}
@@ -1229,6 +1229,8 @@ Within the context of luxury hotels, practicality and seamless integration are e
 Given the collaboration with our Stanford team across different time zones and countries, much of our work will be remote. However, in-person meetings will take place, albeit briefly relative to the overall duration of the project. It is crucial that we develop a plan to ensure both our team and the Stanford team are aligned on milestones and deadlines. These meetings must be focused and efficient to ensure we stay on track with the timeline and make steady progress. They are essential for maintaining momentum and ensuring effective collaboration. With this in mind, we have developed a timeline that we are committed to following closely. The key milestones are outlined below:
 
 ![project](assets/images/ProjectPlan.png)  
+
+<p align="center"><strong>Figure XX: Project Plan</strong></p>
 
 # Conclusion {#conclusion}
 
@@ -1286,12 +1288,13 @@ To support this progress, we will ensure clear delegation of tasks and maintain 
 39. Nichols, J. P. (2025, August 22). Finding A Balance Between Technology and Human Touch in Hospitality. Hospitality Net. [https://www.hospitalitynet.org/opinion/4128479.html](https://www.hospitalitynet.org/opinion/4128479.html)
 
 
-# Appendix {#appendix}
+# Appendices {#appendix}
+
+### Appendix A
 
 **Global market growth**
 
 The Luxury Traveler Survey from Skift further highlights a trend towards splurging on luxury accommodation, customized itineraries, and highend experiences (EHL Insights, 2025). 
-
 
 **Changing definition of luxury & guest experience**
 
@@ -1325,52 +1328,7 @@ Service workers feel that customers undervalue the skills and expertise required
 
 In turn, this contributes to lost revenue opportunities, as teams are unable to manage demand (Singapore Institute of Hospitality, 2024\). 
 
-**Appendix X: Illustrative Quotes Supporting Key Insights**
-
-**Insight 1: Kiosks are too transactional and non-conversational**
-
-<p align="center">
-  <img src="assets/images/Insight1.png" width="500">
-</p>
-<p align="center"><em>Image 1: Kiosks are too transactional and non-conversational</em></p>
-
-
-These quotes highlight how guests perceive kiosks as mechanical and emotionless, lacking the warmth and conversational qualities of human interaction (see Image 1\)
-
-**Insight 2: Kiosks lacked guidance and were emotionless**
-
-Field observations showed guests hesitating, appearing confused, and ultimately abandoning the kiosk to seek staff; over a two-hour period, we observed at least three to four groups unsure of how to proceed
-
-<p align="center">
-  <img src="assets/images/Insight2.png" width="500">
-</p>
-<p align="center"><em>Image 2: Lack of Guidance & Emotional Reassurance</em></p>
-
-
-Interview insights highlight that staff often need to station someone near the kiosk specifically because the kiosk lacks sufficient guidance and emotional reassurance (see Image 2).
-
-**Insight 3: Misaligned with luxury price points**
-
-<p align="center">
-  <img src="assets/images/Insight3.png" width="500">
-</p>
-<p align="center"><em>Image 3: Misalignment with Luxury Expectation</em></p>
-
-
-These quotes show that guests paying premium rates expect personalised, human-led service, making self-service check-in feel mismatched with luxury hospitality standards (see Image 3).
-
-**Insight 4: Kiosks are inadequate when guests have questions or exceptions**
-
-<p align="center">
-  <img src="assets/images/Insight4.png" width="500">
-</p>
-<p align="center"><em>Image 4: Inadequacy for Questions & Exceptions</em></p>
-
-
-These quotes demonstrate how kiosks struggle not only with non-standard requests and special needs, but also with answering the wide range of questions guests typically ask; resulting in users defaulting to staff for support (see Image 4\)*.*
-
-
-# Appendix X: Hotel and Industry Visits {#appendix}
+### Appendix B: Hotel and Industry Visits {#appendix}
 
 This appendix summarises the luxury hotels and organisations we visited as part of our primary research. Each visit helped us understand real-world check-in operations, constraints, and attitudes towards automation in luxury hospitality.
 
@@ -1441,6 +1399,46 @@ We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree
 </p>
 <p align="center"><em>Figure X.5. Mandai Rainforest Resort – arrival area (site visit photograph)</em></p>
 
+
+### Appendix C: Illustrative Quotes Supporting Key Insights
+
+**Insight 1: Kiosks are too transactional and non-conversational**
+
+<p align="center">
+  <img src="assets/images/Insight1.png" width="500">
+</p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 1/strong></p>
+
+These quotes highlight how guests perceive kiosks as mechanical and emotionless, lacking the warmth and conversational qualities of human interaction (see Figure XX).
+
+**Insight 2: Kiosks lacked guidance and were emotionless**
+
+Field observations showed guests hesitating, appearing confused, and ultimately abandoning the kiosk to seek staff; over a two-hour period, we observed at least three to four groups unsure of how to proceed
+
+<p align="center">
+  <img src="assets/images/Insight2.png" width="500">
+</p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 2/strong></p>
+
+Interview insights highlight that staff often need to station someone near the kiosk specifically because the kiosk lacks sufficient guidance and emotional reassurance (see Figure XX).
+
+**Insight 3: Misaligned with luxury price points**
+
+<p align="center">
+  <img src="assets/images/Insight3.png" width="500">
+</p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 3/strong></p>
+
+These quotes show that guests paying premium rates expect personalised, human-led service, making self-service check-in feel mismatched with luxury hospitality standards (see Figure XX).
+
+**Insight 4: Kiosks are inadequate when guests have questions or exceptions**
+
+<p align="center">
+  <img src="assets/images/Insight4.png" width="500">
+</p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 4/strong></p>
+
+These quotes demonstrate how kiosks struggle not only with non-standard requests and special needs, but also with answering the wide range of questions guests typically ask; resulting in users defaulting to staff for support (see Figure XX).
 
 
 <style>
