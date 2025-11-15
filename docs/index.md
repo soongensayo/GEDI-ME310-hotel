@@ -1358,12 +1358,13 @@ To support this progress, we will ensure clear delegation of tasks and maintain 
 39. Nichols, J. P. (2025, August 22). Finding A Balance Between Technology and Human Touch in Hospitality. Hospitality Net. [https://www.hospitalitynet.org/opinion/4128479.html](https://www.hospitalitynet.org/opinion/4128479.html)
 
 
-# Appendix {#appendix}
+# Appendices {#appendix}
+
+### Appendix A
 
 **Global market growth**
 
 The Luxury Traveler Survey from Skift further highlights a trend towards splurging on luxury accommodation, customized itineraries, and highend experiences (EHL Insights, 2025). 
-
 
 **Changing definition of luxury & guest experience**
 
@@ -1397,52 +1398,7 @@ Service workers feel that customers undervalue the skills and expertise required
 
 In turn, this contributes to lost revenue opportunities, as teams are unable to manage demand (Singapore Institute of Hospitality, 2024\). 
 
-**Appendix X: Illustrative Quotes Supporting Key Insights**
-
-**Insight 1: Kiosks are too transactional and non-conversational**
-
-<p align="center">
-  <img src="assets/images/Insight1.png" width="500">
-</p>
-<p align="center"><em>Image 1: Kiosks are too transactional and non-conversational</em></p>
-
-
-These quotes highlight how guests perceive kiosks as mechanical and emotionless, lacking the warmth and conversational qualities of human interaction (see Image 1\)
-
-**Insight 2: Kiosks lacked guidance and were emotionless**
-
-Field observations showed guests hesitating, appearing confused, and ultimately abandoning the kiosk to seek staff; over a two-hour period, we observed at least three to four groups unsure of how to proceed
-
-<p align="center">
-  <img src="assets/images/Insight2.png" width="500">
-</p>
-<p align="center"><em>Image 2: Lack of Guidance & Emotional Reassurance</em></p>
-
-
-Interview insights highlight that staff often need to station someone near the kiosk specifically because the kiosk lacks sufficient guidance and emotional reassurance (see Image 2).
-
-**Insight 3: Misaligned with luxury price points**
-
-<p align="center">
-  <img src="assets/images/Insight3.png" width="500">
-</p>
-<p align="center"><em>Image 3: Misalignment with Luxury Expectation</em></p>
-
-
-These quotes show that guests paying premium rates expect personalised, human-led service, making self-service check-in feel mismatched with luxury hospitality standards (see Image 3).
-
-**Insight 4: Kiosks are inadequate when guests have questions or exceptions**
-
-<p align="center">
-  <img src="assets/images/Insight4.png" width="500">
-</p>
-<p align="center"><em>Image 4: Inadequacy for Questions & Exceptions</em></p>
-
-
-These quotes demonstrate how kiosks struggle not only with non-standard requests and special needs, but also with answering the wide range of questions guests typically ask; resulting in users defaulting to staff for support (see Image 4\)*.*
-
-
-# Appendix X: Hotel and Industry Visits {#appendix}
+### Appendix B: Hotel and Industry Visits {#appendix}
 
 This appendix summarises the luxury hotels and organisations we visited as part of our primary research. Each visit helped us understand real-world check-in operations, constraints, and attitudes towards automation in luxury hospitality.
 
@@ -1513,6 +1469,46 @@ We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree
 </p>
 <p align="center"><em>Figure X.5. Mandai Rainforest Resort – arrival area (site visit photograph)</em></p>
 
+
+### Appendix C: Illustrative Quotes Supporting Key Insights
+
+**Insight 1: Kiosks are too transactional and non-conversational**
+
+<p align="center">
+  <img src="assets/images/Insight1.png" width="500">
+</p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 1/strong></p>
+
+These quotes highlight how guests perceive kiosks as mechanical and emotionless, lacking the warmth and conversational qualities of human interaction (see Figure XX).
+
+**Insight 2: Kiosks lacked guidance and were emotionless**
+
+Field observations showed guests hesitating, appearing confused, and ultimately abandoning the kiosk to seek staff; over a two-hour period, we observed at least three to four groups unsure of how to proceed
+
+<p align="center">
+  <img src="assets/images/Insight2.png" width="500">
+</p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 2/strong></p>
+
+Interview insights highlight that staff often need to station someone near the kiosk specifically because the kiosk lacks sufficient guidance and emotional reassurance (see Figure XX).
+
+**Insight 3: Misaligned with luxury price points**
+
+<p align="center">
+  <img src="assets/images/Insight3.png" width="500">
+</p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 3/strong></p>
+
+These quotes show that guests paying premium rates expect personalised, human-led service, making self-service check-in feel mismatched with luxury hospitality standards (see Figure XX).
+
+**Insight 4: Kiosks are inadequate when guests have questions or exceptions**
+
+<p align="center">
+  <img src="assets/images/Insight4.png" width="500">
+</p>
+<p align="center"><strong>Figure XX: Quotes that justify Insight 4/strong></p>
+
+These quotes demonstrate how kiosks struggle not only with non-standard requests and special needs, but also with answering the wide range of questions guests typically ask; resulting in users defaulting to staff for support (see Figure XX).
 
 
 <style>
