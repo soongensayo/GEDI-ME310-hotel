@@ -478,7 +478,7 @@ However, this culture varies across hotels. Some operate under strict approval h
 
 # Property Management System {#property-management-system}
 
-Before analysing the staff's and guest's 'user journeys', it is essential to understand the core technological infrastructure underpinning hotel operations: the **Property Management System (PMS)**. In the luxury hospitality context, the PMS serves as the central nervous system of the hotel, coordinating information across reservations, housekeeping, billing, and guest services (Ecole Hôtelière de Lausanne, 2025). It connects the **front desk**, **back office**, and **guest-facing digital platforms**, ensuring that data flows seamlessly from booking to check-in and post-stay follow-up.
+Before analysing the staff's and guest's 'user journeys', it is essential to understand the core technological infrastructure underpinning hotel operations: the Property Management System (PMS). In the luxury hospitality context, the PMS serves as the central nervous system of the hotel, coordinating information across reservations, housekeeping, billing, and guest services (Ecole Hôtelière de Lausanne, 2025). It connects the front desk, back office, and guest-facing digital platforms, ensuring that data flows seamlessly from booking to check-in and post-stay follow-up.
 
 ### **Role in Hotel Operations** {#role-in-hotel-operations}
 
@@ -556,7 +556,7 @@ function togglePreArrivalDetails() {
   }
 </script> 
 
-Collectively, these pre-arrival touchpoints demonstrate the interdependence of technology, personalization, and operational design in shaping the luxury guest journey. A reimagined premium check-in experience must therefore begin *before* the guest arrives—bridging digital anticipation with physical hospitality through integrated, data-driven, and emotionally engaging systems (Venture Corporation, 2025).
+Collectively, these pre-arrival touchpoints demonstrate the interdependence of technology, personalization, and operational design in shaping the luxury guest journey. A reimagined premium check-in experience must therefore begin before the guest arrives—bridging digital anticipation with physical hospitality through integrated, data-driven, and emotionally engaging systems.
 
 ## Traditional Counter Check-In {#traditional-counter-check-in}
 
@@ -575,7 +575,7 @@ The check-in process is one of the most defining moments in the guest journey, s
   <div id="counter-details" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
     <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">1. Arrival</h4>
-      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> Upon arrival, guests often face queues before even reaching the front desk. Especially during peak hours, waiting time becomes a key source of frustration, undermining the perception of efficiency and exclusivity expected in premium hospitality. Luxury guests expect immediacy and recognition — long waits detract from that promise.</p>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> Upon arrival, guests often face queues before even reaching the front desk. Especially during peak hours, waiting time becomes a key source of frustration, undermining the perception of efficiency and exclusivity expected in premium hospitality. Luxury guests expect immediacy and recognition, and long waits detract from that promise.</p>
       <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Front desk staff must juggle multiple simultaneous tasks such as handling ongoing check-ins, attending to phone calls, and coordinating with bell staff. High guest volumes exacerbate this workload, leaving little time to deliver personalized attention. Staff shortages, identified as one of the industry's most pressing challenges, further intensify this pressure (Singapore Institute of Hospitality, 2024).</p>
     </div>
     
@@ -631,7 +631,7 @@ function toggleCounterDetails() {
 ## Kiosk Check-In {#kiosk-check-in}
 
 ![image6](assets/images/kiosk-check-in-flow.png) 
-<p align="center"><strong>Figure 7: Kiosk Check-in Flow</strong></p> 
+<p align="center"><strong>Figure 7: Kiosk Check-in Flow (Modelled from Amara Hotel's Kiosk Check-In)</strong></p> 
 
 As hotels experiment with automation to enhance efficiency and reduce manpower dependency, **self-service kiosks** have become increasingly common, especially in business and mid-to-upscale hotels. These kiosks aim to streamline routine procedures such as guest identification, payment, and room key issuance — mirroring the self-check-in models seen in airports. In Singapore, automation has been widely encouraged to address labour shortages and operational inefficiencies in the hospitality sector (Workforce Singapore, 2023). However, while kiosk systems deliver measurable gains in speed and consistency, they also expose gaps in emotional engagement and personalization — both critical attributes of the luxury segment.
 
@@ -1277,10 +1277,9 @@ To support this progress, we will ensure clear delegation of tasks and maintain 
 31. Stanley, S. (2025, April 11). Singapore targets $50 billion in tourism receipts by 2040; eyes MICE sector as key growth driver. The Straits Times. [https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver](https://www.straitstimes.com/singapore/singapore-targets-50-billion-in-tourism-receipts-by-2040-eyes-mice-sector-as-key-growth-driver)  
 32. Tufft, C., Constantin, M., Pacca, M., & Mann, R. (2024, May 29). Updating perceptions about today’s luxury traveler. McKinsey & Company. [https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler](https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler)   
 33. UN Tourism. (2025, January 21). International tourism recovers pre-pandemic levels in 2024\. [https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024](https://www.untourism.int/news/international-tourism-recovers-pre-pandemic-levels-in-2024)   
-34. Venture Corporation Ltd. (2025). Reimagining a Premium Automated Hotel Check-In Experience: Project Brief.  
-35. Workforce Singapore. (2023, November 7). The Future of Jobs and Skills in Singapore’s Hotel Industry [https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels\_full-report\_v8-0\_public\_vf\_07112023.pdf](https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels_full-report_v8-0_public_vf_07112023.pdf)  
-36. World Travel & Tourism Council. (2025, September 30). WTTC report shows travel & tourism set to support 91MN new jobs by 2035\. [https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035](https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035)  
-37. World Travel & Tourism Council. (2025). The future of work in travel & tourism: The key trends shaping workforce strategies. World Travel & Tourism Council.
+34. Workforce Singapore. (2023, November 7). The Future of Jobs and Skills in Singapore’s Hotel Industry [https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels\_full-report\_v8-0\_public\_vf\_07112023.pdf](https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels_full-report_v8-0_public_vf_07112023.pdf)  
+35. World Travel & Tourism Council. (2025, September 30). WTTC report shows travel & tourism set to support 91MN new jobs by 2035\. [https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035](https://wttc.org/news/wttc-report-shows-travel-and-tourism-set-to-support-91mn-new-jobs-by-2035)  
+36. World Travel & Tourism Council. (2025). The future of work in travel & tourism: The key trends shaping workforce strategies. World Travel & Tourism Council.
  
 
 # Appendices {#appendix}
