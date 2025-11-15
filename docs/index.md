@@ -793,6 +793,67 @@ function toggleDefinitions() {
 
 Front office staff are responsible for executing the end-to-end check-in process, which requires navigating complex systems like Opera PMS, verifying guest identities, processing payments, retrieving preferences, managing room allocations, and handling real-time guest inquiries. They must perform these administrative tasks while maintaining composure, warmth, and attentiveness.
 
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleDefinitions()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="staff-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Click to expand Front Office Staff Core Expectations, Pain Points, and Needs
+  </button>
+  
+  <div id="staff-definitions" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Core Expectations</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        * Deliver high-touch hospitality and maintain warm guest interactions  
+        * Accurately verify identities, process payments, check/modify reservations  
+        * Ability to multitask without compromising warmth or composure  
+        * Manage real-time issues, exceptions, and service recovery  
+        * Uphold brand standards and handle multiple tasks under pressure
+      </p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Pain Points</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        * Heavy multitasking (PMS navigation, answering calls, chat, guest queries)  
+        * Complex systems (e.g., Opera PMS) that require deep knowledge and many clicks  
+        * High risk of errors (misspelling names, incorrect allocations, missing requests)  
+        * Stress from impatient guests, queue pressure, and service recovery situations  
+        * Limited time and mental bandwidth to deliver personalised greetings  
+        * Inconsistent handovers between shifts due to poor note capture
+      </p>
+    </div>
+
+    <div style="padding: 20px 0 24px 0;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Needs</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        * Tools that reduce repetitive administrative workload  
+        * Systems with low cognitive load and minimal training curve  
+        * Real-time visibility of guest data, preferences, and history  
+        * Error-reduction support (auto-fill, guidance, note capture)
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+function toggleDefinitions() {
+  const content = document.getElementById('staff-definitions');
+  const icon = document.getElementById('staff-toggle-icon');
+  const button = event.target.closest('button');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.innerHTML = '▼';
+    icon.style.transform = 'rotate(90deg)';
+    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
+  } else {
+    content.style.display = 'none';
+    icon.innerHTML = '▶';
+    icon.style.transform = 'rotate(0deg)';
+    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  }
+}
+</script>
 **Role Expectations:**
 
 * Deliver high-touch hospitality and maintain warm guest interactions  
