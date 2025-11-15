@@ -1,0 +1,7 @@
+title: ""
+description: ""
+show_downloads: false
+
+# Remove the repository name from appearing
+github:
+  is_project_page: false
