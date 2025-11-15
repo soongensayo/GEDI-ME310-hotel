@@ -855,33 +855,69 @@ function togglestaffDefinitions() {
 }
 </script>
 
-**Role Expectations:**
-
-* Deliver high-touch hospitality and maintain warm guest interactions  
-* Accurately verify identities, process payments, check/modify reservations  
-* Ability to multitask without compromising warmth or composure  
-* Manage real-time issues, exceptions, and service recovery  
-* Uphold brand standards and handle multiple tasks under pressure
-
-**Pain Points:**
-
-* Heavy multitasking (PMS navigation, answering calls, chat, guest queries)  
-* Complex systems (e.g., Opera PMS) that require deep knowledge and many clicks  
-* High risk of errors (misspelling names, incorrect allocations, missing requests)  
-* Stress from impatient guests, queue pressure, and service recovery situations  
-* Limited time and mental bandwidth to deliver personalised greetings  
-* Inconsistent handovers between shifts due to poor note capture
-
-**Needs:**
-
-* Tools that reduce repetitive administrative workload  
-* Systems with low cognitive load and minimal training curve  
-* Real-time visibility of guest data, preferences, and history  
-* Error-reduction support (auto-fill, guidance, note capture)
-
-##### **3\. Hotel Management** {#3.-hotel-management}
+##### **3\. Hotel Management**
 
 Hotel managers oversee the performance and consistency of front office operations, ensuring that staff deliver service that meets luxury hospitality standards. They coordinate manpower, manage scheduling, monitor service quality metrics, resolve guest escalations, and make decisions on technology adoption. Their responsibilities bridge guest satisfaction, staff capability, and operational efficiency.
+
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="togglehotelmanagementDefinitions()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="hotel-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Click to expand Hotel Management [Core Expectations, Pain Points, and Needs]
+  </button>
+  
+  <div id="hotel-definitions" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Core Expectations</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        - Ensure consistent service quality across varying staff skill levels<br> 
+        - Manage manpower allocation, scheduling, and team performance<br>   
+        - Oversee guest satisfaction scores and service recovery protocols<br>   
+        - Make decisions on technology investment and operations
+      </p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Pain Points</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        - Persistent manpower shortages and high turnover<br>  
+        - Maintaining consistent service quality with inexperienced staff<br>    
+        - Fragmented tech stack leading to inefficiencies<br>  
+        - High cost and complexity of implementing new technology<br>  
+        - Pressure to balance luxury expectations with operational constraints
+      </p>
+    </div>
+
+    <div style="padding: 20px 0 24px 0;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Needs</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">
+        - Tools that increase staff productivity and reduce training time<br> 
+        - Cost-effective, scalable solutions that integrate with existing systems<br> 
+        - Visibility into operational bottlenecks and performance trends<br>  
+        - Systems that reduce service inconsistencies and empowers staff
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+function togglehotelmanagementDefinitions() {
+  const content = document.getElementById('hotel-definitions');
+  const icon = document.getElementById('hotel-toggle-icon');
+  const button = event.target.closest('button');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.innerHTML = '▼';
+    icon.style.transform = 'rotate(90deg)';
+    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
+  } else {
+    content.style.display = 'none';
+    icon.innerHTML = '▶';
+    icon.style.transform = 'rotate(0deg)';
+    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  }
+}
+</script>
 
 **Role Expectations:**
 
