@@ -1332,7 +1332,7 @@ Within the context of luxury hotels, practicality and seamless integration are e
 
 Given the collaboration with our Stanford team across different time zones and countries, much of our work will be remote. However, in-person meetings will take place, albeit briefly relative to the overall duration of the project. It is crucial that we develop a plan to ensure both our team and the Stanford team are aligned on milestones and deadlines. These meetings must be focused and efficient to ensure we stay on track with the timeline and make steady progress. They are essential for maintaining momentum and ensuring effective collaboration. With this in mind, we have developed a timeline that we are committed to following closely. The key milestones are outlined below:
 
-![project](assets/images/project-plan.jpg)  
+![project](assets/images/ProjectPlan.png)  
 
 # Conclusion {#conclusion}
 
