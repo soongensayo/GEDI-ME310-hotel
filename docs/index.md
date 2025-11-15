@@ -596,7 +596,6 @@ While each guest segment varies in priorities, their foundational expectations r
     <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Core Expectations</h4>
       <p style="margin: 0; line-height: 1.6; color: #444;">
-        <strong>Core Expectations:</strong><br>
         - Fast, seamless, low-friction check-in<br>
         - Recognition, warmth, and personalisation<br>
         - Clear communication and prompt issue resolution<br>
@@ -607,7 +606,6 @@ While each guest segment varies in priorities, their foundational expectations r
     <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Pain Points</h4>
       <p style="margin: 0; line-height: 1.6; color: #444;">
-        <strong>Pain Points:</strong><br>
         - Long queues and waiting time, especially during peak hours<br>
         - Inconsistency in greetings and human warmth<br>
         - Impersonal kiosk interactions that feel “too mechanical” or “not worth the luxury price point”<br>
@@ -619,7 +617,6 @@ While each guest segment varies in priorities, their foundational expectations r
     <div style="padding: 20px 0 24px 0;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Needs</h4>
       <p style="margin: 0; line-height: 1.6; color: #444;">
-        <strong>Needs:</strong><br>
         - Faster, smoother, low-friction check-in.<br>
         - Warm, personalised interactions that match luxury standards.
       </p>
@@ -628,38 +625,24 @@ While each guest segment varies in priorities, their foundational expectations r
 </div>
 
 <script>
-  function toggleDefinitions() {
-    var x = document.getElementById("guests-definitions");
-    var icon = document.getElementById("guests-toggle-icon");
-    if (x.style.display === "none") {
-      x.style.display = "block";
-      icon.textContent = "▼";
-    } else {
-      x.style.display = "none";
-      icon.textContent = "▶";
-    }
+  function toggleLuxuryDefinitions() {
+  const content = document.getElementById('guests-definitions');
+  const icon = document.getElementById('guests-toggle-icon');
+  const button = event.target.closest('button');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.innerHTML = '▼';
+    icon.style.transform = 'rotate(90deg)';
+    button.innerHTML = button.innerHTML.replace('Expand to view', 'Collapse').replace('▶', '▼');
+  } else {
+    content.style.display = 'none';
+    icon.innerHTML = '▶';
+    icon.style.transform = 'rotate(0deg)';
+    button.innerHTML = button.innerHTML.replace('Collapse', 'Expand to view').replace('▼', '▶');
   }
-</script>
-
-**Core Expectations:**
-
-* Fast, seamless, low-friction check-in  
-* Recognition, warmth, and personalisation  
-* Clear communication and prompt issue resolution  
-* Strong reassurance of data privacy and consent
-
-**Pain Points:**
-
-* Long queues and waiting time, especially during peak hours  
-* Inconsistency in greetings and human warmth  
-* Impersonal kiosk interactions that feel “too mechanical” or “not worth the luxury price point”  
-* Frustration when special requests or preferences are not reflected at check-in  
-* Limited capability of current kiosks to handle complex or exception-based needs
-
-**Needs:**
-
-* Faster, smoother, low-friction check-in.  
-* Warm, personalised interactions that match luxury standards.
+}
+</script> 
 
 ##### **2\. Front-Office Staff** 
 
