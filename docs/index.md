@@ -400,9 +400,8 @@ Luxury guests expect a personal touch proportionate to what they pay, yet person
       icon.style.transform = "rotate(0deg)";
     }
   }
-</script>
-
-
+</script> 
+ 
 **5\. Manpower and Role Design of Staff**
 
 The manpower shortage remains one of the most pressing issues in the industry. Recruiting and retaining hospitality workers, especially for front-desk roles, is increasingly difficult due to long hours, stress, and perceived lack of career progression.  
@@ -438,7 +437,7 @@ Technology can reduce repetitive tasks and support staff efficiency but cannot r
       icon.style.transform = "rotate(0deg)";
     }
   }
-</script>
+</script> 
 
 **6\. Service Recovery and “Wow” Moments**
 
@@ -547,19 +546,15 @@ function togglePreArrivalDetails() {
   const icon = document.getElementById('pre-arrival-toggle-icon');
   const button = event.target.closest('button');
   
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-    icon.innerHTML = '▼';
-    icon.style.transform = 'rotate(90deg)';
-    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
-  } else {
-    content.style.display = 'none';
-    icon.innerHTML = '▶';
-    icon.style.transform = 'rotate(0deg)';
-    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
   }
-}
-</script>
+</script> 
 
 Collectively, these pre-arrival touchpoints demonstrate the interdependence of technology, personalization, and operational design in shaping the luxury guest journey. A reimagined premium check-in experience must therefore begin *before* the guest arrives—bridging digital anticipation with physical hospitality through integrated, data-driven, and emotionally engaging systems (Venture Corporation, 2025).
 
@@ -622,19 +617,16 @@ function toggleCounterDetails() {
   const icon = document.getElementById('counter-toggle-icon');
   const button = event.target.closest('button');
   
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-    icon.innerHTML = '▼';
-    icon.style.transform = 'rotate(90deg)';
-    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
-  } else {
-    content.style.display = 'none';
-    icon.innerHTML = '▶';
-    icon.style.transform = 'rotate(0deg)';
-    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
   }
-}
-</script>
+</script> 
+
 
 ## Kiosk Check-In {#kiosk-check-in}
 
@@ -682,19 +674,16 @@ function toggleKioskDetails() {
   const icon = document.getElementById('kiosk-toggle-icon');
   const button = event.target.closest('button');
   
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-    icon.innerHTML = '▼';
-    icon.style.transform = 'rotate(90deg)';
-    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
-  } else {
-    content.style.display = 'none';
-    icon.innerHTML = '▶';
-    icon.style.transform = 'rotate(0deg)';
-    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
   }
-}
-</script>
+</script> 
+
 
 # Stakeholders {#stakeholders}
 
@@ -755,19 +744,16 @@ function toggleguestDefinitions() {
   const icon = document.getElementById('guests-toggle-icon');
   const button = event.target.closest('button');
   
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-    icon.innerHTML = '▼';
-    icon.style.transform = 'rotate(90deg)';
-    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
-  } else {
-    content.style.display = 'none';
-    icon.innerHTML = '▶';
-    icon.style.transform = 'rotate(0deg)';
-    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
   }
-}
-</script>
+</script> 
+
 
 ## **2\. Front-Office Staff** {#front-office-staff}
 
@@ -821,19 +807,16 @@ function togglestaffDefinitions() {
   const icon = document.getElementById('staff-toggle-icon');
   const button = event.target.closest('button');
   
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-    icon.innerHTML = '▼';
-    icon.style.transform = 'rotate(90deg)';
-    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
-  } else {
-    content.style.display = 'none';
-    icon.innerHTML = '▶';
-    icon.style.transform = 'rotate(0deg)';
-    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
   }
-}
-</script>
+</script> 
+
 
 ## **3\. Hotel Management** {#hotel-management}
 
@@ -885,19 +868,16 @@ function togglehotelmanagementDefinitions() {
   const icon = document.getElementById('hotel-toggle-icon');
   const button = event.target.closest('button');
   
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-    icon.innerHTML = '▼';
-    icon.style.transform = 'rotate(90deg)';
-    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
-  } else {
-    content.style.display = 'none';
-    icon.innerHTML = '▶';
-    icon.style.transform = 'rotate(0deg)';
-    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
   }
-}
-</script>
+</script> 
+
 
 ## **4\. Technology Department** {#technology-department}
 
@@ -947,19 +927,16 @@ function toggletechDefinitions() {
   const icon = document.getElementById('tech-toggle-icon');
   const button = event.target.closest('button');
   
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-    icon.innerHTML = '▼';
-    icon.style.transform = 'rotate(90deg)';
-    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
-  } else {
-    content.style.display = 'none';
-    icon.innerHTML = '▶';
-    icon.style.transform = 'rotate(0deg)';
-    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      icon.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      icon.style.transform = "rotate(0deg)";
+    }
   }
-}
-</script>
+</script> 
+
 
 ### **Scope Refinement**  
 While our stakeholder analysis considered guests, front-office staff, hotel management, and technology departments, we subsequently narrowed the primary focus of this project to **guests** and **front-office staff**. These two groups sit at the centre of the check-in interaction and experience its pain points most directly. By prioritising their needs, we are able to address the most visible breakdowns in the current journey, while still generating downstream benefits for management and technology teams through improved consistency, usability, and data quality.
