@@ -1369,63 +1369,73 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
 
 This appendix summarises the luxury hotels and organisations we visited as part of our primary research. Each visit helped us understand real-world check-in operations, constraints, and attitudes towards automation in luxury hospitality.
 
-**X.1 Amara Singapore**
+<br>
+**X.1 Amara Singapore**<br>
 We visited Amara Singapore to observe front-office operations and better understand current check-in practices and guest–staff interactions.
+<br>
 
-**Stakeholders engaged**
-**Gordon Aeria** – General Manager, Amara Singapore
+**Stakeholders engaged**<br>
+**Gordon Aeria** – General Manager, Amara Singapore<br>
 **Pearlyn** – Front Office Manager
 
-**X.2 Shangri-La Singapore**
-We conducted two visits to Shangri-La Singapore.
+<br>
+**X.2 Shangri-La Singapore**<br>
+We conducted two visits to Shangri-La Singapore.<br>
 The first visit focused on understanding the luxury hotel
 
 The second visit involved sharing and testing early-stage prototypes with hotel stakeholders to gather feedback.
 
-**Stakeholders engaged**
-**Devendra Pandey** – Director of Information Technology
+**Stakeholders engaged**<br>
+**Devendra Pandey** – Director of Information Technology<br>
 **Benny Fok** – Front Office Manager
 
-**Image reference**
 
 <p align="center">
-  <img src="assets/images/Shangrila.jpg" width="300">
+  <img src="assets/images/Shangrila.jpg" width="400">
 </p>
 <p align="center"><em>Figure X.2. Shangri-La Singapore (site visit photograph)</em></p>
 
-**X.3 Raffles Hotel Singapore**
+<br>
+**X.3 Raffles Hotel Singapore**<br>
 At Raffles Hotel Singapore, we engaged with stakeholders to understand the perspectives from an iconic luxury heritage brand 
 
-**Stakeholders engaged**
-**Alfani Leonaris** – Lobby Operation Manager
+**Stakeholders engaged**<br>
+**Alfani Leonaris** – Lobby Operation Manager<br>
 **Christian Westbeld** – Managing Director
 
-**Image reference**
 
-![raffles](assets/images/Raffles.jpg)
-Figure X.3. Raffles Hotel Singapore – lobby and entrance area (site visit photograph).
+<p align="center">
+  <img src="assets/images/Raffles.jpg" width="400">
+</p>
+<p align="center"><em>Figure X.3. Raffles Hotel Singapore – lobby and entrance area (site visit photograph)</em></p>
 
-**X.4 Banyan Tree Headquarters**
+<br>
+**X.4 Banyan Tree Headquarters**<br>
 We visited the Banyan Tree Headquarters to gain a brand-level perspective on guest experience and the strategic role of technology and AI across the group’s portfolio.
 
-**Stakeholder engaged**
+**Stakeholder engaged**<br>
 **Sheriann** – Business Development Team
 
-**Image reference**
 
-![Banyan](assets/images/Banyan.jpg)
-Figure X.4. Banyan Tree Headquarters (site visit photograph).
+<p align="center">
+  <img src="assets/images/Banyan.jpg" width="400">
+</p>
+<p align="center"><em>Figure X.4. Banyan Tree Headquarters (site visit photograph)</em></p>
 
-**X.5 Mandai Rainforest Resort**
+
+<br>
+**X.5 Mandai Rainforest Resort**<br>
 We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree
 
-**Stakeholder engaged**
+**Stakeholder engaged**<br>
 **Joan Yao** – Director, Rooms
 
-**Image reference**
 
-![mandai](assets/images/Mandai.jpg)
-Figure X.5. Mandai Rainforest Resort – arrival and reception area (site visit photograph).
+<p align="center">
+  <img src="assets/images/Mandai.jpg" width="400">
+</p>
+<p align="center"><em>Figure X.5. Mandai Rainforest Resort – arrival area (site visit photograph)</em></p>
+
 
 
 <style>
