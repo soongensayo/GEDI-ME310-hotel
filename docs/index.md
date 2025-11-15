@@ -74,7 +74,7 @@
 
 # Acknowledgements {#acknowledgements}
 
-We would like to express our sincere gratitude to Dr Elliot Law and Mr Royston Shieh for their guidance, support and encouragement throughout this project. Their weekly check-ins provided us with clarity, direction and valuable feedback on where to focus our efforts. Their advice was instrumental in helping us identify our target users and refine the scope of our work.
+We would like to express our 12sincere gratitude to Dr Elliot Law and Mr Royston Shieh for their guidance, support and encouragement throughout this project. Their weekly check-ins provided us with clarity, direction and valuable feedback on where to focus our efforts. Their advice was instrumental in helping us identify our target users and refine the scope of our work.
 
 We would also like to extend our thanks to all the hotels that worked with us, especially the staff who generously made time to share their experiences. We are humbled by the amount of work that goes into delivering service that meets the expectations of modern day luxury, and we are grateful for the rich insights they offered from their years in the industry. We are equally appreciative of the guests who participated in our interviews for giving us a deeper understanding of the hospitality experience from their perspective.
 
