@@ -1345,7 +1345,7 @@ To support this progress, we will ensure clear delegation of tasks and maintain 
 30. Tufft, C., Constantin, M., Pacca, M., & Mann, R. (2024, May 29). *Updating perceptions about today’s luxury traveler*. McKinsey & Company. [https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler](https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler)   
 31. Bharwani, S., & Mathews, D. (2021). Techno-business strategies for enhancing guest experience in luxury hotels: A managerial perspective. Worldwide Hospitality & Tourism Themes, 13(2), 168\. [https://doi.org/10.1108/WHATT-09-2020-0121](https://doi.org/10.1108/WHATT-09-2020-0121)  [Emerald+1](https://www.emerald.com/whatt/article-pdf/13/2/168/2401369/whatt-09-2020-0121.pdf?utm_source=chatgpt.com)  
 32. Al-Hyari, H. S., Al-Smadi, M., & Weshah, S. R. (2023). The impact of artificial intelligence (AI) on guest satisfaction in hotel management: An empirical study of luxury hotels. GeoJournal of Tourism and Geosites, 48(2 spl), 810-819. [https://doi.org/10.30892/gtg.482spl15-1081 gtg.webhost.uoradea.ro+1](https://www.researchgate.net/publication/372048811_THE_IMPACT_OF_ARTIFICIAL_INTELLIGENCE_AI_ON_GUEST_SATISFACTION_IN_HOTEL_MANAGEMENT_AN_EMPIRICAL_STUDY_OF_LUXURY_HOTELS)  
-33. *Hotel distribution report 2024 | D-edge. (n.d.). [https://www.d-edge.com/wp-content/uploads/2024/04/Hotel-Distribution-Report-2024-EN.pdf](https://www.d-edge.com/wp-content/uploads/2024/04/Hotel-Distribution-Report-2024-EN.pdf)*  
+33. Hotel distribution report 2024 | D-edge. (n.d.). [https://www.d-edge.com/wp-content/uploads/2024/04/Hotel-Distribution-Report-2024-EN.pdf](https://www.d-edge.com/wp-content/uploads/2024/04/Hotel-Distribution-Report-2024-EN.pdf)  
 34. Phocuswright. (2022, March 9). By 2023, hotel supplier-direct will again surpass otas. Phocuswright. [https://www.phocuswright.com/Travel-Research/Research-Updates/2022/by-2023-hotel-supplier-direct-will-again-surpass-ota](https://www.phocuswright.com/Travel-Research/Research-Updates/2022/by-2023-hotel-supplier-direct-will-again-surpass-ota)  
 35. Dasgupta, N. (2025, August 5). 5 ota mistakes that could be hurting your hotel revenue & how to fix them. STAAH Blog. [https://blog.staah.com/tips-trends/ota-mistakes-hurting-hotel-revenue](https://blog.staah.com/tips-trends/ota-mistakes-hurting-hotel-revenue)  
 36. Goswami, S. (2024a, July 8). Ota Vs Hotel Direct Booking: Who is winning the battle?. eZee Absolute. [https://www.ezeeabsolute.com/blog/ota-vs-direct-booking/](https://www.ezeeabsolute.com/blog/ota-vs-direct-booking/)  
@@ -1353,7 +1353,6 @@ To support this progress, we will ensure clear delegation of tasks and maintain 
 38. Nadiah, D., Dzia-Uddin, B., Amir, S., Bt, Z., & Isa, M. (2018). SELF-SERVICE TECHNOLOGIES INFLUENCING GUEST SATISFACTION IN HOTEL INDUSTRY. Journal of Hospitality and Networks Jurnal Hospitaliti Dan Jaringan, 1, 25–31. [https://unimel.edu.my/journal/index.php/JHN/article/viewFile/368/318](https://unimel.edu.my/journal/index.php/JHN/article/viewFile/368/318)  
 39. Nichols, J. P. (2025, August 22). Finding A Balance Between Technology and Human Touch in Hospitality. Hospitality Net. [https://www.hospitalitynet.org/opinion/4128479.html](https://www.hospitalitynet.org/opinion/4128479.html)
 
-# 
 
 # Appendix {#appendix}
 
@@ -1399,7 +1398,7 @@ In turn, this contributes to lost revenue opportunities, as teams are unable to 
 **Insight 1: Kiosks are too transactional and non-conversational**
 
 <p align="center">
-  <img src="assets/images/Insight1.jpg" width="500">
+  <img src="assets/images/Insight1.png" width="500">
 </p>
 <p align="center"><em>Image 1: Kiosks are too transactional and non-conversational</em></p>
 
@@ -1411,7 +1410,7 @@ These quotes highlight how guests perceive kiosks as mechanical and emotionless,
 Field observations showed guests hesitating, appearing confused, and ultimately abandoning the kiosk to seek staff; over a two-hour period, we observed at least three to four groups unsure of how to proceed
 
 <p align="center">
-  <img src="assets/images/Insight2.jpg" width="500">
+  <img src="assets/images/Insight2.png" width="500">
 </p>
 <p align="center"><em>Image 2: Lack of Guidance & Emotional Reassurance</em></p>
 
@@ -1421,7 +1420,7 @@ Interview insights highlight that staff often need to station someone near the k
 **Insight 3: Misaligned with luxury price points**
 
 <p align="center">
-  <img src="assets/images/Insight3.jpg" width="500">
+  <img src="assets/images/Insight3.png" width="500">
 </p>
 <p align="center"><em>Image 3: Misalignment with Luxury Expectation</em></p>
 
@@ -1431,7 +1430,7 @@ These quotes show that guests paying premium rates expect personalised, human-le
 **Insight 4: Kiosks are inadequate when guests have questions or exceptions**
 
 <p align="center">
-  <img src="assets/images/Insight4.jpg" width="500">
+  <img src="assets/images/Insight4.png" width="500">
 </p>
 <p align="center"><em>Image 4: Inadequacy for Questions & Exceptions</em></p>
 
