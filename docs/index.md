@@ -1009,14 +1009,14 @@ This design direction addresses the tension between efficiency and human touch i
 
 # Prototypes {#prototypes}
 
-Building on the three design directions, our team developed a suite of low-fidelity prototypes that collectively span the pre-arrival and check-in stages of the guest journey. Each prototype was intentionally designed to embody one or more of the design directions and to respond to the needs of our 2 primary stakeholder groups: **guests and front-office staff. **
+Building on the three design directions, our team developed a suite of low-fidelity prototypes that collectively span the pre-arrival and check-in stages of the guest journey. Each prototype was intentionally designed to embody one or more of the design directions and to respond to the needs of our 2 primary stakeholder groups: guests and front-office staff.
 
 Rather than converging immediately on a single concept, we adopted an exploratory, research-through-design approach to gain a holistic understanding of the solution space. By focusing at different phases of the check-in journey, we were able to examine distinct pain points in depth, compare how different interaction modes address them, and uncover unique opportunities for innovation that would not surface through a single, narrowly scoped prototype.
 
 <p align="center">
   <img src="assets/images/SolutionsOverview.png" width="500">
 </p>
-<p align="center"><em>Image X: Overview of the solutions prototyped across the guest journey</em></p>
+<p align="center"><strong>Image X: Overview of the solutions prototyped across the guest journey</strong></p>
 
 ## 1\. AIluvio
 
