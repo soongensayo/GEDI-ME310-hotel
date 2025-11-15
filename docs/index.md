@@ -1075,7 +1075,7 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
   body {
     margin: 0;
     padding: 0;
-    padding-left: 400gitpx;
+    padding-left: 400px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
   }
   
