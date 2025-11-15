@@ -1459,6 +1459,19 @@ This persona represents middle- to upper-level managers responsible for overall 
 **Design Implication:**
 Solutions for this persona should provide visibility, control, and actionable insights. This enables managers to monitor performance, empower teams, and assess new technology adoption without micromanaging.
 
+**Persona 3: Guests**
+This persona represents guests staying at upscale or luxury properties who expect service to match the price point. They may be business, leisure travellers, couples, or families, and are generally comfortable with technology but do not want the experience to feel “cheap” or transactional. They value efficiency, but not at the expense of warmth, personalisation, and reassurance.
+
+**Key Characteristics:**
+- Behaviours: Expects a smooth check-in, often chooses the front desk over confusing or “cold” kiosks, and becomes frustrated when information from OTAs or prior bookings does not carry through
+- Goals: Wants an efficient check-in that still feels personalised and attentive
+- Pain Points: Dislikes long queues and impersonal interactions
+- Personality: Generally pragmatic and open to helpful technology, but can quickly become impatient if the experience undermines the sense of luxury
+- Motivations: Seeks to begin the stay feeling relaxed, cared for, and subtly recognised through small personalised touches
+
+**Design Implication:**
+Check-in solutions should deliver fast, low-friction journeys that still feel high-touch and personalised
+
 **Application of Personas**<br>
 The personas collectively highlight the tension between human empathy and system efficiency - a central challenge in reimagining the luxury check-in experience. By referencing these personas in subsequent design stages (such as journey mapping and prototyping), the team can ensure that innovations remain empathetic to staff realities while aligning with managerial objectives for scalability and consistency.
 
