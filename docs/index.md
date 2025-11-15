@@ -985,9 +985,6 @@ function toggletechDefinitions() {
 While our stakeholder analysis considered guests, front-office staff, hotel management, and technology departments, we subsequently narrowed the primary focus of this project to guests and front-office staff. These two groups sit at the centre of the check-in interaction and experience its pain points most directly. By prioritising their needs, we are able to address the most visible breakdowns in the current journey, while still generating downstream benefits for management and technology teams through improved consistency, usability, and data quality.
 
 Within this refined scope, the needs and pain points of guests and front-office staff reveal a consistent tension between operational efficiency and the human expectations of luxury hospitality. Although technology and automation are increasingly adopted, they often do not adequately support staff or deliver the warmth and personalisation guests expect. This tension can be distilled into the following problem statement.
-
-#  
-
 # Problem Statement {#problem-statement}
 
 *“In luxury hospitality, guest-facing staff are often weighed down by operational, repetitive, and administrative tasks, limiting their ability to provide the personal and attentive service that defines true luxury. Current systems prioritise efficient workflows over human interaction and the formation of genuine connections.”*
@@ -996,11 +993,11 @@ To address this problem, we identified three design directions that will guide o
 
 #  Design Directions {#design-directions}
 
-Building on the needs and pain points of the four stakeholder groups, three core design directions were identified to guide the reimagining of a premium automated check-in experience. These directions align operational constraints with the emotional expectations of luxury hospitality, ensuring that technology enhances, rather than replaces, the human touch.
+Building on the needs and pain points of the 4 stakeholder groups, 3 core design directions were identified to guide the reimagining of a premium automated check-in experience. These directions align operational constraints with the emotional expectations of luxury hospitality, ensuring that technology enhances rather than replaces the human touch.
 
 ##### **1\. Empower Staff Consistency and Confidence** 
 
-This design direction focuses on enabling front-office staff to deliver consistently high-quality, luxury-standard service regardless of experience level, workload, or time of day. Rather than expecting individuals to “cope” with complex systems and multitasking, it emphasises designing processes and tools that reduce variability in performance, support clear decision-making under pressure, and give staff the confidence to stay composed, attentive, and guest-facing even in busy or stressful conditions.
+This design direction focuses on enabling front-office staff to deliver consistently high-quality, luxury-standard service regardless of experience level, workload or time of day. Rather than expecting individuals to “cope” with complex systems and multitasking, it emphasises designing processes and tools that reduce variability in performance, support clear decision-making under pressure, and give staff the confidence to stay composed, attentive, and guest-facing even in busy or stressful conditions.
 
 ##### **2\. Personalisation and Guest Preference Intelligence** 
 
@@ -1012,13 +1009,14 @@ This design direction addresses the tension between efficiency and human touch i
 
 # Prototypes {#prototypes}
 
-Building on the three design directions, our team developed a suite of low-fidelity prototypes that collectively span the pre-arrival and check-in stages of the guest journey. Each prototype was intentionally designed to embody one or more of the design directions and to respond to the needs of our two primary stakeholder groups: guests and front-office staff. 
+Building on the three design directions, our team developed a suite of low-fidelity prototypes that collectively span the pre-arrival and check-in stages of the guest journey. Each prototype was intentionally designed to embody one or more of the design directions and to respond to the needs of our 2 primary stakeholder groups: **guests and front-office staff. **
 
 Rather than converging immediately on a single concept, we adopted an exploratory, research-through-design approach to gain a holistic understanding of the solution space. By focusing at different phases of the check-in journey, we were able to examine distinct pain points in depth, compare how different interaction modes address them, and uncover unique opportunities for innovation that would not surface through a single, narrowly scoped prototype.
 
-![Solutions](assets/images/SolutionsOverview.png)  
-Figure X. Overview of the solutions prototyped across the guest journey.
-
+<p align="center">
+  <img src="assets/images/SolutionsOverview.png" width="500">
+</p>
+<p align="center"><em>Image X: Overview of the solutions prototyped across the guest journey</em></p>
 
 ## 1\. AIluvio
 
