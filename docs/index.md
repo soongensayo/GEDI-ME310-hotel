@@ -80,9 +80,6 @@ We would also like to extend our thanks to all the hotels that worked with us, e
 
 Finally, we are thankful to the Innovation and Design Department for the opportunity to be part of the Global Engineering Design Innovation programme, and for enabling this meaningful collaboration with Stanford. 
 
-
-# Overview {#overview}
-
 # Introduction {#introduction}
 
 ## Check-in Experience as a First Impression {#check-in-experience-as-a-first-impression}
@@ -93,15 +90,59 @@ The check-in experience is defined as part of both the pre-arrival and arrival s
 
 The meaning of luxury hotels has evolved significantly over the years. Luxury is no longer defined solely by extravagance, expansive spaces or high-quality amenities. Instead, it now encompasses the ability of a hotel to craft meaningful experiences and evoke emotions that foster a deep sense of connection and personal value for each guest. As such, we have defined luxury through five key dimensions that capture the characteristics of contemporary hospitality: exclusivity, genuineness and sincerity, hyper-personalisation, high-touch service and authenticity.
 
-Exclusivity refers to a feeling of rarity that enhances the perceived value of an experience (Kapferer and Bastien, 2025). For guests, this may be reflected in features such as a private check-in suite or the presence of a dedicated host who welcomes them by name, creating a seamless arrival experience that begins the moment they step out of the car. Ultimately, exclusivity is about making guests feel that the moment has been crafted specifically for them, reinforcing their sense of distinction and personal importance.
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleLuxuryDefinitions()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="luxury-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Expand to view the definition of each dimension
+  </button>
+  
+  <div id="luxury-definitions" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Exclusivity</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">Exclusivity refers to a feeling of rarity that enhances the perceived value of an experience (Kapferer and Bastien, 2025). For guests, this may be reflected in features such as a private check-in suite or the presence of a dedicated host who welcomes them by name, creating a seamless arrival experience that begins the moment they step out of the car. Ultimately, exclusivity is about making guests feel that the moment has been crafted specifically for them, reinforcing their sense of distinction and personal importance.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Genuineness and Sincerity</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">Genuineness and sincerity represent the human element that makes guests feel truly welcomed. Every interaction with hotel staff should appear natural and heartfelt rather than scripted or rehearsed. When expressed with warmth and care, such interactions foster emotional connection and trust between guests and the hotel. The Forbes Travel Guide defines luxury hospitality as warmth delivered with grace (Forbes Travel Guide, 2025), a description that captures how sincerity in service elevates hospitality from mere professionalism to a memorable experience.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Hyper-Personalisation</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">Modern luxury is characterised by hyper-personalisation, which highlights the hotel's commitment to understanding and remembering its guests in meaningful ways. It involves creating a sense of familiarity and comfort that makes the hotel feel like a second home. Through the thoughtful use of guest information and attentive service, each stay can be uniquely tailored to reflect individual preferences and needs. A hotel that remembers a guest's preferred room temperature, favourite drink or choice of pillow transforms a simple stay into a deeply personal and special experience.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">High-Touch Service</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">Another defining element of contemporary luxury is the high-touch approach, where every interaction and gesture is intentional and deliberate. For the hotel, it is not about doing more but about doing it better with names remembered, needs anticipated and gestures timed with care. Often, one thoughtful moment means more than three generic ones.</p>
+    </div>
+    
+    <div style="padding: 20px 0 24px 0;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Authenticity</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">Authenticity ties these elements together. Modern travellers increasingly seek experiences that reflect the local culture and story rather than uniform or standardised hotel designs. Authenticity has therefore become a cornerstone of brand loyalty within the luxury hospitality sector (Accenture, 2025).</p>
+    </div>
+  </div>
+</div>
 
-Genuineness and sincerity represent the human element that makes guests feel truly welcomed. Every interaction with hotel staff should appear natural and heartfelt rather than scripted or rehearsed. When expressed with warmth and care, such interactions foster emotional connection and trust between guests and the hotel. The Forbes Travel Guide defines luxury hospitality as warmth delivered with grace (Forbes Travel Guide, 2025), a description that captures how sincerity in service elevates hospitality from mere professionalism to a memorable experience.
-
-Modern luxury is characterised by hyper-personalisation, which highlights the hotel’s commitment to understanding and remembering its guests in meaningful ways. It involves creating a sense of familiarity and comfort that makes the hotel feel like a second home. Through the thoughtful use of guest information and attentive service, each stay can be uniquely tailored to reflect individual preferences and needs. A hotel that remembers a guest’s preferred room temperature, favourite drink or choice of pillow transforms a simple stay into a deeply personal and special experience.
-
-Another defining element of contemporary luxury is the high-touch approach, where every interaction and gesture is intentional and deliberate. For the hotel, it is not about doing more but about doing it better with names remembered, needs anticipated and gestures timed with care. Often, one thoughtful moment means more than three generic ones.
-
-Authenticity ties these elements together. Modern travellers increasingly seek experiences that reflect the local culture and story rather than uniform or standardised hotel designs. Authenticity has therefore become a cornerstone of brand loyalty within the luxury hospitality sector (Accenture, 2025). 
+<script>
+function toggleLuxuryDefinitions() {
+  const content = document.getElementById('luxury-definitions');
+  const icon = document.getElementById('luxury-toggle-icon');
+  const button = event.target.closest('button');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.innerHTML = '▼';
+    icon.style.transform = 'rotate(90deg)';
+    button.innerHTML = button.innerHTML.replace('Expand to view', 'Collapse').replace('▶', '▼');
+  } else {
+    content.style.display = 'none';
+    icon.innerHTML = '▶';
+    icon.style.transform = 'rotate(0deg)';
+    button.innerHTML = button.innerHTML.replace('Collapse', 'Expand to view').replace('▼', '▶');
+  }
+}
+</script> 
 
 Collectively, these five dimensions form the foundation of modern luxury hospitality and serve as our guiding principles for reimagining the luxury hotel check-in journey.
 
@@ -375,21 +416,54 @@ Understanding PMS limitations is critical when reimagining the automated check-i
 
 The pre-arrival phase establishes the foundation for the guest’s overall hotel experience. In luxury hospitality, this stage is not merely transactional but an opportunity to communicate attentiveness, personalization, and efficiency — qualities that define a premium brand. A seamless pre-arrival journey ensures that guests begin their stay feeling understood and valued, while the hotel benefits from streamlined operations and accurate data for service preparation (Ecole Hôtelière de Lausanne, 2023).
 
-### **1\. Booking**
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="togglePreArrivalDetails()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="pre-arrival-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Click to expand details on each stage
+  </button>
+  
+  <div id="pre-arrival-details" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">1. Booking</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">The booking process represents the first point of interaction between the guest and the property. Guests today increasingly prefer online travel agencies (OTAs) such as Booking.com or Expedia for their flexibility and ease of comparison (Frost & Sullivan, 2024). However, hotels prefer direct booking channels as these allow them to access guest data directly, enabling more targeted communication, personalization, and upselling opportunities (Workforce Singapore, 2023). According to the *Venture Corporation* project brief (2025), integrating personalized booking systems that synchronize with guest profiles allows hotels to anticipate needs—such as preferred room type, amenities, and check-in times—well before arrival. This not only optimizes operational planning but also reinforces the sense of exclusivity expected in the luxury segment (Mann, Scully, Straus & Tellez Holub, 2024).</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">2. Confirmation Email</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">The confirmation email is more than a transactional receipt; it acts as an early stage of relationship-building. Guests appreciate clear, accessible booking details and links that allow them to modify reservations, add services, or manage transportation requests with minimal friction. Many hotels leverage this touchpoint to include upselling and cross-selling content, such as dining experiences, spa packages, or transportation upgrades (Venture Corporation, 2025). From a service-design standpoint, the tone and aesthetic of these communications should reflect brand values — calm, refined, and anticipatory rather than commercial. According to McKinsey & Company (Mann et al., 2024), early digital interactions significantly influence brand perception and guest trust, with consistency across pre-arrival communication reinforcing an impression of quality and attentiveness.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">3. Requests and Preferences</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">This touchpoint captures the guest's ability to communicate specific needs and personal preferences, such as bedding type, dietary restrictions, or room location. However, as identified during user interviews, guests often experience frustration when their pre-submitted requests appear ignored or require repetition during check-in. For hotels, collecting and managing such data remains challenging due to low engagement rates and fragmented information systems. Industry trends point toward integrating AI-powered preference engines that automatically compile and interpret guest data from previous stays to generate actionable insights for staff (Ecole Hôtelière de Lausanne, 2025). This enables hotels to deliver continuity of care and strengthen guest loyalty through subtle recognition of preferences — a hallmark of true luxury service (Pine & Gilmore, 1998).</p>
+    </div>
+    
+    <div style="padding: 20px 0 24px 0;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">4. Room Allocation</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;">Behind the scenes, the pre-arrival process culminates in room allocation, where hotels match reservations to specific rooms based on availability, maintenance status, and guest requirements. In most luxury properties, this is managed by a reservations team or automated algorithm that pre-allocates rooms to optimize occupancy while accommodating personalized preferences (Workforce Singapore, 2023). When integrated with CRM and housekeeping systems, this process enhances both efficiency and guest satisfaction by ensuring that the assigned room is prepared and tailored to expectations prior to arrival. Automation at this stage also alleviates administrative load — an increasingly critical factor amid global hospitality manpower shortages (Singapore Institute of Hospitality, 2024).</p>
+    </div>
+  </div>
+</div>
 
-The booking process represents the first point of interaction between the guest and the property. Guests today increasingly prefer online travel agencies (OTAs) such as Booking.com or Expedia for their flexibility and ease of comparison (Frost & Sullivan, 2024). However, hotels prefer direct booking channels as these allow them to access guest data directly, enabling more targeted communication, personalization, and upselling opportunities (Workforce Singapore, 2023). According to the *Venture Corporation* project brief (2025), integrating personalized booking systems that synchronize with guest profiles allows hotels to anticipate needs—such as preferred room type, amenities, and check-in times—well before arrival. This not only optimizes operational planning but also reinforces the sense of exclusivity expected in the luxury segment (Mann, Scully, Straus & Tellez Holub, 2024).
-
-### **2\. Confirmation Email** 
-
-The confirmation email is more than a transactional receipt; it acts as an early stage of relationship-building. Guests appreciate clear, accessible booking details and links that allow them to modify reservations, add services, or manage transportation requests with minimal friction. Many hotels leverage this touchpoint to include upselling and cross-selling content, such as dining experiences, spa packages, or transportation upgrades (Venture Corporation, 2025). From a service-design standpoint, the tone and aesthetic of these communications should reflect brand values — calm, refined, and anticipatory rather than commercial. According to McKinsey & Company (Mann et al., 2024), early digital interactions significantly influence brand perception and guest trust, with consistency across pre-arrival communication reinforcing an impression of quality and attentiveness.
-
-### **3\. Requests and Preferences** 
-
-This touchpoint captures the guest’s ability to communicate specific needs and personal preferences, such as bedding type, dietary restrictions, or room location. However, as identified during user interviews, guests often experience frustration when their pre-submitted requests appear ignored or require repetition during check-in. For hotels, collecting and managing such data remains challenging due to low engagement rates and fragmented information systems. Industry trends point toward integrating AI-powered preference engines that automatically compile and interpret guest data from previous stays to generate actionable insights for staff (Ecole Hôtelière de Lausanne, 2025). This enables hotels to deliver continuity of care and strengthen guest loyalty through subtle recognition of preferences — a hallmark of true luxury service (Pine & Gilmore, 1998).
-
-### **4\. Room Allocation** 
-
-Behind the scenes, the pre-arrival process culminates in room allocation, where hotels match reservations to specific rooms based on availability, maintenance status, and guest requirements. In most luxury properties, this is managed by a reservations team or automated algorithm that pre-allocates rooms to optimize occupancy while accommodating personalized preferences (Workforce Singapore, 2023). When integrated with CRM and housekeeping systems, this process enhances both efficiency and guest satisfaction by ensuring that the assigned room is prepared and tailored to expectations prior to arrival. Automation at this stage also alleviates administrative load — an increasingly critical factor amid global hospitality manpower shortages (Singapore Institute of Hospitality, 2024).
+<script>
+function togglePreArrivalDetails() {
+  const content = document.getElementById('pre-arrival-details');
+  const icon = document.getElementById('pre-arrival-toggle-icon');
+  const button = event.target.closest('button');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.innerHTML = '▼';
+    icon.style.transform = 'rotate(90deg)';
+    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
+  } else {
+    content.style.display = 'none';
+    icon.innerHTML = '▶';
+    icon.style.transform = 'rotate(0deg)';
+    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  }
+}
+</script>
 
 Collectively, these pre-arrival touchpoints demonstrate the interdependence of technology, personalization, and operational design in shaping the luxury guest journey. A reimagined premium check-in experience must therefore begin *before* the guest arrives—bridging digital anticipation with physical hospitality through integrated, data-driven, and emotionally engaging systems (Venture Corporation, 2025).
 
@@ -619,7 +693,7 @@ Figure X. Overview of the solutions prototyped across the guest journey.
 
 Alluvio covers the pre-booking and booking phases of the luxury hotel check-in journey. Our goal is to design an intelligent, secure luxury system that intuitively captures and organises guest preferences. Through a fun, swipe-based interface, guests can build dynamic, evolving profiles while AI delivers personalised recommendations based on their preferences. Profiles can also securely store essential travel documents such as Visas, for easy and anytime access. With explicit consent, this information can be shared accurately across onboarded luxury hotels via secure integrations with their hotel management systems.
 
-Design Rationale
+### Design Rationale
 
 Most guests start looking for accommodation on Online Travel Agencies such as Booking.com, Expedia, Trip.com and Agoda. These platforms act as a centralised hub that allows users to compare prices, amenities and reviews across a wide range of properties, helping them find the best fit with minimal effort and high convenience. In recent years, many OTAs have expanded beyond hotel stays to include rental cars, attractions, flights and even airport transfers to the booked hotel, reinforcing their position as a one stop shop for travellers. According to a 2024 hotel distribution report, the vast majority of guests in Asia and Europe continue to book through these indirect channels, based on data from 2018 to 2023 as shown in Figure XX (Hotel Distribution Report, 2024). A similar pattern is observed in the United States, where data collected in 2019, 2021 and 2023 indicates that OTAs remain a dominant booking channel, as shown in Figure XX (Phocuswright Research, 2022). Together, these findings demonstrate how OTAs have become modern day leviathans in travel, shaping how guests search for and book their stays.
 
@@ -636,19 +710,19 @@ However, while OTAs bring clear benefits to guests, they are not as well receive
 
 These shortcomings help explain why many hotels prefer direct bookings. When guests book directly, hotels gain full access to guest data, which enables deeper personalisation and a stronger sense of hospitality. Direct access to accurate guest profiles allows hotels to tailor services, anticipate needs and build long term relationships rather than simply fulfilling a transaction. More importantly, hotels can avoid the commission fees that OTAs typically charge, which are often in the range of 15-30% of the booking value (Dasgupta, 2025). For hotels, direct bookings therefore combine better control over the guest experience with improved financial outcomes.
 
-Value Proposition 
+### Value Proposition 
 
 From here, we recognise that OTAs play an important role. They give hotels visibility, help them reach a wider audience and make it easy for guests to discover and compare options. At the same time, hotels still value direct bookings because they allow them to build stronger relationships with guests, personalise the stay and retain more revenue. Instead of replacing OTAs, our aim is to bring the best of both worlds together.
 
 As such, Alluvio keeps the convenience and reach of OTAs while creating a direct and effortless connection between guests and the hotel. Through the integrated app and web platform, guests enjoy a smoother and more personalised pre-arrival experience and hotels can better anticipate their needs through direct communication. By allowing guests to apply their hotel loyalty programmes when booking through Alluvio, which is something that is not typically possible on OTAs, Alluvio makes the experience feel as seamless and rewarding as booking directly with the hotel while still delivering a level of service that reflects modern luxury.
 
-Solution Demo
+### Solution Demo
 
 (Insert Web Platform Video)
 
 (Insert App Platform Video)
 
-User Testing and Analysis
+### User Testing and Analysis
 
 We had the opportunity to conduct user testing and analysis with hotel guests and staff, who are the two key stakeholder groups for Alluvio. Guests shared valuable feedback on both usability and the overall experience. They highlighted the need to reduce interaction friction, such as keeping all swipe options on the same page to avoid unnecessary scrolling. Guests also expressed that first time discounts or immediate rewards would motivate them to download and try a new platform. In addition, they were enthusiastic about features that help them discover hotels more easily, such as personalised recommendations based on their preference profiles. 
 
@@ -656,13 +730,6 @@ As for hotel staff, their insights centred strongly on revenue considerations. T
 
 These insights from guests and staff helped clarify Alluvio’s positioning and guided improvements to our interface and features. They are valuable considerations that we will carry forward as we decide on our final direction and solution.
 
-## 
-
-## 
-
-## 
-
-## 
 
 ## 2\. AI Kiosk Assistant
 
@@ -926,7 +993,7 @@ High Feasibility for Integration with Existing PMS and HMS Systems
 A key focus during the ideation and low-fidelity prototyping phase was minimising the learning curve and adoption barriers for hotel staff. With our low-fidelity prototypes, hotel staff expressed confidence in the feasibility of integrating our solutions with existing PMS and HMS systems. This consideration was central to our design approach, as we aim for our future proof-of-concept prototype to feature an intuitive interface, incorporating familiar icons and symbols aligned with widely used systems such as Opera by Oracle. This ensures smooth integration and simplifies the learning process for staff.
 These insights validate our low-fidelity prototypes and provide a solid foundation for further development. They affirm that we are on the right track and offer valuable momentum as we move forward with refining and expanding our solutions.
 
-# Areas for Improvement/ Considerations {#areas-for-improvement/-considerations}
+# Areas for Improvement / Considerations {#areas-for-improvement}
 
 Data Privacy and Security Concerns  
 Data privacy and security are critical considerations in the hospitality industry, where large volumes of sensitive guest information are handled daily. As such, ensuring that all data is stored and transferred safely is essential. Any breach would not only lead to financial penalties and operational disruption but also reputational damage for the hotel. Protecting guest information must therefore be a priority, and our solutions need to uphold the highest standards of data protection.
@@ -1006,6 +1073,7 @@ To support this progress, we will ensure clear delegation of tasks and maintain 
 
 The Luxury Traveler Survey from Skift further highlights a trend towards splurging on luxury accommodation, customized itineraries, and highend experiences (EHL Insights, 2025). 
 
+
 **Changing definition of luxury & guest experience**
 
 This is shaped by the declining ability of luxury goods to signal social standing, driven by their increased accessibility and the growing prevalence of high-quality fakes (EHL Insights, 2023).
@@ -1014,7 +1082,7 @@ Similarly, the UN Tourism (2025) estimated that in 2024, about 1.4 billion touri
 
 Roles that depend on human interaction and services that are hard to automate will remain especially in high demand (World Travel & Tourism Council, 2025).
 
-**Singapore’s Hospitality Trends** {#singapore-hospitality-trends}
+**Singapore’s Hospitality Trends**
 
 Looking ahead, the Singapore Tourism Board (2025) forecasts tourism receipts of SGD 29 to 30.5 billion and expects international visitor arrivals to reach 17 to 18.5 million in 2025, maintaining the upward trajectory seen in 2024\.
 
@@ -1284,7 +1352,6 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
     <h2>Table of Contents</h2>
     <ul>
       <li><a href="#acknowledgements">Acknowledgements</a></li>
-      <li><a href="#overview">Overview</a></li>
       <li>
         <a href="#introduction">Introduction</a>
         <ul>
@@ -1396,7 +1463,7 @@ These quotes demonstrate how kiosks struggle not only with non-standard requests
         <a href="#key-takeaways">Key Takeaways</a>
         <ul>
           <li><a href="#strengths">Strengths</a></li>
-          <li><a href="#areas-for-improvement/-considerations">Areas for Improvement/ Considerations</a></li>
+          <li><a href="#areas-for-improvement">Areas for Improvement/ Considerations</a></li>
         </ul>
       </li>
       <li><a href="#project-plan">Project Plan</a></li>
