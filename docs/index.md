@@ -1296,6 +1296,7 @@ The Luxury Traveler Survey from Skift further highlights a trend towards splurgi
 This is shaped by the declining ability of luxury goods to signal social standing, driven by their increased accessibility and the growing prevalence of high-quality fakes (EHL Insights, 2023).
 
 **Global Trends**
+
 The almost complete recovery (99%) of pre-pandemic levels is fueled by strong post-pandemic demand, robust performance from large source markets and the ongoing recovery of destinations in Asia and the Pacific. The sector’s strong rebound is also becoming a powerful engine for global job creation, with projections to support about 371 million jobs this year (World Travel & Tourism Council, 2025). International arrivals are projected to rise a further 3%–5% in 2025 (UN Tourism, 2025).
 
 Roles that depend on human interaction and services that are hard to automate will remain especially in high demand (World Travel & Tourism Council, 2025).
