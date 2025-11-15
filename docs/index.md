@@ -479,7 +479,7 @@ Before analysing the staff's and guest's 'user journeys', it is essential to und
 
 ### **Role in Hotel Operations** {#role-in-hotel-operations}
 
-Front desk staff rely on PMS platforms \- such as **Opera PMS by Oracle Hospitality**, one of the industry’s most widely adopted systems \- to perform key operational tasks including:
+Front desk staff rely on PMS platforms \- such as Opera PMS by Oracle Hospitality, one of the industry’s most widely adopted systems \- to perform key operational tasks including:
 
 1. Looking up, verifying, and modifying guest reservations.  
 2. Checking room availability and assigning rooms.  
@@ -488,17 +488,17 @@ Front desk staff rely on PMS platforms \- such as **Opera PMS by Oracle Hospital
 5. Logging service requests and special notes.  
 6. Printing registration cards and receipts.
 
-Through these functions, the PMS acts as the **data hub** that links room allocation algorithms, guest preference databases, and revenue management systems. Its reliability and accessibility directly influence the fluidity of the guest experience—particularly at check-in, where staff must access accurate, up-to-date information quickly.
+Through these functions, the PMS acts as the data hub that links room allocation algorithms, guest preference databases, and revenue management systems. Its reliability and accessibility directly influence the fluidity of the guest experience—particularly at check-in, where staff must access accurate, up-to-date information quickly.
 
 ### **Limitations and Friction Points** {#limitations-and-friction-points}
 
-Despite its centrality, current PMS platforms—particularly legacy systems like Opera—exhibit notable usability limitations. The interface is often **non-intuitive**, requiring multiple clicks and navigation across several tabs to complete a single check-in process (Workforce Singapore, 2023). Staff are frequently required to **switch between the PMS and other systems**, such as payment gateways or CRM modules, which increases both cognitive load and error risk. Moreover, guest information can be **buried, inconsistent, or fragmented** across systems, hindering personalization efforts (Singapore Institute of Hospitality, 2024).
+Despite its centrality, current PMS platforms—particularly legacy systems like Opera—exhibit notable usability limitations. The interface is often non-intuitive, requiring multiple clicks and navigation across several tabs to complete a single check-in process (Workforce Singapore, 2023). Staff are frequently required to switch between the PMS and other systems, such as payment gateways or CRM modules, which increases both cognitive load and error risk. Moreover, guest information can be buried, inconsistent, or fragmented across systems, hindering personalization efforts (Singapore Institute of Hospitality, 2024).
 
 These inefficiencies are particularly problematic in the luxury segment, where service quality and responsiveness define the brand experience. Studies show that poor back-end integration and fragmented digital ecosystems can extend average check-in time by up to 30%, negatively impacting perceived service quality (EHL Insights, 2025).
 
 ### **Implications for Design** {#implications-for-design}
 
-Understanding PMS limitations is critical when reimagining the automated check-in process. The system’s complexity and lack of integration often prevent staff from focusing on high-touch interactions—precisely the moments that differentiate luxury service (Mann, Scully, Straus & Tellez Holub, 2024). Therefore, future design interventions should not seek to replace the PMS entirely but to **augment it** \- for example, through an overlay interface or AI assistant that extracts and surfaces relevant information in real time, reducing friction while maintaining operational accuracy.
+Understanding PMS limitations is critical when reimagining the automated check-in process. The system’s complexity and lack of integration often prevent staff from focusing on high-touch interactions—precisely the moments that differentiate luxury service (Mann, Scully, Straus & Tellez Holub, 2024). Therefore, future design interventions should not seek to replace the PMS entirely but to augment it \- for example, through an overlay interface or AI assistant that extracts and surfaces relevant information in real time, reducing friction while maintaining operational accuracy.
 
 # Experience Journey Maps {#experience-journey-maps}
 ## Pre-Arrival {#pre-arrival}
