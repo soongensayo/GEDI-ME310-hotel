@@ -547,31 +547,60 @@ function toggleCounterDetails() {
 
 ![image6](assets/images/kiosk-check-in-flow.png)  
 
-As hotels experiment with automation to enhance efficiency and reduce manpower dependency, **self-service kiosks** have become increasingly common, especially in business and mid-to-upscale hotels. These kiosks aim to streamline routine procedures such as guest identification, payment, and room key issuance — mirroring the self-check-in models seen in airports. In Singapore, automation has been widely encouraged to address labour shortages and operational inefficiencies in the hospitality sector (Workforce Singapore, 2023). However, while kiosk systems deliver measurable gains in speed and consistency, they also expose gaps in emotional engagement and personalization — both critical attributes of the luxury segment (Ecole Hôtelière de Lausanne, 2023).
+As hotels experiment with automation to enhance efficiency and reduce manpower dependency, **self-service kiosks** have become increasingly common, especially in business and mid-to-upscale hotels. These kiosks aim to streamline routine procedures such as guest identification, payment, and room key issuance — mirroring the self-check-in models seen in airports. In Singapore, automation has been widely encouraged to address labour shortages and operational inefficiencies in the hospitality sector (Workforce Singapore, 2023). However, while kiosk systems deliver measurable gains in speed and consistency, they also expose gaps in emotional engagement and personalization — both critical attributes of the luxury segment.
 
-### **1\. Entering of Key Details** 
+<div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
+  <button onclick="toggleKioskDetails()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
+    <span id="kiosk-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
+    Click to expand details on each stage
+  </button>
+  
+  <div id="kiosk-details" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+    <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">1. Entering of Key Details</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> Guests generally perceive the kiosk as efficient and straightforward, appreciating the ability to bypass long queues. However, many express frustration that they still have to manually enter personal information, even if these details were already provided during online booking. This duplication creates a sense of redundancy and contradicts the promise of a seamless digital experience.</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> The automation of initial data entry reduces front desk workload, allowing staff to supervise multiple kiosks simultaneously and assist guests only when necessary. This redeployment of manpower enables a more relaxed, concierge-like presence on the floor rather than behind the counter.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">2. Guest Photo and Passport Scanning</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> The passport scanning and verification process reinforces efficiency but introduces a transactional, impersonal tone. Guests accustomed to high-touch luxury interactions often perceive the lack of human acknowledgment as diminishing the sense of welcome. This aligns with findings from McKinsey (Mann, Scully, Straus & Tellez Holub, 2024), which highlight that luxury guests prioritize personalized recognition and emotional connection above speed.</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Kiosks significantly **reduce training time**, from an estimated one month to about a week, as staff no longer need to memorize complex PMS workflows. However, staff must still intervene frequently when the kiosk’s document recognition or verification system fails — especially with non-standard passports or international ID formats — revealing technical fragility beneath the automation veneer.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">3. Filling of Additional Fields and Signing of Terms & Conditions</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> This stage is where friction typically resurfaces. Guests may be required to fill in multiple mandatory fields, sign digital forms, and review terms on-screen. For less tech-savvy users or older guests, the interface can appear daunting, particularly if touch targets are small or instructions unclear. Such usability issues echo broader research noting that while self-service technologies improve efficiency, they can also alienate users when poorly designed (Ecole Hôtelière de Lausanne, 2025).</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong>While kiosks handle the procedural aspects of check-in, they remain limited in scope — unable to accommodate **complex or exception-based requests** such as split billing, room upgrades, or special amenities. Staff must therefore monitor the kiosks closely to address these exceptions in real time, sometimes negating the efficiency gains.</p>
+    </div>
+    
+    <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
+      <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">4. Collection of Key Card and Handling of Issues</h4>
+      <p style="margin: 0; line-height: 1.6; color: #444;"><strong>Guest perspective:</strong> Guests expect the process to conclude smoothly once the key card is dispensed. However, issues such as incorrect room assignment, non-functional cards, or unmet special requests often require them to return to the counter — undermining the convenience of the kiosk experience. As one observed guest described, “I still have to go to the front desk anyway because of how limited the kiosk is.”</p>
+      <p style="margin: 12px 0 0 0; line-height: 1.6; color: #444;"><strong>Staff perspective:</strong> Front desk teams report that kiosks reduce repetitive administrative tasks, freeing time for proactive engagement. However, they also note that system limitations lead to fragmented workflows — tasks often have to be finalized manually in the PMS, creating inconsistency in record-keeping and increasing post-check-in corrections.</p>
+    </div>
+  </div>
+</div>
 
-**Guest perspective:** Guests generally perceive the kiosk as efficient and straightforward, appreciating the ability to bypass long queues. However, many express frustration that they still have to manually enter personal information, even if these details were already provided during online booking. This duplication creates a sense of redundancy and contradicts the promise of a seamless digital experience.
-
-**Staff perspective:** The automation of initial data entry reduces front desk workload, allowing staff to supervise multiple kiosks simultaneously and assist guests only when necessary. This redeployment of manpower enables a more relaxed, concierge-like presence on the floor rather than behind the counter (Venture Corporation, 2025).
-
-### **2\. Guest Photo and Passport Scanning** 
-
-**Guest perspective:** The passport scanning and verification process reinforces efficiency but introduces a transactional, impersonal tone. Guests accustomed to high-touch luxury interactions often perceive the lack of human acknowledgment as diminishing the sense of welcome. This aligns with findings from McKinsey (Mann, Scully, Straus & Tellez Holub, 2024), which highlight that luxury guests prioritize personalized recognition and emotional connection above speed.
-
-**Staff perspective:** Kiosks significantly **reduce training time**, from an estimated one month to about a week, as staff no longer need to memorize complex PMS workflows. However, staff must still intervene frequently when the kiosk’s document recognition or verification system fails — especially with non-standard passports or international ID formats — revealing technical fragility beneath the automation veneer.
-
-### **3\. Filling of Additional Fields and Signing of Terms & Conditions** 
-
-**Guest perspective:** This stage is where friction typically resurfaces. Guests may be required to fill in multiple mandatory fields, sign digital forms, and review terms on-screen. For less tech-savvy users or older guests, the interface can appear daunting, particularly if touch targets are small or instructions unclear. Such usability issues echo broader research noting that while self-service technologies improve efficiency, they can also alienate users when poorly designed (Ecole Hôtelière de Lausanne, 2025).
-
-**Staff perspective:** While kiosks handle the procedural aspects of check-in, they remain limited in scope — unable to accommodate **complex or exception-based requests** such as split billing, room upgrades, or special amenities. Staff must therefore monitor the kiosks closely to address these exceptions in real time, sometimes negating the efficiency gains.
-
-### **4\. Collection of Key Card and Handling of Issues** 
-
-**Guest perspective:** Guests expect the process to conclude smoothly once the key card is dispensed. However, issues such as incorrect room assignment, non-functional cards, or unmet special requests often require them to return to the counter — undermining the convenience of the kiosk experience. As one observed guest described, “I still have to go to the front desk anyway because of how limited the kiosk is.”
-
-**Staff perspective:** Front desk teams report that kiosks reduce repetitive administrative tasks, freeing time for proactive engagement. However, they also note that system limitations lead to fragmented workflows — tasks often have to be finalized manually in the PMS, creating inconsistency in record-keeping and increasing post-check-in corrections.
+<script>
+function toggleKioskDetails() {
+  const content = document.getElementById('kiosk-details');
+  const icon = document.getElementById('kiosk-toggle-icon');
+  const button = event.target.closest('button');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.innerHTML = '▼';
+    icon.style.transform = 'rotate(90deg)';
+    button.innerHTML = button.innerHTML.replace('Click to expand', 'Click to collapse').replace('▶', '▼');
+  } else {
+    content.style.display = 'none';
+    icon.innerHTML = '▶';
+    icon.style.transform = 'rotate(0deg)';
+    button.innerHTML = button.innerHTML.replace('Click to collapse', 'Click to expand').replace('▼', '▶');
+  }
+}
+</script>
 
 # Stakeholders {#stakeholders}
 
