@@ -1076,7 +1076,7 @@ These insights from guests and staff helped clarify Alluvio’s positioning and 
 
 The AI Kiosk Assistant is a complementary device that works alongside existing self-service kiosks, keeping their speed while adding warmth and guidance. It uses a natural, conversational voice to talk with guests, help them through check-in, and gently capture their preferences. 
 
-##### **Design Rationale (Primary)** {#design-rationale-(primary)}
+##### **Design Rationale (Primary)**
 
 Through site visits to multiple hotels in Singapore and interviews with front-office staff and managers, we examined how existing self-service kiosks are deployed and experienced in practice. In one hotel, for example, we observed tourists approaching the kiosk, appearing confused, and quickly searching for staff rather than completing check-in independently, highlighting a lack of clear guidance and reassurance. Across these observations and interviews, we distilled recurring pain points: 
 
@@ -1097,7 +1097,7 @@ Despite technological advancements, guests continue to value human guidance in h
 
 Collectively, these insights underscore the importance of designing solutions such as the AI Kiosk Assistant that balance efficiency with emotional resonance to redefine the modern luxury experience.
 
-##### **Value Proposition** {#value-proposition}
+### Value Proposition 
 
 For guests, the AI Kiosk Assistant offers the speed of a self-service kiosk with the reassurance of a human host. It turns the interaction from transactional to conversational, provides clear step-by-step guidance, responds to simple questions and exceptions, and adds emotional warmth and light personalisation so that using a kiosk feels aligned with luxury expectations rather than “cheap” or mechanical.
 
