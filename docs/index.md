@@ -226,7 +226,7 @@ These clusters were then distilled into key insights and design implications, fo
 
 ![image3](assets/images/affinity-clustering.png)
 
-### **Guest Experience Pain Points Analysis (1-Star Review Study)**
+### **Guest Experience Pain Points Analysis (1-Star Review Study)** {#guest-experience-pain-points-analysis}
 
 To complement our interviews with hotel staff and validate observed service challenges from the guest perspective, we conducted a quantitative analysis of 1-star guest reviews from major online travel platforms. This served as a data-driven complement to our qualitative research, allowing us to triangulate findings and identify consistent pain points across both operational and experiential dimensions. A dataset of 60+ reviews from five-star properties in Singapore was collected, cleaned, and structured. Each review was coded and categorized into sub-themes based on the nature of dissatisfaction expressed by guests, and these sub-themes were consolidated into higher-level themes through affinity clustering. To visualise the findings, we built an interactive dashboard (HTML) that presents the relative frequency of each theme and its underlying categories.
 <p>
@@ -460,48 +460,6 @@ However, this culture varies across hotels. Some operate under strict approval h
   }
 </script>
 
-## User Personas
-
-#### **Overview** 
-
-Building on the insights gathered from our interviews and affinity clustering analysis, we developed two user personas representing key stakeholders in the luxury hotel check-in ecosystem: the Front Desk Staff and the Hotel Manager. These personas encapsulate recurring behavioural patterns, motivations, and frustrations observed across different hotels and roles.
-
-By distilling common attributes into relatable archetypes, the personas helped the team anchor design decisions around real human needs rather than abstract assumptions. They serve as reference points to evaluate potential solutions \- ensuring that design directions remain grounded in the operational realities and emotional experiences of both staff and management.
-
-#### **Persona 1: Front Desk Staff (Extrovert)**
-
-This persona embodies the frontline employees who directly engage with guests during check-in. Typically sociable and service-driven, these individuals thrive on personal interaction and hospitality but face significant cognitive and emotional strain balancing human engagement with system-related administrative tasks.
-
-**Key Characteristics:**
-
-* **Behaviours:** Greets guests warmly, keys in details manually, manages guest expectations and complaints in real-time.  
-* **Goals:** To provide seamless service, input guest data accurately, and maintain composure under pressure.  
-* **Pain Points:** Struggles with complex systems like Opera PMS; repetitive, multitasking-heavy workflows; and emotionally draining guest interactions.  
-* **Personality:** Extroverted, warm, yet occasionally overwhelmed or careless under stress.  
-* **Motivations:** Desire to make guests feel valued and to perform well under managerial supervision — often driven by pride in hospitality and fear of reprimand.
-
-**Design Implication:**  
-Tools targeting this persona should emphasize simplicity, real-time guidance, and emotional relief, reducing manual data entry, streamlining multitasking, and allowing staff to focus on the relational side of service.
-
-#### **Persona 2: Hotel Manager** {#persona-2:-hotel-manager}
-
-This persona represents middle- to upper-level managers responsible for overall service quality, staff coordination, and technology adoption. They bridge guest expectations, staff realities, and corporate objectives — often balancing efficiency goals with the preservation of brand hospitality standards.
-
-**Key Characteristics:**
-
-* **Behaviours:** Conducts team meetings, supervises operations, and occasionally intervenes in guest escalations.  
-* **Goals:** Improve consistency, empower staff autonomy, enhance efficiency and guest satisfaction.  
-* **Pain Points:** Fragmented tech systems, difficulty retaining skilled staff, and pressure to adopt technologies that may disrupt daily operations.  
-* **Personality:** Charismatic and outwardly confident, but at times detached from on-the-ground challenges.  
-* **Motivations:** Enhance hotel reputation, improve guest ratings, and optimize operations to manage costs effectively.
-
-**Design Implication:**  
-Solutions for this persona should provide visibility, control, and actionable insights. This enables managers to monitor performance, empower teams, and assess new technology adoption without micromanaging.
-
-#### **Application of Personas** {#application-of-personas}
-
-The personas collectively highlight the tension between human empathy and system efficiency \- a central challenge in reimagining the luxury check-in experience. By referencing these personas in subsequent design stages (such as journey mapping and prototyping), the team can ensure that innovations remain empathetic to staff realities while aligning with managerial objectives for scalability and consistency.
-
 # Property Management System {#property-management-system}
 
 Before analysing the staff's and guest's 'user journeys', it is essential to understand the core technological infrastructure underpinning hotel operations: the **Property Management System (PMS)**. In the luxury hospitality context, the PMS serves as the central nervous system of the hotel, coordinating information across reservations, housekeeping, billing, and guest services (Ecole Hôtelière de Lausanne, 2025). It connects the **front desk**, **back office**, and **guest-facing digital platforms**, ensuring that data flows seamlessly from booking to check-in and post-stay follow-up.
@@ -722,7 +680,7 @@ function toggleKioskDetails() {
 
 The luxury hotel check-in ecosystem involves a complex network of stakeholders whose roles, expectations, and challenges directly shape the check-in experience. This section outlines the four primary stakeholder groups: Guests, Front Office Staff, Hotel Managers, and Technology Departments. Their needs and pain points serve as the basis for our three design pillars: *Empowering Staff, Personalisation Intelligence,* and *Human-Centric Automation.Guests*
 
-##### **1\. Guests**
+## **1\. Guests** {#guests}
 
 They are the primary users of the check-in process and beneficiaries of service excellence. The check-in experience serves a diverse range of guest profiles, each with distinct expectations and challenges as seen in Image 1\.
 
@@ -789,7 +747,7 @@ function toggleguestDefinitions() {
 }
 </script>
 
-##### **2\. Front-Office Staff** 
+## **2\. Front-Office Staff** {#front-office-staff}
 
 Front office staff are responsible for executing the end-to-end check-in process, which requires navigating complex systems like Opera PMS, verifying guest identities, processing payments, retrieving preferences, managing room allocations, and handling real-time guest inquiries. They must perform these administrative tasks while maintaining composure, warmth, and attentiveness.
 
@@ -855,7 +813,7 @@ function togglestaffDefinitions() {
 }
 </script>
 
-##### **3\. Hotel Management**
+## **3\. Hotel Management** {#hotel-management}
 
 Hotel managers oversee the performance and consistency of front office operations, ensuring that staff deliver service that meets luxury hospitality standards. They coordinate manpower, manage scheduling, monitor service quality metrics, resolve guest escalations, and make decisions on technology adoption. Their responsibilities bridge guest satisfaction, staff capability, and operational efficiency.
 
@@ -919,7 +877,7 @@ function togglehotelmanagementDefinitions() {
 }
 </script>
 
-##### **4\. Technology Department** {#4.-technology-department}
+## **4\. Technology Department** {#technology-department}
 
 Technology departments maintain the hotel’s digital ecosystem, including PMS, kiosk systems, CRM platforms, keycard systems, automated check-in solutions, and cybersecurity protocols. They ensure that systems remain compliant with data protection policies. Additionally, they support integrations, automation implementation and maintenance, troubleshooting system failures, and evaluating new technologies for feasibility and ROI. Their work underpins the operational reliability needed for smooth check-ins and personalised guest experiences.
 
@@ -981,8 +939,8 @@ function toggletechDefinitions() {
 }
 </script>
 
-**Scope Refinement**  
-While our stakeholder analysis considered guests, front-office staff, hotel management, and technology departments, we subsequently narrowed the primary focus of this project to guests and front-office staff. These two groups sit at the centre of the check-in interaction and experience its pain points most directly. By prioritising their needs, we are able to address the most visible breakdowns in the current journey, while still generating downstream benefits for management and technology teams through improved consistency, usability, and data quality.
+### **Scope Refinement**  
+While our stakeholder analysis considered guests, front-office staff, hotel management, and technology departments, we subsequently narrowed the primary focus of this project to **guests** and **front-office staff**. These two groups sit at the centre of the check-in interaction and experience its pain points most directly. By prioritising their needs, we are able to address the most visible breakdowns in the current journey, while still generating downstream benefits for management and technology teams through improved consistency, usability, and data quality.
 
 Within this refined scope, the needs and pain points of guests and front-office staff reveal a consistent tension between operational efficiency and the human expectations of luxury hospitality. Although technology and automation are increasingly adopted, they often do not adequately support staff or deliver the warmth and personalisation guests expect. This tension can be distilled into the following problem statement.
 # Problem Statement {#problem-statement}
@@ -1018,7 +976,7 @@ Rather than converging immediately on a single concept, we adopted an explorator
 </p>
 <p align="center"><strong>Figure XX: Overview of the solutions prototyped across the guest journey</strong></p>
 
-## 1\. AIluvio
+## 1\. Alluvio {#alluvio}
 
 Alluvio covers the pre-booking and booking phases of the luxury hotel check-in journey. Our goal is to design an intelligent, secure luxury system that intuitively captures and organises guest preferences. Through a fun, swipe-based interface, guests can build dynamic, evolving profiles while AI delivers personalised recommendations based on their preferences. Profiles can also securely store essential travel documents such as Visas, for easy and anytime access. With explicit consent, this information can be shared accurately across onboarded luxury hotels via secure integrations with their hotel management systems.
 
@@ -1053,7 +1011,7 @@ From here, we recognise that OTAs play an important role. They give hotels visib
 
 As such, Alluvio keeps the convenience and reach of OTAs while creating a direct and effortless connection between guests and the hotel. Through the integrated app and web platform, guests enjoy a smoother and more personalised pre-arrival experience and hotels can better anticipate their needs through direct communication. By allowing guests to apply their hotel loyalty programmes when booking through Alluvio, which is something that is not typically possible on OTAs, Alluvio makes the experience feel as seamless and rewarding as booking directly with the hotel while still delivering a level of service that reflects modern luxury.
 
-### Solution Demo
+### Solution Demo 
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/eHiLBygFeXg" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1072,7 +1030,7 @@ As for hotel staff, their insights centred strongly on revenue considerations. T
 These insights from guests and staff helped clarify Alluvio’s positioning and guided improvements to our interface and features. They are valuable considerations that we will carry forward as we decide on our final direction and solution.
 
 
-## 2\. AI Kiosk Assistant
+## 2\. AI Kiosk Assistant {#ai-kiosk-assistant}
 
 The AI Kiosk Assistant is a complementary device that works alongside existing self-service kiosks, keeping their speed while adding warmth and guidance. It uses a natural, conversational voice to talk with guests, help them through check-in, and gently capture their preferences. 
 
@@ -1177,7 +1135,7 @@ Additionally, we conducted early-stage user testing with potential guests in a s
 
 **Direction for refinement:** Refine the AI Kiosk Assistant to combine voice guidance with privacy-sensitive touch interactions
 
-## 3\. Hotelly \- AI Overlay System for Front Desk Staff
+## 3\. Hotelly \- AI Overlay System for Front Desk Staff {#hotelly}
 
 Building on the identified challenges of manpower shortages, inconsistent service quality, and rising guest expectations, our team developed *Hotelly*, an AI overlay system designed to discreetly support front desk staff during the hotel check-in process. Rather than replacing human hospitality, Hotelly enhances it. It serves as a real-time “co-pilot” that empowers staff to deliver warm, precise, and personalized service even under pressure.
 
@@ -1758,12 +1716,9 @@ We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree
               <li><a href="#analysis-approach">Analysis Approach</a></li>
             </ul>
           </li>
-          <li><a href="#guest-experience-pain-points-analysis-(1-star-review-study)">Guest Experience Pain Points Analysis (1-Star Review Study)</a></li>
+          <li><a href="#guest-experience-pain-points-analysis">Guest Experience Pain Points Analysis (1-Star Review Study)</a></li>
           <li>
             <a href="#key-themes-and-insights-from-primary-research">Key Themes and Insights from Primary Research</a>
-          </li>
-          <li>
-            <a href="#user-personas">User Personas</a>
           </li>
         </ul>
       </li>
@@ -1776,7 +1731,7 @@ We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree
         </ul>
       </li>
       <li>
-        <a href="#experience-journey-maps">Experience Journey Map: Pre-Arrival</a>
+        <a href="#experience-journey-maps">Experience Journey Maps</a>
         <ul>
           <li><a href="#pre-arrival">Pre-arrival</a></li>
           <li><a href="#traditional-counter-check-in">Traditional Counter Check-in</a></li>
@@ -1786,43 +1741,27 @@ We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree
       <li>
         <a href="#stakeholders">Stakeholders</a>
         <ul>
-          <li><a href="#1.-guests">1. Guests</a></li>
-          <li><a href="#2.-front-office-staff">2. Front-Office Staff</a></li>
-          <li><a href="#3.-hotel-management">3. Hotel Management</a></li>
-          <li><a href="#4.-technology-department">4. Technology Department</a></li>
+          <li><a href="#guests">1. Guests</a></li>
+          <li><a href="#front-office-staff">2. Front-Office Staff</a></li>
+          <li><a href="#hotel-management">3. Hotel Management</a></li>
+          <li><a href="#technology-department">4. Technology Department</a></li>
         </ul>
       </li>
       <li><a href="#problem-statement">Problem Statement</a></li>
       <li>
         <a href="#design-directions">Design Directions</a>
-        <ul>
-          <li><a href="#1.-empower-staff-consistency-and-confidence">1. Empower Staff Consistency and Confidence</a></li>
-          <li><a href="#2.-personalisation-and-guest-preference-intelligence">2. Personalisation and Guest Preference Intelligence</a></li>
-          <li><a href="#3.-human-centric-automation-for-enhanced-hospitality">3. Human-Centric Automation for Enhanced Hospitality</a></li>
-        </ul>
       </li>
       <li>
         <a href="#prototypes">Prototypes</a>
         <ul>
-          <li><a href="#1.-ailuvio">1. AIluvio</a></li>
+          <li><a href="#alluvio">1. Alluvio</a></li>
           <li>
-            <a href="#2.-ai-kiosk-assistant">2. AI Kiosk Assistant</a>
-            <ul>
-              <li><a href="#design-rationale-(primary)">Design Rationale (Primary)</a></li>
-              <li><a href="#value-proposition">Value Proposition</a></li>
-              <li><a href="#solution-demo">Solution demo</a></li>
-              <li><a href="#user-testing-&-analysis">User Testing & Analysis</a></li>
-            </ul>
+            <a href="#ai-kiosk-assistant">2. AI Kiosk Assistant</a>
           </li>
           <li>
-            <a href="#3.-hotelly---ai-overlay-system-for-front-desk-staff">3. Hotelly - AI Overlay System for Front Desk Staff</a>
-            <ul>
-              <li><a href="#design-rationale">Design Rationale</a></li>
-              <li><a href="#value-proposition-1">Value Proposition</a></li>
-              <li><a href="#user-testing-and-analysis">User Testing and Analysis</a></li>
-            </ul>
+            <a href="#hotelly">3. Hotelly - AI Overlay System for Front Desk Staff</a>
           </li>
-          <li><a href="#4.-aria-ai-assistant">4. Aria AI assistant</a></li>
+          <li><a href="#aria-ai-assistant">4. Aria AI assistant</a></li>
         </ul>
       </li>
       <li>
