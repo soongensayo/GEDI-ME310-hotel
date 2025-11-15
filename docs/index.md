@@ -1034,7 +1034,8 @@ Most guests start looking for accommodation on Online Travel Agencies such as Bo
     <img src="assets/images/europe-share.png" alt="Europe Share of Direct and Indirect Online Hotel Bookings" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
-  **Figure XX: Share of direct and indirect online hotel bookings in Asia and Europe from 2019 to 2023**
+
+<p align="center"><strong>Figure XX: Share of direct and indirect online hotel bookings in Asia and Europe from 2019 to 2023</strong></p>
   
 <p align="center">
   <img src="assets/images/USA-share.png" width="400">
