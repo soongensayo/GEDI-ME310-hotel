@@ -1459,7 +1459,8 @@ This persona embodies the frontline employees who directly engage with guests du
 **Design Implication:**
 Tools targeting this persona should emphasize simplicity, real-time guidance, and emotional relief, reducing manual data entry, streamlining multitasking, and allowing staff to focus on the relational side of service.
 
-**Persona 1: Hotel Manager**
+
+**Persona 2: Hotel Manager**
 This persona represents middle- to upper-level managers responsible for overall service quality, staff coordination, and technology adoption. They bridge guest expectations, staff realities, and corporate objectives, often balancing efficiency goals with the preservation of brand hospitality standards.
 
 **Key Characteristics:**
