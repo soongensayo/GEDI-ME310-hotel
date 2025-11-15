@@ -226,7 +226,7 @@ Interviews were conducted between September and October 2025, following the prot
 
 <p>
   <a href="assets/documents/InterviewQuestions.html" target="_blank" rel="noopener" style="display:inline-block;padding:0.5em 1.25em;background:#183153;color:#fff;border-radius:8px;font-weight:500;text-decoration:none;box-shadow:0 2px 8px rgba(20,30,80,0.06);margin-top:12px;">
-    View Interview Questions Prepartion Document &rarr;
+    View Interview Questions Preparation Document &rarr;
   </a>
 </p>
 
