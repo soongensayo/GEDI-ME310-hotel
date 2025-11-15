@@ -1326,14 +1326,14 @@ In turn, this contributes to lost revenue opportunities, as teams are unable to 
 
 This appendix summarises the luxury hotels and organisations we visited as part of our primary research. Each visit helped us understand real-world check-in operations, constraints, and attitudes towards automation in luxury hospitality.
 
-### B.1 Amara Singapore
+#### B.1 Amara Singapore
 We visited Amara Singapore to observe front-office operations and better understand current check-in practices and guest–staff interactions.
 
 **Stakeholders Engaged**<br>
 **Gordon Aeria** – General Manager, Amara Singapore<br>
 **Pearlyn** – Front Office Manager
 
-### B.2 Shangri-La Singapore
+#### B.2 Shangri-La Singapore
 We conducted two visits to Shangri-La Singapore.<br>
 The first visit focused on understanding the luxury hotel while the second visit involved sharing and testing early-stage prototypes with hotel stakeholders to gather feedback.
 
@@ -1346,7 +1346,7 @@ The first visit focused on understanding the luxury hotel while the second visit
 </p>
 <p align="center"><strong>Figure B.2. Shangri-La Singapore (site visit photograph)</strong></p>
 
-### B.3 Raffles Hotel Singapore
+#### B.3 Raffles Hotel Singapore
 At Raffles Hotel Singapore, we engaged with stakeholders to understand the perspectives from an iconic luxury heritage brand.
 
 **Stakeholders Engaged**<br>
@@ -1358,7 +1358,7 @@ At Raffles Hotel Singapore, we engaged with stakeholders to understand the persp
 </p>
 <p align="center"><strong>Figure B.3. Raffles Hotel Singapore – lobby and entrance area (site visit photograph)</strong></p>
 
-### B.4 Banyan Tree Headquarters
+#### B.4 Banyan Tree Headquarters
 We visited the Banyan Tree Headquarters to gain a brand-level perspective on guest experience and the strategic role of technology and AI across the group’s portfolio.
 
 **Stakeholder Engaged**<br>
@@ -1369,7 +1369,7 @@ We visited the Banyan Tree Headquarters to gain a brand-level perspective on gue
 </p>
 <p align="center"><strong>Figure B.4. Banyan Tree Headquarters (site visit photograph)</strong></p>
 
-### B.5 Mandai Rainforest Resort
+#### B.5 Mandai Rainforest Resort
 We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree.
 
 **Stakeholder Engaged**<br>
