@@ -905,7 +905,6 @@ Rather than converging immediately on a single concept, we adopted an explorator
 ![Solutions](assets/images/SolutionsOverview.png)  
 Figure X. Overview of the solutions prototyped across the guest journey.
 
-## 
 
 ## 1\. AIluvio
 
