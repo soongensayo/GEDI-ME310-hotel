@@ -915,8 +915,15 @@ Alluvio covers the pre-booking and booking phases of the luxury hotel check-in j
 Most guests start looking for accommodation on Online Travel Agencies such as Booking.com, Expedia, Trip.com and Agoda. These platforms act as a centralised hub that allows users to compare prices, amenities and reviews across a wide range of properties, helping them find the best fit with minimal effort and high convenience. In recent years, many OTAs have expanded beyond hotel stays to include rental cars, attractions, flights and even airport transfers to the booked hotel, reinforcing their position as a one stop shop for travellers. According to a 2024 hotel distribution report, the vast majority of guests in Asia and Europe continue to book through these indirect channels, based on data from 2018 to 2023 as shown in Figure XX (Hotel Distribution Report, 2024). A similar pattern is observed in the United States, where data collected in 2019, 2021 and 2023 indicates that OTAs remain a dominant booking channel, as shown in Figure XX (Phocuswright Research, 2022). Together, these findings demonstrate how OTAs have become modern day leviathans in travel, shaping how guests search for and book their stays.
 
 **Figure XX: Share of direct and indirect online hotel bookings in Asia and Europe from 2019 to 2023**
-![imageasia](assets/images/asia-share.png)
-![imageeurope](assets/images/europe-share.png)
+
+<div style="display: flex; gap: 20px; margin: 20px 0; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 0 0 45%; min-width: 250px; max-width: 400px;">
+    <img src="assets/images/asia-share.png" alt="Asia Share of Direct and Indirect Online Hotel Bookings" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 0 0 45%; min-width: 250px; max-width: 400px;">
+    <img src="assets/images/europe-share.png" alt="Europe Share of Direct and Indirect Online Hotel Bookings" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
 
 
 **Figure XX: Share of direct and indirect online hotel bookings in the United States in 2019, 2021 and 2023**
