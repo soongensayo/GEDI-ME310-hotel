@@ -734,7 +734,7 @@ While each guest segment varies in priorities, their foundational expectations r
 <div style="margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f8f9fa;">
   <button onclick="toggleDefinitions()" style="width: 100%; padding: 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.3s ease;">
     <span id="guests-toggle-icon" style="transition: transform 0.3s ease;">▶</span>
-    Guests Core Expectations, Pain Points, and Needs
+    Click to expand Guests Core Expectations, Pain Points, and Needs
   </button>
   
   <div id="guests-definitions" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
