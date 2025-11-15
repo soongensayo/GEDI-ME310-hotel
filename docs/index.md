@@ -215,7 +215,7 @@ To remain relevant, luxury hotels must deliver engaging and highly personalised 
 
 #### **Hotel Sample and Participant Roles** {#hotel-sample-and-participant-roles}
 
-To gain a holistic understanding of the current luxury hotel check-in experience, we conducted semi-structured interviews with hospitality professionals across four prominent hotels in Singapore: Shangri-La, Banyan Tree, Raffles Hotel, and Amara Hotel. Participants represented a diverse range of roles within the hotel ecosystem, including the Rooms Director, Front Desk Manager, Front Desk Staff, General Manager, and Head of Technology. These individuals were selected for their ability to offer operational, managerial, and technological perspectives. Initial contact was made through formal email outreach and online contact forms.
+To gain a holistic understanding of the current luxury hotel check-in experience, we conducted semi-structured interviews with hospitality professionals across four prominent hotels in Singapore: Shangri-La, Banyan Tree, Raffles Hotel, and Amara Hotel (Appendix B). Participants represented a diverse range of roles within the hotel ecosystem, including the Rooms Director, Front Desk Manager, Front Desk Staff, General Manager, and Head of Technology. These individuals were selected for their ability to offer operational, managerial, and technological perspectives. Initial contact was made through formal email outreach and online contact forms.
 
 #### **Data Collection Protocol** {#data-collection-protocol}
 
@@ -1042,7 +1042,7 @@ Through site visits to multiple hotels in Singapore and interviews with front-of
 3. Misaligned with luxury price points  
 4. Inadequate when guests had questions or exceptions to handle
 
-Illustrative quotes supporting each insight are provided in Appendix X. These insights suggest that the core issue is not automation itself, but that current kiosk experiences lack emotional engagement, clear guidance, and a sense of being genuinely cared for.
+Illustrative quotes supporting each insight are provided in Appendix C. These insights suggest that the core issue is not automation itself, but that current kiosk experiences lack emotional engagement, clear guidance, and a sense of being genuinely cared for.
 
 ### Design Rationale (Secondary)
 
