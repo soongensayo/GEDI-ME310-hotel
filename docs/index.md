@@ -15,7 +15,7 @@
 
 
 
-## Meet the Students hii
+## Meet the Students
 
 <div style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0; flex-wrap: wrap;">
   <div style="text-align: center; margin: 20px;">
@@ -38,6 +38,7 @@
     <img src="assets/images/jolie.png" alt="Jolie Koh" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 10px;">
     <h4 style="margin: 8px 0 4px 0; font-size: 16px;">Jolie Koh</h4>
     <p style="margin: 0; font-size: 14px; color: #666;">Biomedical Engineering</p>
+    <p style="margin: 0; font-size: 14px; color: #666;">Innovation and Design Programme</p>
     <p style="margin: 0; font-size: 14px; color: #666;">A0255216J</p>
      <p style="margin: 0; font-size: 14px; color: #666;"></p>
   </div>
