@@ -1057,11 +1057,11 @@ As such, Alluvio keeps the convenience and reach of OTAs while creating a direct
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/eHiLBygFeXg" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p align="center"><strong>Video XX: Web Platform</strong></p>
+<p align="center"><strong>Video XX: Alluvio Web Platform</strong></p>
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/rrKjjsphujQ" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p align="center"><strong>Video XX: Mobile App Platform</strong></p>
+<p align="center"><strong>Video XX: Alluvio Mobile App Platform</strong></p>
 
 ### User Testing and Analysis
 
@@ -1103,11 +1103,11 @@ For guests, the AI Kiosk Assistant offers the speed of a self-service kiosk with
 
 For hotels, it encourages higher kiosk adoption without the cost and disruption of a full hardware overhaul, as it can be added onto existing devices as a complementary layer.
 
-**Key Features**
+#### Key Features
 
 * **Conversational Guidance:** Natural voice interaction that welcomes guests, explains steps, and reduces confusion at the kiosk.
 
-* **Policy- & Knowledge-Aware:** Powered by OpenAI’s large language model that can be tailored with hotel policies, FAQs, and local information, so responses stay accurate and context-specific.
+* **Policy & Knowledge Awareness:** Powered by OpenAI’s large language model that can be tailored with hotel policies, FAQs, and local information, so responses stay accurate and context-specific.
 
 * **Exception Handling & Escalation:** Lets guests ask simple questions (e.g. late check-out, bedding type, package entitlements) and either provides guided answers or seamlessly routes the issue to front-office staff when human intervention is needed.
 
@@ -1117,11 +1117,13 @@ For hotels, it encourages higher kiosk adoption without the cost and disruption 
 
 * **Retrofit-Friendly Setup:** Designed to work alongside existing kiosk hardware and check-in flows with minimal operational change, avoiding a full system overhaul.
 
-##### **Solution demo** {#solution-demo}
+##### Solution Demo
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/8P1xABYvYyA" title="AI Kiosk Assistant Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-##### **User Testing & Analysis** {#user-testing-&-analysis}
+<p align="center"><strong>Video XX: AI Kiosk Assistant Demo</strong></p>
+
+#### User Testing & Analysis
 
 **Feedback from Hotel Stakeholders and Industry Partners**
 
