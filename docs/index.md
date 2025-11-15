@@ -1429,7 +1429,7 @@ Building on the insights gathered from our interviews and affinity clustering an
 
 By distilling common attributes into relatable archetypes, the personas helped the team anchor design decisions around real human needs rather than abstract assumptions. They serve as reference points to evaluate potential solutions - ensuring that design directions remain grounded in the operational realities and emotional experiences of both staff and management.
 
-**Persona 1: Front Desk Staff (Extrovert)**
+**Persona 1: Front Desk Staff (Extrovert)**<br>
 This persona embodies the frontline employees who directly engage with guests during check-in. Typically sociable and service-driven, these individuals thrive on personal interaction and hospitality but face significant cognitive and emotional strain balancing human engagement with system-related administrative tasks.
 
 **Key Characteristics:**
@@ -1443,7 +1443,7 @@ This persona embodies the frontline employees who directly engage with guests du
 Tools targeting this persona should emphasize simplicity, real-time guidance, and emotional relief, reducing manual data entry, streamlining multitasking, and allowing staff to focus on the relational side of service.
 
 
-**Persona 2: Hotel Manager**
+**Persona 2: Hotel Manager**<br>
 This persona represents middle- to upper-level managers responsible for overall service quality, staff coordination, and technology adoption. They bridge guest expectations, staff realities, and corporate objectives, often balancing efficiency goals with the preservation of brand hospitality standards.
 
 **Key Characteristics:**
@@ -1456,7 +1456,7 @@ This persona represents middle- to upper-level managers responsible for overall 
 **Design Implication:**
 Solutions for this persona should provide visibility, control, and actionable insights. This enables managers to monitor performance, empower teams, and assess new technology adoption without micromanaging.
 
-**Persona 3: Guests**
+**Persona 3: Guests**<br>
 This persona represents guests staying at upscale or luxury properties who expect service to match the price point. They may be business, leisure travellers, couples, or families, and are generally comfortable with technology but do not want the experience to feel “cheap” or transactional. They value efficiency, but not at the expense of warmth, personalisation, and reassurance.
 
 **Key Characteristics:**
