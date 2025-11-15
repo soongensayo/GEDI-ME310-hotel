@@ -1057,7 +1057,11 @@ As such, Alluvio keeps the convenience and reach of OTAs while creating a direct
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/eHiLBygFeXg" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p align="center"><strong>Video XX: Web Platform</strong></p>
+
 <iframe width="1000" height="600" src="https://youtube.com/embed/rrKjjsphujQ" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center"><strong>Video XX: Mobile App Platform</strong></p>
 
 ### User Testing and Analysis
 
