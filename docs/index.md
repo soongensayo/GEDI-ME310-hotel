@@ -1015,11 +1015,11 @@ As such, Alluvio keeps the convenience and reach of OTAs while creating a direct
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/eHiLBygFeXg" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p align="center"><strong>Video XX: Alluvio Web Platform</strong></p>
+<p align="center"><strong>Video 1: Alluvio - Web Platform</strong></p>
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/rrKjjsphujQ" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p align="center"><strong>Video XX: Alluvio Mobile App Platform</strong></p>
+<p align="center"><strong>Video 2: Alluvio - Mobile App Platform</strong></p>
 
 ### User Testing and Analysis
 
@@ -1061,7 +1061,7 @@ For guests, the AI Kiosk Assistant offers the speed of a self-service kiosk with
 
 For hotels, it encourages higher kiosk adoption without the cost and disruption of a full hardware overhaul, as it can be added onto existing devices as a complementary layer.
 
-#### Key Features
+#### <u>Key Features</u>
 
 * **Conversational Guidance:** Natural voice interaction that welcomes guests, explains steps, and reduces confusion at the kiosk.
 
@@ -1075,65 +1075,33 @@ For hotels, it encourages higher kiosk adoption without the cost and disruption 
 
 * **Retrofit-Friendly Setup:** Designed to work alongside existing kiosk hardware and check-in flows with minimal operational change, avoiding a full system overhaul.
 
-#### Solution Demo
+### **Solution Demo** {#solution-demo}
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/8P1xABYvYyA" title="AI Kiosk Assistant Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p align="center"><strong>Video XX: AI Kiosk Assistant Demo</strong></p>
+<p align="center"><strong>Video 3: AI Kiosk Assistant Demo</strong></p>
 
-#### User Testing & Analysis
+### **User Testing & Analysis** 
 
-**Feedback from Hotel Stakeholders and Industry Partners**
+#### <u>Feedback from Hotel Stakeholders and Industry Partners</u>
 
 To validate the AI Kiosk Assistant concept, we conducted early-stage user testing with front desk staff, hospitality trainees, and industry partners. The feedback provided valuable direction for refinement, summarised below:
 
-**1\. Operational Realism and Alignment with SOPs**  
-Stakeholders stressed that any AI layer must align with real hotel procedures rather than just “talk nicely” on top of the kiosk. They highlighted that the AI should be able to:
+#### 1. Operational Realism and Alignment with SOPs
+Stakeholders stressed that any AI layer must align with real hotel procedures rather than just “talk nicely” on top of the kiosk. They emphasised that the system must support upselling within existing hotel policies, check booking time, room status, and room type before issuing a key, and escalate to staff when rooms are unavailable or exceptions arise. Overall, this feedback underscored the importance of operational accuracy and strict adherence to SOPs, guiding our next steps to refine system flows so they mirror existing procedures and escalation rules to ensure seamless hotel adoption.
 
-* Support upselling (e.g. room type, add-ons) within existing hotel policies  
-* Check booking time, room status, and room type before allowing key issuance  
-* Escalate to staff when rooms are unavailable or exceptions occur
+#### 2. Voice Interaction, Noise, and Error Handling
+Stakeholders raised concerns about whether voice interaction would function reliably in real hotel environments. They noted that lobbies can be noisy, especially during events, making it difficult for the AI to hear guests accurately, and there was worry that the system might overhear nearby conversations and respond inappropriately. Together, these points highlighted the need for robust handling of noise, misrecognition, and unintended activations. In response, our next steps focus on implementing dynamic audio systems and utilising touch-to-speak mechanisms to ensure more reliable interactions.
 
-**Direction for refinement:** Refine the AI Kiosk Assistant flows to mirror existing SOPs more closely, room readiness checks and upsell points, with clear rules for when the AI must hand over to staff.
+#### 3. Privacy, Data Protection, and Guest Expectations
+Both hotel stakeholders and Venture Corporation emphasised strong concerns around privacy and data protection. They worried that the AI might overhear nearby conversations, questioned where voice data would be sent or stored in relation to PDPA requirements, and stressed the need to reassure guests that the system only listens when intentionally activated. This feedback highlighted the importance of moving toward privacy-by-design solutions, shaping our next steps to establish clearer boundaries around when the AI is active and explore on-device processing such as EdgeAI to minimise data exposure.
 
-**2\. Voice Interaction, Noise, and Error Handling**
+#### 4. Cost, ROI, and Adoption Risk
+Cost and return on investment emerged as major concerns. With a single kiosk already costing around SGD 28,000, hotels questioned whether adding an AI layer would deliver clear, measurable benefits. Their feedback emphasised the need for a strong business case, guiding our next steps to assess whether the added investment can be justified.
 
-Stakeholders raised concerns about whether voice interaction would work reliably in real hotel environments:
+#### <u>Feedback from Potential Guests</u>
+Additionally, early-stage user testing with potential guests in a simulated setting revealed that users were open to guided automation and felt comfortable using a kiosk when it offered clear step-by-step instructions and reassurance at key moments. However, some were uneasy about speaking personal details aloud in a public lobby and preferred having the option to switch to touch input for sensitive information. These findings guide our next steps to combine voice guidance with privacy-sensitive touch interactions.
 
-* Lobbies can be noisy, especially during events; the AI might struggle to hear.  
-* There is a risk of the system overhearing other guests’ conversations and responding inappropriately.  
-* They questioned what happens if the AI fails to recognise a guest’s voice, comparing it to frustrating experiences with home devices
-
-**Direction for refinement:** Refine the interaction model to include explicit activation cues, clearer feedback when the system is listening, and simple fallback options (e.g. touch input or staff escalation) when voice recognition fails or the environment is too noisy.
-
-**3\. Privacy, Data Protection, and Guest Expectations**
-
-Both hotel stakeholders and Venture Corporation emphasised privacy and data protection:
-
-* Concern that the AI could overhear surrounding conversations and capture information that was not intended for it.  
-* Questions around where voice/data would be sent, stored, and processed (especially in relation to PDPA and guest expectations).  
-* Need to reassure guests that the system is only listening and responding when explicitly engaged.
-
-**Direction for refinement:** Refine the concept to foreground privacy-by-design: make activation and listening states highly visible and limit data retention, possible exploring EdgeAI
-
-**4\. Cost, ROI, and Adoption Risk**
-
-Cost and return on investment emerged as major decision factors:
-
-* A single kiosk already costs around SGD 28,000; adding AI on top introduces hardware and subscription costs.  
-* Stakeholders questioned: if they “top up” for AI, what concrete outcome will justify the investment, especially if guests still prefer the counter?
-
-**Direction for refinement:** Further work is needed to evaluate the costs and potential returns of the AI Kiosk Assistant, and to determine whether its benefits justify the additional investment for hotels.
-
-**Feedback from Potential Guests**
-
-Additionally, we conducted early-stage user testing with potential guests in a simulated setting, which surfaced two preliminary insights:
-
-**Guided automation is acceptable**: Guests were generally open to using a kiosk as long as it clearly guided them through each step and provided reassurance at key moments (e.g. payment confirmation, key collection), rather than leaving them to figure things out alone.
-
-**Discomfort with speaking personal details aloud:** Some guests felt uneasy about sharing personal details (ie. how many in party, dietary restrictions) by voice in a public lobby and preferred having the option to switch to touch input for more sensitive information.
-
-**Direction for refinement:** Refine the AI Kiosk Assistant to combine voice guidance with privacy-sensitive touch interactions
 
 ## 3\. Hotelly \- AI Overlay System for Front Desk Staff {#hotelly}
 
@@ -1157,9 +1125,11 @@ Hotelly delivers value by strengthening the quality and consistency of front des
 
 In addition, Hotelly automates the capture of guest notes, preferences, and key conversational details, reducing manual administrative work and improving continuity across shifts. By integrating lightweight automation with human-centric guidance, the system enhances personalization, reduces cognitive load, and reinforces a seamless, brand-aligned check-in experience that benefits both staff and guests.
 
-### Solution demo {#hotelly-solution-demo}
+### Solution Demo {#hotelly-solution-demo}
 
 <iframe width="1000" height="600" src="https://www.youtube.com/embed/3t5eh34Za-s" title="Hotelly Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center"><strong>Video 4: Hotelly Demo</strong></p>
 
 ### User Testing and Analysis {#user-testing-and-analysis}
 
@@ -1208,6 +1178,8 @@ Unlike manual workflows where staff must track guest requests while juggling rea
 ### Solution Demo
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/YVOP8cJANXY" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center"><strong>Video 5: Aria Demo</strong></p>
 
 ### User Testing & Analysis
 
