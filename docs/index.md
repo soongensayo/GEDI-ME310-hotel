@@ -902,7 +902,7 @@ Building on the three design directions, our team developed a suite of low-fidel
 
 Rather than converging immediately on a single concept, we adopted an exploratory, research-through-design approach to gain a holistic understanding of the solution space. By focusing at different phases of the check-in journey, we were able to examine distinct pain points in depth, compare how different interaction modes address them, and uncover unique opportunities for innovation that would not surface through a single, narrowly scoped prototype.
 
-![][image8]  
+![Solutions](assets/images/SolutionsOverview.png)  
 Figure X. Overview of the solutions prototyped across the guest journey.
 
 ## 
