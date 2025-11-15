@@ -1388,8 +1388,10 @@ The second visit involved sharing and testing early-stage prototypes with hotel 
 
 **Image reference**
 
-![Shangrila](assets/images/Shangrila.jpg)
-Figure X.2. Shangri-La Singapore (site visit photograph)
+<p align="center">
+  <img src="assets/images/Shangrila.jpg" width="300">
+</p>
+<p align="center"><em>Figure X.2. Shangri-La Singapore (site visit photograph)</em></p>
 
 **X.3 Raffles Hotel Singapore**
 At Raffles Hotel Singapore, we engaged with stakeholders to understand the perspectives from an iconic luxury heritage brand 
