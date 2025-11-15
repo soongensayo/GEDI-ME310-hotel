@@ -625,7 +625,7 @@ While each guest segment varies in priorities, their foundational expectations r
 </div>
 
 <script>
-  function toggleLuxuryDefinitions() {
+  function toggleDefinitions() {
   const content = document.getElementById('guests-definitions');
   const icon = document.getElementById('guests-toggle-icon');
   const button = event.target.closest('button');
