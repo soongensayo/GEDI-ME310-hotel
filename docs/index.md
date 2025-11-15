@@ -242,28 +242,6 @@ To complement our interviews with hotel staff and validate observed service chal
   </a>
 </p>
 
-#### Overview of Findings {#overview-of-findings}
-
-The analysis revealed nine overarching themes, five of which dominated the dataset:
-
-1. **Staff & Service Quality (95.8%)** – Encompassing issues such as poor problem resolution, inattentive staff, and lack of accountability.
-
-2. **Value-for-Money (65.6%)** – Reflecting guests’ perception that the experience failed to justify its premium pricing, often describing hotels as “overpromising but under-delivering.”
-
-3. **Room Assignment & Condition (62.2%)** – Complaints regarding maintenance, cleanliness, and rooms not ready upon arrival.
-
-4. **Check-In & Check-Out Process (53.8%)** – Delays, long queues, or system errors undermined the perception of seamless luxury.
-
-5. **Food & Beverage Experience (37.8%)** – Highlighting long wait times, limited menu variety, and inconsistent restaurant service.
-
-Smaller but noteworthy clusters included **Facilities & Infrastructure (36.9%)**, **Technology & Amenities (17.6%)**, **Security & Privacy (16.0%)**, and **Reservation & Pre-Arrival (20.2%)**.
-
-#### **Interpretation and Implications** {#interpretation-and-implications}
-
-Across themes, dissatisfaction stemmed less from tangible features and more from inconsistency, inefficiency, and perceived lack of personal attention. The most frequent pain points mirrored the concerns raised in our interviews — namely, fragmentation across systems, inadequate service recovery, and diminished human touch at critical guest touchpoints such as arrival and check-in.
-
-This analysis provided quantitative grounding for user empathy, reinforcing that luxury guests equate quality not only with aesthetics or amenities, but with reliability, anticipation, and emotional assurance. These insights directly informed subsequent stages of our design process \- ensuring that our proposed solution addresses the real and recurring pain points voiced by both guests and staff.
-
 ## Key Themes and Insights from Primary Research {#key-themes-and-insights-from-primary-research}
 
 #### **1\. Tech Stack and Integration Reality** 
