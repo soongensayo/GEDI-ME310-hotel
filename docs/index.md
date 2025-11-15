@@ -803,33 +803,33 @@ Front office staff are responsible for executing the end-to-end check-in process
     <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Core Expectations</h4>
       <p style="margin: 0; line-height: 1.6; color: #444;">
-        * Deliver high-touch hospitality and maintain warm guest interactions  
-        * Accurately verify identities, process payments, check/modify reservations  
-        * Ability to multitask without compromising warmth or composure  
-        * Manage real-time issues, exceptions, and service recovery  
-        * Uphold brand standards and handle multiple tasks under pressure
+        - Deliver high-touch hospitality and maintain warm guest interactions  
+        - Accurately verify identities, process payments, check/ modify reservations  
+        - Ability to multitask without compromising warmth or composure  
+        - Manage real-time issues, exceptions, and service recovery  
+        - Uphold brand standards and handle multiple tasks under pressure
       </p>
     </div>
     
     <div style="padding: 20px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Pain Points</h4>
       <p style="margin: 0; line-height: 1.6; color: #444;">
-        * Heavy multitasking (PMS navigation, answering calls, chat, guest queries)  
-        * Complex systems (e.g., Opera PMS) that require deep knowledge and many clicks  
-        * High risk of errors (misspelling names, incorrect allocations, missing requests)  
-        * Stress from impatient guests, queue pressure, and service recovery situations  
-        * Limited time and mental bandwidth to deliver personalised greetings  
-        * Inconsistent handovers between shifts due to poor note capture
+        - Heavy multi-tasking (PMS navigation, answering calls, chat, guest queries)  
+        - Complex systems (e.g., Opera PMS) that require deep knowledge and many clicks  
+        - High risk of errors (misspelling names, incorrect allocations or missing requests)  
+        - Stress from impatient guests, queue pressure, and service recovery situations  
+        - Limited time and mental bandwidth to deliver personalised greetings  
+        - Inconsistent handovers between shifts due to poor note capture
       </p>
     </div>
 
     <div style="padding: 20px 0 24px 0;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Needs</h4>
       <p style="margin: 0; line-height: 1.6; color: #444;">
-        * Tools that reduce repetitive administrative workload  
-        * Systems with low cognitive load and minimal training curve  
-        * Real-time visibility of guest data, preferences, and history  
-        * Error-reduction support (auto-fill, guidance, note capture)
+        - Tools that reduce repetitive administrative workload  
+        - Systems with low cognitive load and minimal training curve  
+        - Real-time visibility of guest data, preferences, and history  
+        - Error-reduction support (auto-fill, guidance, note capture)
       </p>
     </div>
   </div>
@@ -854,6 +854,7 @@ function toggleDefinitions() {
   }
 }
 </script>
+
 **Role Expectations:**
 
 * Deliver high-touch hospitality and maintain warm guest interactions  
