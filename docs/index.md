@@ -592,7 +592,7 @@ While each guest segment varies in priorities, their foundational expectations r
     Core Expectations, Pain Points, and Needs
   </button>
   
-  <div id="luxury-definitions" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
+  <div id="guests-definitions" style="display: none; padding: 0 20px; background-color: white; border-radius: 0 0 8px 8px;">
     <div style="padding: 24px 0; border-bottom: 1px solid #f0f0f0; margin-bottom: 20px;">
       <h4 style="color: #667eea; margin: 0 0 12px 0; font-size: 18px;">Core Expectations</h4>
       <p style="margin: 0; line-height: 1.6; color: #444;">
@@ -629,8 +629,8 @@ While each guest segment varies in priorities, their foundational expectations r
 
 <script>
   function toggleDefinitions() {
-    var x = document.getElementById("luxury-definitions");
-    var icon = document.getElementById("luxury-toggle-icon");
+    var x = document.getElementById("guests-definitions");
+    var icon = document.getElementById("guests-toggle-icon");
     if (x.style.display === "none") {
       x.style.display = "block";
       icon.textContent = "▼";
