@@ -1473,7 +1473,7 @@ This persona represents middle- to upper-level managers responsible for overall 
 **Design Implication:**
 Solutions for this persona should provide visibility, control, and actionable insights. This enables managers to monitor performance, empower teams, and assess new technology adoption without micromanaging.
 
-**Application of Personas**
+**Application of Personas**<br>
 The personas collectively highlight the tension between human empathy and system efficiency - a central challenge in reimagining the luxury check-in experience. By referencing these personas in subsequent design stages (such as journey mapping and prototyping), the team can ensure that innovations remain empathetic to staff realities while aligning with managerial objectives for scalability and consistency.
 
 
