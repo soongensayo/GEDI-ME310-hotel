@@ -1212,26 +1212,26 @@ Beyond face-to-face interactions, we also envision Aria being extended to phone 
 The 4 proposed solutions collectively address different stages of the luxury hotel check-in journey, encompassing elements of pre-booking, booking, check-in, and stay. 2 of these concepts are focused on guest-facing experiences aimed at streamlining and enhancing guest satisfaction while the other two lean more towards staff-facing solutions designed to improve operational efficiency, thereby indirectly enriching the overall guest experience. Together, these solutions offer a comprehensive exploration of the luxury hotel check-in process. Through user testing sessions conducted with both hotel staff and guests, several key insights were identified that consistently emerged across all 4 of our low-fidelity prototypes. The following section presents these key takeaways, which will guide our next phase of design refinement and development.
 
 ## Strengths {#strengths}
-##### **1\. Receptiveness to AI Solutions** 
+### **1\. Receptiveness to AI Solutions** 
 Hotel staff generally expressed a positive attitude toward adopting AI to streamline operations and enhance guest service. While they acknowledged that AI has yet to make significant strides in the hospitality industry, largely due to the fundamental importance of the human touch, they were open to exploring how AI could be seamlessly integrated into both guest-facing and staff-facing processes. The staff were particularly enthusiastic about collaborating with us, noting that our generation’s familiarity with technology and innovative ideas made us valuable partners in their efforts to modernise.
 
-##### **2\. Key Features for Front-end and Back-end Use** 
+### **2\. Key Features for Front-end and Back-end Use** 
 Although our staff-facing solutions were initially designed to streamline front-end tasks, hotel staff recognised their potential value in both front-end and back-end operations. For example, the Hotelly feature, which was primarily intended to assist with check-ins by recording conversations and generating a transcript at the end of the process, proved useful for tracking back-end metrics such as average check-in times across different staff members. This data can also be leveraged for staff training, performance tracking, and even resolving disputes. For instance, if a guest claims they were not informed about lounge access during check-in, the hotel could refer to the recorded transcript to verify whether the information was communicated correctly and take appropriate action.
 
-##### **3\. High Feasibility for Integration with Existing PMS and HMS Systems** 
+### **3\. High Feasibility for Integration with Existing PMS and HMS Systems** 
 A key focus during the ideation and low-fidelity prototyping phase was minimising the learning curve and adoption barriers for hotel staff. With our low-fidelity prototypes, hotel staff expressed confidence in the feasibility of integrating our solutions with existing PMS and HMS systems. This consideration was central to our design approach, as we aim for our future proof-of-concept prototype to feature an intuitive interface, incorporating familiar icons and symbols aligned with widely used systems such as Opera by Oracle. This ensures smooth integration and simplifies the learning process for staff.<br>
 
 These insights validate our low-fidelity prototypes and provide a solid foundation for further development. They affirm that we are on the right track and offer valuable momentum as we move forward with refining and expanding our solutions.
 
 ## Areas for Improvements/ Considerations {#areas-for-improvement}
 
-##### **1\. Data Privacy and Security Concerns** 
+### **1\. Data Privacy and Security Concerns** 
 Data privacy and security are critical considerations in the hospitality industry, where large volumes of sensitive guest information are handled daily. As such, ensuring that all data is stored and transferred safely is essential. Any breach would not only lead to financial penalties and operational disruption but also reputational damage for the hotel. Protecting guest information must therefore be a priority, and our solutions need to uphold the highest standards of data protection.
 
-##### **2\. Balancing Human Judgement and AI Adoption** 
+### **2\. Balancing Human Judgement and AI Adoption** 
 AI should empower staff rather than replace their judgement. Many staff members shared that technology designed to streamline operations should remain invisible to guests, supporting their work without creating over reliance. This underscores the need to maintain a balanced relationship between automation and human decision-making. The way moving forward will be to explore how AI can enhance staff capabilities while ensuring they retain the skill and confidence to deliver quality service independently. We believe this balance is achievable through sustained research, user testing and iterative refinement.
 
-##### **3\. Real-World Deployment Considerations** 
+### **3\. Real-World Deployment Considerations** 
 Within the context of luxury hotels, practicality and seamless integration are essential. Any solution introduced must fit naturally into existing workflows, uphold service standards and avoid disrupting the guest experience. Thus, real-world deployment is another key consideration for us, requiring evaluation of both technical and operational feasibility from the onset to ensure that the solution can be integrated smoothly.
 
 # Project Plan {#project-plan}
@@ -1772,7 +1772,7 @@ The personas collectively highlight the tension between human empathy and system
       <li><a href="#project-plan">Project Plan</a></li>
       <li><a href="#conclusion">Conclusion</a></li>
       <li><a href="#references">References</a></li>
-      <li><a href="#appendix">Appendix</a></li>
+      <li><a href="#appendix">Appendices</a></li>
     </ul>
   </nav>
   
