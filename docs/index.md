@@ -1228,8 +1228,8 @@ Drawing on the field observations documented in Section 3.3.2, the team identifi
 Before consolidating the final concept, the team mapped out the complete guest arrival journey from the moment a guest reaches the hotel entrance through to settling into their room, as illustrated in Figure 42 This exercise served to identify every touchpoint where the solution could intervene, and more importantly, where it should not — ensuring that the concept enhanced the arrival experience rather than disrupting moments where human interaction remained valuable.
 
 
-<div style="text-align: center; margin: 5px 0;">
-  <img src="assets/final/images/5_Concept_Mapping.png" alt="Figure 42: Guest Arrival Journey Map — Identifying Key Touchpoints and System Requirements" style="max-width: 60%; transform: rotate(-90deg);">
+<div style="text-align: center; margin: 8px 0; height: 400px; display: flex; align-items: center; justify-content: center;">
+  <img src="assets/final/images/5_Concept_Mapping.png" alt="Figure 42: Guest Arrival Journey Map — Identifying Key Touchpoints and System Requirements" style="max-width: 60%; transform: rotate(-90deg); max-height: 100%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 42: Guest Arrival Journey Map — Identifying Key Touchpoints and System Requirements</strong></p>
@@ -1242,15 +1242,15 @@ With the robot already accompanying the guest, integrating a self check-in proce
 
 ELEVIA is an AI-powered concierge system that unifies autonomous mobility, luggage transport, conversational check-in, and identity verification and payment into a single, continuous arrival experience, as first conceptualised in the early sketches shown in Figures 43 and 44 Rather than digitising individual touchpoints in isolation, the concept embeds every check-in function into one physically present, conversationally intelligent system that accompanies the guest from the lobby through to their room. The underlying design principle is that luxury automation must reduce effort for the guest, not transfer it — eliminating the fragmented handoffs between arrival, luggage management, check-in processing, and room navigation that characterise the conventional hotel arrival sequence, and replacing them with a single uninterrupted interaction.
 
-<div style="text-align: center; margin: 5px 0;">
-  <img src="assets/final/images/5_Conceptual_Design_Sketch1.png" alt="Figure 43: ELEVIA Conceptual Design Sketch" style="max-width: 60%; transform: rotate(-90deg);">
+<div style="text-align: center; margin: 8px 0; height: 400px; display: flex; align-items: center; justify-content: center;">
+  <img src="assets/final/images/5_Conceptual_Design_Sketch1.png" alt="Figure 43: ELEVIA Conceptual Design Sketch" style="max-width: 60%; transform: rotate(-90deg); max-height: 100%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 43: Conceptual Design Sketch of the ELEVIA System</strong></p>
 
 
-<div style="text-align: center; margin: 5px 0;">
-  <img src="assets/final/images/5_Conceptual_Design_Sketch2.png" alt="Figure 44: ELEVIA Conceptual Design Sketch" style="max-width: 60%; transform: rotate(-90deg);">
+<div style="text-align: center; margin: 8px 0; height: 400px; display: flex; align-items: center; justify-content: center;">
+  <img src="assets/final/images/5_Conceptual_Design_Sketch2.png" alt="Figure 44: ELEVIA Conceptual Design Sketch" style="max-width: 60%; transform: rotate(-90deg); max-height: 100%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 44: Conceptual Design Sketch of the ELEVIA System</strong></p>
