@@ -668,8 +668,7 @@ Four key concerns were raised following feedback from hotel staff, industry part
 
 Hotelly was a real-time AI overlay system designed to support front desk staff during guest interactions without replacing them. Operating as a discreet, desktop-based interface, it surfaced contextual prompts, guest profile information, policy references, and local recommendations at the relevant moment in a conversation, reducing the cognitive load of simultaneously managing data entry, guest rapport, and question-handling. It also automated the capture and summarisation of guest preferences and interaction notes, improving shift handover continuity.
 
-Video demonstration of the prototype can be assessed here: [https://www.youtube.com/watch?v=3t5eh34Za-s](https://www.youtube.com/watch?v=3t5eh34Za-s&t=25s) 
-
+<iframe width="1000" height="600" src="https://www.youtube.com/embed/3t5eh34Za-s" title="Hotelly Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 
 <div style="text-align: center; margin: 16px 0;">
