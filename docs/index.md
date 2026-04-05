@@ -551,9 +551,13 @@ Building on the three design directions and the pain points identified through p
 
 Alluvio addressed the personalisation gap that exists when guests book through Online Travel Agencies, which dominate hotel bookings across Asia, Europe, and the United States but frequently fail to pass accurate guest preference data to hotels. The concept was a web and mobile platform combining OTA-like discovery with a direct, personalised data relationship between guest and hotel. Guests could build dynamic preference profiles through a swipe-based interface, store travel documents securely, and share this information with onboarded hotels ahead of arrival. Hotels in turn could use this data to personalise the stay from the moment of booking rather than relying on staff memory or incomplete PMS records.
 
-Video demonstration of the prototype can be assessed here: [https://www.youtube.com/watch?v=eHiLBygFeXg](https://www.youtube.com/watch?v=eHiLBygFeXg&t=2s)  
-[https://www.youtube.com/watch?v=rrKjjsphujQ](https://www.youtube.com/watch?v=rrKjjsphujQ&t=12s) 
+<iframe width="1000" height="600" src="https://youtube.com/embed/eHiLBygFeXg" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p align="center"><strong>Video 1: Alluvio - Web Platform</strong></p>
+
+<iframe width="1000" height="600" src="https://youtube.com/embed/rrKjjsphujQ" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center"><strong>Video 2: Alluvio - Mobile App Platform</strong></p>
   
 
 <div style="text-align: center; margin: 16px 0;">
@@ -585,11 +589,9 @@ Video demonstration of the prototype can be assessed here: [https://www.youtube.
 
 **Figure 29:  Based on the guest's preference profile, Alluvio surfaces personalised luxury hotel recommendations ranked by compatibility, making discovery feel intuitive and tailored.**
 
-User Testing and Analysis
+### User Testing and Analysis
 
-```
 User testing was conducted across visits to luxury hotel properties in Singapore, where we engaged directly with hotel directors and front-office staff. In parallel, sessions were held with members of the public who were invited to interact with Alluvio's prototype interface, followed by a short structured feedback session.
-```
 
 Guest Feedback:
 
@@ -613,8 +615,9 @@ Hotel Staff Feedback:
 
 The AI Kiosk Assistant was a complementary device designed to work alongside existing kiosk hardware, adding conversational warmth and guidance without requiring a full system overhaul. It used a natural voice interface to welcome guests, walk them through each step of the check-in process, answer simple questions, and escalate exceptions to staff when needed. Unlike a standard kiosk, it could pick up basic preferences during conversation and respond with an emotionally aware tone aligned with luxury expectations.
 
-Video demonstration of the prototype can be assessed here: [https://www.youtube.com/watch?v=8P1xABYvYyA](https://www.youtube.com/watch?v=8P1xABYvYyA&t=1s) 
+<iframe width="1000" height="600" src="https://youtube.com/embed/8P1xABYvYyA" title="AI Kiosk Assistant Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p align="center"><strong>Video 3: AI Kiosk Assistant Demo</strong></p>
   
 
 <div style="text-align: center; margin: 16px 0;">
@@ -647,11 +650,9 @@ Video demonstration of the prototype can be assessed here: [https://www.youtube.
 
 **Figure 33:  After dispensing the key card, the assistant continues the conversation to confirm room details and capture guest preferences, turning it into a personalisation moment.**
 
-User Testing and Analysis
+### User Testing and Analysis
 
-```
 User testing was conducted across visits to luxury hotel properties in Singapore, where we engaged directly with hotel directors and front-office staff. In parallel, sessions were held with approximately 10 members of the public, who were invited to interact with a simulation of the Amara Hotel kiosk check-in flow alongside the AI Kiosk Assistant without prompts, followed by a short structured feedback session to capture unguided first impressions and usability concerns.
-```
 
 Four key concerns were raised following feedback from hotel staff, industry partners, and potential guests:
 
@@ -670,6 +671,7 @@ Hotelly was a real-time AI overlay system designed to support front desk staff d
 
 <iframe width="1000" height="600" src="https://www.youtube.com/embed/3t5eh34Za-s" title="Hotelly Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
+<p align="center"><strong>Video 4: Hotelly Demo</strong></p>
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/4.3.3_image_one.png" alt="Figure 34: The Hotelly interface operates as a discreet desktop overlay alongside existing PMS systems" style="max-width: 50%;">
@@ -685,11 +687,9 @@ Hotelly was a real-time AI overlay system designed to support front desk staff d
 
 **Figure 35:  At the close of each interaction, Hotelly generates a summarised recap of guest preferences, requests, and key conversation points**
 
-User Testing and Analysis
+### User Testing and Analysis
 
-```
 User testing was conducted across visits to luxury hotel properties in Singapore, where we engaged directly with hotel directors and front-office staff. To evaluate functional accuracy, simulated role-play sessions were conducted in which participants acted as guests interacting with Hotelly, while team members took on the role of hotel staff, allowing us to assess the system's real-time prompting accuracy, note summarisation, and usability under realistic conversational conditions.
-```
 
 Four key themes emerged from user testing with front desk staff and hospitality trainees:
 
@@ -708,9 +708,9 @@ Four key themes emerged from user testing with front desk staff and hospitality 
 
 Aria addressed the specific tension between conversation and data entry at the front desk. Rather than prompting staff with information, Aria listened to guest conversations, transcribed key details in real time, and automatically populated relevant fields in the PMS without requiring staff to type. Staff could verify, edit, and approve all captured information before it was saved, maintaining accuracy and accountability. Aria could also surface relevant answers to guest questions, suggest follow-up prompts, and reference hotel policies, FAQs, and room availability in real time.
 
-Video demonstration of the prototype can be assessed here: [https://www.youtube.com/watch?v=YVOP8cJANXY](https://www.youtube.com/watch?v=YVOP8cJANXY) 
+<iframe width="1000" height="600" src="https://youtube.com/embed/YVOP8cJANXY" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-  
+<p align="center"><strong>Video 5: Aria Demo</strong></p>
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/4.3.4_image_one.png" alt="Figure 36: Aria requires explicit guest consent before activation, with transcripts retained briefly for verification" style="max-width: 100%;">
@@ -734,11 +734,9 @@ Video demonstration of the prototype can be assessed here: [https://www.youtube.
 
 **Figure 38:  Aria surfaces actionable guest requests and captured preferences for staff to review, edit, and approve**
 
-User Testing and Analysis
+### User Testing and Analysis
 
-```
 User testing was conducted across visits to luxury hotel properties in Singapore, where we engaged directly with hotel directors and front-office staff. To evaluate functional accuracy, simulated role-play sessions were conducted in which participants acted as guests interacting with Aria, while team members took on the role of hotel staff, allowing us to assess the system's team transcription accuracy and real-time data capture.
-```
 
 Three key themes emerged from user testing with front desk staff and hospitality trainees:
 
@@ -893,7 +891,7 @@ We designed the AI concierge as an LLM-driven agent with function-calling capabi
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/5.3.1_aiconcierge.png" alt="Figure 45: AI Concierge Persona" style="max-width: 100%;">
+  <img src="assets/final/images/5.3.1_aiconcierge.png" alt="Figure 45: AI Concierge Persona" style="max-width: 40%;">
 </div>
 
 **Figure 45: AI Concierge Persona** 
@@ -938,15 +936,16 @@ Our final prototype, ELEVIA, is a robot-mounted AI concierge that unifies four c
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.1_final_prototype.png" alt="Figure 46" style="max-width: 100%;">
+  <img src="assets/final/images/6.1_final_prototype.png" alt="Figure 46" style="max-width: 40%;">
 </div>
 
+**Figure 46: Full ELEVIA Prototype**
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/6.1_AMR_Sketch_Labelled.png" alt="Figure 47" style="max-width: 100%;">
 </div>
 
-**Figure 46: Full ELEVIA Prototype                   Figure 47: Full ELEVIA Sketch with Parts Labelled**
+**Figure 47: Full ELEVIA Sketch with Parts Labelled**
 
 The system, built on a SESTO Magnus AMR as the foundation, provides the physical platform for navigation and luggage transport. Mounted on the AMR is a display connected to an NVIDIA Jetson, which runs a custom React frontend that presents a life-sized AI avatar, a conversation panel, and step-by-step check-in overlays. The robot also carries a USB webcam packaged into a passport scanner, and an ESP32-based NFC reader for contactless payment. These subsystems are coordinated through a Node.js backend that acts as the central orchestrator. Audio input and output are handled through a Jabra speakerphone mounted alongside the display, selected for its omnidirectional microphone pickup and noise cancellation suitable for a hotel lobby environment.
 
@@ -954,14 +953,16 @@ The system, built on a SESTO Magnus AMR as the foundation, provides the physical
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.1_labelledsystemdiagram.png" alt="Figure 48: Labelled System Diagram" style="max-width: 100%;">
+  <img src="assets/final/images/6.1_labelledsystemdiagram.png" alt="Figure 48: Labelled System Diagram" style="max-width: 60%;">
 </div>
 
 **Figure 48: Labelled System Diagram**
 
 The integrated check-in flow works as follows. The robot travels to the guest upon arrival, and a staff member assists the guest in loading luggage onto the robot platform, before introducing the AI Concierge Agent (also referred to as the AI avatar). The AI avatar is able to greet the guest by voice and asks for his/her name. Through natural conversation, the agent retrieves the guest's reservation, prompts them to scan their passport on the robot-mounted camera, confirms booking details, offers a room upgrade if available, and processes payment via NFC card tap. Upon completion, the guest receives a digital room key by email (with Apple Wallet support), and the robot autonomously navigates to escort them to their room, continuing to converse along the way.
 
-**DEMO VIDEO ([https://youtu.be/Ib0czW4uUcc](https://youtu.be/Ib0czW4uUcc))**  
+<iframe width="1000" height="600" src="https://youtu.be/Ib0czW4uUcc" title="ELEVIA Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center"><strong>Final Prototype Demo Video</strong></p>
 
 Critically, the AI agent drives all screen transitions. Rather than a fixed sequence of button presses, the LLM decides what the screen displays next based on the conversation, keeping the interaction natural and responsive. If the guest asks an off-topic question mid-flow, wants to skip the upgrade offer, or gives a misspelled name, the system adapts without breaking. This conversational flexibility was a deliberate design response to the finding that rigid kiosk workflows feel transactional and impersonal.
 
@@ -1116,7 +1117,7 @@ All backend software for the AI agent is hosted on the NVIDIA Jetson, which comm
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.4_tool_calling.png" alt="Figure 63: Simplified diagram of AI System" style="max-width: 100%;">
+  <img src="assets/final/images/6.4_tool_calling.png" alt="Figure 63: Simplified diagram of AI System" style="max-width: 60%;">
 </div>
 
 **Figure 63: Simplified diagram of AI System**
@@ -1290,7 +1291,7 @@ The NFC payment module was designed to simulate the contactless payment step wit
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.5.2_NFCPaymentJPG.JPG" alt="Figure 75: NFC Payment Module" style="max-width: 100%;">
+  <img src="assets/final/images/6.5.2_NFCPaymentJPG.JPG" alt="Figure 75: NFC Payment Module" style="max-width: 30%;">
 </div>
 
 **Figure 75: NFC Payment Module**
@@ -1312,7 +1313,7 @@ The enclosure was designed to position the NFC reader at a natural tap height fo
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.5.2_nfc_pay.png" alt="Figure 77: Guest Making Card Payment" style="max-width: 100%;">
+  <img src="assets/final/images/6.5.2_nfc_pay.png" alt="Figure 77: Guest Making Card Payment" style="max-width: 70%;">
 </div>
 
 **Figure 77: Guest Making Card Payment**
@@ -1343,21 +1344,21 @@ Testing was conducted with multiple NFC-enabled cards and mobile wallets to veri
 With all components — the WiFi router, Jetson Orin Nano, LED monitor, and ESP-32 — set up individually, the next challenge was establishing a common power source that would allow the prototype to operate without any connection to wall sockets, which would otherwise constrain the AMR's freedom of movement. Opening the SESTO Magnus control panel revealed a user power outlet using a D-Sub type connector, labelled as port 7 in Figure 79, capable of supplying 48V DC at a maximum of 20A. The close-up of this connector is shown in Figure 80
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_User_Interface_Panel.png" alt="Figure 79: User Interface Panel" style="max-width: 100%;">
+  <img src="assets/final/images/6.6_User_Interface_Panel.png" alt="Figure 79: User Interface Panel" style="max-width: 40%;">
 </div>
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_CloseUp_UserPower.png" alt="Figure 80: Close-up of User Power Connector" style="max-width: 100%;">
+  <img src="assets/final/images/6.6_CloseUp_UserPower.png" alt="Figure 80: Close-up of User Power Connector" style="max-width: 30%;">
 </div>
 
 To draw power from this outlet, we procured an Amphenol CONEC 302W2CPXX41A10X connector and its corresponding housing (Figures 81 and 82).
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_User_Power_Connector.png" alt="Figure 81: Amphenol Connector" style="max-width: 100%;">
+  <img src="assets/final/images/6.6_User_Power_Connector.png" alt="Figure 81: Amphenol Connector" style="max-width: 30%;">
 </div>
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_User_Power_Housing.png" alt="Figure 82: Connector Housing" style="max-width: 100%;">
+  <img src="assets/final/images/6.6_User_Power_Housing.png" alt="Figure 82: Connector Housing" style="max-width: 30%;">
 </div> 
 
 With the source voltage and maximum current established, we identified the input voltage requirements for each component as summarised in Table 15 below.
@@ -1380,7 +1381,7 @@ Since the components required different input voltages stepped down from the 48V
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_CloseUp_UserPower.png" alt="Figure 83: Wiring of Buck Converter" style="max-width: 100%;">
+  <img src="assets/final/images/6.6_CloseUp_UserPower.png" alt="Figure 83: Wiring of Buck Converter" style="max-width: 30%;">
 </div>
 
 **Figure 83: Wiring of Buck Converter**
@@ -1391,7 +1392,7 @@ All wired components were then consolidated using Wago 221 push-in wire clamp te
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_User_Power_Housing.png" alt="Figure 84: Wago Connections" style="max-width: 100%;">
+  <img src="assets/final/images/6.6_User_Power_Housing.png" alt="Figure 84: Wago Connections" style="max-width: 30%;">
 </div>
 
 **Figure 84: Wago Connections**
@@ -1469,12 +1470,12 @@ To evaluate the final solution concept and gather actionable feedback for furthe
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.1_NUS_Openhouse1.png" alt="Figure 87" style="max-width: 100%;">
+  <img src="assets/final/images/7.1_NUS_Openhouse1.png" alt="Figure 87" style="max-width: 30%;">
 </div>
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.1_NUS_OpenHouse2.png" alt="Figure 88" style="max-width: 100%;">
+  <img src="assets/final/images/7.1_NUS_OpenHouse2.png" alt="Figure 88" style="max-width: 30%;">
 </div>
 
   **Figure 87 and Figure 88: Our booth at NUS Open House     **                                                
