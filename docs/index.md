@@ -1156,7 +1156,9 @@ These four prototypes collectively explored the pre-arrival, check-in, and staff
 
 During the one-week visit to Stanford, we adopted a Dark Horse Prototyping approach to deliberately explore a radical future-state concept and surface deeper insights about what luxury means in an automated hospitality context. Instead of refining existing assumptions incrementally. We specifically delved further into our design direction 3 (Human-Centric Automation for Enhanced Hospitality), as we continued to think more about how we could solve key pain points highlighted in our primary research section: thus we explored a radical concept of a floating AI hologram robot guiding guests.
 
-
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/5.4_aerohost_luggage_carrying_robot.png" alt="Figure 38: Aria surfaces actionable guest requests and captured preferences for staff to review, edit, and approve" style="max-width: 60%;">
+</div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 39: Aerohost and Luggage-Carrying Robot (Wizard-of-Oz Prototypes)</strong></p>
 
