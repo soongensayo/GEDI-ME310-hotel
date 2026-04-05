@@ -109,7 +109,7 @@ The programme spans approximately 10 months, from August 2024 to June 2025, and 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/1.2_overview.png" alt="Figure 1: Programme Timeline" style="max-width: 100%;">
+  <img src="assets/final/images/1.2_overview.png" alt="Figure 1: Programme Timeline" style="max-width: 70%;">
 </div>
 
 **Figure 1: Programme Timeline**
@@ -158,17 +158,57 @@ The meaning of luxury hotels has evolved beyond extravagance, expansive spaces o
 
 This shift is being driven by intensifying competition and changing guest expectations. As luxury features are increasingly adopted by non-luxury hotels, their power as differentiators has eroded (Mann et al., 2024). Affluent travellers have responded by prioritising unique experiences and vibrant atmospheres over opulent formality or material products (Mann et al., 2024). Research shows that the top factor influencing brand choice is not value, convenience, or quality, but the positive emotional experiences guests have had with a brand in the past (Mann et al., 2024 Personalisation has emerged as the clearest expression of this shift where 65% of customers consider it essential and would pay up to 25% more for it (EHL Insights, 2025), a preference that is even more pronounced among younger luxury consumers who expect experiences that feel authentically tailored rather than transactional (EHL Insights, 2023). True luxury today is therefore rooted more in thoughtful, carefully executed service, where staff anticipate needs, deliver beyond expectations, and create moments that guests carry with them long after checkout (Mann et al., 2024). 
 
-```
 Through our literature review, we have identified five key dimensions that capture these characteristics of contemporary luxury hospitality.
-```
 
 
-| Exclusivity Exclusivity refers to a feeling of rarity that enhances the perceived value of an experience (Wang et al., 2024). For guests, this may be reflected in features such as a private check-in suite or the presence of a dedicated host who welcomes them by name, creating a seamless arrival experience that begins the moment they step out of the car. Ultimately, exclusivity is about making guests feel that the moment has been crafted specifically for them, reinforcing their sense of distinction and personal importance. |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Genuineness and Sincerity** Genuineness and sincerity represent the human element that makes guests feel truly welcomed. Every interaction with hotel staff should appear natural and heartfelt rather than scripted or rehearsed. When expressed with warmth and care, such interactions foster emotional connection and trust between guests and the hotel.                                                                                                                                                                                 |
-| **Hyper-Personalisation** Modern luxury is characterised by hyper-personalisation, which highlights the hotel's ability to remember and anticipate its guests' preferences in ways that transform a stay into a deeply personal and special experience. From preferred room temperatures to favourite drinks and pillow choices, thoughtful use of guest information creates a sense of familiarity that makes the hotel feel like a second home.                                                                                               |
-| **High-Touch Service** Another defining element of contemporary luxury is the high-touch approach, where every interaction and gesture is intentional and deliberate. For the hotel, it is not about doing more but about doing it better with names remembered, needs anticipated and gestures timed with care. Often, one thoughtful moment means more than three generic ones.                                                                                                                                                               |
-| **Authenticity** Authenticity ties these elements together. Modern travellers increasingly seek experiences that reflect the local culture and story rather than uniform or standardised hotel designs. Authenticity has therefore become a cornerstone of brand loyalty within the luxury hospitality sector (Accenture, 2026).                                                                                                                                                                                                                |
+<style>
+.rt { width: 100%; border-collapse: collapse; margin: 1.2em 0; font-size: 0.93em; }
+.rt td, .rt th { border: 1px solid #ccc; padding: 11px 14px; vertical-align: top; }
+.rt th { background: #f5f5f5; font-weight: bold; text-align: left; }
+.rt-concept { width: 22%; font-weight: bold; vertical-align: middle !important; }
+.rt-num { width: 44px; font-weight: bold; color: #555; text-align: center; vertical-align: middle !important; }
+.rt-head { font-weight: bold; margin-bottom: 6px; }
+.rt ul { margin: 6px 0; padding-left: 18px; }
+.rt li { margin-bottom: 4px; }
+.rt-gap { background: #fffbe6; font-style: italic; }
+.rt-yes { color: #27ae60; font-weight: bold; }
+.rt-partial { color: #e67e22; font-weight: bold; }
+.rt-indirect { color: #7f8c8d; font-weight: bold; }
+.rt-label { font-weight: bold; }
+.rt-guest { margin-bottom: 8px; }
+.rt-3col td:nth-child(1) { width: 30%; }
+.rt-3col td:nth-child(2) { width: 16%; text-align: center; }
+.rt-3col td:nth-child(3) { width: 54%; }
+.rt-sol-img { text-align: center; margin: 10px 0; }
+.rt-sol-img img { max-width: 55%; }
+.rt-sol-caption { text-align: center; font-style: italic; font-size: 0.88em; }
+.rt-card { margin-bottom: 6px; }
+.rt-card-head { font-weight: bold; margin-bottom: 3px; }
+</style>
+<table class="rt">
+  <tbody>
+    <tr>
+      <td class="rt-concept">Exclusivity</td>
+      <td>Exclusivity refers to a feeling of rarity that enhances the perceived value of an experience (Wang et al., 2024). For guests, this may be reflected in features such as a private check-in suite or the presence of a dedicated host who welcomes them by name, creating a seamless arrival experience that begins the moment they step out of the car. Ultimately, exclusivity is about making guests feel that the moment has been crafted specifically for them, reinforcing their sense of distinction and personal importance.</td>
+    </tr>
+    <tr>
+      <td class="rt-concept">Genuineness &amp; Sincerity</td>
+      <td>Genuineness and sincerity represent the human element that makes guests feel truly welcomed. Every interaction with hotel staff should appear natural and heartfelt rather than scripted or rehearsed. When expressed with warmth and care, such interactions foster emotional connection and trust between guests and the hotel.</td>
+    </tr>
+    <tr>
+      <td class="rt-concept">Hyper-Personalisation</td>
+      <td>Modern luxury is characterised by hyper-personalisation, which highlights the hotel's ability to remember and anticipate its guests' preferences in ways that transform a stay into a deeply personal and special experience. From preferred room temperatures to favourite drinks and pillow choices, thoughtful use of guest information creates a sense of familiarity that makes the hotel feel like a second home.</td>
+    </tr>
+    <tr>
+      <td class="rt-concept">High-Touch Service</td>
+      <td>Another defining element of contemporary luxury is the high-touch approach, where every interaction and gesture is intentional and deliberate. For the hotel, it is not about doing more but about doing it better — with names remembered, needs anticipated, and gestures timed with care. Often, one thoughtful moment means more than three generic ones.</td>
+    </tr>
+    <tr>
+      <td class="rt-concept">Authenticity</td>
+      <td>Authenticity ties these elements together. Modern travellers increasingly seek experiences that reflect the local culture and story rather than uniform or standardised hotel designs. Authenticity has therefore become a cornerstone of brand loyalty within the luxury hospitality sector (Accenture, 2026).</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 1: Our Definitions of Modern Luxury Hospitality**
@@ -218,22 +258,18 @@ Figure 3 illustrates the top challenges and priorities identified by the hospita
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/3.2.3_challenges_priorities.png" alt="Figure 3: Top Challenges and Priorities in Singapore Hospitality Industry" style="max-width: 100%;">
+  <img src="assets/final/images/3.2.3_challenges_priorities.png" alt="Figure 3: Top Challenges and Priorities in Singapore Hospitality Industry" style="max-width: 50%;">
 </div>
 
 **Figure 3: Top Challenges and Priorities in Singapore Hospitality Industry**
 
-```
 Looking ahead, sustainable progress will depend on meaningful job redesign supported by labour-saving technologies to boost productivity and make hospitality careers more attractive (Workforce Singapore, 2023; Seah, 2022). 
-```
 
 <a id="4-3-primary-research"></a>
 
 ## 4.3 Primary Research
 
-```
 To build a grounded and multi-perspectival understanding of the problem space, we conducted primary research across three complementary methods: semi-structured interviews with luxury hotels, direct field observations, and a two-round guest review analysis. Together, these methods triangulate the problem from the perspectives of staff, operators, and guests, forming the evidential foundation for the design directions and solution development that follow.
-```
 
 <a id="4-3-1-on-site-hotel-interviews"></a>
 
@@ -241,22 +277,93 @@ To build a grounded and multi-perspectival understanding of the problem space, w
 
 To gain a holistic understanding of the current luxury hotel check-in experience, we conducted semi-structured interviews with hospitality professionals across five prominent hotels and organisations in Singapore: Shangri-La, Banyan Tree Headquarters, Mandai Rainforest Resort by Banyan Tree, Raffles Hotel, and Amara Hotel (See Appendix A).
 
-```
 Participants represented a diverse range of roles within the hotel ecosystem, including Rooms Director, Front Desk Manager, Front Desk Staff, General Manager, Head of Technology, and Business Development leads, selected for their ability to offer operational, managerial, and technological perspectives on the check-in experience.
-```
 
 *The full interview protocol and preparation document is included in Appendix B.*
 
 
-| Key Themes and Insights                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1 Tech Stack and Integration Reality** Backend systems like Opera PMS are reliable but fragmented, creating compatibility issues New technology adoption is costly and constrained by vendor lock-in and cybersecurity concerns Upgrades remain incremental, focused on reducing workload rather than transforming guest experience                                                                                                |
-| **2 Human Touch vs Automation** Up to 99% of guests approach human staff over kiosks even when self-service is available Existing kiosks described as emotionless, transactional, and misaligned with luxury expectations Hoteliers expressed that automation should enhance rather than replace the human warmth                                                                                                                    |
-| **3 Staff Tools and Empowerment** Tools like Opera and HotSOS are indispensable but complex, with steep learning curves Data entry errors such as double rooming or missing preferences directly impact guest satisfaction Staff empowerment through autonomy and discretionary budgets significantly improves morale and service quality                                                                                            |
-| **4 Pre-arrival Data and Personalisation** Hotels collect guest preferences but utilisation remains inconsistent across properties Many still rely on staff memory rather than systematic data activation Personalisation at scale is impractical due to manpower constraints                                                                                                                                                        |
-| **5 Manpower and Role Design of Staff** Recruiting and retaining front-desk staff is increasingly difficult due to long hours and low career appeal Hotels are redesigning roles to combine operational efficiency with relational expertise Technology reduces repetitive tasks but cannot replace emotional labour                                                                                                                 |
-| **6 Service Recovery and “Wow” Moments** Empowered staff can transform complaints into memorable moments through quick, autonomous decisions True "wow" moments stem from intuition and empathy, not protocol Culture of empowerment varies significantly across properties                                                                                                                                                          |
-| **7 Physical Arrival and Guest Escort Experience** Bellmen play a critical role in bridging the physical arrival and the check-in process, leading guests from the entrance to the counter Escorting guests to their room is standard for VIP and ultra-luxury guests but inconsistently applied across tiers The physical dimensions of arrival, luggage handling, navigation, and room orientation, remain heavily staff-dependent |
+<table class="rt">
+  <thead><tr><th>#</th><th>Theme</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num">1</td>
+      <td>
+        <div class="rt-head">Tech Stack and Integration Reality</div>
+        <ul>
+          <li>Backend systems like Opera PMS are reliable but fragmented, creating compatibility issues</li>
+          <li>New technology adoption is costly and constrained by vendor lock-in and cybersecurity concerns</li>
+          <li>Upgrades remain incremental, focused on reducing workload rather than transforming guest experience</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">2</td>
+      <td>
+        <div class="rt-head">Human Touch vs Automation</div>
+        <ul>
+          <li>Up to 99% of guests approach human staff over kiosks even when self-service is available</li>
+          <li>Existing kiosks described as emotionless, transactional, and misaligned with luxury expectations</li>
+          <li>Hoteliers expressed that automation should enhance rather than replace the human warmth</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">3</td>
+      <td>
+        <div class="rt-head">Staff Tools and Empowerment</div>
+        <ul>
+          <li>Tools like Opera and HotSOS are indispensable but complex, with steep learning curves</li>
+          <li>Data entry errors such as double rooming or missing preferences directly impact guest satisfaction</li>
+          <li>Staff empowerment through autonomy and discretionary budgets significantly improves morale and service quality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">4</td>
+      <td>
+        <div class="rt-head">Pre-arrival Data and Personalisation</div>
+        <ul>
+          <li>Hotels collect guest preferences but utilisation remains inconsistent across properties</li>
+          <li>Many still rely on staff memory rather than systematic data activation</li>
+          <li>Personalisation at scale is impractical due to manpower constraints</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">5</td>
+      <td>
+        <div class="rt-head">Manpower and Role Design of Staff</div>
+        <ul>
+          <li>Recruiting and retaining front-desk staff is increasingly difficult due to long hours and low career appeal</li>
+          <li>Hotels are redesigning roles to combine operational efficiency with relational expertise</li>
+          <li>Technology reduces repetitive tasks but cannot replace emotional labour</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">6</td>
+      <td>
+        <div class="rt-head">Service Recovery and "Wow" Moments</div>
+        <ul>
+          <li>Empowered staff can transform complaints into memorable moments through quick, autonomous decisions</li>
+          <li>True "wow" moments stem from intuition and empathy, not protocol</li>
+          <li>Culture of empowerment varies significantly across properties</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">7</td>
+      <td>
+        <div class="rt-head">Physical Arrival and Guest Escort Experience</div>
+        <ul>
+          <li>Bellmen play a critical role in bridging the physical arrival and the check-in process, leading guests from the entrance to the counter</li>
+          <li>Escorting guests to their room is standard for VIP and ultra-luxury guests but inconsistently applied across tiers</li>
+          <li>The physical dimensions of arrival — luggage handling, navigation, and room orientation — remain heavily staff-dependent</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 2: Key Themes and Insights from On-Site Hotel Interviews**
@@ -280,11 +387,96 @@ To validate and build upon the insights gathered through staff interviews, we co
 *Raw field notes were collected across all properties and organised into three thematic clusters. Methodologies and clustering are included in Appendix D.*
 
 
-| 1 Check-In Flow & Queue Dynamics At Marina Bay Sands, long queues formed after 2:30pm, with some guests observed waiting over 20 minutes at the front desk, consistent with the peak-period congestion documented in secondary research Not a single self-check-in kiosk was observed at any of the three properties, validating that kiosk adoption in luxury settings remains near zero and that human staff remain the preferred point of contact Figure 5: Guests at the Check-in Counter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2 Physical Labour Intensity & Luggage Handling** No room escort was witnessed for standard guests across any property, with the bellboy role limited to guest arrival and luggage handling, validating that escorting guests beyond the lobby is inconsistently applied and possibly reserved for higher-tier guests only Luggage was tagged manually (Figure 6 and transported entirely by hand and trolley across all three properties, validating that the physical arrival experience remains wholly staff-dependent and sensitive to individual capacity and availability Loose bags and personal items placed on lobby floors by guests created persistent visual clutter (Figure 7 — a friction point not raised in any interview, revealing a blind spot in staff accounts of the arrival experience Guests were observed and overheard requesting stored luggage back from the bellhop counter rather than waiting for room delivery, revealing that some guests may prefer to keep their belongings with them at all times, a preference not surfaced in any interview **Figure 6 & 7: Luggage being tagged manually by bellboy (left) and luggage left unattended on the lobby floor (right)** |
-| **3 Service Coverage Inconsistency** Luggage disputes were escalated to the manager rather than resolved by bellboys, validating that staff empowerment remains limited Guests with fewer bags were sometimes left to self-serve, while bellboys attended to higher-volume arrivals (Figure 8), validating that physical arrival assistance remains unevenly distributed and subject to manpower constraints. **Figure 8: Guests being left to Self-Serve**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+<style>
+.obs-table { width: 100%; border-collapse: collapse; margin: 1.5em 0; font-size: 0.93em; }
+.obs-table td { border: 1px solid #ccc; padding: 14px 16px; vertical-align: top; }
+.obs-table .row-content { width: 75%; }
+.obs-table .row-validates { width: 25%; text-align: center; vertical-align: middle; }
+.obs-table .row-header { font-weight: bold; font-size: 1em; margin-bottom: 8px; }
+.obs-table ul { margin: 6px 0 12px 0; padding-left: 20px; }
+.obs-table ul li { margin-bottom: 6px; }
+.obs-table .fig-caption { text-align: center; font-style: italic; font-size: 0.88em; margin-top: 4px; }
+.obs-table .validates-label { font-style: italic; font-size: 0.85em; color: #555; margin-bottom: 10px; }
+.diamond-chip { position: relative; width: 90px; height: 90px; margin: 10px auto; display: flex; align-items: center; justify-content: center; }
+.diamond-chip .diamond-bg { position: absolute; width: 80px; height: 80px; transform: rotate(45deg); border-radius: 4px; }
+.diamond-chip .diamond-text { position: relative; z-index: 1; font-size: 0.65em; font-weight: bold; text-align: center; line-height: 1.25; padding: 4px; color: #333; }
+</style>
 
+<table class="obs-table">
+  <tbody>
+    <tr>
+      <td class="row-content">
+        <div class="row-header">1. Check-In Flow &amp; Queue Dynamics</div>
+        <ul>
+          <li>At Marina Bay Sands, long queues formed after 2:30pm, with some guests observed waiting over 20 minutes at the front desk, consistent with the peak-period congestion documented in secondary research</li>
+          <li>Not a single self-check-in kiosk was observed at any of the three properties, validating that kiosk adoption in luxury settings remains near zero and that human staff remain the preferred point of contact</li>
+        </ul>
+        <div style="text-align:center; margin-top:10px;">
+          <img src="assets/final/images/4.3.2_image_one.png" alt="Figure 5: Guests at the Check-in Counter" style="max-width:75%;">
+          <p class="fig-caption"><strong>Figure 5: Guests at the Check-in Counter</strong></p>
+        </div>
+      </td>
+      <td class="row-validates">
+        <div class="validates-label">Validates:</div>
+        <div class="diamond-chip">
+          <div class="diamond-bg" style="background:#F4C030;"></div>
+          <div class="diamond-text">Manpower and Role Design of Staff</div>
+        </div>
+        <div class="diamond-chip">
+          <div class="diamond-bg" style="background:#85C1E9;"></div>
+          <div class="diamond-text">Human Touch vs Automation</div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td class="row-content">
+        <div class="row-header">2. Physical Labour Intensity &amp; Luggage Handling</div>
+        <ul>
+          <li>No room escort was witnessed for standard guests across any property, with the bellboy role limited to guest arrival and luggage handling, validating that escorting guests beyond the lobby is inconsistently applied and possibly reserved for higher-tier guests only</li>
+          <li>Luggage was tagged manually (Figure 6) and transported entirely by hand and trolley across all three properties, validating that the physical arrival experience remains wholly staff-dependent and sensitive to individual capacity and availability</li>
+          <li>Loose bags and personal items placed on lobby floors by guests created persistent visual clutter (Figure 7) — a friction point not raised in any interview, revealing a blind spot in staff accounts of the arrival experience</li>
+          <li>Guests were observed and overheard requesting stored luggage back from the bellhop counter rather than waiting for room delivery, revealing that some guests may prefer to keep their belongings with them at all times, a preference not surfaced in any interview</li>
+        </ul>
+        <div style="text-align:center; margin-top:10px; display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
+          <div style="flex:1; min-width:120px;">
+            <img src="assets/final/images/4.3.2_image_two.png" alt="Figure 6: Luggage being tagged manually by bellboy" style="max-width:100%;">
+          </div>
+          <div style="flex:1; min-width:120px;">
+            <img src="assets/final/images/4.3.2_image_three.png" alt="Figure 7: Luggage left unattended on the lobby floor" style="max-width:100%;">
+          </div>
+        </div>
+        <p class="fig-caption"><strong>Figure 6 &amp; 7: Luggage being tagged manually by bellboy (left) and luggage left unattended on the lobby floor (right)</strong></p>
+      </td>
+      <td class="row-validates">
+        <div class="validates-label">Validates:</div>
+        <div class="diamond-chip">
+          <div class="diamond-bg" style="background:#F1948A;"></div>
+          <div class="diamond-text">Physical Arrival and Guest Escort Experience</div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td class="row-content">
+        <div class="row-header">3. Service Coverage Inconsistency</div>
+        <ul>
+          <li>Luggage disputes were escalated to the manager rather than resolved by bellboys, validating that staff empowerment remains limited</li>
+          <li>Guests with fewer bags were sometimes left to self-serve, while bellboys attended to higher-volume arrivals (Figure 8), validating that physical arrival assistance remains unevenly distributed and subject to manpower constraints</li>
+        </ul>
+        <div style="text-align:center; margin-top:10px;">
+          <img src="assets/final/images/4.3.2_image_four.png" alt="Figure 8: Guests being left to Self-Serve" style="max-width:75%;">
+          <p class="fig-caption"><strong>Figure 8: Guests being left to Self-Serve</strong></p>
+        </div>
+      </td>
+      <td class="row-validates">
+        <div class="validates-label">Validates:</div>
+        <div class="diamond-chip">
+          <div class="diamond-bg" style="background:#A9DFBF;"></div>
+          <div class="diamond-text">Staff Empowerment &amp; Resource Allocation</div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Table 3: Thematic Clusters from Hotel Observations**
 
@@ -301,9 +493,43 @@ Data from Reviews
 To complement the interview and observational research with the guest perspective at scale, we conducted two rounds of review analysis across major online travel platforms.
 
 
-| One-Star Reviews A dataset of 60+ one-star reviews from five-star properties in Singapore was collected, cleaned, and structured. Each review was coded and categorised into sub-themes, which were then consolidated into 9 higher-level themes across 34 categories through affinity clustering. The most frequently cited theme was Staff & Service Quality, appearing in 95.8% of reviews, followed by Value-for-Money (65.55%). Critically for this project, Check-In & Check-Out Process was the fourth most cited theme at 53.78%, with the dominant sub-categories being poor service (32.77% of all reviews) and long wait times (24.37%). These findings confirm that the check-in experience is a significant and recurring driver of guest dissatisfaction at luxury properties, and that its failure is rooted not in physical infrastructure but in service quality and process efficiency. *A full interactive dashboard of the Round 1 findings is included in Appendix E.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Broader Sentiment Study** Another round of analysis was conducted across 109 reviews spanning a full rating range, from one to five stars, across four Singapore luxury properties: Capella, Marina Bay Sands, Raffles, and Fullerton. Reviews were coded across five service sentiment dimensions: luggage handling, high-touch service, staff availability, staff competency, and staff attitude. **Dimension** **Avg Score** **Reviews** Luggage Handling 3.37 68 High Touch Service 3.59 34 Staff Availability 3.46 37 Staff Competency 3.28 32 Staff Attitude 3.67 45 The 0.30-point gap between the highest dimension (attitude, 3.67) and the lowest (luggage handling, 3.37) is the most telling finding: guests consistently rate staff warmth positively while flagging operational dimensions as recurring points of friction. This pattern held across all four properties, suggesting the issue is structural rather than property-specific. 39% of reviews referenced check-in or waiting experiences. Reviews describing the best arrivals emphasised being greeted by name, luggage handled invisibly, and feeling anticipated. Reviews describing the worst emphasised waiting, self-carrying bags, and navigating the process without guidance. What guests remember most is not what went smoothly, but whether they felt welcomed, guided, and cared for throughout the arrival experience. *A full interactive dashboard of the broader sentiment findings is included in Appendix F.* |
+<table class="rt">
+  <thead><tr><th style="width:20%">Study</th><th>Findings</th></tr></thead>
+  <tbody>
+    <tr>
+      <td style="font-weight:bold; vertical-align:middle;">One-Star Reviews</td>
+      <td>
+        A dataset of 60+ one-star reviews from five-star properties in Singapore was collected, cleaned, and structured. Each review was coded and categorised into sub-themes, which were then consolidated into 9 higher-level themes across 34 categories through affinity clustering. The most frequently cited theme was Staff &amp; Service Quality, appearing in 95.8% of reviews, followed by Value-for-Money (65.55%). Critically for this project, Check-In &amp; Check-Out Process was the fourth most cited theme at 53.78%, with the dominant sub-categories being poor service (32.77% of all reviews) and long wait times (24.37%). These findings confirm that the check-in experience is a significant and recurring driver of guest dissatisfaction at luxury properties, and that its failure is rooted not in physical infrastructure but in service quality and process efficiency.
+        <br><br><em>A full interactive dashboard of the Round 1 findings is included in Appendix E.</em>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; vertical-align:middle;">Broader Sentiment Study</td>
+      <td>
+        Another round of analysis was conducted across 109 reviews spanning a full rating range (one to five stars) across four Singapore luxury properties: Capella, Marina Bay Sands, Raffles, and Fullerton. Reviews were coded across five service sentiment dimensions.
+        <br><br>
+        <table style="width:55%; border-collapse:collapse; font-size:0.88em; margin:8px 0;">
+          <thead>
+            <tr style="background:#f5f5f5;">
+              <th style="border:1px solid #ccc; padding:5px 10px;">Dimension</th>
+              <th style="border:1px solid #ccc; padding:5px 10px; text-align:center;">Avg Score</th>
+              <th style="border:1px solid #ccc; padding:5px 10px; text-align:center;">Reviews</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td style="border:1px solid #ccc; padding:4px 10px;">Luggage Handling</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">3.37</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">68</td></tr>
+            <tr><td style="border:1px solid #ccc; padding:4px 10px;">High Touch Service</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">3.59</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">34</td></tr>
+            <tr><td style="border:1px solid #ccc; padding:4px 10px;">Staff Availability</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">3.46</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">37</td></tr>
+            <tr><td style="border:1px solid #ccc; padding:4px 10px;">Staff Competency</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">3.28</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">32</td></tr>
+            <tr style="background:#fff9e6;"><td style="border:1px solid #ccc; padding:4px 10px;">Staff Attitude</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">3.67</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">45</td></tr>
+          </tbody>
+        </table>
+        The 0.30-point gap between the highest dimension (attitude, 3.67) and the lowest (luggage handling, 3.37) is the most telling finding: guests consistently rate staff warmth positively while flagging operational dimensions as recurring points of friction. 39% of reviews referenced check-in or waiting experiences. Reviews describing the best arrivals emphasised being greeted by name, luggage handled invisibly, and feeling anticipated. What guests remember most is not what went smoothly, but whether they felt welcomed, guided, and cared for throughout the arrival experience.
+        <br><br><em>A full interactive dashboard of the broader sentiment findings is included in Appendix F.</em>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table: 4: Review Analysis across Major Online Travel Platforms**
@@ -315,12 +541,46 @@ To complement the interview and observational research with the guest perspectiv
 Across the research conducted, five cross-cutting insights emerged that collectively define the problem space and motivate the design of a new solution.
 
 
-| 1 The Check-In Process Is a High-Stakes, Time-Sensitive Touchpoint The check-in experience consistently emerged as one of the most consequential moments in the guest journey. Guest satisfaction declines by approximately 50% when check-in exceeds five minutes (Cornell University, 2013), and the Check-In & Check-Out Process was the fourth most cited theme in one-star reviews at 53.78%, with poor service and long wait times as the dominant sub-categories.                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **2 Luggage Handling Is a Significant, Underaddressed Pain Point** Luggage handling was one of the most consistently flagged pain points across all research methods. Observations revealed manual handling to be physically demanding, inconvenient, and spatially disruptive. Review data provided the strongest quantitative signal: across 109 reviews from four Singapore luxury properties, luggage handling was the lowest-scoring dimension at 3.37 out of 5.0, against staff attitude at 3.67, confirming the friction is operational rather than attitudinal. Despite its visibility, it remains largely unaddressed by existing hotel technology. |
-| **3 Existing Automation Fails the Luxury Standard** Self-service kiosks are widely deployed but consistently underutilised in luxury settings, with usage rates below 1% at several properties visited. Across interviews and observations, kiosks were described as transactional, emotionless, and misaligned with luxury price points. The failure lies in the experience.                                                                                                                                                                                                                                                                                |
-| **4 Staff Are Overloaded and the Workforce Is Shrinking** Manpower shortage was cited as the single most pressing operational challenge across all hotel visits and research. Frontline staff simultaneously manage data entry, guest rapport, payment processing, and room allocation, creating significant cognitive overload that directly contributes to service errors. Bellboys and porters face additional physical strain from luggage handling across peak periods. Together, these pressures produce inconsistent guest experiences.                                                                                                               |
-| **5 Guests Want Efficiency Without Losing the Feeling of Being Hosted** Across all research methods, guests did not reject technology. They rejected technology that felt cold, impersonal, or required effort from them. The desire articulated consistently was for an arrival experience that is fast and frictionless, but still feels warm, guided, and personal.                                                                                                                                                                                                                                                                                       |
+<table class="rt">
+  <thead><tr><th>#</th><th>Key Insight</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num">1</td>
+      <td>
+        <div class="rt-head">The Check-In Process Is a High-Stakes, Time-Sensitive Touchpoint</div>
+        The check-in experience consistently emerged as one of the most consequential moments in the guest journey. Guest satisfaction declines by approximately 50% when check-in exceeds five minutes (Cornell University, 2013), and the Check-In &amp; Check-Out Process was the fourth most cited theme in one-star reviews at 53.78%, with poor service and long wait times as the dominant sub-categories.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">2</td>
+      <td>
+        <div class="rt-head">Luggage Handling Is a Significant, Underaddressed Pain Point</div>
+        Luggage handling was one of the most consistently flagged pain points across all research methods. Observations revealed manual handling to be physically demanding, inconvenient, and spatially disruptive. Review data provided the strongest quantitative signal: across 109 reviews from four Singapore luxury properties, luggage handling was the lowest-scoring dimension at 3.37 out of 5.0, against staff attitude at 3.67, confirming the friction is operational rather than attitudinal. Despite its visibility, it remains largely unaddressed by existing hotel technology.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">3</td>
+      <td>
+        <div class="rt-head">Existing Automation Fails the Luxury Standard</div>
+        Self-service kiosks are widely deployed but consistently underutilised in luxury settings, with usage rates below 1% at several properties visited. Across interviews and observations, kiosks were described as transactional, emotionless, and misaligned with luxury price points. The failure lies in the experience.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">4</td>
+      <td>
+        <div class="rt-head">Staff Are Overloaded and the Workforce Is Shrinking</div>
+        Manpower shortage was cited as the single most pressing operational challenge across all hotel visits and research. Frontline staff simultaneously manage data entry, guest rapport, payment processing, and room allocation, creating significant cognitive overload that directly contributes to service errors. Bellboys and porters face additional physical strain from luggage handling across peak periods. Together, these pressures produce inconsistent guest experiences.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">5</td>
+      <td>
+        <div class="rt-head">Guests Want Efficiency Without Losing the Feeling of Being Hosted</div>
+        Across all research methods, guests did not reject technology. They rejected technology that felt cold, impersonal, or required effort from them. The desire articulated consistently was for an arrival experience that is fast and frictionless, but still feels warm, guided, and personal.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table: 5: Key Insights from Primary and Secondary Research**
@@ -332,50 +592,147 @@ Across the research conducted, five cross-cutting insights emerged that collecti
 A review of existing market solutions was conducted to understand what has already been attempted across each of the five problem areas identified in Section 3.5, and to identify where meaningful gaps remain.
 
 
-| The Check-In Process Is a High-Stakes, Time-Sensitive Touchpoint                                                                                                                                                                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Self-service kiosks** are the most common attempt to address check-in speed, observed directly at Amara Hotel. While faster for straightforward check-ins, kiosk adoption at luxury properties was found to be below 1% at several properties visited. Guests consistently bypassed them in favour of human staff, negating the intended efficiency benefit. **Figure 9: Amara Hotel Self-Service Kiosk**                                  |
-| **Mobile and digital pre-check-in apps**, such as those offered by Hilton and Marriot, allow members to indicate preferences and room selection before arrival. While these reduce time at the front desk, guests must still present physical identification and collect key cards at the desk in certain countries, including Singapore, preserving a friction point at arrival. **Figure 10: Hilton Honors and Marriot Bonvoy Mobile App** |
-| **Gap:** Existing solutions optimise for speed but sacrifice warmth. None successfully deliver both within a single guest-facing interaction that meets the emotional expectations of luxury hospitality.                                                                                                                                                                                                                                    |
+<table class="rt">
+  <thead><tr><th colspan="2">Problem Area 1: The Check-In Process Is a High-Stakes, Time-Sensitive Touchpoint</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Self-service kiosks</strong> are the most common attempt to address check-in speed, observed directly at Amara Hotel. While faster for straightforward check-ins, kiosk adoption at luxury properties was found to be below 1% at several properties visited. Guests consistently bypassed them in favour of human staff, negating the intended efficiency benefit.
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_amara_kiosk.png" alt="Figure 9: Amara Hotel Self-Service Kiosk" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 9: Amara Hotel Self-Service Kiosk</strong></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Mobile and digital pre-check-in apps</strong>, such as those offered by Hilton and Marriott, allow members to indicate preferences and room selection before arrival. While these reduce time at the front desk, guests must still present physical identification and collect key cards at the desk in certain countries, including Singapore, preserving a friction point at arrival.
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_hilton_app.png" alt="Figure 10: Hilton Honors and Marriott Bonvoy Mobile App" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 10: Hilton Honors and Marriott Bonvoy Mobile App</strong></div>
+      </td>
+    </tr>
+    <tr class="rt-gap">
+      <td colspan="2"><strong>Gap:</strong> Existing solutions optimise for speed but sacrifice warmth. None successfully deliver both within a single guest-facing interaction that meets the emotional expectations of luxury hospitality.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table: 6: Problem Area 1**
 
 
-| Luggage Handling Is a Significant, Underaddressed Pain Point                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **YOTEL Yobot (New York)** automates luggage storage via a robotic arm handling approximately 300 items per day, but is purely a storage system. It does not transport luggage to the guest's room and is too slow for peak arrival periods. **Figure 11: YOTEL Yobot**                                                                                                                                                                                                                                            |
-| **Piaggio Fast Forward Kilo** is a four-wheeled robotic flatbed that follows a staff while carrying heavy loads of up to 130kg, relieving physical strain. While it addresses the occupational health burden of manual work, it was designed for industrial environments and is only now exploring hotel integration. It requires a human operator to lead it, follows rather than guides, and functions as a staff tool rather than a guest-facing autonomous system. **Figure 12: Piaggio Kilo following staff** |
-| **Gap:** Guests arrive expecting their luggage to travel with them, effortlessly, visibly, and without handoff anxiety. No existing solution delivers this: every option either stores luggage out of sight, requires staff to operate it, or plays no role in the arrival journey at all.                                                                                                                                                                                                                         |
+<table class="rt">
+  <thead><tr><th colspan="2">Problem Area 2: Luggage Handling Is a Significant, Underaddressed Pain Point</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>YOTEL Yobot (New York)</strong> automates luggage storage via a robotic arm handling approximately 300 items per day, but is purely a storage system. It does not transport luggage to the guest's room and is too slow for peak arrival periods.
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_yotel.jpg" alt="Figure 11: YOTEL Yobot" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 11: YOTEL Yobot</strong></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Piaggio Fast Forward Kilo</strong> is a four-wheeled robotic flatbed that follows a staff member while carrying heavy loads of up to 130 kg, relieving physical strain. While it addresses the occupational health burden of manual work, it was designed for industrial environments and is only now exploring hotel integration. It requires a human operator to lead it, follows rather than guides, and functions as a staff tool rather than a guest-facing autonomous system.
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_piaggio.png" alt="Figure 12: Piaggio Kilo following staff" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 12: Piaggio Kilo following staff</strong></div>
+      </td>
+    </tr>
+    <tr class="rt-gap">
+      <td colspan="2"><strong>Gap:</strong> Guests arrive expecting their luggage to travel with them — effortlessly, visibly, and without handoff anxiety. No existing solution delivers this: every option either stores luggage out of sight, requires staff to operate it, or plays no role in the arrival journey at all.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table: 7: Problem Area 2**
 
 
-| Existing Automation Fails the Luxury Standard                                                                                                                                                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Henn-na Hotel in Japan** deployed over 240 robots at its peak but retired more than half by 2019 due to technical glitches and guest complaints (Hertzfeld, 2019). Guests also reacted negatively to the humanoid robots' appearance, with reactions reflecting the "uncanny valley" effect, describing the robots as creepy and unsettling rather than premium (Nelson, 2025). **Figure 13: Henn-na Hotel Japan Humanoid Robots** |
-| **Hilton Connie**, is a robot concierge that answers guest questions about local attractions, hotel amenities, and dining options. However, Connie's interactions are stilted and robotic, limited to scripted factual responses with no natural conversational flow. It has no check-in capability, cannot handle physical tasks, and does not form part of the arrival journey. **Figure 14: Hilton Connie**                       |
-| Gap: Existing automation solutions either over-automate at the cost of warmth, or under-deliver on conversational quality. None successfully replicate the emotional experience of being genuinely welcomed and guided.                                                                                                                                                                                                              |
+<table class="rt">
+  <thead><tr><th colspan="2">Problem Area 3: Existing Automation Fails the Luxury Standard</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Henn-na Hotel in Japan</strong> deployed over 240 robots at its peak but retired more than half by 2019 due to technical glitches and guest complaints (Hertzfeld, 2019). Guests reacted negatively to the humanoid robots' appearance, describing them as creepy and unsettling rather than premium — a textbook example of the "uncanny valley" effect (Nelson, 2025).
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_henna.jpg" alt="Figure 13: Henn-na Hotel Japan Humanoid Robots" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 13: Henn-na Hotel Japan Humanoid Robots</strong></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Hilton Connie</strong> is a robot concierge that answers guest questions about local attractions, hotel amenities, and dining options. However, Connie's interactions are stilted and robotic, limited to scripted factual responses with no natural conversational flow. It has no check-in capability, cannot handle physical tasks, and does not form part of the arrival journey.
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_hilton_connie.png" alt="Figure 14: Hilton Connie" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 14: Hilton Connie</strong></div>
+      </td>
+    </tr>
+    <tr class="rt-gap">
+      <td colspan="2"><strong>Gap:</strong> Existing automation solutions either over-automate at the cost of warmth, or under-deliver on conversational quality. None successfully replicate the emotional experience of being genuinely welcomed and guided.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table: 8: Problem Area 3**
 
 
-| Staff Are Overloaded and the Workforce Is Shrinking                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **The Citadines delivery robot,** observed during our site visit to Citadines Rochester, demonstrates the operational viability of autonomous robot deployment in a hotel environment. The robot calls and rides lifts independently, navigates hallways, and completes amenities delivery without staff assistance, confirming that robot deployment can meaningfully reduce operational load in hotel environments. **Figure 15: Citadines Autonomous Delivery Robot** |
-| **Amazon Alexa for Hospitality** handles in-room guest requests at properties including Marriott and Westin, reducing call volume to the front desk, but its function is limited entirely to the in-room experience. **Figure 16: Hospitality Alexa**                                                                                                                                                                                                                    |
-| **Gap:** Existing solutions reduce operational load at the margins, in-room requests, back-of-house logistics, but none address the concentration of physical and cognitive demand at the point of arrival.                                                                                                                                                                                                                                                              |
+<table class="rt">
+  <thead><tr><th colspan="2">Problem Area 4: Staff Are Overloaded and the Workforce Is Shrinking</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>The Citadines delivery robot</strong>, observed during our site visit to Citadines Rochester, demonstrates the operational viability of autonomous robot deployment in a hotel environment. The robot calls and rides lifts independently, navigates hallways, and completes amenities delivery without staff assistance, confirming that robot deployment can meaningfully reduce operational load in hotel environments.
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_citadines_bot.png" alt="Figure 15: Citadines Autonomous Delivery Robot" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 15: Citadines Autonomous Delivery Robot</strong></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Amazon Alexa for Hospitality</strong> handles in-room guest requests at properties including Marriott and Westin, reducing call volume to the front desk, but its function is limited entirely to the in-room experience.
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_alexa.png" alt="Figure 16: Hospitality Alexa" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 16: Hospitality Alexa</strong></div>
+      </td>
+    </tr>
+    <tr class="rt-gap">
+      <td colspan="2"><strong>Gap:</strong> Existing solutions reduce operational load at the margins — in-room requests, back-of-house logistics — but none address the concentration of physical and cognitive demand at the point of arrival.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table: 9: Problem Area 4**
 
 
-| Guests Want Efficiency Without Losing the Feeling of Being Hosted                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Four Seasons Chat and Ritz-Carlton ChatGenie** deliver fast, personalised guest communication through messaging channels backed by human staff. Both reduce neither headcount nor reliance on human availability, rather, they shift the medium from face-to-face to digital. Critically, both are absent at the point of physical arrival and cannot replicate the embodied experience of being greeted and guided from the moment a guest steps out of their vehicle. **Figure 17: ChatGenie** |
-| **Gap:** No existing solution delivers the combination of speed, warmth, physical presence, and personalised guidance at the point of arrival                                                                                                                                                                                                                                                                                                                                                      |
+<table class="rt">
+  <thead><tr><th colspan="2">Problem Area 5: Guests Want Efficiency Without Losing the Feeling of Being Hosted</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Four Seasons Chat and Ritz-Carlton ChatGenie</strong> deliver fast, personalised guest communication through messaging channels backed by human staff. Both reduce neither headcount nor reliance on human availability — rather, they shift the medium from face-to-face to digital. Critically, both are absent at the point of physical arrival and cannot replicate the embodied experience of being greeted and guided from the moment a guest steps out of their vehicle.
+      </td>
+      <td class="rt-sol-img">
+        <img src="assets/final/images/3.6_chatgenie.png" alt="Figure 17: ChatGenie" style="max-width:90%;">
+        <div class="rt-sol-caption"><strong>Figure 17: ChatGenie</strong></div>
+      </td>
+    </tr>
+    <tr class="rt-gap">
+      <td colspan="2"><strong>Gap:</strong> No existing solution delivers the combination of speed, warmth, physical presence, and personalised guidance at the point of arrival.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table: 10: Problem Area 5**
@@ -446,10 +803,41 @@ Within luxury specifically, the most viable deployment model blends AI efficienc
 The research conducted across Sections 3.1 to 3.6 converges on four distinct but interconnected opportunity areas. Each opportunity directly motivated a corresponding design direction and How Might We statement that guided the first phase of concept development.
 
 
-| Opportunity 1 — Reinventing the Check-In Experience Through Human-Centric Automation With self-service options underperforming, automation that feels transactional has already been tried and rejected by the luxury segment. The gap lies in designing a guest-facing system that retains the warmth and conversational quality of a human interaction while delivering the speed and consistency of automation, and critically, one that extends beyond the front desk to cover the full physical arrival journey, the dimension no existing solution has yet addressed. This brings us to our design statement: Human-Centric Automation for Enhanced Hospitality Shaping automation so that it supports the overall hospitality experience and aligns with the emotional expectations of luxury guests, rather than reducing the interaction to a purely transactional process. How might we make automated systems encapsulate human touch? |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Opportunity 2 — Unlocking Real-Time Hyper-Personalisation** Although hotels collect extensive guest data, it is often underutilised at the point of arrival. Personalisation remains largely reserved for VIP guests and relies on staff memory rather than systematic data activation. The opportunity lies in designing systems that surface this data in real time, enabling guests to be served in ways that reflect their individual preferences. This brings us to our design statement: **Personalisation and Guest Preference Intelligence** Transforming fragmented guest data into meaningful, timely personalisation across the check-in journey, bridging the gap between the data hotels already collect and the personalised service guests expect. **How might we enable hotels to provide genuinely personalised and tailored experiences?**                                                                                    |
-| **Opportunity 3 — Supporting and Empowering Frontline Staff** Frontline staff managing multiple systems simultaneously creates cognitive overload, limiting their ability to deliver high-touch service. With manpower shortages worsening, the opportunity lies in redesigning tools and workflows so that technology handles operational complexity, freeing staff to focus on meaningful guest interactions. This brings us to our design statement: **Empowering Staff Consistency and Confidence** Designing processes and tools that reduce variability in performance, support clear decision-making under pressure, and enable staff to remain composed, attentive, and guest-facing even during peak periods. **How might we help hotel staff perform at their best even in high-pressure guest interactions?**                                                                                                                          |
+<table class="rt">
+  <thead><tr><th>#</th><th>Opportunity &amp; Design Direction</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num">1</td>
+      <td>
+        <div class="rt-head">Reinventing the Check-In Experience Through Human-Centric Automation</div>
+        With self-service options underperforming, automation that feels transactional has already been tried and rejected by the luxury segment. The gap lies in designing a guest-facing system that retains the warmth and conversational quality of a human interaction while delivering the speed and consistency of automation — and critically, one that extends beyond the front desk to cover the full physical arrival journey.
+        <br><br>
+        <strong>Design statement:</strong> <em>Human-Centric Automation for Enhanced Hospitality</em> — shaping automation so that it supports the overall hospitality experience and aligns with the emotional expectations of luxury guests, rather than reducing the interaction to a purely transactional process.
+        <br><strong>HMW:</strong> How might we make automated systems encapsulate human touch?
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">2</td>
+      <td>
+        <div class="rt-head">Unlocking Real-Time Hyper-Personalisation</div>
+        Although hotels collect extensive guest data, it is often underutilised at the point of arrival. Personalisation remains largely reserved for VIP guests and relies on staff memory rather than systematic data activation. The opportunity lies in designing systems that surface this data in real time.
+        <br><br>
+        <strong>Design statement:</strong> <em>Personalisation and Guest Preference Intelligence</em> — transforming fragmented guest data into meaningful, timely personalisation across the check-in journey.
+        <br><strong>HMW:</strong> How might we enable hotels to provide genuinely personalised and tailored experiences?
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">3</td>
+      <td>
+        <div class="rt-head">Supporting and Empowering Frontline Staff</div>
+        Frontline staff managing multiple systems simultaneously creates cognitive overload, limiting their ability to deliver high-touch service. With manpower shortages worsening, the opportunity lies in redesigning tools and workflows so that technology handles operational complexity, freeing staff to focus on meaningful guest interactions.
+        <br><br>
+        <strong>Design statement:</strong> <em>Empowering Staff Consistency and Confidence</em> — designing processes and tools that reduce variability in performance, support clear decision-making under pressure, and enable staff to remain composed, attentive, and guest-facing even during peak periods.
+        <br><strong>HMW:</strong> How might we help hotel staff perform at their best even in high-pressure guest interactions?
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 11: Opportunity Areas**
@@ -522,11 +910,27 @@ The luxury hotel check-in ecosystem involves a complex network of stakeholders w
 *Detailed profiles covering core expectations, pain points, and needs for each group are included in Appendix H.*
 
 
-| Guests are the primary users of the check-in process and ultimate beneficiaries of service excellence, spanning diverse profiles, business travellers, honeymooners, families, each with distinct priorities but a consistent expectation: to feel welcomed, recognised, and cared for from the moment of arrival.                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Front-office staff** execute the end-to-end check-in process while simultaneously managing complex systems, verifying identities, processing payments, and handling real-time guest inquiries, all while maintaining warmth and composure. Bellmen and porters form a distinct sub-role within this group, responsible for the physically demanding handling and transport of guest luggage. |
-| **Hotel management** oversees front-office performance, coordinating manpower, monitoring service quality, resolving escalations, and making technology adoption decisions at the intersection of guest experience and operational efficiency.                                                                                                                                                 |
-| **Technology departments** maintain the hotel's digital ecosystem: PMS, kiosk systems, CRM, and keycard infrastructure. They are responsible for evaluating new technologies for feasibility, integration compatibility, and return on investment.                                                                                                                                             |
+<table class="rt">
+  <thead><tr><th>Stakeholder</th><th>Role &amp; Context</th></tr></thead>
+  <tbody>
+    <tr>
+      <td style="font-weight:bold; width:20%; vertical-align:middle;">Guests</td>
+      <td>The primary users of the check-in process and ultimate beneficiaries of service excellence — spanning diverse profiles (business travellers, honeymooners, families) each with distinct priorities but a consistent expectation: to feel welcomed, recognised, and cared for from the moment of arrival.</td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; vertical-align:middle;">Front-Office Staff</td>
+      <td>Execute the end-to-end check-in process while simultaneously managing complex systems, verifying identities, processing payments, and handling real-time guest inquiries — all while maintaining warmth, composure, and attentiveness. Bellmen and porters form a distinct sub-role, responsible for the physically demanding handling and transport of guest luggage.</td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; vertical-align:middle;">Hotel Management</td>
+      <td>Oversees front-office performance, coordinating manpower, monitoring service quality, resolving escalations, and making technology adoption decisions at the intersection of guest experience and operational efficiency.</td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; vertical-align:middle;">Technology Departments</td>
+      <td>Maintain the hotel's digital ecosystem: PMS, kiosk systems, CRM, and keycard infrastructure. Responsible for evaluating new technologies for feasibility, integration compatibility, and return on investment.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 12: Stakeholder Needs**
@@ -1554,12 +1958,12 @@ Hotel visits were conducted with two properties under The Ascott Limited: Citadi
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.2.2_image_left.jpg" alt="Figure 89" style="max-width: 100%;">
+  <img src="assets/final/images/7.2.2_image_left.jpg" alt="Figure 89" style="max-width: 30%;">
 </div>
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.2.2_image_right.jpg" alt="Figure 90" style="max-width: 100%;">
+  <img src="assets/final/images/7.2.2_image_right.jpg" alt="Figure 90" style="max-width: 30%;">
 </div>
 
 **Figure 89 & 90: Our Visit to Ascott Limited Properties** 
@@ -1567,11 +1971,49 @@ Hotel visits were conducted with two properties under The Ascott Limited: Citadi
 Key Findings
 
 
-| Technical Feasibility The property's existing delivery robot confirms that the core technical infrastructure, autonomous lift integration, navigation, and room guidance, is already commercially deployed and operational Lift integration remains expensive and technically complex, flagging a key implementation constraint                                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Privacy & Guest Comfort** The robot verbally confirming guest identity or room details in shared spaces risks exposing personal data to bystanders, raising PDPA concerns. The robot looking at and walking alongside guests was described as unsettling, proximity choreography and movement design require careful refinement                                                                                                                                                                          |
-| **Solution Architecture** Check-in AI and luggage assistance should be designed as separate, modular functions, allowing guests to opt into each component independently. AI interaction itself is not a concern, guests are comfortable with AI, but responses must be relevant and contextually appropriate. Placement and first-impression visibility are critical to adoption. The robot must be positioned such that guests encounter it naturally upon arrival, or it risks being bypassed entirely. |
-| **Commercial Considerations** Any proposed solution must demonstrate a credible ROI to qualify for funding through the CapitaLand Innovation Fund (SGD 50 million) or the Ascott Fund                                                                                                                                                                                                                                                                                                                      |
+<table class="rt">
+  <thead><tr><th>#</th><th>Key Finding</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num" style="vertical-align:top; padding-top:13px;">1</td>
+      <td>
+        <div class="rt-head">Technical Feasibility</div>
+        <ul>
+          <li>The property's existing delivery robot confirms that the core technical infrastructure — autonomous lift integration, navigation, and room guidance — is already commercially deployed and operational</li>
+          <li>Lift integration remains expensive and technically complex, flagging a key implementation constraint</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num" style="vertical-align:top; padding-top:13px;">2</td>
+      <td>
+        <div class="rt-head">Privacy &amp; Guest Comfort</div>
+        <ul>
+          <li>The robot verbally confirming guest identity or room details in shared spaces risks exposing personal data to bystanders, raising PDPA concerns</li>
+          <li>The robot looking at and walking alongside guests was described as unsettling — proximity choreography and movement design require careful refinement</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num" style="vertical-align:top; padding-top:13px;">3</td>
+      <td>
+        <div class="rt-head">Solution Architecture</div>
+        <ul>
+          <li>Check-in AI and luggage assistance should be designed as separate, modular functions, allowing guests to opt into each component independently</li>
+          <li>AI interaction itself is not a concern — guests are comfortable with AI — but responses must be relevant and contextually appropriate</li>
+          <li>Placement and first-impression visibility are critical to adoption: the robot must be positioned such that guests encounter it naturally upon arrival, or it risks being bypassed entirely</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num" style="vertical-align:top; padding-top:13px;">4</td>
+      <td>
+        <div class="rt-head">Commercial Considerations</div>
+        Any proposed solution must demonstrate a credible ROI to qualify for funding through the CapitaLand Innovation Fund (SGD 50 million) or the Ascott Fund.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 17: Key Findings from Our Visit to Ascott Limited Properties**
@@ -1593,7 +2035,7 @@ An expert consultation was conducted with Dr Natt Srinara, Lecturer at Ecole hô
 ```
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.3.1_ehl_lecturer.png" alt="Figure 91: Online Meeting with Dr Natt Srinara" style="max-width: 100%;">
+  <img src="assets/final/images/7.3.1_ehl_lecturer.png" alt="Figure 91: Online Meeting with Dr Natt Srinara" style="max-width: 70%;">
 </div>
 
 **Figure 91: Online Meeting with Dr Natt Srinara**
@@ -1601,8 +2043,9 @@ An expert consultation was conducted with Dr Natt Srinara, Lecturer at Ecole hô
 Key Findings
 
 
-| AI adoption should be stratified by hotel tier: luxury guests expect human-led interactions with AI in a supporting role, while budget guests are more receptive to AI-led self-service, reinforcing our decision to position the robot as a warm, conversational companion rather than a transactional kiosk The luggage-handling function was identified as particularly valuable for family-oriented stays, validating its inclusion as a core feature The AI avatar face was flagged as potentially unnatural and discomforting The robot should be designed as a complement to human staff, not a replacement, the absence of any human touchpoint in the arrival journey risks undermining the luxury standard in higher-end properties |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+- AI adoption should be stratified by hotel tier: luxury guests expect human-led interactions with AI in a supporting role, while budget guests are more receptive to AI-led self-service, reinforcing our decision to position the robot as a warm, conversational companion rather than a transactional kiosk 
+- The luggage-handling function was identified as particularly valuable for family-oriented stays, validating its inclusion as a core feature The AI avatar face was flagged as potentially unnatural and discomforting 
+- The robot should be designed as a complement to human staff, not a replacement, the absence of any human touchpoint in the arrival journey risks undermining the luxury standard in higher-end properties
 
 
 **Table 18: Key Findings from Our Meeting with the Expert**  
@@ -1626,26 +2069,39 @@ The first round of testing was conducted in a lift environment over approximatel
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.4.1_image_one.jpg" alt="Figure 92: A participant interacting with ELEVIA" style="max-width: 100%;">
+  <img src="assets/final/images/7.4.1_image_one.jpg" alt="Figure 92: A participant interacting with ELEVIA" style="max-width: 50%;">
 </div>
 
 **Figure 92: A participant interacting with ELEVIA** 
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.4.1_image_two.jpg" alt="Figure 93" style="max-width: 100%;">
+  <img src="assets/final/images/7.4.1_image_two.jpg" alt="Figure 93" style="max-width: 80%;">
 </div>
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.4.1_image_three.jpg" alt="Figure 94" style="max-width: 100%;">
+  <img src="assets/final/images/7.4.1_image_three.jpg" alt="Figure 94" style="max-width: 80%;">
 </div>
 
 **Figure 93 and Figure 94: Participants sharing a lift with ELEVIA. (Right Image) The participant in red visibly displaying discomfort and positioning close to the door, eager to exit**
 
 
-| Three distinct response patterns emerged: The majority of participants were initially surprised, then quickly became curious and engaged Approximately 10% refused to enter the lift with the robot present, choosing to wait for the next lift instead A smaller subset showed visible discomfort, facing away from the robot and standing close to the door, signalling an anxious desire to exit |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table class="rt">
+  <thead><tr><th>Response Patterns from Lift Testing</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>
+        Three distinct response patterns emerged:
+        <ul>
+          <li>The majority of participants were initially surprised, then quickly became curious and engaged</li>
+          <li>Approximately 10% refused to enter the lift with the robot present, choosing to wait for the next lift instead</li>
+          <li>A smaller subset showed visible discomfort, facing away from the robot and standing close to the door, signalling an anxious desire to exit</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 19: Response Patterns from Lift Testing**
@@ -1655,7 +2111,7 @@ When the robot was repositioned to face the back wall of the lift, participants 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.4.1_image_four.jpg" alt="Figure 95: Robot repositioned to face the back wall of the lift — participants visibly more comfortable, occupying more space and displaying less anxious behaviour" style="max-width: 100%;">
+  <img src="assets/final/images/7.4.1_image_four.jpg" alt="Figure 95: Robot repositioned to face the back wall of the lift — participants visibly more comfortable, occupying more space and displaying less anxious behaviour" style="max-width: 30%;">
 </div>
 
 **Figure 95: Robot repositioned to face the back wall of the lift — participants visibly more comfortable, occupying more space and displaying less anxious behaviour**
@@ -1681,8 +2137,9 @@ A second round of navigation testing was conducted in the crowded open corridors
 **Figure 96 and Figure 97: Real-world corridor navigation testing. (left) A passerby waiting patiently for ELEVIA to pass, (right) pedestrians instinctively moving aside to make way for the robot**
 
 
-| Response Patterns Observed: Pedestrians consistently moved out of the robot's path without instruction or prompting, others held doors open to allow it through Most bystanders showed no signs of discomfort or over-curiosity No instances of confusion about the robot's intended direction of travel were observed, suggesting its movement cues were intuitive even in high-footfall environments |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+- Response Patterns Observed: Pedestrians consistently moved out of the robot's path without instruction or prompting, others held doors open to allow it through 
+- Most bystanders showed no signs of discomfort or over-curiosity 
+- No instances of confusion about the robot's intended direction of travel were observed, suggesting its movement cues were intuitive even in high-footfall environments
 
 
 **Table 20: Response Patterns from Corridor Navigation Testing**
@@ -1691,9 +2148,9 @@ A second round of navigation testing was conducted in the crowded open corridors
 
 ### 8.4.3 Key Findings
 
-
-| Public reception was broadly positive, with curiosity and excitement as the dominant initial reactions. This suggests the robot's presence reads as novel and engaging rather than threatening in most contexts The 10% refusal rate in the lift highlights that a meaningful minority will be uncomfortable sharing enclosed spaces with a robot Robot orientation is a significant variable in perceived comfort, facing away from people in enclosed spaces substantially reduces social discomfort, a finding that directly informs proximity choreography design Pedestrians naturally and instinctively accommodate the robot in shared spaces, indicating that corridor navigation is unlikely to pose a significant social barrier in hotel environments |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+- Public reception was broadly positive, with curiosity and excitement as the dominant initial reactions. This suggests the robot's presence reads as novel and engaging rather than threatening in most contexts The 10% refusal rate in the lift highlights that a meaningful minority will be uncomfortable sharing enclosed spaces with a robot 
+- Robot orientation is a significant variable in perceived comfort, facing away from people in enclosed spaces substantially reduces social discomfort, a finding that directly informs proximity choreography design 
+- Pedestrians naturally and instinctively accommodate the robot in shared spaces, indicating that corridor navigation is unlikely to pose a significant social barrier in hotel environments
 
 
 **Table 21: Key Findings from Corridor Navigation Testing**
@@ -1729,7 +2186,7 @@ When asked to consider luggage-related pain points during hotel arrivals, fricti
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.5.3_image_one.png" alt="Figure 98: Luggage Related Pain Points" style="max-width: 100%;">
+  <img src="assets/final/images/7.5.3_image_one.png" alt="Figure 98: Luggage Related Pain Points" style="max-width: 50%;">
 </div>
 
 **Figure 98: Luggage Related Pain Points**
@@ -1741,7 +2198,7 @@ When asked to consider luggage-related pain points during hotel arrivals, fricti
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.5.3_image_two.png" alt="Figure 99: Most Valued Robot Features" style="max-width: 100%;">
+  <img src="assets/final/images/7.5.3_image_two.png" alt="Figure 99: Most Valued Robot Features" style="max-width: 50%;">
 </div>
 
 **Figure 99: Most Valued Robot Features**
@@ -1751,7 +2208,7 @@ In Figure 100, 59.4% were comfortable or very comfortable with the robot transpo
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.5.3_image_three.png" alt="Figure 100: Comfort towards Autonomous Luggage Transport Feature" style="max-width: 100%;">
+  <img src="assets/final/images/7.5.3_image_three.png" alt="Figure 100: Comfort towards Autonomous Luggage Transport Feature" style="max-width: 50%;">
 </div>
 
 **Figure 100: Comfort towards Autonomous Luggage Transport Feature**
@@ -1763,7 +2220,7 @@ Additionally, 40.6% rated AI-assisted check-in as appealing or very appealing. W
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.5.3_image_four.png" alt="Figure 101: AI Check-In Interface Preference" style="max-width: 100%;">
+  <img src="assets/final/images/7.5.3_image_four.png" alt="Figure 101: AI Check-In Interface Preference" style="max-width: 50%;">
 </div>
 
 **Figure 101: AI Check-In Interface Preference**
@@ -1779,10 +2236,42 @@ Responses were evenly split between luxury enhancement and convenience feature a
 Across the five validation methods, a consistent set of findings emerged that affirm the solution's core direction and identify clear priorities for the next iteration.
 
 
-| What Worked The AI check-in prototype was well received, confirming that guests are receptive to AI-led check-in when the interaction is warm and conversational Hotel visits confirmed that the core technical infrastructure underpinning ELEVIA, autonomous navigation, lift integration, and room guidance, is already commercially deployed in Singapore, establishing technical feasibility 65.6% of survey respondents found the luggage companion robot concept appealing or very appealing, with value perceived across the full stay rather than arrival alone Real-world corridor navigation testing confirmed that pedestrians naturally and instinctively accommodate the robot in shared spaces without prompting, indicating that public navigation is unlikely to pose a significant social barrier in hotel environments |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **What Needs Improvement** Microphone performance and ASR reliability in noisy environments was the most consistently cited technical barrier, raised in 9 of 15 Open House sessions The AI avatar face was identified as a source of discomfort across multiple validation methods. Suggestions included orienting the display toward the back of the robot's head rather than facing the guest directly, or exploring alternative mediums altogether PDPA compliance around verbal identity and room disclosure in shared spaces was flagged as a non-negotiable requirement by hotel operators Approximately 10% of lift testing participants refused to share an enclosed space with the robot, reinforcing the need for opt-in modular design                                                                                        |
-| **Looking forward** Strengthen AI infrastructure and resolve pipeline issues before form factor investment Explore holographic or voice-only interface to address avatar discomfort Pursue modular decomposition and validate with upscale/upper-midscale hotel operators                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+<table class="rt">
+  <tbody>
+    <tr>
+      <td style="width:18%; font-weight:bold; color:#27ae60; vertical-align:middle;">What Worked</td>
+      <td>
+        <ul>
+          <li>The AI check-in prototype was well received, confirming that guests are receptive to AI-led check-in when the interaction is warm and conversational</li>
+          <li>Hotel visits confirmed that the core technical infrastructure underpinning ELEVIA — autonomous navigation, lift integration, and room guidance — is already commercially deployed in Singapore, establishing technical feasibility</li>
+          <li>65.6% of survey respondents found the luggage companion robot concept appealing or very appealing, with value perceived across the full stay rather than arrival alone</li>
+          <li>Real-world corridor navigation testing confirmed that pedestrians naturally and instinctively accommodate the robot in shared spaces without prompting</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; color:#e67e22; vertical-align:middle;">What Needs Improvement</td>
+      <td>
+        <ul>
+          <li>Microphone performance and ASR reliability in noisy environments was the most consistently cited technical barrier, raised in 9 of 15 Open House sessions</li>
+          <li>The AI avatar face was identified as a source of discomfort across multiple validation methods — suggestions included orienting the display toward the back of the robot's head or exploring alternative mediums altogether</li>
+          <li>PDPA compliance around verbal identity and room disclosure in shared spaces was flagged as a non-negotiable requirement by hotel operators</li>
+          <li>Approximately 10% of lift testing participants refused to share an enclosed space with the robot, reinforcing the need for opt-in modular design</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; color:#555; vertical-align:middle;">Looking Forward</td>
+      <td>
+        <ul>
+          <li>Strengthen AI infrastructure and resolve pipeline issues before form factor investment</li>
+          <li>Explore holographic or voice-only interface to address avatar discomfort</li>
+          <li>Pursue modular decomposition and validate with upscale/upper-midscale hotel operators</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 22: Summary of Overall Findings**
@@ -1796,12 +2285,42 @@ This section closes the loop between the problem space established, the design d
 **Against the Five Key Pain Points**
 
 
-| Check-in is high-stakes and time-sensitive                            | Addressed               | Conversational AI check-in replaces queuing and counter overhead. 73% rated it better than traditional front desk. Core logic sound (navigation clarity 4.67/5). ASR reliability and keycard delivery remain technical gaps.                                         |
-| --------------------------------------------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Luggage handling is a significant, underaddressed pain point**      | **Partially Addressed** | The AMR-based luggage transport targets this. 59.4% quoted lifting heavy luggage as a pain point. 65.6% considered it appealing or very appealing. Real-world navigation testing validated its movement. Yet, it has not been validated in a live hotel environment. |
-| **Existing automation fails the luxury standard**                     | **Addressed**           | Warm conversational AI replaced transactional kiosk flow. Guests engaged naturally; several preferred AI over human interaction. Avatar face discomfort (uncanny valley) remains an open design question.                                                            |
-| **Staff are overloaded and the workforce is shrinking**               | **Addressed**           | ELEVIA absorbs check-in and luggage handling workload without additional staff. Citadines visit confirmed autonomous navigation and lift integration are already commercially deployed in Singapore.                                                                 |
-| **Guests want efficiency without losing the feeling of being hosted** | **Partially Addressed** | Survey split evenly between luxury enhancement and convenience feature. Solution fits upscale tier more than ultra-luxury. Unexpected finding: introverted guests preferred AI precisely because it removed social pressure.                                         |
+<table class="rt rt-3col">
+  <thead>
+    <tr>
+      <th>Pain Point</th>
+      <th>Status</th>
+      <th>Evidence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Check-in is high-stakes and time-sensitive</td>
+      <td class="rt-yes">Addressed</td>
+      <td>Conversational AI check-in replaces queuing and counter overhead. 73% rated it better than traditional front desk. Core logic sound (navigation clarity 4.67/5). ASR reliability and keycard delivery remain technical gaps.</td>
+    </tr>
+    <tr>
+      <td>Luggage handling is a significant, underaddressed pain point</td>
+      <td class="rt-partial">Partially Addressed</td>
+      <td>The AMR-based luggage transport targets this. 59.4% cited lifting heavy luggage as a pain point. 65.6% considered the concept appealing or very appealing. Real-world navigation testing validated its movement. Yet, it has not been validated in a live hotel environment.</td>
+    </tr>
+    <tr>
+      <td>Existing automation fails the luxury standard</td>
+      <td class="rt-yes">Addressed</td>
+      <td>Warm conversational AI replaced transactional kiosk flow. Guests engaged naturally; several preferred AI over human interaction. Avatar face discomfort (uncanny valley) remains an open design question.</td>
+    </tr>
+    <tr>
+      <td>Staff are overloaded and the workforce is shrinking</td>
+      <td class="rt-yes">Addressed</td>
+      <td>ELEVIA absorbs check-in and luggage handling workload without additional staff. Citadines visit confirmed autonomous navigation and lift integration are already commercially deployed in Singapore.</td>
+    </tr>
+    <tr>
+      <td>Guests want efficiency without losing the feeling of being hosted</td>
+      <td class="rt-partial">Partially Addressed</td>
+      <td>Survey split evenly between luxury enhancement and convenience feature. Solution fits upscale tier more than ultra-luxury. Unexpected finding: introverted guests preferred AI precisely because it removed social pressure.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 23: Against the 5 Key Pain Points**
@@ -1809,12 +2328,42 @@ This section closes the loop between the problem space established, the design d
 **Against the Design Directions**
 
 
-| Human-Centric Automation for Enhanced Hospitality How might we make automated systems encapsulate human touch?                                                                                         | Addressed                | LLM-driven conversational AI replaces rigid kiosk sequences with natural dialogue. Validated: 73% of Open House participants rated it better than a traditional front desk, and several independently described it as more comfortable than speaking to a human.                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Empowering Staff Consistency and Confidence** How might we help hotel staff perform at their best even in high-pressure guest interactions?                                                          | **Partially Addressed**  | AI greets by name and retrieves live reservation data via tool-calling. Validated: guests responded positively to being recognised and guided. Deep pre-arrival preference integration (Alluvio) was not carried forward. Remains an open opportunity for the next phase.                                                              |
-| **Empowering Staff Consistency and Confidence** How might we help hotel staff perform at their best even in high-pressure guest interactions?                                                          | **Indirectly Addressed** | ELEVIA absorbs check-in, identity verification, payment, and luggage transport.                                                                                                                                                                                                                                                        |
-| **Effortless and Intuitive Arrival** How might we design an automated hotel arrival experience that feels effortless and intuitive rather than laborious and frustrating to both the guest and staff?  | **Addressed**            | Luggage travels with robot, check-in is conversational, key delivered digitally. Validated: navigation clarity scored 4.67/5 and 80% of Open House participants said they would use it again. Passport scanner affordance and ASR reliability remain the two points where effort was transferred back to the guest.                    |
-| **Hospitality Beyond the Transaction** How might we use technology to enhance perceived hospitality that extends beyond the transactional moment of check-in, rather than merely replace human labour? | **Addressed**            | Robot converses during escort, extending the hosted feeling to room arrival. Validated: survey respondents ranked answering hotel questions above luggage transport as a desired feature; 73% of Open House participants rated it better than a traditional front desk; Citadines confirmed guests are comfortable with AI interaction |
+<table class="rt rt-3col">
+  <thead>
+    <tr>
+      <th>Design Direction &amp; HMW</th>
+      <th>Status</th>
+      <th>Evidence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Human-Centric Automation for Enhanced Hospitality</strong><br><em>How might we make automated systems encapsulate human touch?</em></td>
+      <td class="rt-yes">Addressed</td>
+      <td>LLM-driven conversational AI replaces rigid kiosk sequences with natural dialogue. Validated: 73% of Open House participants rated it better than a traditional front desk, and several independently described it as more comfortable than speaking to a human.</td>
+    </tr>
+    <tr>
+      <td><strong>Personalisation and Guest Preference Intelligence</strong><br><em>How might we enable hotels to provide genuinely personalised and tailored experiences?</em></td>
+      <td class="rt-partial">Partially Addressed</td>
+      <td>AI greets by name and retrieves live reservation data via tool-calling. Validated: guests responded positively to being recognised and guided. Deep pre-arrival preference integration (Alluvio) was not carried forward. Remains an open opportunity for the next phase.</td>
+    </tr>
+    <tr>
+      <td><strong>Empowering Staff Consistency and Confidence</strong><br><em>How might we help hotel staff perform at their best even in high-pressure guest interactions?</em></td>
+      <td class="rt-indirect">Indirectly Addressed</td>
+      <td>ELEVIA absorbs check-in, identity verification, payment, and luggage transport, reducing the operational burden on front-office staff.</td>
+    </tr>
+    <tr>
+      <td><strong>Effortless and Intuitive Arrival</strong><br><em>How might we design an automated hotel arrival experience that feels effortless and intuitive rather than laborious and frustrating?</em></td>
+      <td class="rt-yes">Addressed</td>
+      <td>Luggage travels with robot, check-in is conversational, key delivered digitally. Validated: navigation clarity scored 4.67/5 and 80% of Open House participants said they would use it again. Passport scanner affordance and ASR reliability remain the two points where effort was transferred back to the guest.</td>
+    </tr>
+    <tr>
+      <td><strong>Hospitality Beyond the Transaction</strong><br><em>How might we use technology to enhance perceived hospitality that extends beyond the transactional moment of check-in?</em></td>
+      <td class="rt-yes">Addressed</td>
+      <td>Robot converses during escort, extending the hosted feeling to room arrival. Validated: survey respondents ranked answering hotel questions above luggage transport as a desired feature; 73% of Open House participants rated it better than a traditional front desk.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Table 24: Against the Design Directions**
@@ -1843,13 +2392,11 @@ The purpose of this section is to show that our solution has a future beyond thi
 
 ## 9.1 Further Development Roadmap
 
-Stanford May Visit
+### Stanford May Visit
 
-```
 May visit to Stanford will focus on presenting validation findings from Singapore hotel visits, aligning on the final showcase direction, and testing the AI assistant's conversational flow and modular check-in architecture.
-```
 
-Form Factor & Platform Direction
+### Form Factor & Platform Direction
 
 Following discussions during Stanford’s visit to NUS, we converged on strengthening the underlying AI check-in infrastructure first, decoupling the core technology from any single physical form factor so it can be deployed in a plug-and-play manner across different mediums. Our Stanford team is independently exploring virtual check-in within limousine services, reflecting a shared recognition that the arrival experience need not begin at the check-in counters.
 
@@ -2121,14 +2668,60 @@ Figure 4: Affinity Clustering
 The following presents the consolidated findings for each key insight. Each data point is colour-coded by source property: green denotes Amara Hotel, yellow denotes Shangri-La, blue denotes Raffles Hotel, orange denotes Banyan Tree, and purple denotes miscellaneous luxury hotel sources.
 
 
-| 1 Tech Stack and Integration Reality Backend systems such as Opera PMS and Oracle Cloud are generally reliable within existing workflows, but high reliance on third-party software and fragmentation between systems creates inefficiencies and compatibility issues. Implementing new technologies is costly and often constrained by vendor lock-in, data permissions, and cybersecurity concerns. As a result, technology upgrades remain incremental, focused on reducing staff workload rather than transforming the guest experience.                                                                                                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2 Human Touch vs Automation** Our interviewee from Shangri-La noted that 98–99% of guests were observed approaching human staff over kiosks even when self-service options were available. Luxury guests consistently associate check-in with being genuinely welcomed, and existing kiosk solutions were described as emotionless, transactional, and misaligned with luxury price points. The consensus across all interviewees was that automation should enhance rather than replace the human warmth central to luxury hospitality.                                                                                                                                                                                                                                  |
-| **3 Staff Tools and Empowerment** Frontline staff expressed that while tools like Opera and HotSOS are indispensable, they are also complex and unintuitive, requiring steep learning curves. Training periods are long, and mistakes, especially in data entry or double rooming, can directly affect guest satisfaction. Staff repeatedly emphasized the need for simpler, integrated tools and better pre-shift briefings to manage information overload. Empowerment emerged as a central motivator: when staff have autonomy to resolve issues or make small gestures (e.g., using a discretionary budget to delight guests), morale and service quality improve significantly.                                                                                        |
-| **4 Pre-arrival Data and Personalisation** Hotels strive to capture guest preferences before arrival through membership profiles, pre-arrival forms, and communication platforms like Canary and Opera PMS. However, data utilization remains inconsistent. While some hotels use this information to prepare amenities or room settings, others rely heavily on staff memory or manual notes. Luxury guests expect a personal touch proportionate to what they pay, yet personalization across all guests is impractical due to scale and manpower constraints.                                                                                                                                                                                                            |
-| **5 Manpower and Role Design of Staff** The manpower shortage remains one of the most pressing issues in the industry. Recruiting and retaining hospitality workers, especially for front-desk roles, is increasingly difficult due to long hours, stress, and perceived lack of career progression. Technology can reduce repetitive tasks and support staff efficiency but cannot replace the emotional labor essential to guest satisfaction. Hotels have thus begun redesigning roles to combine operational efficiency with relational expertise, positioning staff near kiosks to assist guests and manage exceptions.                                                                                                                                                |
-| **6 Service Recovery and “Wow” Moments** Service recovery emerged as a defining factor separating good from exceptional hospitality. Staff described instances of empowered decision-making, where they could upgrade rooms, offer discounts, or personalize gestures without waiting for management approval. Such autonomy allows quick, authentic responses to guest issues, transforming potential complaints into memorable moments. However, this culture varies across hotels. Some operate under strict approval hierarchies, limiting their ability to recover gracefully from service lapses. Interviewees emphasized that true “wow” moments often stem from staff intuition and empathy, not protocol.                                                          |
-| **7 Physical Arrival and Guest Escort Experience** The physical dimensions of arrival, from the moment guests step out of their vehicle to the point they reach their room, emerged as a consistently staff-dependent and labour-intensive process across all properties visited. Bellmen were described as playing a critical bridging role, leading guests from the entrance through to the check-in counter and, in the case of VIP or ultra-luxury guests, escorting them directly to their rooms with a brief orientation. Interviewees noted that this escort experience is among the most impression-forming moments of the stay, yet its highly variable and driven almost entirely by staff availability and initiative rather than a consistent service standard. |
+<table class="rt">
+  <thead><tr><th>#</th><th>Theme &amp; Key Findings</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num">1</td>
+      <td>
+        <div class="rt-head">Tech Stack and Integration Reality</div>
+        Backend systems such as Opera PMS and Oracle Cloud are generally reliable within existing workflows, but high reliance on third-party software and fragmentation between systems creates inefficiencies and compatibility issues. Implementing new technologies is costly and often constrained by vendor lock-in, data permissions, and cybersecurity concerns. As a result, technology upgrades remain incremental, focused on reducing staff workload rather than transforming the guest experience.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">2</td>
+      <td>
+        <div class="rt-head">Human Touch vs Automation</div>
+        Our interviewee from Shangri-La noted that 98–99% of guests were observed approaching human staff over kiosks even when self-service options were available. Luxury guests consistently associate check-in with being genuinely welcomed, and existing kiosk solutions were described as emotionless, transactional, and misaligned with luxury price points. The consensus across all interviewees was that automation should enhance rather than replace the human warmth central to luxury hospitality.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">3</td>
+      <td>
+        <div class="rt-head">Staff Tools and Empowerment</div>
+        Frontline staff expressed that while tools like Opera and HotSOS are indispensable, they are also complex and unintuitive, requiring steep learning curves. Training periods are long, and mistakes — especially in data entry or double rooming — can directly affect guest satisfaction. Staff repeatedly emphasised the need for simpler, integrated tools and better pre-shift briefings to manage information overload. Empowerment emerged as a central motivator: when staff have autonomy to resolve issues or make small gestures (e.g., using a discretionary budget to delight guests), morale and service quality improve significantly.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">4</td>
+      <td>
+        <div class="rt-head">Pre-arrival Data and Personalisation</div>
+        Hotels strive to capture guest preferences before arrival through membership profiles, pre-arrival forms, and communication platforms like Canary and Opera PMS. However, data utilisation remains inconsistent. While some hotels use this information to prepare amenities or room settings, others rely heavily on staff memory or manual notes. Luxury guests expect a personal touch proportionate to what they pay, yet personalisation across all guests is impractical due to scale and manpower constraints.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">5</td>
+      <td>
+        <div class="rt-head">Manpower and Role Design of Staff</div>
+        The manpower shortage remains one of the most pressing issues in the industry. Recruiting and retaining hospitality workers — especially for front-desk roles — is increasingly difficult due to long hours, stress, and perceived lack of career progression. Technology can reduce repetitive tasks and support staff efficiency but cannot replace the emotional labour essential to guest satisfaction. Hotels have thus begun redesigning roles to combine operational efficiency with relational expertise, positioning staff near kiosks to assist guests and manage exceptions.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">6</td>
+      <td>
+        <div class="rt-head">Service Recovery and "Wow" Moments</div>
+        Service recovery emerged as a defining factor separating good from exceptional hospitality. Staff described instances of empowered decision-making — where they could upgrade rooms, offer discounts, or personalise gestures without waiting for management approval — allowing quick, authentic responses to guest issues. This culture varies across hotels; some operate under strict approval hierarchies, limiting graceful recovery from service lapses. Interviewees emphasised that true "wow" moments often stem from staff intuition and empathy, not protocol.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">7</td>
+      <td>
+        <div class="rt-head">Physical Arrival and Guest Escort Experience</div>
+        The physical dimensions of arrival — from the moment guests step out of their vehicle to the point they reach their room — emerged as a consistently staff-dependent and labour-intensive process across all properties visited. Bellmen were described as playing a critical bridging role, leading guests from the entrance through to the check-in counter and, in the case of VIP or ultra-luxury guests, escorting them directly to their rooms with a brief orientation. Interviewees noted that this escort experience is among the most impression-forming moments of the stay, yet it is highly variable and driven almost entirely by staff availability and initiative rather than a consistent service standard.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <a id="appendix-d"></a>
@@ -2324,11 +2917,39 @@ Figure X: Pre-Arrival Flow
 The pre-arrival phase establishes the foundation for the guest’s overall hotel experience. In luxury hospitality, this stage is not merely transactional but an opportunity to communicate attentiveness, personalization, and efficiency — qualities that define a premium brand. A seamless pre-arrival journey ensures that guests begin their stay feeling understood and valued, while the hotel benefits from streamlined operations and accurate data for service preparation ([EHL, 2023](https://hospitalityinsights.ehl.edu/luxury-hospitality-trends-challenges-best-practices)).
 
 
-| 1 Booking The booking process represents the first point of interaction between the guest and the property. Guests today increasingly prefer online travel agencies (OTAs) such as Booking.com or Expedia for their flexibility and ease of comparison. However, hotels prefer direct booking channels as these allow them to access guest data directly, enabling more targeted communication, personalization, and upselling opportunities (Ernst & Young, 2023). Integrating personalized booking systems that synchronize with guest profiles allows hotels to anticipate needs such as preferred room type, amenities, and check-in times well before arrival. This not only optimises operational planning but also reinforces the sense of exclusivity expected in the luxury segment. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2 Confirmation Email** The confirmation email is more than a transactional receipt; it acts as an early stage of relationship-building. Guests appreciate clear, accessible booking details and links that allow them to modify reservations, add services, or manage transportation requests with minimal friction. Many hotels leverage this touchpoint to include upselling and cross-selling content, such as dining experiences, spa packages, or transportation upgrades. From a service-design standpoint, the tone and aesthetic of these communications should reflect brand values: calm, refined, and anticipatory rather than commercial.                                                                                                                                       |
-| **3 Requests and Preferences** This touchpoint captures the guest’s ability to communicate specific needs and personal preferences, such as bedding type, dietary restrictions, or room location. However, as identified during user interviews, guests often experience frustration when their pre-submitted requests appear ignored or require repetition during check-in. For hotels, collecting and managing such data remains challenging due to low engagement rates and fragmented information systems, and some even try to call up guests before the stay.                                                                                                                                                                                                                           |
-| **4 Room Allocation** Behind the scenes, the pre-arrival process culminates in room allocation, where hotels match reservations to specific rooms based on availability, maintenance status, and guest requirements. In most luxury properties, this is managed by a reservations team or automated algorithm that pre-allocates rooms to optimize occupancy while accommodating personalized preferences. When integrated with CRM and housekeeping systems, this process enhances both efficiency and guest satisfaction by ensuring that the assigned room is prepared and tailored to expectations prior to arrival.                                                                                                                                                                      |
+<table class="rt">
+  <thead><tr><th>#</th><th>Stage</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num">1</td>
+      <td>
+        <div class="rt-head">Booking</div>
+        Guests today increasingly prefer online travel agencies (OTAs) such as Booking.com or Expedia for their flexibility and ease of comparison. However, hotels prefer direct booking channels as these allow access to guest data directly, enabling more targeted communication, personalisation, and upselling opportunities (Ernst &amp; Young, 2023). Integrating personalised booking systems that synchronise with guest profiles allows hotels to anticipate needs such as preferred room type, amenities, and check-in times well before arrival — reinforcing the sense of exclusivity expected in the luxury segment.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">2</td>
+      <td>
+        <div class="rt-head">Confirmation Email</div>
+        The confirmation email is more than a transactional receipt; it acts as an early stage of relationship-building. Guests appreciate clear, accessible booking details and links that allow them to modify reservations, add services, or manage transportation requests with minimal friction. Many hotels leverage this touchpoint to include upselling content — dining experiences, spa packages, or transportation upgrades. The tone and aesthetic of these communications should reflect brand values: calm, refined, and anticipatory rather than commercial.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">3</td>
+      <td>
+        <div class="rt-head">Requests and Preferences</div>
+        This touchpoint captures the guest's ability to communicate specific needs and personal preferences — such as bedding type, dietary restrictions, or room location. However, as identified during user interviews, guests often experience frustration when their pre-submitted requests appear ignored or require repetition during check-in. For hotels, collecting and managing such data remains challenging due to low engagement rates and fragmented information systems.
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">4</td>
+      <td>
+        <div class="rt-head">Room Allocation</div>
+        Behind the scenes, the pre-arrival process culminates in room allocation, where hotels match reservations to specific rooms based on availability, maintenance status, and guest requirements. In most luxury properties, this is managed by a reservations team or automated algorithm that pre-allocates rooms to optimise occupancy while accommodating personalised preferences. When integrated with CRM and housekeeping systems, this process enhances both efficiency and guest satisfaction by ensuring that the assigned room is prepared and tailored to expectations prior to arrival.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 Collectively, these pre-arrival touchpoints demonstrate the interdependence of technology, personalization, and operational design in shaping the luxury guest journey. A reimagined premium check-in experience must therefore begin before the guest arrives—bridging digital anticipation with physical hospitality through integrated, data-driven, and emotionally engaging systems.
@@ -2348,13 +2969,59 @@ Figure X: Counter Check-In Flow
 The check-in process is one of the most defining moments in the guest journey, shaping first impressions and setting the tone for the stay (Mann et al., 2024). For luxury hotels, this stage embodies the brand’s promise of seamlessness, warmth, and personalization. Yet, as our field research and observations reveal, traditional counter-based check-in workflows can create friction for both guests and staff due to outdated system design, fragmented communication, and process inefficiencies.
 
 
-| 1 Arrival Guest perspective: Upon arrival, guests often face queues before even reaching the front desk. Especially during peak hours, waiting time becomes a key source of frustration, undermining the perception of efficiency and exclusivity expected in premium hospitality. Luxury guests expect immediacy and recognition, and long waits detract from that promise. Staff perspective: Front desk staff must juggle multiple simultaneous tasks such as handling ongoing check-ins, attending to phone calls, and coordinating with bell staff. High guest volumes exacerbate this workload, leaving little time to deliver personalized attention. Staff shortages, identified as one of the industry's most pressing challenges, further intensify this pressure (jonng, 2025).                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2 Greetings Guest perspective:** The greeting moment, while brief, carries emotional weight. Guests notice whether the staff member smiles, greets them by name, or acknowledges special occasions. Inconsistent greetings often lead guests to perceive the interaction as transactional rather than genuine. **Staff perspective:** Staff acknowledge that they want to personalize greetings but often cannot recall guest details or lack access to the right information before the guest reaches the counter. This disconnect stems from the PMS interface limitations — information such as preferences or past stay notes is often buried within multiple tabs or outdated records.                                                                                                              |
-| **3 Exchange of Information Guest perspective:** Guests frequently express frustration when asked to repeat information they have already provided during online booking or pre-arrival forms. This duplication creates an impression of inefficiency and poor data integration. Guests also find it unclear what staff are doing behind the screen, leading to perceptions of slowness or disorganization. **Staff perspective:** Staff report that they must navigate between multiple software systems (e.g., PMS, payment gateways, and ID verification tools) to complete a single check-in. This multitasking increases cognitive load and risk of error. Many noted difficulty in maintaining conversation with guests while simultaneously keying data, undermining the warmth of the interaction. |
-| **4 Requests and Questions** **Guest perspective:** Guests often hesitate to raise additional questions or requests during check-in, perceiving staff as too busy or unapproachable. When they do ask, responses may feel scripted or delayed due to staff needing to check information in other systems. **Staff perspective:** Employees shared that they sometimes struggle to answer guest questions on the spot, particularly regarding local recommendations or real-time room updates. When guests express dissatisfaction, front desk agents must escalate issues while staying composed — a difficult balance amid ongoing check-ins.                                                                                                                                                             |
-| **5 Collection of Key Card Guest perspective:** At this point, guests expect efficiency and clarity — they want to feel assured that their requests (such as late checkout or special amenities) have been noted. However, rushed handovers can create confusion and anxiety if guests are unsure about room details or inclusions. **Staff perspective:** Staff often continue inputting data or printing forms while handing over key cards. If last-minute changes occur (e.g., incorrect room setup), the responsibility still falls on the front desk, despite upstream system or communication failures. This creates stress and impacts morale.                                                                                                                                                     |
-| **6 Rooming Guest perspective:** After check-in, guests evaluate whether the in-room experience matches what was promised. A missing request or incorrect setup (e.g., twin instead of king bed) amplifies dissatisfaction, as it signals poor internal communication. **Staff perspective:** Staff acknowledge that follow-up lapses can occur, especially when information from the PMS is not synced with housekeeping or concierge systems. When issues arise, front desk agents often receive the complaint despite not being responsible for the error, highlighting the fragmented nature of existing workflows.                                                                                                                                                                                    |
+<table class="rt">
+  <thead><tr><th>#</th><th>Stage</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num">1</td>
+      <td>
+        <div class="rt-head">Arrival</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> Upon arrival, guests often face queues before even reaching the front desk. Especially during peak hours, waiting time becomes a key source of frustration, undermining the perception of efficiency and exclusivity expected in premium hospitality. Luxury guests expect immediacy and recognition, and long waits detract from that promise.</div>
+        <div><span class="rt-label">Staff perspective:</span> Front desk staff must juggle multiple simultaneous tasks — handling ongoing check-ins, attending to phone calls, and coordinating with bell staff. High guest volumes exacerbate this workload, leaving little time to deliver personalised attention. Staff shortages further intensify this pressure.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">2</td>
+      <td>
+        <div class="rt-head">Greetings</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> The greeting moment, while brief, carries emotional weight. Guests notice whether the staff member smiles, greets them by name, or acknowledges special occasions. Inconsistent greetings often lead guests to perceive the interaction as transactional rather than genuine.</div>
+        <div><span class="rt-label">Staff perspective:</span> Staff acknowledge that they want to personalise greetings but often cannot recall guest details or lack access to the right information before the guest reaches the counter — a disconnect stemming from PMS interface limitations.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">3</td>
+      <td>
+        <div class="rt-head">Exchange of Information</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> Guests frequently express frustration when asked to repeat information they have already provided during online booking or pre-arrival forms. This duplication creates an impression of inefficiency and poor data integration. Guests also find it unclear what staff are doing behind the screen, leading to perceptions of slowness or disorganisation.</div>
+        <div><span class="rt-label">Staff perspective:</span> Staff must navigate between multiple software systems (e.g., PMS, payment gateways, and ID verification tools) to complete a single check-in. This multitasking increases cognitive load and risk of error — many noted difficulty in maintaining conversation with guests while simultaneously keying data.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">4</td>
+      <td>
+        <div class="rt-head">Requests and Questions</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> Guests often hesitate to raise additional questions or requests during check-in, perceiving staff as too busy or unapproachable. When they do ask, responses may feel scripted or delayed due to staff needing to check information in other systems.</div>
+        <div><span class="rt-label">Staff perspective:</span> Employees sometimes struggle to answer guest questions on the spot, particularly regarding local recommendations or real-time room updates. When guests express dissatisfaction, front desk agents must escalate issues while staying composed — a difficult balance amid ongoing check-ins.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">5</td>
+      <td>
+        <div class="rt-head">Collection of Key Card</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> At this point, guests expect efficiency and clarity — they want to feel assured that their requests (such as late checkout or special amenities) have been noted. However, rushed handovers can create confusion and anxiety if guests are unsure about room details or inclusions.</div>
+        <div><span class="rt-label">Staff perspective:</span> Staff often continue inputting data or printing forms while handing over key cards. If last-minute changes occur (e.g., incorrect room setup), the responsibility still falls on the front desk, despite upstream system or communication failures.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">6</td>
+      <td>
+        <div class="rt-head">Rooming</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> After check-in, guests evaluate whether the in-room experience matches what was promised. A missing request or incorrect setup amplifies dissatisfaction, signalling poor internal communication.</div>
+        <div><span class="rt-label">Staff perspective:</span> Staff acknowledge that follow-up lapses can occur, especially when information from the PMS is not synced with housekeeping or concierge systems. Front desk agents often receive the complaint despite not being responsible for the error.</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
@@ -2372,11 +3039,43 @@ Figure X: Self-Service Kiosk Check-In
 As hotels experiment with automation to enhance efficiency and reduce manpower dependency, self-service kiosks have become increasingly common, especially in business and mid-to-upscale hotels. These kiosks aim to streamline routine procedures such as guest identification, payment, and room key issuance — mirroring the self-check-in models seen in airports. In Singapore, automation has been widely encouraged to address labour shortages and operational inefficiencies in the hospitality sector (Ernst & Young, 2023). However, while kiosk systems deliver measurable gains in speed and consistency, they also expose gaps in emotional engagement and personalization — both critical attributes of the luxury segment.
 
 
-| 1 Entering of Key Details Guest perspective: Guests generally perceive the kiosk as efficient and straightforward, appreciating the ability to bypass long queues. However, many express frustration that they still have to manually enter personal information, even if these details were already provided during online booking. This duplication creates a sense of redundancy and contradicts the promise of a seamless digital experience. Staff perspective: The automation of initial data entry reduces front desk workload, allowing staff to supervise multiple kiosks simultaneously and assist guests only when necessary. This redeployment of manpower enables a more relaxed, concierge-like presence on the floor rather than behind the counter.                                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2 Guest Photo and Passport Scanning Guest perspective:** The passport scanning and verification process reinforces efficiency but introduces a transactional, impersonal tone. Guests accustomed to high-touch luxury interactions often perceive the lack of human acknowledgment as diminishing the sense of welcome. This aligns with findings from McKinsey (Mann et al., 2024), which highlight that luxury guests prioritize personalized recognition and emotional connection above speed. **Staff perspective:** Kiosks significantly reduce training time, from an estimated one month to about a week, as staff no longer need to memorize complex PMS workflows. However, staff must still intervene frequently when the kiosk’s document recognition or verification system fails — especially with non-standard passports or international ID formats — revealing technical fragility beneath the automation veneer.                               |
-| **3 Filling of Additional Fields and Signing of Terms & Conditions Guest perspective:** This stage is where friction typically resurfaces. Guests may be required to fill in multiple mandatory fields, sign digital forms, and review terms on-screen. For less tech-savvy users or older guests, the interface can appear daunting, particularly if touch targets are small or instructions unclear. Such usability issues echo broader research noting that while self-service technologies improve efficiency, they can also alienate users when poorly designed (EHL Insights, 2025). **Staff perspective:** While kiosks handle the procedural aspects of check-in, they remain limited in scope — unable to accommodate complex or exception-based requests such as split billing, room upgrades, or special amenities. Staff must therefore monitor the kiosks closely to address these exceptions in real time, sometimes negating the efficiency gains. |
-| **4 Collection of Key Card and Handling of Issues** **Guest perspective:** Guests expect the process to conclude smoothly once the key card is dispensed. However, issues such as incorrect room assignment, non-functional cards, or unmet special requests often require them to return to the counter — undermining the convenience of the kiosk experience. As one observed guest described, “I still have to go to the front desk anyway because of how limited the kiosk is.” **Staff perspective:** Front desk teams report that kiosks reduce repetitive administrative tasks, freeing time for proactive engagement. However, they also note that system limitations lead to fragmented workflows — tasks often have to be finalized manually in the PMS, creating inconsistency in record-keeping and increasing post-check-in corrections.                                                                                                             |
+<table class="rt">
+  <thead><tr><th>#</th><th>Stage</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num">1</td>
+      <td>
+        <div class="rt-head">Entering of Key Details</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> Guests generally perceive the kiosk as efficient and straightforward, appreciating the ability to bypass long queues. However, many express frustration that they still have to manually enter personal information even if these details were already provided during online booking — contradicting the promise of a seamless digital experience.</div>
+        <div><span class="rt-label">Staff perspective:</span> The automation of initial data entry reduces front desk workload, allowing staff to supervise multiple kiosks simultaneously and assist guests only when necessary — enabling a more relaxed, concierge-like presence on the floor rather than behind the counter.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">2</td>
+      <td>
+        <div class="rt-head">Guest Photo and Passport Scanning</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> The passport scanning and verification process reinforces efficiency but introduces a transactional, impersonal tone. Guests accustomed to high-touch luxury interactions often perceive the lack of human acknowledgment as diminishing the sense of welcome.</div>
+        <div><span class="rt-label">Staff perspective:</span> Kiosks significantly reduce training time — from an estimated one month to about a week — as staff no longer need to memorise complex PMS workflows. However, staff must still intervene frequently when the kiosk's document recognition fails, especially with non-standard passports or international ID formats.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">3</td>
+      <td>
+        <div class="rt-head">Filling Additional Fields and Signing T&amp;Cs</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> This stage is where friction typically resurfaces. Guests may be required to fill in multiple mandatory fields, sign digital forms, and review terms on-screen. For less tech-savvy users or older guests, the interface can appear daunting, particularly if touch targets are small or instructions unclear.</div>
+        <div><span class="rt-label">Staff perspective:</span> While kiosks handle the procedural aspects of check-in, they remain limited in scope — unable to accommodate complex or exception-based requests such as split billing, room upgrades, or special amenities. Staff must therefore monitor the kiosks closely to address these exceptions in real time.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">4</td>
+      <td>
+        <div class="rt-head">Collection of Key Card and Handling of Issues</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> Guests expect the process to conclude smoothly once the key card is dispensed. However, issues such as incorrect room assignment, non-functional cards, or unmet special requests often require them to return to the counter — undermining the convenience of the kiosk experience.</div>
+        <div><span class="rt-label">Staff perspective:</span> Front desk teams report that kiosks reduce repetitive administrative tasks, freeing time for proactive engagement. However, system limitations lead to fragmented workflows — tasks often have to be finalised manually in the PMS, creating inconsistency in record-keeping and increasing post-check-in corrections.</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
@@ -2392,10 +3091,35 @@ Figure X: Luggage Handling Journey Map (modelled from Marina Bay Sands)
 The luggage handling journey documents the physical arrival experience as a distinct dimension of the guest stay. Unlike the check-in flows above, this journey is physically demanding, spatially disruptive, and almost entirely staff-dependent, with no existing automated or digital system in place across any property observed.
 
 
-| 1 Guest Arrival and Luggage Handoff Guest perspective: Guests arriving with extensive luggage, oversized cases, plastic bags, or irregularly shaped items, often find the handoff process feeling rushed and inconsistent, with no clear protocol for what gets taken and what remains with the guest. Staff perspective: Bellboys must quickly assess each arrival, deploying additional staff for large luggage volumes and making individual judgement calls for irregular items. During peak periods, multiple bellboys assigned to a single vehicle can draw resources away from other arriving guests.                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2 Luggage Tagging Guest perspective:** Luggage is tagged in front of the guest before being taken out of sight, providing some reassurance. However, the entirely manual process feels dated and slow, particularly when multiple pieces must each be individually tagged. Guests have no visibility of their luggage after this point, which can create anxiety, especially for those who prefer to keep their belongings close. **Staff perspective:** Bellboys remain fully accountable for luggage security until delivery. The process relies entirely on individual staff attentiveness and is vulnerable to human error, with no digital fallback.                                 |
-| **3 Transport and Delivery Guest perspective:** Luggage carts travelling across the lobby floor create visual disorder inconsistent with the hotel's luxury positioning. Guests are also left uncertain about where their luggage is and when it will arrive. Guests expect their bags to be in the room the moment they enter. **Staff perspective:** Staff must navigate active lobby spaces with covered trolleys during peak periods, completing a physically demanding circuit that is repeated for every arriving guest. Room delivery marks the final step, but any delay or mismatch at this stage compounds earlier friction and reflects poorly on the entire arrival experience. |
+<table class="rt">
+  <thead><tr><th>#</th><th>Stage</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="rt-num">1</td>
+      <td>
+        <div class="rt-head">Guest Arrival and Luggage Handoff</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> Guests arriving with extensive luggage — oversized cases, plastic bags, or irregularly shaped items — often find the handoff process rushed and inconsistent, with no clear protocol for what gets taken and what remains with the guest.</div>
+        <div><span class="rt-label">Staff perspective:</span> Bellboys must quickly assess each arrival, deploying additional staff for large luggage volumes and making individual judgement calls for irregular items. During peak periods, multiple bellboys assigned to a single vehicle can draw resources away from other arriving guests.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">2</td>
+      <td>
+        <div class="rt-head">Luggage Tagging</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> Luggage is tagged in front of the guest before being taken out of sight, providing some reassurance. However, the entirely manual process feels dated and slow, particularly when multiple pieces must each be individually tagged. Guests have no visibility of their luggage after this point, which can create anxiety.</div>
+        <div><span class="rt-label">Staff perspective:</span> Bellboys remain fully accountable for luggage security until delivery. The process relies entirely on individual staff attentiveness and is vulnerable to human error, with no digital fallback.</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="rt-num">3</td>
+      <td>
+        <div class="rt-head">Transport and Delivery</div>
+        <div class="rt-guest"><span class="rt-label">Guest perspective:</span> Luggage carts travelling across the lobby floor create visual disorder inconsistent with the hotel's luxury positioning. Guests are also left uncertain about where their luggage is and when it will arrive. Guests expect their bags to be in the room the moment they enter.</div>
+        <div><span class="rt-label">Staff perspective:</span> Staff must navigate active lobby spaces with covered trolleys during peak periods, completing a physically demanding circuit repeated for every arriving guest. Room delivery marks the final step, but any delay or mismatch at this stage compounds earlier friction and reflects poorly on the entire arrival experience.</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <a id="appendix-h"></a>
@@ -2413,8 +3137,34 @@ Figure X: Diverse Guest Profiles and Their Unique Check-In Challenges
 While each guest segment varies in priorities, their foundational expectations remain consistent.
 
 
-| Core Expectations Fast, seamless, low-friction check-in Recognition, warmth, and personalisation Clear communication and prompt issue resolution Strong reassurance of data privacy and consent Pain Points Long queues and waiting times, especially during peak hours Inconsistency in greetings and human warmth across staff and properties Impersonal kiosk interactions that feel transactional and misaligned with luxury price points Frustration when special requests or preferences are not reflected at check-in Limited capability of current kiosks to handle complex or exception-based needs Lacking guidance in navigating the lobby and reaching the room Uncertainty about luggage status and delivery timing, particularly for stored bags Needs Faster, smoother, low-friction check-in Warm, personalised interactions that match luxury standards Seamless physical guidance from vehicle drop-off through to the room |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table class="rt">
+  <tbody>
+    <tr>
+      <td>
+        <div class="rt-card">
+          <div class="rt-card-head">Core Expectations</div>
+          Fast, seamless, low-friction check-in &bull; Recognition, warmth, and personalisation &bull; Clear communication and prompt issue resolution &bull; Strong reassurance of data privacy and consent
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Pain Points</div>
+          <ul>
+            <li>Long queues and waiting times, especially during peak hours</li>
+            <li>Inconsistency in greetings and human warmth across staff and properties</li>
+            <li>Impersonal kiosk interactions that feel transactional and misaligned with luxury price points</li>
+            <li>Frustration when special requests or preferences are not reflected at check-in</li>
+            <li>Limited capability of current kiosks to handle complex or exception-based needs</li>
+            <li>Lacking guidance in navigating the lobby and reaching the room</li>
+            <li>Uncertainty about luggage status and delivery timing</li>
+          </ul>
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Needs</div>
+          Faster, smoother, low-friction check-in &bull; Warm, personalised interactions that match luxury standards &bull; Seamless physical guidance from vehicle drop-off through to the room
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **2 Front-Office Staff**
@@ -2422,15 +3172,62 @@ While each guest segment varies in priorities, their foundational expectations r
 Front-office staff are responsible for executing the end-to-end check-in process, navigating complex systems such as Opera PMS, verifying guest identities, processing payments, managing room allocations, and handling real-time guest inquiries, all while maintaining warmth, composure, and attentiveness. This combination of administrative demand and emotional labour defines the central challenge of the front desk role.
 
 
-| Core Expectations Deliver high-touch hospitality and maintain warm guest interactions Accurately verify identities, process payments, check/ modify reservations Ability to multitask without compromising warmth or composure Manage real-time issues, exceptions, and service recovery Uphold brand standards and handle multiple tasks under pressure Pain Points Heavy multi-tasking (PMS navigation, answering calls, chat, guest queries) Complex systems (e.g., Opera PMS) that require deep knowledge and many clicks High risk of errors (misspelling names, incorrect allocations or missing requests) Stress from impatient guests, queue pressure, and service recovery situations Limited time and mental bandwidth to deliver personalised greetings Inconsistent handovers between shifts due to poor note capture Needs Tools that reduce repetitive administrative workload Systems with low cognitive load and minimal training curve Real-time visibility of guest data, preferences, and history Error-reduction support (auto-fill, guidance, note capture) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table class="rt">
+  <tbody>
+    <tr>
+      <td>
+        <div class="rt-card">
+          <div class="rt-card-head">Core Expectations</div>
+          Deliver high-touch hospitality and maintain warm guest interactions &bull; Accurately verify identities, process payments, check/modify reservations &bull; Ability to multitask without compromising warmth or composure &bull; Manage real-time issues, exceptions, and service recovery &bull; Uphold brand standards under pressure
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Pain Points</div>
+          <ul>
+            <li>Heavy multi-tasking (PMS navigation, answering calls, chat, guest queries)</li>
+            <li>Complex systems (e.g., Opera PMS) that require deep knowledge and many clicks</li>
+            <li>High risk of errors (misspelling names, incorrect allocations or missing requests)</li>
+            <li>Stress from impatient guests, queue pressure, and service recovery situations</li>
+            <li>Limited time and mental bandwidth to deliver personalised greetings</li>
+            <li>Inconsistent handovers between shifts due to poor note capture</li>
+          </ul>
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Needs</div>
+          Tools that reduce repetitive administrative workload &bull; Systems with low cognitive load and minimal training curve &bull; Real-time visibility of guest data, preferences, and history &bull; Error-reduction support (auto-fill, guidance, note capture)
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 Within the broader front-office team, bellmen and porters occupy a distinct and physically demanding sub-role. Their primary responsibility is the handling and transport of guest luggage from arrival to room, a task that is labour-intensive, physically taxing, and operationally inconsistent across properties.
 
 
-| Core Expectations Deliver high-touch hospitality and maintain warm guest interactions Manage guest luggages accurately and without delay Ability for physical labour without compromising warmth or composure Pain Points Repeated heavy lifting causes occupational health risk Manual luggage tagging prone to errors, mismatches, and slow retrieval Inconsistent service bandwidth due to manpower constraints Needs Physical support or tools to reduce lifting load and frequency across shifts Digital luggage tracking to eliminate tagging errors and improve retrieval accuracy Pre-arrival guest information to enable proactive and personalised service at the entrance |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+<table class="rt">
+  <tbody>
+    <tr>
+      <td>
+        <div class="rt-card">
+          <div class="rt-card-head">Core Expectations</div>
+          Deliver high-touch hospitality and maintain warm guest interactions &bull; Manage guest luggage accurately and without delay &bull; Physical labour without compromising warmth or composure
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Pain Points</div>
+          <ul>
+            <li>Repeated heavy lifting causes occupational health risk</li>
+            <li>Manual luggage tagging prone to errors, mismatches, and slow retrieval</li>
+            <li>Inconsistent service bandwidth due to manpower constraints</li>
+          </ul>
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Needs</div>
+          Physical support or tools to reduce lifting load and frequency across shifts &bull; Digital luggage tracking to eliminate tagging errors and improve retrieval accuracy &bull; Pre-arrival guest information to enable proactive and personalised service at the entrance
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **3 Hotel Management**
@@ -2438,8 +3235,32 @@ Within the broader front-office team, bellmen and porters occupy a distinct and 
 Hotel managers oversee the performance and consistency of front office operations, ensuring that staff deliver service that meets luxury hospitality standards. They coordinate manpower, manage scheduling, monitor service quality metrics, resolve guest escalations, and make decisions on technology adoption. Their responsibilities bridge guest satisfaction, staff capability, and operational efficiency.
 
 
-| Core Expectations Ensure consistent service quality across varying staff skill levels Manage manpower allocation, scheduling, and team performance Oversee guest satisfaction scores and service recovery protocols Make decisions on technology investment and operations Pain Points Persistent manpower shortages and high turnover Maintaining consistent service quality with inexperienced staff Fragmented tech stack leading to inefficiencies High cost and complexity of implementing new technology Pressure to balance luxury expectations with operational constraints Needs Tools that increase staff productivity and reduce training time Cost-effective, scalable solutions that integrate with existing systems Visibility into operational bottlenecks and performance trends Systems that reduce service inconsistencies and empowers staff |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table class="rt">
+  <tbody>
+    <tr>
+      <td>
+        <div class="rt-card">
+          <div class="rt-card-head">Core Expectations</div>
+          Ensure consistent service quality across varying staff skill levels &bull; Manage manpower allocation, scheduling, and team performance &bull; Oversee guest satisfaction scores and service recovery protocols &bull; Make decisions on technology investment and operations
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Pain Points</div>
+          <ul>
+            <li>Persistent manpower shortages and high turnover</li>
+            <li>Maintaining consistent service quality with inexperienced staff</li>
+            <li>Fragmented tech stack leading to inefficiencies</li>
+            <li>High cost and complexity of implementing new technology</li>
+            <li>Pressure to balance luxury expectations with operational constraints</li>
+          </ul>
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Needs</div>
+          Tools that increase staff productivity and reduce training time &bull; Cost-effective, scalable solutions that integrate with existing systems &bull; Visibility into operational bottlenecks and performance trends &bull; Systems that reduce service inconsistencies and empower staff
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 **4 Technology Department**
@@ -2447,8 +3268,30 @@ Hotel managers oversee the performance and consistency of front office operation
 Technology departments maintain the hotel’s digital ecosystem, including PMS, kiosk systems, CRM platforms, keycard systems, automated check-in solutions, and cybersecurity protocols. They ensure that systems remain compliant with data protection policies. Additionally, they support integrations, automation implementation and maintenance, troubleshooting system failures, and evaluating new technologies for feasibility and ROI. Their work underpins the operational reliability needed for smooth check-ins and personalised guest experiences.
 
 
-| Core Expectations Maintain system reliability, uptime, and integration health Oversee data governance, cybersecurity, and PDPA compliance Support deployment, troubleshooting, and tech adoption Ensure smooth operation of PMS, kiosks, key systems, and APIs Pain Points Legacy systems with limited flexibility and heavy vendor lock-in Integration issues between kiosks, PMS, and CRM systems High risk associated with AI overhearing or data misuse Needs Modular and easily maintainable solutions Secure systems with strong privacy protections and local processing Minimal disruption to operations during integration Reduced dependency on third-party vendors |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table class="rt">
+  <tbody>
+    <tr>
+      <td>
+        <div class="rt-card">
+          <div class="rt-card-head">Core Expectations</div>
+          Maintain system reliability, uptime, and integration health &bull; Oversee data governance, cybersecurity, and PDPA compliance &bull; Support deployment, troubleshooting, and tech adoption &bull; Ensure smooth operation of PMS, kiosks, key systems, and APIs
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Pain Points</div>
+          <ul>
+            <li>Legacy systems with limited flexibility and heavy vendor lock-in</li>
+            <li>Integration issues between kiosks, PMS, and CRM systems</li>
+            <li>High risk associated with AI overhearing or data misuse</li>
+          </ul>
+        </div>
+        <div class="rt-card">
+          <div class="rt-card-head">Needs</div>
+          Modular and easily maintainable solutions &bull; Secure systems with strong privacy protections and local processing &bull; Minimal disruption to operations during integration &bull; Reduced dependency on third-party vendors
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <a id="appendix-i"></a>
