@@ -463,7 +463,7 @@ To validate and build upon the insights gathered through staff interviews, we co
           <li>Guests with fewer bags were sometimes left to self-serve, while bellboys attended to higher-volume arrivals (Figure 8), validating that physical arrival assistance remains unevenly distributed and subject to manpower constraints</li>
         </ul>
         <div style="text-align:center; margin-top:10px;">
-          <img src="assets/final/images/4.3.2_image_four.png" alt="Figure 8: Guests being left to Self-Serve" style="max-width:75%;">
+          <img src="assets/final/images/3.3.2_Figure_8.png" alt="Figure 8: Guests being left to Self-Serve" style="max-width:75%;">
           <p class="fig-caption"><strong>Figure 8: Guests being left to Self-Serve</strong></p>
         </div>
       </td>
