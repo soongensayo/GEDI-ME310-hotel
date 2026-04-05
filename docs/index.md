@@ -412,7 +412,7 @@ To validate and build upon the insights gathered through staff interviews, we co
           <li>Not a single self-check-in kiosk was observed at any of the three properties, validating that kiosk adoption in luxury settings remains near zero and that human staff remain the preferred point of contact</li>
         </ul>
         <div style="text-align:center; margin-top:10px;">
-          <img src="assets/final/images/4.3.2_image_one.png" alt="Figure 5: Guests at the Check-in Counter" style="max-width:75%;">
+          <img src="assets/final/images/3.3.2_Figure_5.png" alt="Figure 5: Guests at the Check-in Counter" style="max-width:75%;">
           <p class="fig-caption"><strong>Figure 5: Guests at the Check-in Counter</strong></p>
         </div>
       </td>
@@ -439,10 +439,10 @@ To validate and build upon the insights gathered through staff interviews, we co
         </ul>
         <div style="text-align:center; margin-top:10px; display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
           <div style="flex:1; min-width:120px;">
-            <img src="assets/final/images/4.3.2_image_two.png" alt="Figure 6: Luggage being tagged manually by bellboy" style="max-width:100%;">
+            <img src="assets/final/images/3.3.2_Figure_6.png" alt="Figure 6: Luggage being tagged manually by bellboy" style="max-width:100%;">
           </div>
           <div style="flex:1; min-width:120px;">
-            <img src="assets/final/images/4.3.2_image_three.png" alt="Figure 7: Luggage left unattended on the lobby floor" style="max-width:100%;">
+            <img src="assets/final/images/3.3.2_Figure_7.png" alt="Figure 7: Luggage left unattended on the lobby floor" style="max-width:100%;">
           </div>
         </div>
         <p class="fig-caption"><strong>Figure 6 &amp; 7: Luggage being tagged manually by bellboy (left) and luggage left unattended on the lobby floor (right)</strong></p>
