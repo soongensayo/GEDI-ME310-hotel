@@ -2666,7 +2666,7 @@ These clusters were then distilled into key insights and design implications for
   <img src="assets/final/images/Appendix_C_wheel.png" alt="Empathy Map" style="max-width: 100%;">
 </div>
 
-Figure 3: Empathy Map
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure C.1: Empathy Map</strong></p>
 
   
 
@@ -2674,7 +2674,7 @@ Figure 3: Empathy Map
   <img src="assets/final/images/Appendix_C_clustering.png" alt="Affinity Clustering" style="max-width: 100%;">
 </div>
 
-Figure 4: Affinity Clustering
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure C.2: Affinity Clustering</strong></p>
 
 The following presents the consolidated findings for each key insight. Each data point is colour-coded by source property: green denotes Amara Hotel, yellow denotes Shangri-La, blue denotes Raffles Hotel, orange denotes Banyan Tree, and purple denotes miscellaneous luxury hotel sources.
 
@@ -2763,12 +2763,12 @@ The team employed a structured observational approach drawing on the AEIOU frame
   <img src="assets/final/images/Appendix_D_AEIOU.jpg" alt="AEIOU Framework" style="max-width: 50%;">
 </div>
 
-Figure X: AEIOU Framework  
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.1: AEIOU Framework  </strong></p>
 **Observational Posture**  
 **Fly-on-the-Wall:** We positioned ourselves in lobby areas without engaging staff or guests, allowing natural behaviour to emerge uninterrupted. This approach was selected to minimise the Hawthorne Effect: the documented tendency for individuals to modify their behaviour when they know they are being observed. By blending into the lobby environment, we were able to capture operational patterns that would not be visible during a formal site visit or guided tour.
 
 **Validation Against Interview Themes**  
-Raw field notes were collected across all properties and organised into three thematic clusters as seen in Figure X. These were then mapped against the seven key themes identified in the staff interviews (Section 3.3.3) to assess where direct observation confirmed, qualified, or contradicted what practitioners had reported.
+Raw field notes were collected across all properties and organised into three thematic clusters as seen in <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.2: These were then mapped against the seven key themes identified in the staff interviews (Section 3.3.3) to assess where direct observation confirmed, qualified, or contradicted what practitioners had reported.</strong></p>
 
   
 
@@ -2776,7 +2776,7 @@ Raw field notes were collected across all properties and organised into three th
   <img src="assets/final/images/Appendix_D_Clustering.png" alt="Three Thematic Clusters" style="max-width: 100%;">
 </div>
 
-Figure X: Three Thematic Clusters Surfaced
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.3: Three Thematic Clusters Surfaced</strong></p>
 
 The thematic clustering is accessible at the link below: [https://taroboro.github.io/thematicinsighthotels/](https://taroboro.github.io/thematic_insight_hotels/) 
 
@@ -2790,7 +2790,7 @@ Some images from our field observation can be found below
   <img src="assets/final/images/Appendix_D_staff_bundling.png" alt="Staff unloading and bundling luggage" style="max-width: 100%;">
 </div>
 
-Figure X: Staff member unloading and bundling luggage from vehicle
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.4: Staff member unloading and bundling luggage from vehicle</strong></p>
 
   
 
@@ -2798,7 +2798,7 @@ Figure X: Staff member unloading and bundling luggage from vehicle
   <img src="assets/final/images/Appendix_D_multiple_bellboys.png" alt="Multiple bellboys" style="max-width: 100%;">
 </div>
 
-Figure X: Multiple bellboys attending to a single vehicle 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.5: Multiple bellboys attending to a single vehicle </strong></p>
 
 *Luggage Handling*
 
@@ -2808,7 +2808,7 @@ Figure X: Multiple bellboys attending to a single vehicle
   <img src="assets/final/images/Appendix_D_many_loose_bags.png" alt="Luggage with loose bags" style="max-width: 100%;">
 </div>
 
-Figure X: Luggage with plastic bags of souvenirs alongside formal luggage 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.6: Luggage with plastic bags of souvenirs alongside formal luggage </strong></p>
 
   
 
@@ -2816,7 +2816,7 @@ Figure X: Luggage with plastic bags of souvenirs alongside formal luggage
   <img src="assets/final/images/Appendix_D_central_luggage.png" alt="Central luggage handling point" style="max-width: 100%;">
 </div>
 
-Figure X: Central luggage handling point — groups of luggage placed on floor before trolley loading 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.7: Central luggage handling point — groups of luggage placed on floor before trolley loading </strong></p>
 
 
 
@@ -2825,7 +2825,7 @@ Figure X: Central luggage handling point — groups of luggage placed on floor b
   <img src="assets/final/images/Appendix_D_luggage_diagonal.png" alt="Luggage cart pulled diagonally" style="max-width: 100%;">
 </div>
 
-Figure X: Luggage cart pulled diagonally across lobby, cutting through guest circulation paths
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.8: Luggage cart pulled diagonally across lobby, cutting through guest circulation paths</strong></p>
 
 <a id="appendix-e"></a>
 
@@ -2864,7 +2864,7 @@ Within the Check-In & Check-Out Process theme, the dominant sub-categories were 
   <img src="assets/final/images/Appendix_E_img.png" alt="One-Star Review Insight Dashboard" style="max-width: 100%;">
 </div>
 
-Figure X: One-Star Review Insight Dashboard
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure E.1: One-Star Review Insight Dashboard</strong></p>
 
 <a id="appendix-f"></a>
 
@@ -2907,7 +2907,7 @@ The review data corroborates several key themes from staff interviews. Low score
   <img src="assets/final/images/Appendix_F_img.png" alt="Broader Sentiment Dashboard" style="max-width: 100%;">
 </div>
 
-****Figure X: Broader Sentiment Dashboard
+****<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure F.1: Broader Sentiment Dashboard</strong></p>
 
 <a id="appendix-g"></a>
 
@@ -2923,7 +2923,7 @@ This appendix presents detailed stage-by-stage breakdowns of the three current-s
   <img src="assets/final/images/Appendix_G_pre_arrival.png" alt="Pre-Arrival Flow" style="max-width: 100%;">
 </div>
 
-Figure X: Pre-Arrival Flow
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure G.1: Pre-Arrival Flow</strong></p>
 
 The pre-arrival phase establishes the foundation for the guest’s overall hotel experience. In luxury hospitality, this stage is not merely transactional but an opportunity to communicate attentiveness, personalization, and efficiency — qualities that define a premium brand. A seamless pre-arrival journey ensures that guests begin their stay feeling understood and valued, while the hotel benefits from streamlined operations and accurate data for service preparation ([EHL, 2023](https://hospitalityinsights.ehl.edu/luxury-hospitality-trends-challenges-best-practices)).
 
@@ -2975,7 +2975,7 @@ Collectively, these pre-arrival touchpoints demonstrate the interdependence of t
   <img src="assets/final/images/Appendix_G_traditional.png" alt="Counter Check-In Flow" style="max-width: 100%;">
 </div>
 
-Figure X: Counter Check-In Flow
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure G.2: Counter Check-In Flow</strong></p>
 
 The check-in process is one of the most defining moments in the guest journey, shaping first impressions and setting the tone for the stay (Mann et al., 2024). For luxury hotels, this stage embodies the brand’s promise of seamlessness, warmth, and personalization. Yet, as our field research and observations reveal, traditional counter-based check-in workflows can create friction for both guests and staff due to outdated system design, fragmented communication, and process inefficiencies.
 
@@ -3045,7 +3045,7 @@ The check-in process is one of the most defining moments in the guest journey, s
   <img src="assets/final/images/Appendix_G_kiosk.png" alt="Self-Service Kiosk Check-In" style="max-width: 100%;">
 </div>
 
-Figure X: Self-Service Kiosk Check-In
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure G.3: Self-Service Kiosk Check-In</strong></p>
 
 As hotels experiment with automation to enhance efficiency and reduce manpower dependency, self-service kiosks have become increasingly common, especially in business and mid-to-upscale hotels. These kiosks aim to streamline routine procedures such as guest identification, payment, and room key issuance — mirroring the self-check-in models seen in airports. In Singapore, automation has been widely encouraged to address labour shortages and operational inefficiencies in the hospitality sector (Ernst & Young, 2023). However, while kiosk systems deliver measurable gains in speed and consistency, they also expose gaps in emotional engagement and personalization — both critical attributes of the luxury segment.
 
@@ -3097,7 +3097,7 @@ As hotels experiment with automation to enhance efficiency and reduce manpower d
   <img src="assets/final/images/Appendix_G_luggage.png" alt="Luggage Handling Journey Map" style="max-width: 100%;">
 </div>
 
-Figure X: Luggage Handling Journey Map (modelled from Marina Bay Sands)
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure G.4: Luggage Handling Journey Map (modelled from Marina Bay Sands)</strong></p>
 
 The luggage handling journey documents the physical arrival experience as a distinct dimension of the guest stay. Unlike the check-in flows above, this journey is physically demanding, spatially disruptive, and almost entirely staff-dependent, with no existing automated or digital system in place across any property observed.
 
@@ -3143,7 +3143,7 @@ The luggage handling journey documents the physical arrival experience as a dist
   <img src="assets/final/images/Appendix_H_img.png" alt="Diverse Guest Profiles" style="max-width: 100%;">
 </div>
 
-Figure X: Diverse Guest Profiles and Their Unique Check-In Challenges
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure H.1: Diverse Guest Profiles and Their Unique Check-In Challenges</strong></p>
 
 While each guest segment varies in priorities, their foundational expectations remain consistent.
 
@@ -3320,7 +3320,7 @@ Most guests start looking for accommodation on Online Travel Agencies such as Bo
   <img src="assets/final/images/Appendix_i_img1.png" alt="OTA booking shares Asia and Europe" style="max-width: 100%;">
 </div>
 
-Figure 10: Share of direct and indirect online hotel bookings in Asia and Europe from 2019 to 2023
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure I.1: Share of direct and indirect online hotel bookings in Asia and Europe from 2019 to 2023</strong></p>
 
   
 
@@ -3328,7 +3328,7 @@ Figure 10: Share of direct and indirect online hotel bookings in Asia and Europe
   <img src="assets/final/images/Appendix_i_img2.png" alt="OTA booking shares United States" style="max-width: 100%;">
 </div>
 
-Figure 11: Share of direct and indirect online hotel bookings in the United States in 2019, 2021 and 2023
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure I.2: Share of direct and indirect online hotel bookings in the United States in 2019, 2021 and 2023</strong></p>
 
 However, while OTAs bring clear benefits to guests, they are not as well received by hotels. OTAs function as intermediaries, which can introduce misrepresentation of hotel offerings, including outdated photos, inaccurate descriptions or missing amenities ([Goswami, 2024](https://www.ezeeabsolute.com/blog/ota-vs-direct-booking/)). From our interviews with hotel staff, we also learned that OTAs do not always pass on guest information accurately and in some cases do not share it at all. This breakdown in communication can lead to guest dissatisfaction when preferences or special requests are not properly recorded or honoured at the property.
 
