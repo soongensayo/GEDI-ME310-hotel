@@ -112,7 +112,7 @@ The programme spans approximately 10 months, from August 2024 to June 2025, and 
   <img src="assets/final/images/1.2_overview.png" alt="Figure 1: Programme Timeline" style="max-width: 70%;">
 </div>
 
-**Figure 1: Programme Timeline**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 1: Programme Timeline</strong></p>
 
 The programme culminates in two showcases: the EDIC Project Showcase in April 2026, where the NUS team presents independently, and the EXPE Showcase at Stanford University in June 2026, where the NUS and Stanford teams jointly present their final integrated prototype to an audience of industry professionals, faculty, and investors.
 
@@ -211,7 +211,7 @@ Through our literature review, we have identified five key dimensions that captu
 </table>
 
 
-**Table 1: Our Definitions of Modern Luxury Hospitality**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 1: Our Definitions of Modern Luxury Hospitality</strong></p>
 
 Collectively, these five dimensions form the foundation of modern luxury hospitality and serve as our guiding principles for reimagining the luxury hotel check-in journey.
 
@@ -233,7 +233,7 @@ Demand for luxury tourism is rising faster than any other travel segment, driven
   <img src="assets/final/images/3.2.1_trend.png" alt="Figure 2: Global Luxury Hotel Market Growth (Mordor Intelligence, 2026b)" style="max-width: 100%;">
 </div>
 
-**Figure 2: Global Luxury Hotel Market Growth (Mordor Intelligence, 2026b)**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 2: Global Luxury Hotel Market Growth (Mordor Intelligence, 2026b)</strong></p>
 
 <a id="4-2-2-singapores-hospitality-trends"></a>
 
@@ -261,7 +261,7 @@ Figure 3 illustrates the top challenges and priorities identified by the hospita
   <img src="assets/final/images/3.2.3_challenges_priorities.png" alt="Figure 3: Top Challenges and Priorities in Singapore Hospitality Industry" style="max-width: 50%;">
 </div>
 
-**Figure 3: Top Challenges and Priorities in Singapore Hospitality Industry**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 3: Top Challenges and Priorities in Singapore Hospitality Industry</strong></p>
 
 Looking ahead, sustainable progress will depend on meaningful job redesign supported by labour-saving technologies to boost productivity and make hospitality careers more attractive (Workforce Singapore, 2023; Seah, 2022). 
 
@@ -366,7 +366,7 @@ Participants represented a diverse range of roles within the hotel ecosystem, in
 </table>
 
 
-**Table 2: Key Themes and Insights from On-Site Hotel Interviews**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 2: Key Themes and Insights from On-Site Hotel Interviews</strong></p>
 
   
 
@@ -374,7 +374,7 @@ Participants represented a diverse range of roles within the hotel ecosystem, in
   <img src="assets/final/images/3.3.1_overview.png" alt="Figure 4: Summary of Key Insights from Hotel Interviews" style="max-width: 100%;">
 </div>
 
-**Figure 4: Summary of Key Insights from Hotel Interviews**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 4: Summary of Key Insights from Hotel Interviews</strong></p>
 
 *Key findings from the interim reviews with detailed analysis can be found in Appendix C.*
 
@@ -478,7 +478,7 @@ To validate and build upon the insights gathered through staff interviews, we co
   </tbody>
 </table>
 
-**Table 3: Thematic Clusters from Hotel Observations**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 3: Thematic Clusters from Hotel Observations</strong></p>
 
 Validation Summary
 
@@ -532,7 +532,7 @@ To complement the interview and observational research with the guest perspectiv
 </table>
 
 
-**Table: 4: Review Analysis across Major Online Travel Platforms**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table: 4: Review Analysis across Major Online Travel Platforms</strong></p>
 
 <a id="4-5-key-insights-from-primary-and-secondary-research"></a>
 
@@ -583,7 +583,7 @@ Across the research conducted, five cross-cutting insights emerged that collecti
 </table>
 
 
-**Table: 5: Key Insights from Primary and Secondary Research**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table: 5: Key Insights from Primary and Secondary Research</strong></p>
 
 <a id="4-6-review-of-existing-solutions"></a>
 
@@ -620,7 +620,7 @@ A review of existing market solutions was conducted to understand what has alrea
 </table>
 
 
-**Table: 6: Problem Area 1**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table: 6: Problem Area 1</strong></p>
 
 
 <table class="rt">
@@ -651,7 +651,7 @@ A review of existing market solutions was conducted to understand what has alrea
 </table>
 
 
-**Table: 7: Problem Area 2**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table: 7: Problem Area 2</strong></p>
 
 
 <table class="rt">
@@ -682,7 +682,7 @@ A review of existing market solutions was conducted to understand what has alrea
 </table>
 
 
-**Table: 8: Problem Area 3**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table: 8: Problem Area 3</strong></p>
 
 
 <table class="rt">
@@ -713,7 +713,7 @@ A review of existing market solutions was conducted to understand what has alrea
 </table>
 
 
-**Table: 9: Problem Area 4**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table: 9: Problem Area 4</strong></p>
 
 
 <table class="rt">
@@ -735,7 +735,7 @@ A review of existing market solutions was conducted to understand what has alrea
 </table>
 
 
-**Table: 10: Problem Area 5**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table: 10: Problem Area 5</strong></p>
 
   
 
@@ -743,7 +743,7 @@ A review of existing market solutions was conducted to understand what has alrea
   <img src="assets/final/images/3.6_final_summary.png" alt="Summary of Existing Solutions" style="max-width: 100%;">
 </div>
 
-**Table 11: Summary of Existing Solutions**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 11: Summary of Existing Solutions</strong></p>
 
  *Physical Arrival refers to the end-to-end guest journey from vehicle drop-off at the hotel entrance through luggage handling, lobby navigation, and room escort.*
 
@@ -758,9 +758,7 @@ The pattern across all reviewed solutions confirms that the market has not yet p
 
 ## 4.7 Upcoming Trends
 
-```
 The hospitality industry is undergoing a rapid technological shift, with robotics and conversational AI emerging as two of the most significant forces reshaping hotel operations and guest experience. While industry-wide adoption data spans all hotel segments, early signals from luxury operators specifically suggest the segment is moving toward AI-augmented guest interactions.
-```
 
 <a id="4-7-1-growth-of-hospitality-robots"></a>
 
@@ -769,10 +767,10 @@ The hospitality industry is undergoing a rapid technological shift, with robotic
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/3.7.1_chart.png" alt="Figure 18: Hospitality Robots Market Growth" style="max-width: 100%;">
+  <img src="assets/final/images/3.7.1_chart.png" alt="Figure 18: Hospitality Robots Market Growth" style="max-width: 50%;">
 </div>
 
-**Figure 18: Hospitality Robots Market Growth**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 18: Hospitality Robots Market Growth</strong></p>
 
 The hospitality robots market reached USD 0.76 billion in 2026 and is projected to grow to USD 2.23 billion by 2030 (Mordor, 2026), as illustrated in Figure 18 This growth is underpinned by both falling costs and rising guest acceptance: humanoid robot costs dropped approximately 40% between 2022 and 2024 (Hanbury et al., 2025), while a meta-analytic review of 56 studies confirmed that consumers are increasingly receptive to hotel service robots, with performance expectancy and customer attitude emerging as the strongest drivers of acceptance (Begum et al., 2024). Major chains including Marriott, Hilton, and IHG have active robot deployments, with Asia-Pacific properties accounting for the highest density globally (AI, 2025). Over 45% of luxury hotels have already deployed service robots to enhance guest safety and operational efficiency (Intel Market Research, 2026). 
 
@@ -787,10 +785,10 @@ The luxury segment has learned from earlier missteps. The Henn-na Hotel experien
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/3.7.2_chart.png" alt="Figure 19: AI in Hospitality Market Growth" style="max-width: 100%;">
+  <img src="assets/final/images/3.7.2_chart.png" alt="Figure 19: AI in Hospitality Market Growth" style="max-width: 50%;">
 </div>
 
-**Figure 19: AI in Hospitality Market Growth**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 19: AI in Hospitality Market Growth</strong></p>
 
 The global AI in the hospitality and tourism market was valued at USD 26.53 billion in 2026 and is projected to reach USD 75.66 billion by 2030, growing at a CAGR of 29.9% (researchandmarkets, 2026), as illustrated in Figure 19 Within hotels, 71% of hospitality professionals view AI as having a significant or transformative impact, 82% expect AI usage to increase within the next year, and 85% plan to allocate at least 5% of their IT budget to AI tools in 2026 (Canary Technologies, 2026). 45% of hotels are already running AI-powered webchat agents and 92% have adopted or plan to adopt AI-assisted guest communications (Canary Technologies, 2026). 94% of regional tourism and hospitality leaders are already experimenting with AI and 89% will prioritise Generative AI within the next one to two years (pwc, 2025).
 
@@ -840,15 +838,15 @@ The research conducted across Sections 3.1 to 3.6 converges on four distinct but
 </table>
 
 
-**Table 11: Opportunity Areas**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 11: Opportunity Areas</strong></p>
 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/3.8_final.png" alt="Figure 20: Summary of opportunities, design direction, and HMW statements" style="max-width: 100%;">
+  <img src="assets/final/images/3.8_final.png" alt="Figure 20: Summary of opportunities, design direction, and HMW statements" style="max-width: 60%;">
 </div>
 
-**Figure 20: Summary of opportunities, design direction, and HMW statements**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 20: Summary of opportunities, design direction, and HMW statements</strong></p>
 
 <a id="5-design-exploration-solution-development"></a>
 
@@ -864,40 +862,40 @@ To ground the design process in real guest experience, we mapped four current-st
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.1_pre_arrival.png" alt="Figure 21: Pre-Arrival Flow" style="max-width: 100%;">
+  <img src="assets/final/images/4.1_pre_arrival.png" alt="Figure 21: Pre-Arrival Flow" style="max-width: 60%;">
 </div>
 
-**Figure 21: Pre-Arrival Flow**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 21: Pre-Arrival Flow</strong></p>
 
 ---
 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.1_counter_checkin.png" alt="Figure 22: Counter Check-In Flow" style="max-width: 100%;">
+  <img src="assets/final/images/4.1_counter_checkin.png" alt="Figure 22: Counter Check-In Flow" style="max-width: 60%;">
 </div>
 
-**Figure 22: Counter Check-In Flow**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 22: Counter Check-In Flow</strong></p>
 
 ---
 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.1_kiosk_checkin.png" alt="Figure 23: Kiosk Check-in Flow (Modelled from Amara Hotel's Kiosk Check-In)" style="max-width: 100%;">
+  <img src="assets/final/images/4.1_kiosk_checkin.png" alt="Figure 23: Kiosk Check-in Flow (Modelled from Amara Hotel's Kiosk Check-In)" style="max-width: 60%;">
 </div>
 
-**Figure 23: Kiosk Check-in Flow (Modelled from Amara Hotel's Kiosk Check-In)**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 23: Kiosk Check-in Flow (Modelled from Amara Hotel's Kiosk Check-In)</strong></p>
 
 ---
 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.1_luggage.png" alt="Figure 24: Luggage Handling Journey Map (modelled from Marina Bay Sands)" style="max-width: 100%;">
+  <img src="assets/final/images/4.1_luggage.png" alt="Figure 24: Luggage Handling Journey Map (modelled from Marina Bay Sands)" style="max-width: 60%;">
 </div>
 
-**Figure 24: Luggage Handling Journey Map (modelled from Marina Bay Sands)**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 24: Luggage Handling Journey Map (modelled from Marina Bay Sands)</strong></p>
 
 ---
 
@@ -933,7 +931,7 @@ The luxury hotel check-in ecosystem involves a complex network of stakeholders w
 </table>
 
 
-**Table 12: Stakeholder Needs**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 12: Stakeholder Needs</strong></p>
 
 <a id="5-3-initial-ideas"></a>
 
@@ -947,7 +945,7 @@ Building on the three design directions and the pain points identified through p
   <img src="assets/final/images/4.3_overview.png" alt="Figure 25: Overview of the solutions prototyped across the guest journey" style="max-width: 100%;">
 </div>
 
-**Figure 25: Overview of the solutions prototyped across the guest journey**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 25: Overview of the solutions prototyped across the guest journey</strong></p>
 
 <a id="5-3-1-alluvio-pre-arrival-personalisation-platform"></a>
 
@@ -965,25 +963,25 @@ Alluvio addressed the personalisation gap that exists when guests book through O
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.1_Image_one.png" alt="Figure 26: Alluvio Web Platform — Interface Overview" style="max-width: 100%;">
+  <img src="assets/final/images/4.3.1_Image_one.png" alt="Figure 26: Alluvio Web Platform — Interface Overview" style="max-width: 50%;">
 </div>
 
-**Figure 26: Alluvio Web Platform — Interface Overview**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 26: Alluvio Web Platform — Interface Overview</strong></p>
 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.1_Image_two.png" alt="Figure 27: The preference analytics dashboard provides guests with a visual overview of their evolving profile. This data is shared with onboarded hotels, enabling personalised service before arrival." style="max-width: 100%;">
+  <img src="assets/final/images/4.3.1_Image_two.png" alt="Figure 27: The preference analytics dashboard provides guests with a visual overview of their evolving profile. This data is shared with onboarded hotels, enabling personalised service before arrival." style="max-width: 50%;">
 </div>
 
-**Figure 27: The preference analytics dashboard provides guests with a visual overview of their evolving profile. This data is shared with onboarded hotels, enabling personalised service before arrival.**  
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 27: The preference analytics dashboard provides guests with a visual overview of their evolving profile. This data is shared with onboarded hotels, enabling personalised service before arrival.</strong></p>
   
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/4.3.1_Image_three.jpg" alt="Figure 28: The mobile app mirrors the web platform's preference analytics. Guests can review, update, and refine their profiles at any time, ensuring preferences remain current" style="max-width: 30%;">
 </div>
 
-**Figure 28: The mobile app mirrors the web platform's preference analytics. Guests can review, update, and refine their profiles at any time, ensuring preferences remain current**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 28: The mobile app mirrors the web platform's preference analytics. Guests can review, update, and refine their profiles at any time, ensuring preferences remain current</strong></p>
 
   
 
@@ -991,7 +989,7 @@ Alluvio addressed the personalisation gap that exists when guests book through O
   <img src="assets/final/images/4.3.1_Image_four.jpg" alt="Figure 29: Based on the guest's preference profile, Alluvio surfaces personalised luxury hotel recommendations ranked by compatibility, making discovery feel intuitive and tailored." style="max-width: 30%;">
 </div>
 
-**Figure 29:  Based on the guest's preference profile, Alluvio surfaces personalised luxury hotel recommendations ranked by compatibility, making discovery feel intuitive and tailored.**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 29:  Based on the guest's preference profile, Alluvio surfaces personalised luxury hotel recommendations ranked by compatibility, making discovery feel intuitive and tailored.</strong></p>
 
 ### User Testing and Analysis
 
@@ -1028,7 +1026,7 @@ The AI Kiosk Assistant was a complementary device designed to work alongside exi
   <img src="assets/final/images/4.3.2_image_one.png" alt="Figure 30: The assistant initiates the interaction with a personalised greeting, setting a warm, conversational tone before guiding the guest into the check-in flow." style="max-width: 100%;">
 </div>
 
-**Figure 30: The assistant initiates the interaction with a personalised greeting, setting a warm, conversational tone before guiding the guest into the check-in flow.**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 30: The assistant initiates the interaction with a personalised greeting, setting a warm, conversational tone before guiding the guest into the check-in flow.</strong></p>
 
   
 
@@ -1036,7 +1034,7 @@ The AI Kiosk Assistant was a complementary device designed to work alongside exi
   <img src="assets/final/images/4.3.2_image_two.png" alt="Figure 31: The assistant directs the guest through passport scanning and photo capture using natural language cues such as "*Please face the camera squarely*”." style="max-width: 100%;">
 </div>
 
-**Figure 31 The assistant directs the guest through passport scanning and photo capture using natural language cues such as "*Please face the camera squarely*”.**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 31 The assistant directs the guest through passport scanning and photo capture using natural language cues such as "*Please face the camera squarely*”.</strong></p>
 
   
 
@@ -1044,7 +1042,7 @@ The AI Kiosk Assistant was a complementary device designed to work alongside exi
   <img src="assets/final/images/4.3.2_image_three.png" alt="Figure 32: The assistant walks the guest through each stage in real time, escalating exceptions to nearby staff when needed without disrupting the experience." style="max-width: 100%;">
 </div>
 
-**Figure 32: The assistant walks the guest through each stage in real time, escalating exceptions to nearby staff when needed without disrupting the experience.**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 32: The assistant walks the guest through each stage in real time, escalating exceptions to nearby staff when needed without disrupting the experience.</strong></p>
 
   
 
@@ -1052,7 +1050,7 @@ The AI Kiosk Assistant was a complementary device designed to work alongside exi
   <img src="assets/final/images/4.3.2_image_four.png" alt="Figure 33: After dispensing the key card, the assistant continues the conversation to confirm room details and capture guest preferences, turning it into a personalisation moment." style="max-width: 100%;">
 </div>
 
-**Figure 33:  After dispensing the key card, the assistant continues the conversation to confirm room details and capture guest preferences, turning it into a personalisation moment.**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 33:  After dispensing the key card, the assistant continues the conversation to confirm room details and capture guest preferences, turning it into a personalisation moment.</strong></p>
 
 ### User Testing and Analysis
 
@@ -1081,7 +1079,7 @@ Hotelly was a real-time AI overlay system designed to support front desk staff d
   <img src="assets/final/images/4.3.3_image_one.png" alt="Figure 34: The Hotelly interface operates as a discreet desktop overlay alongside existing PMS systems" style="max-width: 50%;">
 </div>
 
-**Figure 34: The Hotelly interface operates as a discreet desktop overlay alongside existing PMS systems**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 34: The Hotelly interface operates as a discreet desktop overlay alongside existing PMS systems</strong></p>
 
   
 
@@ -1089,7 +1087,7 @@ Hotelly was a real-time AI overlay system designed to support front desk staff d
   <img src="assets/final/images/4.3.3_image_two.png" alt="Figure 35: At the close of each interaction, Hotelly generates a summarised recap of guest preferences, requests, and key conversation points" style="max-width: 50%;">
 </div>
 
-**Figure 35:  At the close of each interaction, Hotelly generates a summarised recap of guest preferences, requests, and key conversation points**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 35:  At the close of each interaction, Hotelly generates a summarised recap of guest preferences, requests, and key conversation points</strong></p>
 
 ### User Testing and Analysis
 
@@ -1117,26 +1115,26 @@ Aria addressed the specific tension between conversation and data entry at the f
 <p align="center"><strong>Video 5: Aria Demo</strong></p>
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.4_image_one.png" alt="Figure 36: Aria requires explicit guest consent before activation, with transcripts retained briefly for verification" style="max-width: 100%;">
+  <img src="assets/final/images/4.3.4_image_one.png" alt="Figure 36: Aria requires explicit guest consent before activation, with transcripts retained briefly for verification" style="max-width: 60%;">
 </div>
 
-**Figure 36: Aria requires explicit guest consent before activation, with transcripts retained briefly for verification**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 36: Aria requires explicit guest consent before activation, with transcripts retained briefly for verification</strong></p>
 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.4_image_two.png" alt="Figure 37: Throughout the conversation, Aria does transcription and highlights key extracted information, while surfacing AI-generated prompts and answers to guest questions" style="max-width: 100%;">
+  <img src="assets/final/images/4.3.4_image_two.png" alt="Figure 37: Throughout the conversation, Aria does transcription and highlights key extracted information, while surfacing AI-generated prompts and answers to guest questions" style="max-width: 60%;">
 </div>
 
-**Figure 37:  Throughout the conversation, Aria does transcription and highlights key extracted information, while surfacing AI-generated prompts and answers to guest questions**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 37:  Throughout the conversation, Aria does transcription and highlights key extracted information, while surfacing AI-generated prompts and answers to guest questions</strong></p>
 
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.4_image_three.png" alt="Figure 38: Aria surfaces actionable guest requests and captured preferences for staff to review, edit, and approve" style="max-width: 100%;">
+  <img src="assets/final/images/4.3.4_image_three.png" alt="Figure 38: Aria surfaces actionable guest requests and captured preferences for staff to review, edit, and approve" style="max-width: 60%;">
 </div>
 
-**Figure 38:  Aria surfaces actionable guest requests and captured preferences for staff to review, edit, and approve**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 38:  Aria surfaces actionable guest requests and captured preferences for staff to review, edit, and approve</strong></p>
 
 ### User Testing and Analysis
 
@@ -1160,7 +1158,7 @@ During the one-week visit to Stanford, we adopted a Dark Horse Prototyping appro
 
 
 
-**Figure 39: Aerohost and Luggage-Carrying Robot (Wizard-of-Oz Prototypes)**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 39: Aerohost and Luggage-Carrying Robot (Wizard-of-Oz Prototypes)</strong></p>
 
 The prototype, named AeroHost, reimagined check-in as a hosted journey led by a small flying drone with a holographic character that greeted guests, coordinated luggage handling with another luggage-carrying robot, supported identity verification, and escorted guests through the arrival process. We used a Wizard-of-Oz setup combining a phone-based conversational AI, iPad-based visual prompts, a manually operated luggage bot, and projected navigation cues.
 
@@ -1206,7 +1204,7 @@ The first was a low-profile luggage robot capable of flattening itself to ground
   <img src="assets/final/images/4.4_Luggage_bot_concept.png" alt="Figure 40: Luggage Bot Conceptual Design" style="max-width: 100%;">
 </div>
 
-**Figure 40: Luggage Bot Conceptual Design**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 40: Luggage Bot Conceptual Design</strong></p>
 
 The second concept was a digital room key embedded with a live AI avatar, a handheld interface that could answer guest questions, provide navigation guidance, and personalise the arrival experience beyond the check-in counter. While conceptually appealing, this direction was ultimately paused. Without a more distinct interaction model, the concept risked being too close to simply repackaging an existing large language model interface and would not represent a meaningful design advancement.
 
@@ -1217,7 +1215,7 @@ The second concept was a digital room key embedded with a live AI avatar, a hand
   <img src="assets/final/images/4.4_Digital_Hotel_Keycard_concept.png" alt="Figure 41: Hotel Digital Key Conceptual Design" style="max-width: 100%;">
 </div>
 
-**Figure 41: Hotel Digital Key Conceptual Design**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 41: Hotel Digital Key Conceptual Design</strong></p>
 
 Drawing on the field observations documented in Section 3.3.2, the team identified a stronger use case for the luggage robot: not to replace the bellhop trolley, but to offer guests an alternative that kept their belongings with them throughout the check-in journey, eliminating the friction of either handing luggage off upon arrival or managing it unassisted while waiting to check in.
 
@@ -1229,10 +1227,10 @@ Before consolidating the final concept, the team mapped out the complete guest a
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/5_Concept_Mapping.png" alt="Figure 42: Guest Arrival Journey Map — Identifying Key Touchpoints and System Requirements" style="max-width: 100%;">
+  <img src="assets/final/images/5_Concept_Mapping.png" alt="Figure 42: Guest Arrival Journey Map — Identifying Key Touchpoints and System Requirements" style="max-width: 60%; transform: rotate(-90deg);">
 </div>
 
-**Figure 42: Guest Arrival Journey Map — Identifying Key Touchpoints and System Requirements**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 42: Guest Arrival Journey Map — Identifying Key Touchpoints and System Requirements</strong></p>
 
 Mapping the journey surfaced several key considerations. First, the solution had to slot naturally into an existing hotel workflow without requiring the property to restructure its operations around the technology. Second, it had to account for variability in guest behaviour — guests arriving with different amounts of luggage, first-time guests unfamiliar with the property layout, and guests arriving at off-peak hours when staffing is reduced. Third, any automation introduced had to feel intentional and premium rather than transactional, consistent with the expectations of a luxury hotel guest.
 
@@ -1243,12 +1241,12 @@ With the robot already accompanying the guest, integrating a self check-in proce
 ELEVIA is an AI-powered concierge system that unifies autonomous mobility, luggage transport, conversational check-in, and identity verification and payment into a single, continuous arrival experience, as first conceptualised in the early sketches shown in Figures 43 and 44 Rather than digitising individual touchpoints in isolation, the concept embeds every check-in function into one physically present, conversationally intelligent system that accompanies the guest from the lobby through to their room. The underlying design principle is that luxury automation must reduce effort for the guest, not transfer it — eliminating the fragmented handoffs between arrival, luggage management, check-in processing, and room navigation that characterise the conventional hotel arrival sequence, and replacing them with a single uninterrupted interaction.
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/5_Conceptual_Design_Sketch1.png" alt="Figure 43: ELEVIA Conceptual Design Sketch" style="max-width: 100%;">
+  <img src="assets/final/images/5_Conceptual_Design_Sketch1.png" alt="Figure 43: ELEVIA Conceptual Design Sketch" style="max-width: 60%; transform: rotate(-90deg);">
 </div>
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/5_Conceptual_Design_Sketch2.png" alt="Figure 44: ELEVIA Conceptual Design Sketch" style="max-width: 100%;">
+  <img src="assets/final/images/5_Conceptual_Design_Sketch2.png" alt="Figure 44: ELEVIA Conceptual Design Sketch" style="max-width: 60%;">
 </div>
 
 
@@ -1298,7 +1296,7 @@ We designed the AI concierge as an LLM-driven agent with function-calling capabi
   <img src="assets/final/images/5.3.1_aiconcierge.png" alt="Figure 45: AI Concierge Persona" style="max-width: 40%;">
 </div>
 
-**Figure 45: AI Concierge Persona** 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 45: AI Concierge Persona</strong></p>
 
 This architecture addresses three design principles. First, automation as service augmentation: responses are short and tuned for spoken delivery, replicating the warmth of a human concierge. Second, grounded interaction: the agent never fabricates hotel data, as every factual answer is retrieved through tool calls. Third, continuity beyond the transaction: after check-in, the agent continues conversing during the robot escort, maintaining the feeling of being hosted throughout arrival.
 
@@ -1343,13 +1341,13 @@ Our final prototype, ELEVIA, is a robot-mounted AI concierge that unifies four c
   <img src="assets/final/images/6.1_final_prototype.png" alt="Figure 46" style="max-width: 40%;">
 </div>
 
-**Figure 46: Full ELEVIA Prototype**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 46: Full ELEVIA Prototype</strong></p>
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/6.1_AMR_Sketch_Labelled.png" alt="Figure 47" style="max-width: 100%;">
 </div>
 
-**Figure 47: Full ELEVIA Sketch with Parts Labelled**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 47: Full ELEVIA Sketch with Parts Labelled</strong></p>
 
 The system, built on a SESTO Magnus AMR as the foundation, provides the physical platform for navigation and luggage transport. Mounted on the AMR is a display connected to an NVIDIA Jetson, which runs a custom React frontend that presents a life-sized AI avatar, a conversation panel, and step-by-step check-in overlays. The robot also carries a USB webcam packaged into a passport scanner, and an ESP32-based NFC reader for contactless payment. These subsystems are coordinated through a Node.js backend that acts as the central orchestrator. Audio input and output are handled through a Jabra speakerphone mounted alongside the display, selected for its omnidirectional microphone pickup and noise cancellation suitable for a hotel lobby environment.
 
@@ -1360,7 +1358,7 @@ The system, built on a SESTO Magnus AMR as the foundation, provides the physical
   <img src="assets/final/images/6.1_labelledsystemdiagram.png" alt="Figure 48: Labelled System Diagram" style="max-width: 60%;">
 </div>
 
-**Figure 48: Labelled System Diagram**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 48: Labelled System Diagram</strong></p>
 
 The integrated check-in flow works as follows. The robot travels to the guest upon arrival, and a staff member assists the guest in loading luggage onto the robot platform, before introducing the AI Concierge Agent (also referred to as the AI avatar). The AI avatar is able to greet the guest by voice and asks for his/her name. Through natural conversation, the agent retrieves the guest's reservation, prompts them to scan their passport on the robot-mounted camera, confirms booking details, offers a room upgrade if available, and processes payment via NFC card tap. Upon completion, the guest receives a digital room key by email (with Apple Wallet support), and the robot autonomously navigates to escort them to their room, continuing to converse along the way.
 
@@ -1453,7 +1451,7 @@ The design process began with dimensioning the kiosk frame footprint against the
   <img src="assets/final/images/6.3_AMR platform threaded hole location referenced onto the T-slot aluminium profile.png" alt="Figure 54: AMR platform threaded hole location referenced onto the T-slot aluminium profile" style="max-width: 100%;">
 </div>
 
-**Figure 54: AMR platform threaded hole location referenced onto the T-slot aluminium profile**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 54: AMR platform threaded hole location referenced onto the T-slot aluminium profile</strong></p>
 
 
 
@@ -1462,7 +1460,7 @@ The design process began with dimensioning the kiosk frame footprint against the
   <img src="assets/final/images/6.3_AMR with the T-slot aluminium profile base.png" alt="Figure 55: AMR with the T-slot aluminium profile base" style="max-width: 100%;">
 </div>
 
-**Figure 55: AMR with the T-slot aluminium profile base**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 55: AMR with the T-slot aluminium profile base</strong></p>
 
 
 
@@ -1471,7 +1469,7 @@ The design process began with dimensioning the kiosk frame footprint against the
   <img src="assets/final/images/6.3_ AMR with the fully assembled T-slot aluminium profile.png" alt="Figure 56: AMR with the fully assembled T-slot aluminium profile" style="max-width: 100%;">
 </div>
 
-**Figure 56: AMR with the fully assembled T-slot aluminium profile** 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 56: AMR with the fully assembled T-slot aluminium profile</strong></p>
 
 The frame was constructed from 30x30mm aluminium T-slot extrusion profiles, selected for their ready availability, ease of cutting and drilling, and compatibility with the inner corner L-brackets and rhombus nut fasteners used throughout the assembly. Aluminium was preferred over steel for its lower weight, reducing the overall load on the AMR platform while maintaining sufficient structural rigidity for the prototype's requirements.
 
@@ -1488,7 +1486,7 @@ To ensure the structure integrated visually with the Sesto body, custom interfac
   <img src="assets/final/images/6.3_Computer-Aided Design of the AMR Shelf Panels .png" alt="Figure 57: Computer-Aided Design of the AMR Shelf Panels" style="max-width: 100%;">
 </div>
 
-**Figure 57: Computer-Aided Design of the AMR Shelf Panels** 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 57: Computer-Aided Design of the AMR Shelf Panels</strong></p>
 
 A monitor was chosen over alternative display types such as tablets or touchscreen panels as it offered the combination of cost-effectiveness, appropriate screen size for the life-sized AI avatar display, and ease of mounting on a height-adjustable stand. The monitor stand was also readily available for purchase and also allows the screen height to be manually adjusted, with the AI avatar's eyes positioned at approximately 1530mm from the ground. This height was determined using anthropometric data from BS ISO 7250-3:2015, specifically the Asian regional standing eye height ranges, which better represent the expected user demographic in a Singapore hospitality context than worldwide ranges (British Standards Institution, 2015). The midrange value across Asian male and female adults is approximately 1530mm ensuring the avatar's gaze meets the eyeline of the majority of standing Asian adult guests for a natural face-to-face interaction.
 
@@ -1509,7 +1507,7 @@ The AI concierge is the central intelligence of the check-in experience. A key d
   <img src="assets/final/images/6.4_exampleavatarscreens.png" alt="Figure 62: Example AI Interface Screenshots" style="max-width: 100%;">
 </div>
 
-**Figure 62: Example AI Interface Screenshots**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 62: Example AI Interface Screenshots</strong></p>
 
 <a id="how-it-works"></a>
 
@@ -1524,7 +1522,7 @@ All backend software for the AI agent is hosted on the NVIDIA Jetson, which comm
   <img src="assets/final/images/6.4_tool_calling.png" alt="Figure 63: Simplified diagram of AI System" style="max-width: 60%;">
 </div>
 
-**Figure 63: Simplified diagram of AI System**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 63: Simplified diagram of AI System</strong></p>
 
 
 | Tool Name                   | Description                                                                               |
@@ -1537,7 +1535,7 @@ All backend software for the AI agent is hosted on the NVIDIA Jetson, which comm
 | getroomupgrades             | Returns available room upgrade options based on the guest's current room type.            |
 
 
-**Table 13: Data / Query Tools**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 13: Data / Query Tools</strong></p>
 
 
 | Tool Name           | Description                                                                                  |
@@ -1550,7 +1548,7 @@ All backend software for the AI agent is hosted on the NVIDIA Jetson, which comm
 | movetoroom          | Fetches the robot waypoint for the guest's room and navigates the robot to escort them there |
 
 
-**Table 14: Action/UI Control Tools**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 14: Action/UI Control Tools</strong></p>
 
 This pattern gives us conversational flexibility. The guest can say things in any order, ask tangential questions ("What time is breakfast?"), or skip steps ("I don't want an upgrade"), while keeping all side effects under server-side control. The AI never fabricates hotel data; every factual answer is grounded in a database query through its tools.
 
@@ -1593,13 +1591,13 @@ Our approach was to embed a passport scanner box directly onto the robot's kiosk
   <img src="assets/final/images/6.5.1_Guest Scanning Passport.png" alt="Figure 64: Guest Scanning Passport" style="max-width: 100%;">
 </div>
 
-**Figure 64: Guest Scanning Passport**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 64: Guest Scanning Passport</strong></p>
 
-**Figure 65: USB Camera in the scanner box**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 65: USB Camera in the scanner box</strong></p>
 
 The passport reader hardware went through two main design iterations before reaching its final form, with an additional refinement to the insertion interface. 
 
-**Figure 66: Initial Passport Cover Design                     Figure 67: 2nd Passport Cover Design**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 66: Initial Passport Cover Design                     Figure 67: 2nd Passport Cover Design</strong></p>
 
 The first design iteration established the basic enclosure form but proved to be confusing.  A top cover was added to better suggest the correct insertion method for the second iteration. However, it also proved to be unintuitive in user testing. Participants consistently attempted to insert the passport vertically rather than in the intended orientation. The solution came from adding a clear acrylic panel beneath the slot. We also added a passport cover to the fake passport. This made the flat insertion surface visible and immediately communicated to the guest that the passport should be laid flat and slid in horizontally in a particular orientation, which is further reinforced by visual cues on the screen. The feedback received was that the process is similar to the passport scanner at the airport.
 
@@ -1610,7 +1608,7 @@ The first design iteration established the basic enclosure form but proved to be
   <img src="assets/final/images/6.5.1_Passport Scanner with clear acrylic.png" alt="Figure 68: Passport Scanner with clear acrylic" style="max-width: 100%;">
 </div>
 
-**Figure 68: Passport Scanner with clear acrylic**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 68: Passport Scanner with clear acrylic</strong></p>
 
 
 
@@ -1619,7 +1617,7 @@ The first design iteration established the basic enclosure form but proved to be
   <img src="assets/final/images/6.5.1_Revised Passport Cover Design.png" alt="Figure 69: Revised Passport Cover Design" style="max-width: 100%;">
 </div>
 
-**Figure 69: Revised Passport Cover Design**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 69: Revised Passport Cover Design</strong></p>
 
 The passport reader is mounted on the shelf structure facing the guest. When the AI agent reaches the identity verification stage, the ESP32, which is in communication with the Jetson compute module, triggers an LED strip positioned along the bottom edge of the flat insertion surface, closest to the guest. Once the guest name has been found in the database, the LED strip on the passport scanner will automatically light up and blink continuously in green as the AI avatar instructs the guest to insert their passport, drawing on the universal association of green with a ready or go signal to intuitively indicate that the slot is ready for use while ensuring visibility even in low-light environments. Once the passport details have been captured, the LED strip automatically turns off. A sticker indicating the correct insertion orientation was also added to the passport reader surface as a visual cue, further reinforcing the flat insertion direction for guests.
 
@@ -1630,7 +1628,7 @@ The passport reader is mounted on the shelf structure facing the guest. When the
   <img src="assets/final/images/6.5.1 Passport Reader Visual Cue Sticker.png" alt="Figure 70: Passport Reader Visual Cue Sticker" style="max-width: 100%;">
 </div>
 
-**Figure 70: Passport Reader Visual Cue Sticker**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 70: Passport Reader Visual Cue Sticker</strong></p>
 
 
 <div style="text-align: center; margin: 16px 0;">
@@ -1642,21 +1640,15 @@ The passport reader is mounted on the shelf structure facing the guest. When the
   <img src="assets/final/images/6.5.1_ LED flash.png" alt="Figure 72" style="max-width: 100%;">
 </div>
 
-**Figure 71: Green LED to Enhance User Experience                Figure 72: LED flash**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 71: Green LED to Enhance User Experience                Figure 72: LED flash</strong></p>
 
 The LED strip also serves a functional role in the Optical Character Recognition (OCR) pipeline. As shown in Figure 73, the illumination provided by the LED flash improves image clarity and MRZ contrast, directly improving OCR accuracy under the varying lighting conditions typical of hotel lobbies.
 
-
-| Image Captured with Flash | Image Captured without Flash |
-| ------------------------- | ---------------------------- |
-|                           |                              |
-
-
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.5.1_with_without_flash.png" alt="Figure 73: Lighting enhancements for passport scanning" style="max-width: 100%;">
+  <img src="assets/final/images/6.5.1_with_without_flash.png" alt="Figure 73: Lighting enhancements for passport scanning" style="max-width: 60%;">
 </div>
 
-**Figure 73: Lighting enhancements for passport scanning**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 73: Lighting enhancements for passport scanning</strong></p>
 
 How It Works
 
@@ -1669,7 +1661,7 @@ Once the passport is presented to the scanner, the system enters a polling loop 
   <img src="assets/final/images/6.5.1_mrz.png" alt="Figure 74: Machine Readable Zone (Sample)" style="max-width: 100%;">
 </div>
 
-**Figure 74: Machine Readable Zone (Sample)**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 74: Machine Readable Zone (Sample)</strong></p>
 
 EasyOCR operates through two underlying neural components: a text detection model to localise text regions and a text recognition model to decode the detected text. In the passport pipeline, the detection stage is first applied to the preprocessed passport image to identify candidate text regions. The pipeline then applies TD3-aware structural heuristics to identify the two MRZ lines based on their expected format. Once identified, their union is cropped into a focused strip, deskewed, and processed across several image variants. EasyOCR's recognition model is then applied to these variants, and the final passport number and guest name are extracted only from the vote-winning MRZ lines, with checksum validation used to reject invalid readings.
 
@@ -1698,7 +1690,7 @@ The NFC payment module was designed to simulate the contactless payment step wit
   <img src="assets/final/images/6.5.2_NFCPaymentJPG.JPG" alt="Figure 75: NFC Payment Module" style="max-width: 30%;">
 </div>
 
-**Figure 75: NFC Payment Module**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 75: NFC Payment Module</strong></p>
 
 A sticker was added to the NFC reader surface as a visual cue, allowing guests to immediately identify the tap point without verbal instruction, improving intuitiveness of the interaction.
 
@@ -1709,7 +1701,7 @@ A sticker was added to the NFC reader surface as a visual cue, allowing guests t
   <img src="assets/final/images/6.5.2_Visual que sticker for the NFC Payment .png" alt="Figure 76: Visual que sticker for the NFC Payment Module" style="max-width: 100%;">
 </div>
 
-**Figure 76: Visual que sticker for the NFC Payment Module**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 76: Visual que sticker for the NFC Payment Module</strong></p>
 
 The enclosure was designed to position the NFC reader at a natural tap height for the guest, with an integrated LED indicator that provides visual feedback when a card is detected.
 
@@ -1720,7 +1712,7 @@ The enclosure was designed to position the NFC reader at a natural tap height fo
   <img src="assets/final/images/6.5.2_nfc_pay.png" alt="Figure 77: Guest Making Card Payment" style="max-width: 70%;">
 </div>
 
-**Figure 77: Guest Making Card Payment**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 77: Guest Making Card Payment</strong></p>
 
 When the AI agent reaches the payment step in the conversation, it triggers a payment overlay on the kiosk screen and verbally invites the guest to tap their card. The ESP32 detects the card's unique identifier and transmits it to the backend via USB serial, which then maps the identifier to a card's last four digits for on-screen confirmation. The detection-to-confirmation cycle was measured at under one second during testing, ensuring the payment step does not interrupt the conversational flow.
 
@@ -1731,7 +1723,7 @@ When the AI agent reaches the payment step in the conversation, it triggers a pa
   <img src="assets/final/images/6.5.2_nfc flow.png" alt="Figure 78: NFC Flow" style="max-width: 100%;">
 </div>
 
-**Figure 78: NFC Flow**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 78: NFC Flow</strong></p>
 
 It is important to note that the current prototype does not process real transactions. The NFC reader captures card identifiers as a proof of concept to validate the interaction design and the integration of a physical tap gesture within a voice-led check-in flow. The design decision to use contactless NFC over alternative payment methods (such as QR code scanning or on-screen card entry) was driven by minimising guest effort: a single tap requires no visual attention or manual input, allowing the guest to maintain eye contact with the avatar and stay within the conversational experience.
 
@@ -1777,7 +1769,7 @@ With the source voltage and maximum current established, we identified the input
 | LED Monitor               | 19V DC                | 240mA   | 48V to 19V         |
 
 
-**Table 15: Power Requirements of Prototype Components**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 15: Power Requirements of Prototype Components</strong></p>
 
 Since the components required different input voltages stepped down from the 48V source, we procured fixed and variable buck converters accordingly. AWG18 wiring, rated for 5 to 10A, was used throughout as it was more than sufficient for the load requirements. Component-specific input connectors were soldered to the wiring and connected to the respective buck converters, as shown in Figure 83
 
@@ -1788,7 +1780,7 @@ Since the components required different input voltages stepped down from the 48V
   <img src="assets/final/images/6.6_CloseUp_UserPower.png" alt="Figure 83: Wiring of Buck Converter" style="max-width: 30%;">
 </div>
 
-**Figure 83: Wiring of Buck Converter**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 83: Wiring of Buck Converter</strong></p>
 
 All wired components were then consolidated using Wago 221 push-in wire clamp terminals, allowing every component to draw power from the single AMR source through one unified connection point. An example of the wiring assembly is shown in Figure XX.
 
@@ -1799,7 +1791,7 @@ All wired components were then consolidated using Wago 221 push-in wire clamp te
   <img src="assets/final/images/6.6_User_Power_Housing.png" alt="Figure 84: Wago Connections" style="max-width: 30%;">
 </div>
 
-**Figure 84: Wago Connections**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 84: Wago Connections</strong></p>
 
 <a id="7-6-1-testing-of-components"></a>
 
@@ -1824,7 +1816,7 @@ A key architectural decision was how to handle hotel data. Integrating with a pr
   <img src="assets/final/images/6.7_dataflow.png" alt="Figure 85: Simple entity-relationship diagram showing the hotel data schema" style="max-width: 100%;">
 </div>
 
-**Figure 85: Simple entity-relationship diagram showing the hotel data schema**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 85: Simple entity-relationship diagram showing the hotel data schema</strong></p>
 
 Critically, every service function falls back to comprehensive in-memory mock data when Supabase is not configured. This means the entire system runs fully functional without any external database, a deliberate choice that made testing, demos, and local development frictionless. The mock dataset models a fictional "Grand Azure Hotel" in Singapore with realistic reservations, room types, upgrade paths, and guest profiles, to mimic what a luxury hotel with 80 rooms will have.
 
@@ -1916,7 +1908,7 @@ Each of the seven prototype steps was logged for one of 3 outcomes: the particip
 | Step 7: Keycard / Farewell       | **5**      | **7**       | **3**  | Highest failure rate, email lost in spam mailbox                                                                                |
 
 
-**Table 16: Key Findings broken down into various steps**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 16: Key Findings broken down into various steps</strong></p>
 
 <a id="8-1-4-pain-points"></a>
 
@@ -1966,7 +1958,7 @@ Hotel visits were conducted with two properties under The Ascott Limited: Citadi
   <img src="assets/final/images/7.2.2_image_right.jpg" alt="Figure 90" style="max-width: 30%;">
 </div>
 
-**Figure 89 & 90: Our Visit to Ascott Limited Properties** 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 89 & 90: Our Visit to Ascott Limited Properties</strong></p>
 
 Key Findings
 
@@ -2016,7 +2008,7 @@ Key Findings
 </table>
 
 
-**Table 17: Key Findings from Our Visit to Ascott Limited Properties**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 17: Key Findings from Our Visit to Ascott Limited Properties</strong></p>
 
 <a id="8-3-expert-review"></a>
 
@@ -2038,7 +2030,7 @@ An expert consultation was conducted with Dr Natt Srinara, Lecturer at Ecole hô
   <img src="assets/final/images/7.3.1_ehl_lecturer.png" alt="Figure 91: Online Meeting with Dr Natt Srinara" style="max-width: 70%;">
 </div>
 
-**Figure 91: Online Meeting with Dr Natt Srinara**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 91: Online Meeting with Dr Natt Srinara</strong></p>
 
 Key Findings
 
@@ -2048,7 +2040,7 @@ Key Findings
 - The robot should be designed as a complement to human staff, not a replacement, the absence of any human touchpoint in the arrival journey risks undermining the luxury standard in higher-end properties
 
 
-**Table 18: Key Findings from Our Meeting with the Expert**  
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 18: Key Findings from Our Meeting with the Expert</strong></p>
 	  
 The expert review reinforced the core design premise: that automation in luxury hospitality must augment rather than replace human warmth. Dr Srinara suggested a pivot towards a tiered adoption framework that positions the solution as most appropriate for mid-to-upper tier properties rather than ultra-luxury settings.
 
@@ -2072,7 +2064,7 @@ The first round of testing was conducted in a lift environment over approximatel
   <img src="assets/final/images/7.4.1_image_one.jpg" alt="Figure 92: A participant interacting with ELEVIA" style="max-width: 50%;">
 </div>
 
-**Figure 92: A participant interacting with ELEVIA** 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 92: A participant interacting with ELEVIA</strong></p>
 
 
 <div style="text-align: center; margin: 16px 0;">
@@ -2084,7 +2076,7 @@ The first round of testing was conducted in a lift environment over approximatel
   <img src="assets/final/images/7.4.1_image_three.jpg" alt="Figure 94" style="max-width: 80%;">
 </div>
 
-**Figure 93 and Figure 94: Participants sharing a lift with ELEVIA. (Right Image) The participant in red visibly displaying discomfort and positioning close to the door, eager to exit**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 93 and Figure 94: Participants sharing a lift with ELEVIA. (Right Image) The participant in red visibly displaying discomfort and positioning close to the door, eager to exit</strong></p>
 
 
 <table class="rt">
@@ -2104,7 +2096,7 @@ The first round of testing was conducted in a lift environment over approximatel
 </table>
 
 
-**Table 19: Response Patterns from Lift Testing**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 19: Response Patterns from Lift Testing</strong></p>
 
 When the robot was repositioned to face the back wall of the lift, participants were markedly more comfortable, took up more space, and displayed less anxious behaviour. This suggests that direct eye contact with the robot's AI avatar face, rather than the robot's physical presence alone, was the primary source of discomfort, a finding consistent with the uncanny valley concerns raised during the expert review and NUS Open House testing.
 
@@ -2114,7 +2106,7 @@ When the robot was repositioned to face the back wall of the lift, participants 
   <img src="assets/final/images/7.4.1_image_four.jpg" alt="Figure 95: Robot repositioned to face the back wall of the lift — participants visibly more comfortable, occupying more space and displaying less anxious behaviour" style="max-width: 30%;">
 </div>
 
-**Figure 95: Robot repositioned to face the back wall of the lift — participants visibly more comfortable, occupying more space and displaying less anxious behaviour**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 95: Robot repositioned to face the back wall of the lift — participants visibly more comfortable, occupying more space and displaying less anxious behaviour</strong></p>
 
 When the robot was repositioned to face the back wall of the lift, the response changed noticeably. Participants were markedly more comfortable, took up more space in the lift, and displayed less anxious behaviour. This suggests that the direction the robot faces has a significant effect on perceived intrusiveness and social comfort.
 
@@ -2134,7 +2126,7 @@ A second round of navigation testing was conducted in the crowded open corridors
   <img src="assets/final/images/7.4.2_image_two.png" alt="Figure 97" style="max-width: 100%;">
 </div>
 
-**Figure 96 and Figure 97: Real-world corridor navigation testing. (left) A passerby waiting patiently for ELEVIA to pass, (right) pedestrians instinctively moving aside to make way for the robot**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 96 and Figure 97: Real-world corridor navigation testing. (left) A passerby waiting patiently for ELEVIA to pass, (right) pedestrians instinctively moving aside to make way for the robot</strong></p>
 
 
 - Response Patterns Observed: Pedestrians consistently moved out of the robot's path without instruction or prompting, others held doors open to allow it through 
@@ -2142,7 +2134,7 @@ A second round of navigation testing was conducted in the crowded open corridors
 - No instances of confusion about the robot's intended direction of travel were observed, suggesting its movement cues were intuitive even in high-footfall environments
 
 
-**Table 20: Response Patterns from Corridor Navigation Testing**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 20: Response Patterns from Corridor Navigation Testing</strong></p>
 
 <a id="8-4-3-key-findings"></a>
 
@@ -2153,7 +2145,7 @@ A second round of navigation testing was conducted in the crowded open corridors
 - Pedestrians naturally and instinctively accommodate the robot in shared spaces, indicating that corridor navigation is unlikely to pose a significant social barrier in hotel environments
 
 
-**Table 21: Key Findings from Corridor Navigation Testing**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 21: Key Findings from Corridor Navigation Testing</strong></p>
 
 <a id="8-5-survey-testing"></a>
 
@@ -2189,7 +2181,7 @@ When asked to consider luggage-related pain points during hotel arrivals, fricti
   <img src="assets/final/images/7.5.3_image_one.png" alt="Figure 98: Luggage Related Pain Points" style="max-width: 50%;">
 </div>
 
-**Figure 98: Luggage Related Pain Points**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 98: Luggage Related Pain Points</strong></p>
 
 ```
 65.6% rated the luggage companion robot as appealing or very appealing. Notably in Figure 98, fetching amenities (58.1%) and security monitoring of the luggage (51.6%) ranked above core luggage transport (41.9%), with answering hotel and local questions coming in third (45.2%). This collectively suggests that guests perceive the robot's value as extending well beyond the arrival moment and into the broader stay experience.
@@ -2201,7 +2193,7 @@ When asked to consider luggage-related pain points during hotel arrivals, fricti
   <img src="assets/final/images/7.5.3_image_two.png" alt="Figure 99: Most Valued Robot Features" style="max-width: 50%;">
 </div>
 
-**Figure 99: Most Valued Robot Features**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 99: Most Valued Robot Features</strong></p>
 
 In Figure 100, 59.4% were comfortable or very comfortable with the robot transporting their luggage, with only 21.9% expressing discomfort.
 
@@ -2211,7 +2203,7 @@ In Figure 100, 59.4% were comfortable or very comfortable with the robot transpo
   <img src="assets/final/images/7.5.3_image_three.png" alt="Figure 100: Comfort towards Autonomous Luggage Transport Feature" style="max-width: 50%;">
 </div>
 
-**Figure 100: Comfort towards Autonomous Luggage Transport Feature**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 100: Comfort towards Autonomous Luggage Transport Feature</strong></p>
 
 ```
 Additionally, 40.6% rated AI-assisted check-in as appealing or very appealing. When asked to pick features they were comfortable with, Voice-only was the most preferred format (43.3%), while 20% indicated they would not be comfortable with any AI assistant format, suggesting the need for a parallel human-assisted pathway.
@@ -2223,7 +2215,7 @@ Additionally, 40.6% rated AI-assisted check-in as appealing or very appealing. W
   <img src="assets/final/images/7.5.3_image_four.png" alt="Figure 101: AI Check-In Interface Preference" style="max-width: 50%;">
 </div>
 
-**Figure 101: AI Check-In Interface Preference**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 101: AI Check-In Interface Preference</strong></p>
 
 Responses were evenly split between luxury enhancement and convenience feature at 37.5% each, suggesting solution's strongest fit in the upscale rather than ultra-luxury tier. Likelihood of use averaged 3.19 out of 5, with a bimodal distribution reflecting both genuine advocates and a sceptical segment deterred primarily by privacy and reliability concerns.
 
@@ -2274,7 +2266,7 @@ Across the five validation methods, a consistent set of findings emerged that af
 </table>
 
 
-**Table 22: Summary of Overall Findings**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 22: Summary of Overall Findings</strong></p>
 
 <a id="8-7-closing-the-loop"></a>
 
@@ -2323,7 +2315,7 @@ This section closes the loop between the problem space established, the design d
 </table>
 
 
-**Table 23: Against the 5 Key Pain Points**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 23: Against the 5 Key Pain Points</strong></p>
 
 **Against the Design Directions**
 
@@ -2366,7 +2358,7 @@ This section closes the loop between the problem space established, the design d
 </table>
 
 
-**Table 24: Against the Design Directions**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 24: Against the Design Directions</strong></p>
 
 <a id="8-8-limitations"></a>
 
@@ -2409,7 +2401,7 @@ For the EXPE Showcase, beyond improving the underlying AI model, we will explore
 | **Modular Opt-Design** Consider separating check-in from luggage | **Avatar Interface** Explore alternative mediums of interaction |
 
 
-**Table 25: Iteration Priorities from Validation**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 25: Iteration Priorities from Validation</strong></p>
 
 Future Timeline
 
@@ -2419,7 +2411,7 @@ Future Timeline
   <img src="assets/final/images/8.1_timeline.png" alt="Figure 103: Future Timeline" style="max-width: 100%;">
 </div>
 
-**Figure 103: Future Timeline**
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 103: Future Timeline</strong></p>
 
 <a id="9-2-integration-with-ventures-existing-computing-board"></a>
 
@@ -2491,7 +2483,7 @@ Across ten months of hotel visits, prototyping, testing, and iteration, we have 
 
 # 12 References
 
-1. Accenture. (2026, January 13). *Luxe eternal | Accenture*. Accenture.com. [https://www.accenture.com/us-en/insights/retail/luxe-eternal](https://www.accenture.com/us-en/insights/retail/luxe-eternal)
+1. Accenture. (2026, January 13). *Luxe eternal \| Accenture*. Accenture.com. [https://www.accenture.com/us-en/insights/retail/luxe-eternal](https://www.accenture.com/us-en/insights/retail/luxe-eternal)
 2. AI, S. (2025, November 12). *Service Robot Deployment in Hospitality: Industry Analysis and Implementation Guide 2025*. Sparkco AI. [https://sparkco.ai/blog/service-robot-hospitality-industry-deployment](https://sparkco.ai/blog/service-robot-hospitality-industry-deployment)
 3. AL-HYARI, H. S., AL-SMADI, H. M., & WESHAH, S. R. (2023). The Impact of Artificial Intelligence (AI) on Guest Satisfaction in Hotel management: an Empirical Study of Luxury Hotels. *GeoJournal of Tourism and Geosites*, *48*(2 supplement), 810–819. [https://doi.org/10.30892/gtg.482spl15-1081](https://doi.org/10.30892/gtg.482spl15-1081)
 4. AmplifAI. (2024). *AmplifAI*. Amplifai.com. [https://www.amplifai.com](https://www.amplifai.com)
@@ -2507,11 +2499,11 @@ Across ten months of hotel visits, prototyping, testing, and iteration, we have 
 14. Constantin, M., Pacca, M., Tufft, C., & Mann, R. (2024). *Updating perceptions about today’s luxury traveler*. McKinsey & Company. [https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler](https://www.mckinsey.com/industries/travel/our-insights/updating-perceptions-about-todays-luxury-traveler)
 15. Cornell University. (2013, September). *Cornell Hospitality Industry Perspectives Vol. 3, No. 2*. Cornell ECommons. [https://ecommons.cornell.edu/server/api/core/bitstreams/d0dc3ab2-d891-47e3-b7f6-fd1c4da92d80/content](https://ecommons.cornell.edu/server/api/core/bitstreams/d0dc3ab2-d891-47e3-b7f6-fd1c4da92d80/content)
 16. Cronkleton, E. (2019, March 14). *Average Walking Speed: Pace, and Comparisons by Age and Sex*. Healthline. [https://www.healthline.com/health/exercise-fitness/average-walking-speed\#average-speed-by-sex](https://www.healthline.com/health/exercise-fitness/average-walking-speed\#average-speed-by-sex)
-17. Editeur Metalab. (2025, July 23). *BALANCING TECHNOLOGY AND HUMAN INTERACTION IN LUXURY HOSPITALITY | Can AI Enhance the Guest Experience Without Compromising the Essence of Service?  METALAB*. METALAB. [https://metalab.essec.edu/balancing-technology-and-human-interaction-in-luxury-hospitality-can-ai-enhance-the-guest-experience-without-compromising-the-essence-of-service/](https://metalab.essec.edu/balancing-technology-and-human-interaction-in-luxury-hospitality-can-ai-enhance-the-guest-experience-without-compromising-the-essence-of-service/)
+17. Editeur Metalab. (2025, July 23). *BALANCING TECHNOLOGY AND HUMAN INTERACTION IN LUXURY HOSPITALITY \| Can AI Enhance the Guest Experience Without Compromising the Essence of Service?  METALAB*. METALAB. [https://metalab.essec.edu/balancing-technology-and-human-interaction-in-luxury-hospitality-can-ai-enhance-the-guest-experience-without-compromising-the-essence-of-service/](https://metalab.essec.edu/balancing-technology-and-human-interaction-in-luxury-hospitality-can-ai-enhance-the-guest-experience-without-compromising-the-essence-of-service/)
 18. EHL Insights. (2023, September 8). *Luxury hospitality: Trends, challenges, and best practices*. Hospitalityinsights.ehl.edu. [https://hospitalityinsights.ehl.edu/luxury-hospitality-trends-challenges-best-practices](https://hospitalityinsights.ehl.edu/luxury-hospitality-trends-challenges-best-practices)
 19. EHL Insights. (2025). *Hospitality Outlook 2025*. [https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025\_InsightsReport.pdf](https://hospitalityinsights.ehl.edu/hubfs/Blog-EHL-Insights/Documents-EHL-Insights/HospitalityOutlook2025\_InsightsReport.pdf)
 20. Ernst & Young. (2023). *The Future of Jobs and Skills in Singapore’s Hotel Industry*. [https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels\_full-report\_v8-0\_public\_vf\_07112023.pdf](https://www.wsg.gov.sg/docs/default-source/content/jtm/jtm-for-hotels\_full-report\_v8-0\_public\_vf\_07112023.pdf)
-21. Frost & Sullivan. (2025). *Customer Experience in Hospitality Industry | CX Growth Opportunities in Travel and Hospitality Industry 2024-2025*. Store.Frost.com. [https://store.frost.com/global-cx-growth-opportunities-in-the-travel-hospitality-industry-2025-to-2026.html](https://store.frost.com/global-cx-growth-opportunities-in-the-travel-hospitality-industry-2025-to-2026.html)
+21. Frost & Sullivan. (2025). *Customer Experience in Hospitality Industry \| CX Growth Opportunities in Travel and Hospitality Industry 2024-2025*. Store.Frost.com. [https://store.frost.com/global-cx-growth-opportunities-in-the-travel-hospitality-industry-2025-to-2026.html](https://store.frost.com/global-cx-growth-opportunities-in-the-travel-hospitality-industry-2025-to-2026.html)
 22. Goswami, S. (2024, January 12). *OTA vs Hotel Direct Booking: Who is Winning The Battle?* EZee Absolute. [https://www.ezeeabsolute.com/blog/ota-vs-direct-booking/](https://www.ezeeabsolute.com/blog/ota-vs-direct-booking/)
 23. Hanbury, P., Dutt, A., & Veratti, E. (2025, April 15). *Humanoid Robots at Work: What Executives Need to Know*. Bain. [https://www.bain.com/insights/humanoid-robots-at-work-what-executives-need-to-know/](https://www.bain.com/insights/humanoid-robots-at-work-what-executives-need-to-know/)
 24. Harkison, T. (2025). Artificial intelligence (AI) in Luxury Hospitality: Balancing Efficiency and Human Connection. *Hospitality Insights*, *9*(1). [https://doi.org/10.24135/hi.v9i1.176](https://doi.org/10.24135/hi.v9i1.176)
@@ -2568,7 +2560,7 @@ Benny Fok – Front Office Manager
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/Appendix_A_Img_shangrila.jpg" alt="Figure A.2: Shangri-La Singapore (site visit photograph)" style="max-width: 100%;">
+  <img src="assets/final/images/Appendix_A_Img_shangrila.jpg" alt="Figure A.2: Shangri-La Singapore (site visit photograph)" style="max-width: 50%;">
 </div>
 
 Figure A.2. Shangri-La Singapore (site visit photograph)
@@ -2584,7 +2576,7 @@ Christian Westbeld – Managing Director
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/Appendix_A_Img_raffles.jpg" alt="Figure A.3: Raffles Hotel Singapore – lobby and entrance area (site visit photograph)" style="max-width: 100%;">
+  <img src="assets/final/images/Appendix_A_Img_raffles.jpg" alt="Figure A.3: Raffles Hotel Singapore – lobby and entrance area (site visit photograph)" style="max-width: 50%;">
 </div>
 
 Figure A.3. Raffles Hotel Singapore – lobby and entrance area (site visit photograph)
@@ -2599,7 +2591,7 @@ Sheriann – Business Development Team
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/Appendix_A_Img_banyanhq.jpg" alt="Figure A.4: Banyan Tree Headquarters (site visit photograph)" style="max-width: 100%;">
+  <img src="assets/final/images/Appendix_A_Img_banyanhq.jpg" alt="Figure A.4: Banyan Tree Headquarters (site visit photograph)" style="max-width: 50%;">
 </div>
 
 Figure A.4. Banyan Tree Headquarters (site visit photograph)
@@ -2614,7 +2606,7 @@ Joan Yao – Director, Rooms
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/Appendix_A_Img_banyanresort.jpg" alt="Figure A.5: Mandai Rainforest Resort – arrival area (site visit photograph" style="max-width: 100%;">
+  <img src="assets/final/images/Appendix_A_Img_banyanresort.jpg" alt="Figure A.5: Mandai Rainforest Resort – arrival area (site visit photograph" style="max-width: 50%;">
 </div>
 
 Figure A.5. Mandai Rainforest Resort – arrival area (site visit photograph
@@ -2749,7 +2741,7 @@ The team employed a structured observational approach drawing on the AEIOU frame
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/Appendix_D_AEIOU.jpg" alt="AEIOU Framework" style="max-width: 100%;">
+  <img src="assets/final/images/Appendix_D_AEIOU.jpg" alt="AEIOU Framework" style="max-width: 50%;">
 </div>
 
 Figure X: AEIOU Framework  
