@@ -572,7 +572,7 @@ Video demonstration of the prototype can be assessed here: [https://www.youtube.
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.1_Image_three.jpg" alt="Figure 28: The mobile app mirrors the web platform's preference analytics. Guests can review, update, and refine their profiles at any time, ensuring preferences remain current" style="max-width: 100%;">
+  <img src="assets/final/images/4.3.1_Image_three.jpg" alt="Figure 28: The mobile app mirrors the web platform's preference analytics. Guests can review, update, and refine their profiles at any time, ensuring preferences remain current" style="max-width: 30%;">
 </div>
 
 **Figure 28: The mobile app mirrors the web platform's preference analytics. Guests can review, update, and refine their profiles at any time, ensuring preferences remain current**
@@ -580,7 +580,7 @@ Video demonstration of the prototype can be assessed here: [https://www.youtube.
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.1_Image_four.jpg" alt="Figure 29: Based on the guest's preference profile, Alluvio surfaces personalised luxury hotel recommendations ranked by compatibility, making discovery feel intuitive and tailored." style="max-width: 100%;">
+  <img src="assets/final/images/4.3.1_Image_four.jpg" alt="Figure 29: Based on the guest's preference profile, Alluvio surfaces personalised luxury hotel recommendations ranked by compatibility, making discovery feel intuitive and tailored." style="max-width: 30%;">
 </div>
 
 **Figure 29:  Based on the guest's preference profile, Alluvio surfaces personalised luxury hotel recommendations ranked by compatibility, making discovery feel intuitive and tailored.**
@@ -673,7 +673,7 @@ Video demonstration of the prototype can be assessed here: [https://www.youtube.
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.3_image_one.png" alt="Figure 34: The Hotelly interface operates as a discreet desktop overlay alongside existing PMS systems" style="max-width: 100%;">
+  <img src="assets/final/images/4.3.3_image_one.png" alt="Figure 34: The Hotelly interface operates as a discreet desktop overlay alongside existing PMS systems" style="max-width: 50%;">
 </div>
 
 **Figure 34: The Hotelly interface operates as a discreet desktop overlay alongside existing PMS systems**
@@ -681,7 +681,7 @@ Video demonstration of the prototype can be assessed here: [https://www.youtube.
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.3_image_two.png" alt="Figure 35: At the close of each interaction, Hotelly generates a summarised recap of guest preferences, requests, and key conversation points" style="max-width: 100%;">
+  <img src="assets/final/images/4.3.3_image_two.png" alt="Figure 35: At the close of each interaction, Hotelly generates a summarised recap of guest preferences, requests, and key conversation points" style="max-width: 50%;">
 </div>
 
 **Figure 35:  At the close of each interaction, Hotelly generates a summarised recap of guest preferences, requests, and key conversation points**
