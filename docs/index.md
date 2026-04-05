@@ -2014,17 +2014,13 @@ Key Findings
 
 ## 8.3 Expert Review
 
-```
 To complement feedback from hotel visits and public testing, we sought an expert perspective grounded in hospitality academia and industry practice.
-```
 
 <a id="8-3-1-methodology"></a>
 
 ### 8.3.1 Methodology
 
-```
 An expert consultation was conducted with Dr Natt Srinara, Lecturer at Ecole hôtelière de Lausanne (EHL) Hospitality Business School, with over 25 years of experience in hospitality consulting, marketing, and guest experience strategy. His advisory portfolio includes Mandarin Oriental, Pan Pacific, IHG, Marriott, Accor, and the Singapore Tourism Board. The session involved a presentation of the team's final solution concept followed by a structured discussion on hospitality design principles, luxury guest expectations, and AI adoption frameworks. 
-```
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/7.3.1_ehl_lecturer.png" alt="Figure 91: Online Meeting with Dr Natt Srinara" style="max-width: 70%;">
@@ -2032,13 +2028,20 @@ An expert consultation was conducted with Dr Natt Srinara, Lecturer at Ecole hô
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 91: Online Meeting with Dr Natt Srinara</strong></p>
 
-Key Findings
-
-
-- AI adoption should be stratified by hotel tier: luxury guests expect human-led interactions with AI in a supporting role, while budget guests are more receptive to AI-led self-service, reinforcing our decision to position the robot as a warm, conversational companion rather than a transactional kiosk 
-- The luggage-handling function was identified as particularly valuable for family-oriented stays, validating its inclusion as a core feature The AI avatar face was flagged as potentially unnatural and discomforting 
-- The robot should be designed as a complement to human staff, not a replacement, the absence of any human touchpoint in the arrival journey risks undermining the luxury standard in higher-end properties
-
+<table class="rt">
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>AI adoption should be stratified by hotel tier: luxury guests expect human-led interactions with AI in a supporting role, while budget guests are more receptive to AI-led self-service, reinforcing our decision to position the robot as a warm, conversational companion rather than a transactional kiosk</li>
+          <li>The luggage-handling function was identified as particularly valuable for family-oriented stays, validating its inclusion as a core feature</li>
+          <li>The AI avatar face was flagged as potentially unnatural and discomforting</li>
+          <li>The robot should be designed as a complement to human staff, not a replacement — the absence of any human touchpoint in the arrival journey risks undermining the luxury standard in higher-end properties</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 18: Key Findings from Our Meeting with the Expert</strong></p>
 	  
@@ -2048,9 +2051,7 @@ The expert review reinforced the core design premise: that automation in luxury 
 
 ## 8.4 Real-World Navigation Testing
 
-```
 To complement the controlled environment of the NUS Open House testing, we conducted real-world navigation trials in public spaces to observe how people naturally respond to the robot in shared environments. The objective was to understand pedestrian behaviour around the robot, assess comfort levels with robot proximity, and identify design considerations for movement choreography.
-```
 
 <a id="8-4-1-lift-testing"></a>
 
@@ -2129,10 +2130,19 @@ A second round of navigation testing was conducted in the crowded open corridors
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 96 and Figure 97: Real-world corridor navigation testing. (left) A passerby waiting patiently for ELEVIA to pass, (right) pedestrians instinctively moving aside to make way for the robot</strong></p>
 
 
-- Response Patterns Observed: Pedestrians consistently moved out of the robot's path without instruction or prompting, others held doors open to allow it through 
-- Most bystanders showed no signs of discomfort or over-curiosity 
-- No instances of confusion about the robot's intended direction of travel were observed, suggesting its movement cues were intuitive even in high-footfall environments
-
+<table class="rt">
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Pedestrians consistently moved out of the robot's path without instruction or prompting; others held doors open to allow it through</li>
+          <li>Most bystanders showed no signs of discomfort or over-curiosity</li>
+          <li>No instances of confusion about the robot's intended direction of travel were observed, suggesting its movement cues were intuitive even in high-footfall environments</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 20: Response Patterns from Corridor Navigation Testing</strong></p>
 
@@ -2140,10 +2150,20 @@ A second round of navigation testing was conducted in the crowded open corridors
 
 ### 8.4.3 Key Findings
 
-- Public reception was broadly positive, with curiosity and excitement as the dominant initial reactions. This suggests the robot's presence reads as novel and engaging rather than threatening in most contexts The 10% refusal rate in the lift highlights that a meaningful minority will be uncomfortable sharing enclosed spaces with a robot 
-- Robot orientation is a significant variable in perceived comfort, facing away from people in enclosed spaces substantially reduces social discomfort, a finding that directly informs proximity choreography design 
-- Pedestrians naturally and instinctively accommodate the robot in shared spaces, indicating that corridor navigation is unlikely to pose a significant social barrier in hotel environments
-
+<table class="rt">
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Public reception was broadly positive, with curiosity and excitement as the dominant initial reactions — the robot's presence reads as novel and engaging rather than threatening in most contexts</li>
+          <li>The 10% refusal rate in the lift highlights that a meaningful minority will be uncomfortable sharing enclosed spaces with a robot</li>
+          <li>Robot orientation is a significant variable in perceived comfort — facing away from people in enclosed spaces substantially reduces social discomfort, a finding that directly informs proximity choreography design</li>
+          <li>Pedestrians naturally and instinctively accommodate the robot in shared spaces, indicating that corridor navigation is unlikely to pose a significant social barrier in hotel environments</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 21: Key Findings from Corridor Navigation Testing</strong></p>
 
@@ -2151,9 +2171,7 @@ A second round of navigation testing was conducted in the crowded open corridors
 
 ## 8.5 Survey Testing
 
-```
 To evaluate user adoption, a structured guest survey was administered to validate luggage handling as a recognised pain point among hotel guests and to gather initial reception data on the personal luggage companion robot concept. 
-```
 
 <a id="8-5-1-methodology"></a>
 
@@ -2171,9 +2189,7 @@ The survey was therefore scoped to test luggage handling pain points, covering t
 
 ### 8.5.3 Key Findings
 
-```
 When asked to consider luggage-related pain points during hotel arrivals, friction surfaced consistently despite most respondents rating their overall arrival experience as smooth. Heavy lifting was the most widely cited pain point at 59.4%, followed by waiting for luggage in the room (34.4%) and lack of location visibility during transit (25%). These findings align with review analysis in Section 4.4, where luggage handling scored the lowest service dimension at 3.37 out of 5.0.
-```
 
   
 
@@ -2183,9 +2199,7 @@ When asked to consider luggage-related pain points during hotel arrivals, fricti
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 98: Luggage Related Pain Points</strong></p>
 
-```
 65.6% rated the luggage companion robot as appealing or very appealing. Notably in Figure 98, fetching amenities (58.1%) and security monitoring of the luggage (51.6%) ranked above core luggage transport (41.9%), with answering hotel and local questions coming in third (45.2%). This collectively suggests that guests perceive the robot's value as extending well beyond the arrival moment and into the broader stay experience.
-```
 
   
 
@@ -2205,9 +2219,8 @@ In Figure 100, 59.4% were comfortable or very comfortable with the robot transpo
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 100: Comfort towards Autonomous Luggage Transport Feature</strong></p>
 
-```
 Additionally, 40.6% rated AI-assisted check-in as appealing or very appealing. When asked to pick features they were comfortable with, Voice-only was the most preferred format (43.3%), while 20% indicated they would not be comfortable with any AI assistant format, suggesting the need for a parallel human-assisted pathway.
-```
+
 
   
 
