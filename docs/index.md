@@ -482,7 +482,7 @@ To validate and build upon the insights gathered through staff interviews, we co
 
 Validation Summary
 
-Field observations independently confirmed four interview themes on-site. Observation also surfaced one blind spot not captured in interviews, guest behaviour, specifically the refusal of bellboy assistance, preference to keep belonging with them at all times, and placement of personal items on lobby floors, as a contributing factor to visual clutter and diminished luxury perception.
+Field observations independently confirmed four interview themes on-site. Observation also surfaced one blind spot not captured in interviews, guest behaviour, specifically the preference to keep belonging with them at all times, and placement of personal items on lobby floors, as a contributing factor to visual clutter and diminished luxury perception.
 
 <a id="4-4-secondary-research"></a>
 
@@ -506,7 +506,7 @@ To complement the interview and observational research with the guest perspectiv
     <tr>
       <td style="font-weight:bold; vertical-align:middle;">Broader Sentiment Study</td>
       <td>
-        Another round of analysis was conducted across 109 reviews spanning a full rating range (one to five stars) across four Singapore luxury properties: Capella, Marina Bay Sands, Raffles, and Fullerton. Reviews were coded across five service sentiment dimensions.
+        Another round of analysis was conducted across 109 reviews spanning a full rating range (one to five stars) across four Singapore luxury properties: Capella, Marina Bay Sands, Raffles, and Fullerton. Reviews were coded across five service sentiment dimensions: luggage handling, high-touch service, staff availability, staff competency, and staff attitude, each scored out of 5.
         <br><br>
         <table style="width:55%; border-collapse:collapse; font-size:0.88em; margin:8px 0;">
           <thead>
@@ -524,7 +524,7 @@ To complement the interview and observational research with the guest perspectiv
             <tr style="background:#fff9e6;"><td style="border:1px solid #ccc; padding:4px 10px;">Staff Attitude</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">3.67</td><td style="border:1px solid #ccc; padding:4px 10px; text-align:center;">45</td></tr>
           </tbody>
         </table>
-        The 0.30-point gap between the highest dimension (attitude, 3.67) and the lowest (luggage handling, 3.37) is the most telling finding: guests consistently rate staff warmth positively while flagging operational dimensions as recurring points of friction. 39% of reviews referenced check-in or waiting experiences. Reviews describing the best arrivals emphasised being greeted by name, luggage handled invisibly, and feeling anticipated. What guests remember most is not what went smoothly, but whether they felt welcomed, guided, and cared for throughout the arrival experience.
+        The 0.30-point gap between the highest dimension (attitude, 3.67) and luggage handling (3.37) is the most telling finding: guests consistently rate staff warmth positively while flagging operational dimensions as recurring points of friction. 39% of reviews referenced check-in or waiting experiences. Reviews describing the best arrivals emphasised being greeted by name, luggage handled invisibly, and feeling anticipated. What guests remember most is not what went smoothly, but whether they felt welcomed, guided, and cared for throughout the arrival experience.
         <br><br><em>A full interactive dashboard of the broader sentiment findings is included in Appendix F.</em>
       </td>
     </tr>
@@ -555,14 +555,14 @@ Across the research conducted, five cross-cutting insights emerged that collecti
       <td class="rt-num">2</td>
       <td>
         <div class="rt-head">Luggage Handling Is a Significant, Underaddressed Pain Point</div>
-        Luggage handling was one of the most consistently flagged pain points across all research methods. Observations revealed manual handling to be physically demanding, inconvenient, and spatially disruptive. Review data provided the strongest quantitative signal: across 109 reviews from four Singapore luxury properties, luggage handling was the lowest-scoring dimension at 3.37 out of 5.0, against staff attitude at 3.67, confirming the friction is operational rather than attitudinal. Despite its visibility, it remains largely unaddressed by existing hotel technology.
+        Luggage handling was one of the most consistently flagged pain points across all research methods. Observations revealed manual handling to be physically demanding, inconvenient, and spatially disruptive. Review data provided the strongest quantitative signal: across 109 reviews from four Singapore luxury properties, luggage handling was at 3.37 out of 5.0, against staff attitude at 3.67, confirming the friction is operational rather than attitudinal. Despite its visibility, it remains largely unaddressed by existing hotel technology.
       </td>
     </tr>
     <tr>
       <td class="rt-num">3</td>
       <td>
         <div class="rt-head">Existing Automation Fails the Luxury Standard</div>
-        Self-service kiosks are widely deployed but consistently underutilised in luxury settings, with usage rates below 1% at several properties visited. Across interviews and observations, kiosks were described as transactional, emotionless, and misaligned with luxury price points. The failure lies in the experience.
+        Self-service kiosks are widely deployed but consistently underutilised in luxury settings, with usage rates below 1% at Shangri-La. Across interviews and observations, kiosks were described as transactional, emotionless, and misaligned with luxury price points. The failure lies in the experience.
       </td>
     </tr>
     <tr>
@@ -576,7 +576,7 @@ Across the research conducted, five cross-cutting insights emerged that collecti
       <td class="rt-num">5</td>
       <td>
         <div class="rt-head">Guests Want Efficiency Without Losing the Feeling of Being Hosted</div>
-        Across all research methods, guests did not reject technology. They rejected technology that felt cold, impersonal, or required effort from them. The desire articulated consistently was for an arrival experience that is fast and frictionless, but still feels warm, guided, and personal.
+        Guests did not reject technology. They rejected technology that felt cold, impersonal, or required effort from them. The desire articulated consistently was for an arrival experience that is fast and frictionless, but still feels warm, guided, and personal.
       </td>
     </tr>
   </tbody>
@@ -597,7 +597,7 @@ A review of existing market solutions was conducted to understand what has alrea
   <tbody>
     <tr>
       <td>
-        <strong>Self-service kiosks</strong> are the most common attempt to address check-in speed, observed directly at Amara Hotel. While faster for straightforward check-ins, kiosk adoption at luxury properties was found to be below 1% at several properties visited. Guests consistently bypassed them in favour of human staff, negating the intended efficiency benefit.
+        <strong>Self-service kiosks</strong> are the most common attempt to address check-in speed, observed directly at Amara Hotel. While faster for straightforward check-ins, kiosk adoption at luxury properties was found to be below 1%. Guests consistently bypassed them in favour of human staff, negating the intended efficiency benefit.
       </td>
       <td class="rt-sol-img">
         <img src="assets/final/images/3.6_amara_kiosk.png" alt="Figure 9: Amara Hotel Self-Service Kiosk" style="max-width:90%;">
@@ -645,7 +645,7 @@ A review of existing market solutions was conducted to understand what has alrea
       </td>
     </tr>
     <tr class="rt-gap">
-      <td colspan="2"><strong>Gap:</strong> Guests arrive expecting their luggage to travel with them — effortlessly, visibly, and without handoff anxiety. No existing solution delivers this: every option either stores luggage out of sight, requires staff to operate it, or plays no role in the arrival journey at all.</td>
+      <td colspan="2"><strong>Gap:</strong> Some guests preferred to keep their luggage with them throughout the arrival journey rather than handing it off to staff for separate delivery. No existing solution accommodates this preference: current options either store luggage out of sight, require staff operation, or play no role in the arrival journey at all.</td>
     </tr>
   </tbody>
 </table>
@@ -750,7 +750,7 @@ A review of existing market solutions was conducted to understand what has alrea
 The table reveals **two** structural gaps:
 
 - Physical arrival remains entirely unaddressed across all solutions reviewed. A guest who checks in via kiosk, mobile app, or AI concierge still carries their own luggage, navigates the property independently, and locates their room without guidance.  
-- Staff load reduction comes at the cost of warmth. The solutions that most effectively reduce staff involvement (Henn-na robots, self-service kiosks) score the lowest on luxury warmth, while those that preserve warmth (Counter check-in, Four Seasons Chat) do not meaningfully reduce staff dependency.
+- Staff load reduction comes at the cost of warmth. The solutions that most effectively reduce staff involvement (Henn-na robots, self-service kiosks) offer little in luxury warmth, while those that preserve warmth (Counter check-in, Four Seasons Chat) do not meaningfully reduce staff dependency.
 
 The pattern across all reviewed solutions confirms that the market has not yet produced a system capable of simultaneously delivering speed, warmth, physical presence, and operational efficiency at the point of arrival.
 
@@ -916,12 +916,12 @@ The luxury hotel check-in ecosystem involves a complex network of stakeholders w
       <td>The primary users of the check-in process and ultimate beneficiaries of service excellence — spanning diverse profiles (business travellers, honeymooners, families) each with distinct priorities but a consistent expectation: to feel welcomed, recognised, and cared for from the moment of arrival.</td>
     </tr>
     <tr>
-      <td style="font-weight:bold; vertical-align:middle;">Front-Office Staff</td>
+      <td style="font-weight:bold; vertical-align:middle;">Front-of-house Staff</td>
       <td>Execute the end-to-end check-in process while simultaneously managing complex systems, verifying identities, processing payments, and handling real-time guest inquiries — all while maintaining warmth, composure, and attentiveness. Bellmen and porters form a distinct sub-role, responsible for the physically demanding handling and transport of guest luggage.</td>
     </tr>
     <tr>
       <td style="font-weight:bold; vertical-align:middle;">Hotel Management</td>
-      <td>Oversees front-office performance, coordinating manpower, monitoring service quality, resolving escalations, and making technology adoption decisions at the intersection of guest experience and operational efficiency.</td>
+      <td>Oversees front office performance, coordinating manpower, monitoring service quality, resolving escalations, and making technology adoption decisions at the intersection of guest experience and operational efficiency.</td>
     </tr>
     <tr>
       <td style="font-weight:bold; vertical-align:middle;">Technology Departments</td>
@@ -993,7 +993,7 @@ Alluvio addressed the personalisation gap that exists when guests book through O
 
 ### User Testing and Analysis
 
-User testing was conducted across visits to luxury hotel properties in Singapore, where we engaged directly with hotel directors and front-office staff. In parallel, sessions were held with members of the public who were invited to interact with Alluvio's prototype interface, followed by a short structured feedback session.
+User testing was conducted through engagements with hotel directors and front-office staff. In parallel, sessions were held with members of the public who were invited to interact with Alluvio's prototype interface, followed by a short structured feedback session.
 
 Guest Feedback:
 
@@ -1054,7 +1054,7 @@ The AI Kiosk Assistant was a complementary device designed to work alongside exi
 
 ### User Testing and Analysis
 
-User testing was conducted across visits to luxury hotel properties in Singapore, where we engaged directly with hotel directors and front-office staff. In parallel, sessions were held with approximately 10 members of the public, who were invited to interact with a simulation of the Amara Hotel kiosk check-in flow alongside the AI Kiosk Assistant without prompts, followed by a short structured feedback session to capture unguided first impressions and usability concerns.
+User testing was conducted through engagements with hotel directors and front-office staff. In parallel, sessions were held with approximately 10 members of the public, who were invited to interact with a simulation of the Amara Hotel kiosk check-in flow alongside the AI Kiosk Assistant without prompts, followed by a short structured feedback session to capture unguided first impressions and usability concerns.
 
 Four key concerns were raised following feedback from hotel staff, industry partners, and potential guests:
 
@@ -1091,7 +1091,7 @@ Hotelly was a real-time AI overlay system designed to support front desk staff d
 
 ### User Testing and Analysis
 
-User testing was conducted across visits to luxury hotel properties in Singapore, where we engaged directly with hotel directors and front-office staff. To evaluate functional accuracy, simulated role-play sessions were conducted in which participants acted as guests interacting with Hotelly, while team members took on the role of hotel staff, allowing us to assess the system's real-time prompting accuracy, note summarisation, and usability under realistic conversational conditions.
+User testing was conducted through engagements with hotel directors and front-office staff. To evaluate functional accuracy, simulated role-play sessions were conducted in which participants acted as guests interacting with Hotelly, while team members took on the role of hotel staff, allowing us to assess the system's real-time prompting accuracy, note summarisation, and usability under realistic conversational conditions.
 
 Four key themes emerged from user testing with front desk staff and hospitality trainees:
 
@@ -1138,7 +1138,7 @@ Aria addressed the specific tension between conversation and data entry at the f
 
 ### User Testing and Analysis
 
-User testing was conducted across visits to luxury hotel properties in Singapore, where we engaged directly with hotel directors and front-office staff. To evaluate functional accuracy, simulated role-play sessions were conducted in which participants acted as guests interacting with Aria, while team members took on the role of hotel staff, allowing us to assess the system's team transcription accuracy and real-time data capture.
+User testing was conducted through engagements with hotel directors and front-office staff. To evaluate functional accuracy, simulated role-play sessions were conducted in which participants acted as guests interacting with Aria, while team members took on the role of hotel staff, allowing us to assess the system's team transcription accuracy and real-time data capture.
 
 Three key themes emerged from user testing with front desk staff and hospitality trainees:
 
@@ -1316,7 +1316,7 @@ In a traditional setting, the guest hands their passport to a staff member who e
 
 ## 6.7 NFC Module
 
-Payment processing in luxury hotels typically involves handing over a credit card to staff or navigating a payment terminal on a kiosk, both of which introduce friction where the guest must pause and engage with a separate device. We chose contactless NFC over alternatives such as QR code scanning or on-screen card entry for two reasons. First, it is the fastest physical payment interaction available, requiring only a single tap lasting less than a second. Second, and more importantly from a hospitality design perspective, a tap requires no visual attention or manual input, allowing the guest to maintain eye contact with the avatar and stay within the conversational experience rather than shifting focus to a separate payment interface. The hardware implementation and iterative enclosure design are detailed in Section 6.5.2.
+Payment processing in luxury hotels typically involves handing over a credit card to staff or navigating a payment terminal on a kiosk, both of which introduce friction where the guest must pause and engage with a separate device. We chose contactless NFC over alternatives such as QR code scanning or on-screen card entry for two reasons. First, it is the fastest physical payment interaction available that is also the most common and intuitive, requiring only a single tap lasting less than a second. Second, and more importantly from a hospitality design perspective, a tap requires no visual attention or manual input, allowing the guest to maintain eye contact with the avatar and stay within the conversational experience rather than shifting focus to a separate payment interface.
 
 <a id="6-8-design-considerations-for-ai-check-in-capabilities"></a>
 
@@ -1479,7 +1479,7 @@ The design process began with dimensioning the kiosk frame footprint against the
 
 The frame was constructed from 30x30mm aluminium T-slot extrusion profiles, selected for their ready availability, ease of cutting and drilling, and compatibility with the inner corner L-brackets and rhombus nut fasteners used throughout the assembly. Aluminium was preferred over steel for its lower weight, reducing the overall load on the AMR platform while maintaining sufficient structural rigidity for the prototype's requirements.
 
-The structure is organised into five functional levels, with component placement determined by ergonomic accessibility and spatial requirements, as shown in Figure 56 The first level sits at the base of the frame directly above the AMR platform and is intentionally left without a shelf panel to preserve access to the Sesto's control panel for routine startup and maintenance. The second level houses the Jetson module and the server box, positioned low in the structure as it requires no guest interaction and should only be accessed for maintenance and software updates. The third level is dedicated to the router, which requires the full clearance of that level due to its size and should be covered up for the same reason unless maintenance is required. The fourth level houses the NFC scanner and emergency stop button, positioned at approximately arms-reach height for intuitive guest interaction and accessible operator intervention. The passport reader is mounted at the front of this level, positioned to the side of the monitor to minimise guest reach distance and improve interaction intuitiveness. The fifth and uppermost level consists of a thick 5mm aluminium plate mounting the monitor stand, selected for the rigidity and load-bearing strength required to hold the monitor securely during robot movement, where acrylic would be insufficient.
+The structure is organised into five functional levels, with component placement determined by ergonomic accessibility and spatial requirements, as shown in Figure 56 The first level sits at the base of the frame directly above the AMR platform and is intentionally left without a screwed-on shelf panel to preserve access to the Sesto's control panel for routine startup and maintenance. The second level houses the Jetson module and the server box, positioned low in the structure as it requires no guest interaction and should only be accessed for maintenance and software updates. The third level is dedicated to the router, which requires the full clearance of that level due to its size and should be covered up for the same reason unless maintenance is required. The fourth level houses the NFC scanner and emergency stop button, positioned at approximately arms-reach height for intuitive guest interaction and accessible operator intervention. The passport reader is mounted at the front of the fifth level, positioned just to the side of the monitor to minimise guest reach distance and improve interaction intuitiveness. The fifth and uppermost level consists of a thick 5mm aluminium plate mounting the monitor stand, selected for the rigidity and load-bearing strength required to hold the monitor securely during robot movement, where acrylic would be insufficient.
 
 Intermediate shelf levels use 3mm white acrylic, chosen for its low cost, low weight, and ease of cutting, while matching the Sesto's default white body colour. The visible shelf surface is lined with maroon felt to reinforce the premium aesthetic of the overall system.
 
@@ -1625,7 +1625,7 @@ The first design iteration established the basic enclosure form but proved to be
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 69: Revised Passport Cover Design</strong></p>
 
-The passport reader is mounted on the shelf structure facing the guest. When the AI agent reaches the identity verification stage, the ESP32, which is in communication with the Jetson compute module, triggers an LED strip positioned along the bottom edge of the flat insertion surface, closest to the guest. Once the guest name has been found in the database, the LED strip on the passport scanner will automatically light up and blink continuously in green as the AI avatar instructs the guest to insert their passport, drawing on the universal association of green with a ready or go signal to intuitively indicate that the slot is ready for use while ensuring visibility even in low-light environments. Once the passport details have been captured, the LED strip automatically turns off. A sticker indicating the correct insertion orientation was also added to the passport reader surface as a visual cue, further reinforcing the flat insertion direction for guests.
+The passport reader is mounted on the shelf structure facing the guest. When the AI agent reaches the identity verification stage, the ESP32, which is in wireless communication with the Jetson compute module through the router, triggers an LED strip positioned along the bottom edge of the flat insertion surface, closest to the guest. Once the guest name has been found in the database, the LED strip on the passport scanner will automatically light up and blink continuously in green as the AI avatar instructs the guest to insert their passport, drawing on the universal association of green with a ready or go signal to intuitively indicate that the slot is ready for use while ensuring visibility even in low-light environments. Once the passport details have been captured, the LED strip automatically turns off. A sticker indicating the correct insertion orientation was also added to the passport reader surface as a visual cue, further reinforcing the flat insertion direction for guests.
 
 
 
@@ -1648,7 +1648,7 @@ The passport reader is mounted on the shelf structure facing the guest. When the
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 71: Green LED to Enhance User Experience                Figure 72: LED flash</strong></p>
 
-The LED strip also serves a functional role in the Optical Character Recognition (OCR) pipeline. As shown in Figure 73, the illumination provided by the LED flash improves image clarity and MRZ contrast, directly improving OCR accuracy under the varying lighting conditions typical of hotel lobbies.
+Another LED strip connected to the ESP32 also serves a functional role in the Optical Character Recognition (OCR) pipeline. As shown in Figure 73, the illumination provided by the LED flash improves image clarity and MRZ contrast, directly improving OCR accuracy under the varying lighting conditions typical of hotel lobbies.
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/6.5.1_with_without_flash.png" alt="Figure 73: Lighting enhancements for passport scanning" style="max-width: 60%;">
