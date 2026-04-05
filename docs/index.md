@@ -3494,7 +3494,7 @@ Feedback also revealed mixed views about the usefulness of the auto-fill feature
   body {
     margin: 0;
     padding: 0;
-    padding-left: 400px;
+    padding-left: 300px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
   }
   
@@ -3631,7 +3631,7 @@ Feedback also revealed mixed views about the usefulness of the auto-fill feature
   }
   
   .main-content {
-    margin-left: 320px;
+    margin-left: 20px;
     margin-right: 60px;
     padding: 40px 80px;
     max-width: 1100px;
