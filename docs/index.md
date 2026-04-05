@@ -1362,7 +1362,7 @@ The system, built on a SESTO Magnus AMR as the foundation, provides the physical
 
 The integrated check-in flow works as follows. The robot travels to the guest upon arrival, and a staff member assists the guest in loading luggage onto the robot platform, before introducing the AI Concierge Agent (also referred to as the AI avatar). The AI avatar is able to greet the guest by voice and asks for his/her name. Through natural conversation, the agent retrieves the guest's reservation, prompts them to scan their passport on the robot-mounted camera, confirms booking details, offers a room upgrade if available, and processes payment via NFC card tap. Upon completion, the guest receives a digital room key by email (with Apple Wallet support), and the robot autonomously navigates to escort them to their room, continuing to converse along the way.
 
-<iframe width="1000" height="600" src="https://youtu.be/Ib0czW4uUcc" title="ELEVIA Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://youtu.be.com/embed/Ib0czW4uUcc" title="ELEVIA Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p align="center"><strong>Final Prototype Demo Video</strong></p>
 
