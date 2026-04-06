@@ -1851,51 +1851,48 @@ To draw power from this outlet, we procured an Amphenol CONEC 302W2CPXX41A10X co
 </div>
 
 With the source voltage and maximum current established, we identified the input voltage requirements for each component as summarised in Table 15 below.
-
-<div style="display: flex; justify-content: center; margin: 16px 0;">
-  <table style="margin: 0 auto;">
-    <thead>
-      <tr>
-        <th>Component</th>
-        <th>Source/ Input Voltage</th>
-        <th>Current</th>
-        <th>Step-Down Required</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>SESTO Magnus AMR (Output)</td>
-        <td>48V DC</td>
-        <td>20A max</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Jetson Orin Nano</td>
-        <td>19V DC</td>
-        <td>2.37A</td>
-        <td>48V to 19V</td>
-      </tr>
-      <tr>
-        <td>ESP-32</td>
-        <td>5 to 9V DC</td>
-        <td>1.5A</td>
-        <td>48V to 5V</td>
-      </tr>
-      <tr>
-        <td>WiFi Router</td>
-        <td>12V DC</td>
-        <td>2A</td>
-        <td>48V to 12V</td>
-      </tr>
-      <tr>
-        <td>LED Monitor</td>
-        <td>19V DC</td>
-        <td>240mA</td>
-        <td>48V to 19V</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table style="margin-left:auto; margin-right:auto; margin-top: 16px; margin-bottom: 16px;">
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Source/ Input Voltage</th>
+      <th>Current</th>
+      <th>Step-Down Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SESTO Magnus AMR (Output)</td>
+      <td>48V DC</td>
+      <td>20A max</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jetson Orin Nano</td>
+      <td>19V DC</td>
+      <td>2.37A</td>
+      <td>48V to 19V</td>
+    </tr>
+    <tr>
+      <td>ESP-32</td>
+      <td>5 to 9V DC</td>
+      <td>1.5A</td>
+      <td>48V to 5V</td>
+    </tr>
+    <tr>
+      <td>WiFi Router</td>
+      <td>12V DC</td>
+      <td>2A</td>
+      <td>48V to 12V</td>
+    </tr>
+    <tr>
+      <td>LED Monitor</td>
+      <td>19V DC</td>
+      <td>240mA</td>
+      <td>48V to 19V</td>
+    </tr>
+  </tbody>
+</table>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 15: Power Requirements of Prototype Components</strong></p>
 
