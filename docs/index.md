@@ -1138,13 +1138,11 @@ Aria addressed the specific tension between conversation and data entry at the f
 
 ### User Testing and Analysis
 
-User testing was conducted through engagements with hotel directors and front-office staff. To evaluate functional accuracy, simulated role-play sessions were conducted in which participants acted as guests interacting with Aria, while team members took on the role of hotel staff, allowing us to assess the system's team transcription accuracy and real-time data capture.
+Feedback was gathered through a structured discussion with a front office manager and an IT director, conducted using a video demonstration of the Aria prototype. Three key themes emerged:
 
-Three key themes emerged from user testing with front desk staff and hospitality trainees:
-
-- Accuracy Concerns: Managers worried about errors from misheard or misinterpreted speech propagating into guest records and PMS systems  
-- Privacy and PDPA Compliance: Central concerns around when the system was actively listening and how audio data was stored and handled  
-- Strong Validation of Core Concept: The tool was well received for reducing typing burden and enabling staff to stay more present during guest conversations, confirming that administrative overhead is a significant barrier to high-touch service
+- Accuracy Concerns: The manager raised concerns about staff over-relying on AI, worrying that errors from misheard or misinterpreted speech could propagate into guest records and PMS systems and cause incidents.
+- Privacy and PDPA Compliance: Concerns were raised around voice data sensitivity, consent, and data handling, including the risk of staff activating the tool without first obtaining guest consent.
+- Contextual Value of the Tool: The value of auto-fill was acknowledged for capturing guest preferences and routing requests directly. However, its benefit was questioned for short, simple interactions where manual input is just as fast, shaping our understanding that Aria is most valuable in longer, information-heavy, or multitasking check-in scenarios.
 
 *The full design rationale, value proposition, and prototype documentation for Aria are included in Appendix L.*  
 
@@ -1197,7 +1195,7 @@ These shifts were captured in 2 more in-depth How Might We statements, building 
 
 As such, two new concept directions emerged in parallel, each attempting to address the gaps the AeroHost prototype had exposed.
 
-The first was a low-profile luggage robot capable of flattening itself to ground level so that guests could load their baggage without lifting which would directly resolve the handoff friction that had been among the most criticised moments in the Dark Horse testing. In its standard operating form, the robot would rise to its full height and function as a mobile amenity, guide and AI recommendation platform. The team briefly explored an alternative mechanical approach using a forklift-style system to hook and drag luggage autonomously, but this too was set aside as impractical. More fundamentally, the team recognised the need to first validate whether guests actually wanted an autonomous luggage companion at all before committing to complex hardware, and the Autonomous Mobile Robot (AMR) platform available did not readily support the flattening mechanism in any case.
+The first was a low-profile luggage robot capable of flattening itself to ground level so that guests could load their baggage without lifting which would directly resolve the handoff friction that had been among the most criticised moments in the Dark Horse testing. In its standard operating form, the robot would rise to its full height and function as a mobile amenity, guide and AI recommendation platform. We briefly explored an alternative mechanical approach using a forklift-style system to hook and drag luggage autonomously, but this too was set aside as impractical. More fundamentally, the team recognised the need to first validate whether guests actually wanted an autonomous luggage companion at all before committing to complex hardware, and the Autonomous Mobile Robot (AMR) platform available at the University did not readily support the flattening mechanism in any case.
 
 
 
@@ -1304,7 +1302,7 @@ We designed the AI concierge as an LLM-driven agent with function-calling capabi
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 45: AI Concierge Persona</strong></p>
 
-This architecture addresses three design principles. First, automation as service augmentation: responses are short and tuned for spoken delivery, replicating the warmth of a human concierge. Second, grounded interaction: the agent never fabricates hotel data, as every factual answer is retrieved through tool calls. Third, continuity beyond the transaction: after check-in, the agent continues conversing during the robot escort, maintaining the feeling of being hosted throughout arrival.
+This architecture addresses three core considerations. First, automation as service augmentation: responses are short and tuned for spoken delivery, replicating the warmth of a human concierge. Second, grounded interaction: the agent never fabricates hotel data, as every factual answer is retrieved through tool calls. Third, continuity beyond the transaction: after check-in, the agent continues conversing during the robot escort, maintaining the feeling of being hosted throughout arrival.
 
 <a id="6-6-passport-reader"></a>
 
@@ -2582,7 +2580,7 @@ Benny Fok – Front Office Manager
   <img src="assets/final/images/Appendix_A_Img_shangrila.jpg" alt="Figure A.2: Shangri-La Singapore (site visit photograph)" style="max-width: 50%;">
 </div>
 
-Figure A.2. Shangri-La Singapore (site visit photograph)
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure A.2: Shangri-La Singapore (site visit photograph)</strong></p>
 
 **A.3 Raffles Hotel Singapore**  
 At Raffles Hotel Singapore, we engaged with stakeholders to understand the perspectives from an iconic luxury heritage brand.
@@ -2598,7 +2596,7 @@ Christian Westbeld – Managing Director
   <img src="assets/final/images/Appendix_A_Img_raffles.jpg" alt="Figure A.3: Raffles Hotel Singapore – lobby and entrance area (site visit photograph)" style="max-width: 50%;">
 </div>
 
-Figure A.3. Raffles Hotel Singapore – lobby and entrance area (site visit photograph)
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure A.3: Raffles Hotel Singapore – lobby and entrance area (site visit photograph)</strong></p>
 
 **A.4 Banyan Tree Headquarters**  
 We visited the Banyan Tree Headquarters to gain a brand-level perspective on guest experience and the strategic role of technology and AI across the group’s portfolio.
@@ -2613,7 +2611,7 @@ Sheriann – Business Development Team
   <img src="assets/final/images/Appendix_A_Img_banyanhq.jpg" alt="Figure A.4: Banyan Tree Headquarters (site visit photograph)" style="max-width: 50%;">
 </div>
 
-Figure A.4. Banyan Tree Headquarters (site visit photograph)
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure A.4: Banyan Tree Headquarters (site visit photograph)</strong></p>
 
 **A.5 Mandai Rainforest Resort**  
 We also visited Mandai Rainforest Resort, a flagship resort under Banyan Tree.
@@ -2628,7 +2626,7 @@ Joan Yao – Director, Rooms
   <img src="assets/final/images/Appendix_A_Img_banyanresort.jpg" alt="Figure A.5: Mandai Rainforest Resort – arrival area (site visit photograph" style="max-width: 50%;">
 </div>
 
-Figure A.5. Mandai Rainforest Resort – arrival area (site visit photograph
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure A.5: Mandai Rainforest Resort – arrival area (site visit photograph)</strong></p>
 
 <a id="appendix-b"></a>
 
@@ -2663,7 +2661,11 @@ These clusters were then distilled into key insights and design implications for
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/Appendix_C_wheel.png" alt="Empathy Map" style="max-width: 100%;">
+  <img src="assets/final/images/Appendix_C_wheel.png" alt="Empathy Map" style="max-width: 30%;">
+</div>
+
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/Appendix_C_mapping.png" alt="Empathy Map" style="max-width: 30%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure C.1: Empathy Map</strong></p>
@@ -2768,7 +2770,7 @@ The team employed a structured observational approach drawing on the AEIOU frame
 **Fly-on-the-Wall:** We positioned ourselves in lobby areas without engaging staff or guests, allowing natural behaviour to emerge uninterrupted. This approach was selected to minimise the Hawthorne Effect: the documented tendency for individuals to modify their behaviour when they know they are being observed. By blending into the lobby environment, we were able to capture operational patterns that would not be visible during a formal site visit or guided tour.
 
 **Validation Against Interview Themes**  
-Raw field notes were collected across all properties and organised into three thematic clusters as seen in <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.2: These were then mapped against the seven key themes identified in the staff interviews (Section 3.3.3) to assess where direct observation confirmed, qualified, or contradicted what practitioners had reported.</strong></p>
+Raw field notes were collected across all properties and organised into three thematic clusters as seen in Figure D.2: These were then mapped against the seven key themes identified in the staff interviews (Section 3.3.3) to assess where direct observation confirmed, qualified, or contradicted what practitioners had reported.
 
   
 
@@ -2776,7 +2778,7 @@ Raw field notes were collected across all properties and organised into three th
   <img src="assets/final/images/Appendix_D_Clustering.png" alt="Three Thematic Clusters" style="max-width: 100%;">
 </div>
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.3: Three Thematic Clusters Surfaced</strong></p>
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.2: Three Thematic Clusters Surfaced</strong></p>
 
 The thematic clustering is accessible at the link below: [https://taroboro.github.io/thematicinsighthotels/](https://taroboro.github.io/thematic_insight_hotels/) 
 
@@ -2790,7 +2792,7 @@ Some images from our field observation can be found below
   <img src="assets/final/images/Appendix_D_staff_bundling.png" alt="Staff unloading and bundling luggage" style="max-width: 100%;">
 </div>
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.4: Staff member unloading and bundling luggage from vehicle</strong></p>
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.3: Staff member unloading and bundling luggage from vehicle</strong></p>
 
   
 
@@ -2798,7 +2800,7 @@ Some images from our field observation can be found below
   <img src="assets/final/images/Appendix_D_multiple_bellboys.png" alt="Multiple bellboys" style="max-width: 100%;">
 </div>
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.5: Multiple bellboys attending to a single vehicle </strong></p>
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.4: Multiple bellboys attending to a single vehicle </strong></p>
 
 *Luggage Handling*
 
@@ -2808,7 +2810,7 @@ Some images from our field observation can be found below
   <img src="assets/final/images/Appendix_D_many_loose_bags.png" alt="Luggage with loose bags" style="max-width: 100%;">
 </div>
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.6: Luggage with plastic bags of souvenirs alongside formal luggage </strong></p>
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.5: Luggage with plastic bags of souvenirs alongside formal luggage </strong></p>
 
   
 
@@ -2816,7 +2818,7 @@ Some images from our field observation can be found below
   <img src="assets/final/images/Appendix_D_central_luggage.png" alt="Central luggage handling point" style="max-width: 100%;">
 </div>
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.7: Central luggage handling point — groups of luggage placed on floor before trolley loading </strong></p>
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.6: Central luggage handling point — groups of luggage placed on floor before trolley loading </strong></p>
 
 
 
@@ -2825,7 +2827,7 @@ Some images from our field observation can be found below
   <img src="assets/final/images/Appendix_D_luggage_diagonal.png" alt="Luggage cart pulled diagonally" style="max-width: 100%;">
 </div>
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.8: Luggage cart pulled diagonally across lobby, cutting through guest circulation paths</strong></p>
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure D.7: Luggage cart pulled diagonally across lobby, cutting through guest circulation paths</strong></p>
 
 <a id="appendix-e"></a>
 
@@ -2882,15 +2884,44 @@ The broader rating range was a deliberate methodological choice: by including po
 
 **Key Findings**
 
-
-| Dimension          | Avg Score | No. of Reviews Scored |
-| ------------------ | --------- | --------------------- |
-| Luggage Handling   | 3.37      | 68                    |
-| High Touch Service | 3.59      | 34                    |
-| Staff Availability | 3.46      | 37                    |
-| Staff Competency   | 3.28      | 32                    |
-| Staff Attitude     | 3.67      | 45                    |
-
+<div style="text-align: center; margin: 24px 0;">
+  <table style="margin-left: auto; margin-right: auto;">
+    <thead>
+      <tr>
+        <th>Dimension</th>
+        <th>Avg Score</th>
+        <th>No. of Reviews Scored</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Luggage Handling</td>
+        <td>3.37</td>
+        <td>68</td>
+      </tr>
+      <tr>
+        <td>High Touch Service</td>
+        <td>3.59</td>
+        <td>34</td>
+      </tr>
+      <tr>
+        <td>Staff Availability</td>
+        <td>3.46</td>
+        <td>37</td>
+      </tr>
+      <tr>
+        <td>Staff Competency</td>
+        <td>3.28</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>Staff Attitude</td>
+        <td>3.67</td>
+        <td>45</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Overall average rating:** 3.5 / 5.0 across 109 reviews
 
@@ -2904,10 +2935,8 @@ The review data corroborates several key themes from staff interviews. Low score
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/Appendix_F_img.png" alt="Broader Sentiment Dashboard" style="max-width: 100%;">
+  <img src="assets/final/images/Appendix_F_img.png" alt="Figure F.1: Broader Sentiment Dashboard" style="max-width: 70%;">
 </div>
-
-****<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure F.1: Broader Sentiment Dashboard</strong></p>
 
 <a id="appendix-g"></a>
 
