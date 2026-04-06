@@ -480,7 +480,7 @@ To validate and build upon the insights gathered through staff interviews, we co
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 3: Thematic Clusters from Hotel Observations</strong></p>
 
-Validation Summary
+#### Validation Summary
 
 Field observations independently confirmed four interview themes on-site. Observation also surfaced one blind spot not captured in interviews, guest behaviour, specifically the preference to keep belonging with them at all times, and placement of personal items on lobby floors, as a contributing factor to visual clutter and diminished luxury perception.
 
