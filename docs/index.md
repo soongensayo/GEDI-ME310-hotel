@@ -953,7 +953,7 @@ Building on the three design directions and the pain points identified through p
 
 ### 5.3.1 Alluvio:  Pre-Arrival Personalisation Platform
 
-Alluvio addressed the personalisation gap that exists when guests book through Online Travel Agencies, which dominate hotel bookings across Asia, Europe, and the United States but frequently fail to pass accurate guest preference data to hotels. The concept was a web and mobile platform combining OTA-like discovery with a direct, personalised data relationship between guest and hotel. Guests could build dynamic preference profiles through a swipe-based interface, store travel documents securely, and share this information with onboarded hotels ahead of arrival. Hotels in turn could use this data to personalise the stay from the moment of booking rather than relying on staff memory or incomplete PMS records.
+Alluvio addressed the personalisation gap that exists when guests book through Online Travel Agencies, which dominate hotel bookings across Asia, Europe, and the United States but frequently fail to pass accurate guest preference data to hotels. The concept was a web and mobile platform combining OTA-like discovery with a direct, personalised data relationship between guest and hotel. Guests could build dynamic preference profiles through a swipe-based interface, store travel documents securely, and share this information with onboarded hotels ahead of arrival. Hotels in turn could use this data to personalise the stay from the moment of booking rather than relying on staff memory or incomplete PMS records. Click the videos below to watch the demonstrations.
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/eHiLBygFeXg" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1017,7 +1017,7 @@ Hotel Staff Feedback:
 
 ### 5.3.2 AI Kiosk Assistant: Conversational Layer for Self-Service Check-In
 
-The AI Kiosk Assistant was a complementary device designed to work alongside existing kiosk hardware, adding conversational warmth and guidance without requiring a full system overhaul. It used a natural voice interface to welcome guests, walk them through each step of the check-in process, answer simple questions, and escalate exceptions to staff when needed. Unlike a standard kiosk, it could pick up basic preferences during conversation and respond with an emotionally aware tone aligned with luxury expectations.
+The AI Kiosk Assistant was a complementary device designed to work alongside existing kiosk hardware, adding conversational warmth and guidance without requiring a full system overhaul. It used a natural voice interface to welcome guests, walk them through each step of the check-in process, answer simple questions, and escalate exceptions to staff when needed. Unlike a standard kiosk, it could pick up basic preferences during conversation and respond with an emotionally aware tone aligned with luxury expectations. Click the video below to watch a demonstration.
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/8P1xABYvYyA" title="AI Kiosk Assistant Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1071,7 +1071,7 @@ Four key concerns were raised following feedback from hotel staff, industry part
 
 ### 5.3.3 Hotelly: AI Co-Pilot for Front Desk Staff
 
-Hotelly was a real-time AI overlay system designed to support front desk staff during guest interactions without replacing them. Operating as a discreet, desktop-based interface, it surfaced contextual prompts, guest profile information, policy references, and local recommendations at the relevant moment in a conversation, reducing the cognitive load of simultaneously managing data entry, guest rapport, and question-handling. It also automated the capture and summarisation of guest preferences and interaction notes, improving shift handover continuity.
+Hotelly was a real-time AI overlay system designed to support front desk staff during guest interactions without replacing them. Operating as a discreet, desktop-based interface, it surfaced contextual prompts, guest profile information, policy references, and local recommendations at the relevant moment in a conversation, reducing the cognitive load of simultaneously managing data entry, guest rapport, and question-handling. It also automated the capture and summarisation of guest preferences and interaction notes, improving shift handover continuity. Click the video below to watch a demonstration.
 
 <iframe width="1000" height="600" src="https://www.youtube.com/embed/3t5eh34Za-s" title="Hotelly Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
@@ -1110,7 +1110,7 @@ Four key themes emerged from user testing with front desk staff and hospitality 
 
 ### 5.3.4 Aria — Voice-Driven Data Capture Assistant
 
-Aria addressed the specific tension between conversation and data entry at the front desk. Rather than prompting staff with information, Aria listened to guest conversations, transcribed key details in real time, and automatically populated relevant fields in the PMS without requiring staff to type. Staff could verify, edit, and approve all captured information before it was saved, maintaining accuracy and accountability. Aria could also surface relevant answers to guest questions, suggest follow-up prompts, and reference hotel policies, FAQs, and room availability in real time.
+Aria addressed the specific tension between conversation and data entry at the front desk. Rather than prompting staff with information, Aria listened to guest conversations, transcribed key details in real time, and automatically populated relevant fields in the PMS without requiring staff to type. Staff could verify, edit, and approve all captured information before it was saved, maintaining accuracy and accountability. Aria could also surface relevant answers to guest questions, suggest follow-up prompts, and reference hotel policies, FAQs, and room availability in real time. Click the video below to watch a demonstration.
 
 <iframe width="1000" height="600" src="https://youtube.com/embed/YVOP8cJANXY" title="Alluvio Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -1399,7 +1399,7 @@ The integrated check-in flow works as follows. The robot travels to the guest u
   <div style="margin-top: 30px; text-align:center;">
     <span style="display: inline-flex; align-items: center; font-size:1.15em; color:#222; font-weight: 600; letter-spacing: 0.3px;">
       <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3ac.svg" alt="🎬" style="height:1.4em; width:1.4em; margin-right:8px; vertical-align: middle;">
-      Final Prototype Demo Video
+      Video 6: Final Prototype Demo Video
     </span>
   </div>
 
