@@ -1442,7 +1442,7 @@ We mounted a dedicated WiFi router with a SIM card onto the SESTO Magnus to serv
 
 #### 7.2.1.2 Environment Mapping
 
-We mapped the EDIC Hub by manually driving the SESTO Magnus around the space using a wired remote controller, as shown in Figure XX, tracing the perimeter first before covering all navigable internal paths. This allowed the system to register fixed obstacles such as tables, chairs, and couches throughout the space. The completed floor map as rendered in the Fleet UI is shown in Figure XX.
+We mapped the EDIC Hub by manually driving the SESTO Magnus around the space using a wired remote controller, as shown in Figure 50, tracing the perimeter first before covering all navigable internal paths. This allowed the system to register fixed obstacles such as tables, chairs, and couches throughout the space. The completed floor map as rendered in the Fleet UI is shown in Figure 51.
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/7.2.1.2_Remote_Controller.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 40%;">
@@ -1468,7 +1468,7 @@ After mapping, we initialised the AMR by physically pushing it to the designated
 
 #### 7.2.1.4 Waypoint Configuration
 
-We plotted waypoints across the EDIC Hub to simulate a hotel environment, defining a minimum of one recovery point, one park point, and one charging point as required by the system. The recovery point was set as the AMR's default standby position when idle. Additional waypoints representing hotel locations including the hotel porch, lobby, restaurant, and room destinations such as Rooms 2501, 1501, and 3501 were placed at distinct reference points around the hub as shown in Figure XX. For each destination waypoint, we configured the arrival heading angle to ensure the AMR oriented itself correctly relative to the guest upon reaching its destination, which is important for a natural and intuitive handover moment at the room entrance.
+We plotted waypoints across the EDIC Hub to simulate a hotel environment, defining a minimum of one recovery point, one park point, and one charging point as required by the system. The recovery point was set as the AMR's default standby position when idle. Additional waypoints representing hotel locations including the hotel porch, lobby, restaurant, and room destinations such as Rooms 2501, 1501, and 3501 were placed at distinct reference points around the hub as shown in Figure 52. For each destination waypoint, we configured the arrival heading angle to ensure the AMR oriented itself correctly relative to the guest upon reaching its destination, which is important for a natural and intuitive handover moment at the room entrance.
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/7.2.1.4_Waypoints.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 50%;">
@@ -1480,7 +1480,7 @@ We plotted waypoints across the EDIC Hub to simulate a hotel environment, defini
 
 #### 7.2.1.5 Safety Parameters
 
-We set the obstacle stopping distance to 1 metre, ensuring the AMR decelerates and halts well before entering the personal space of nearby guests during navigation. Selected configuration parameters are shown in Figure XX.
+We set the obstacle stopping distance to 1 metre, ensuring the AMR decelerates and halts well before entering the personal space of nearby guests during navigation. Selected configuration parameters are shown in Figure 53.
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/7.2.1.5_Configurations Parameter1.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 30%;">
@@ -1873,7 +1873,7 @@ Since the components required different input voltages stepped down from the 48V
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 83: Wiring of Buck Converter</strong></p>
 
-All wired components were then consolidated using Wago 221 push-in wire clamp terminals, allowing every component to draw power from the single AMR source through one unified connection point. An example of the wiring assembly is shown in Figure XX.
+All wired components were then consolidated using Wago 221 push-in wire clamp terminals, allowing every component to draw power from the single AMR source through one unified connection point. An example of the wiring assembly is shown in Figure 84.
 
 <!-- image pending -->
 
