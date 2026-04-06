@@ -901,7 +901,9 @@ To ground the design process in real guest experience, we mapped four current-st
 
 *Detailed stage-by-stage breakdowns of each journey are included in Appendix G.*
 
-**5.2 Stakeholder Needs**
+<a id="5-2-stakeholder-needs"></a>
+
+## 5.2 Stakeholder Needs
 
 The luxury hotel check-in ecosystem involves a complex network of stakeholders whose roles, expectations, and challenges directly shape the arrival experience. Four primary stakeholder groups were identified: guests, front-office staff, hotel management, and technology departments. Their needs and pain points serve as the basis for our three design pillars: Empowering Staff, Personalisation Intelligence, and Human-Centric Automation.Guests
 
@@ -3846,6 +3848,7 @@ Feedback also revealed mixed views about the usefulness of the auto-fill feature
         <a href="#5-design-exploration-solution-development">5 Design Exploration &amp; Solution Development</a>
         <ul>
           <li><a href="#5-1-user-journey-map">5.1 User Journey Map</a></li>
+          <li><a href="#5-2-stakeholder-needs">5.2 Stakeholder Needs</a></li>
           <li><a href="#5-3-initial-ideas">5.3 Initial Ideas</a></li>
           <li><a href="#5-4-stanford-dark-horse-prototyping-experience-the-turning-point">5.4 Stanford &amp; Dark Horse</a></li>
           <li><a href="#5-5-new-refined-ideas">5.5 New &amp; Refined Ideas</a></li>
