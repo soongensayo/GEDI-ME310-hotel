@@ -854,9 +854,7 @@ The research conducted across Sections 3.1 to 3.6 converges on four distinct but
 
 ## 5.1 User Journey Map
 
-```
 To ground the design process in real guest experience, we mapped four current-state journeys based on hotel interviews, walkthroughs, and observations conducted across multiple Singapore luxury properties. The maps cover three key touchpoints of the guest arrival experience: pre-arrival, check-in, spanning both traditional counter and self-service kiosk modes, and the luggage handling journey.
-```
 
 
 <div style="text-align: center; margin: 16px 0;">
