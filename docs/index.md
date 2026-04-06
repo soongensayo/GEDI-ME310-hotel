@@ -1961,7 +1961,7 @@ To evaluate the final solution concept and gather actionable feedback for furthe
   <img src="assets/final/images/7.1_NUS_OpenHouse2.png" alt="Figure 88" style="max-width: 30%;">
 </div>
 
-  **Figure 87 and Figure 88: Our booth at NUS Open House     **                                                
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 87 and Figure 88: Our booth at NUS Open House</strong></p>                                             
 
 <a id="8-1-1-methodology"></a>
 
