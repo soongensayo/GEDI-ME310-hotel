@@ -1366,9 +1366,45 @@ The system, built on a SESTO Magnus AMR as the foundation, provides the physical
 
 The integrated check-in flow works as follows. The robot travels to the guest upon arrival, and a staff member assists the guest in loading luggage onto the robot platform, before introducing the AI Concierge Agent (also referred to as the AI avatar). The AI avatar is able to greet the guest by voice and asks for his/her name. Through natural conversation, the agent retrieves the guest's reservation, prompts them to scan their passport on the robot-mounted camera, confirms booking details, offers a room upgrade if available, and processes payment via NFC card tap. Upon completion, the guest receives a digital room key by email (with Apple Wallet support), and the robot autonomously navigates to escort them to their room, continuing to converse along the way.
 
-<iframe width="1000" height="600" src="https://youtube.com/embed/Ib0czW4uUcc" title="ELEVIA Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- ====== HERO SECTION: DEMO VIDEO ====== -->
+<div style="width:100%; margin: 48px 0 48px 0; display: flex; flex-direction: column; align-items: center;">
 
-<p align="center"><strong>Final Prototype Demo Video</strong></p>
+  <!-- Top Divider -->
+  <div style="width: 70%; border-top: 4px solid #0859AD; border-radius: 3px; margin-bottom: 28px;"></div>
+  
+  <!-- Hero Headline -->
+  <h2 style="
+      font-size: 2.6em; 
+      color: #0859AD; 
+      font-weight: 800; 
+      letter-spacing: 1px; 
+      margin: 0 0 18px 0;
+      text-shadow: 0 3px 16px rgba(8,89,173,0.10);">
+    <span style="background: linear-gradient(90deg,#E9B42F 20%, #50B3FF 80%); color:transparent; background-clip:text; -webkit-background-clip:text;">Experience ELEVIA in Action</span>
+  </h2>
+
+  <p style="font-size:1.2em; max-width:700px; color:#444; margin-bottom: 40px; text-align:center;">
+    Watch the full prototype showcase: <b>ELEVIA—our all-in-one premium autonomous check-in robot—delivering seamless guest arrival, AI-powered concierge, and effortless luggage transport.
+    </b>
+  </p>
+
+  <!-- Demo Video Responsive Container -->
+  <div style="position:relative; padding-bottom: 56.25%; height:0; max-width: 1000px; width: 100%; box-shadow: 0 8px 40px 0 rgb(80,179,255,0.23); border-radius:18px; overflow:hidden; background:#f3f8fd;">
+    <iframe src="https://youtube.com/embed/Ib0czW4uUcc" title="ELEVIA Demo Video" frameborder="0" style="position:absolute; top:0; left:0; width:100%; height:100%;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+
+  <!-- Label with icon -->
+  <div style="margin-top: 30px; text-align:center;">
+    <span style="display: inline-flex; align-items: center; font-size:1.15em; color:#222; font-weight: 600; letter-spacing: 0.3px;">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3ac.svg" alt="🎬" style="height:1.4em; width:1.4em; margin-right:8px; vertical-align: middle;">
+      Final Prototype Demo Video
+    </span>
+  </div>
+
+  <!-- Bottom Divider -->
+  <div style="width: 70%; border-top: 4px solid #0859AD; border-radius: 3px; margin-top: 36px;"></div>
+</div>
+<!-- ====== END HERO SECTION ====== -->
 
 Critically, the AI agent drives all screen transitions. Rather than a fixed sequence of button presses, the LLM decides what the screen displays next based on the conversation, keeping the interaction natural and responsive. If the guest asks an off-topic question mid-flow, wants to skip the upgrade offer, or gives a misspelled name, the system adapts without breaking. This conversational flexibility was a deliberate design response to the finding that rigid kiosk workflows feel transactional and impersonal.
 
@@ -1381,7 +1417,7 @@ This final prototype involved iterative enhancements of multiple subsystems, nam
 For the purpose of prototyping and validating the ELEVIA concept, the team utilised the SESTO Magnus AMR available through EDIC's lab, as shown in Figure 49, rather than fabricating a bespoke platform. This decision allowed development effort to be concentrated on the components unique to the concept, namely the AI avatar capabilities and system integration, while still realising a fully functional end-to-end prototype.
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/5.1_SESTOAMR.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 100%;">
+  <img src="assets/final/images/5.1_SESTOAMR.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 70%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 49: SESTO Magnus AMR</strong></p>
@@ -1407,7 +1443,7 @@ We mounted a dedicated WiFi router with a SIM card onto the SESTO Magnus to serv
 We mapped the EDIC Hub by manually driving the SESTO Magnus around the space using a wired remote controller, as shown in Figure XX, tracing the perimeter first before covering all navigable internal paths. This allowed the system to register fixed obstacles such as tables, chairs, and couches throughout the space. The completed floor map as rendered in the Fleet UI is shown in Figure XX.
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.2.1.2_Remote_Controller.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 50%;">
+  <img src="assets/final/images/7.2.1.2_Remote_Controller.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 40%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 50: Remote Controller of the SESTO Magnus AMR</strong></p>
@@ -1445,7 +1481,7 @@ We plotted waypoints across the EDIC Hub to simulate a hotel environment, defini
 We set the obstacle stopping distance to 1 metre, ensuring the AMR decelerates and halts well before entering the personal space of nearby guests during navigation. Selected configuration parameters are shown in Figure XX.
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.2.1.5_Configurations Parameter1.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 50%;">
+  <img src="assets/final/images/7.2.1.5_Configurations Parameter1.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 30%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 53: Configuration Parameters of each waypoint and intermediaries</strong></p>
