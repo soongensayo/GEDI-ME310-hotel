@@ -1386,7 +1386,7 @@ The integrated check-in flow works as follows. The robot travels to the guest u
   </h2>
 
   <p style="font-size:1.2em; max-width:700px; color:#444; margin-bottom: 40px; text-align:center;">
-    Watch the full prototype showcase: <b>ELEVIA—our all-in-one premium autonomous check-in robot—delivering seamless guest arrival, AI-powered concierge, and effortless luggage transport.
+    Watch the full prototype showcase: <b>ELEVIA, our all-in-one premium autonomous check-in robot—delivering seamless guest arrival, AI-powered concierge, and effortless luggage transport.
     </b>
   </p>
 
