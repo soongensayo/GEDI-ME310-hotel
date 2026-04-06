@@ -2878,13 +2878,38 @@ This appendix documents the methodology, framework, and summarised notes from th
 
 **Observation Details**
 
-
-| Property            | Time        | Duration | Observers |
-| ------------------- | ----------- | -------- | --------- |
-| Marina Bay Sands    | 2:00–4:30pm | 2.5 hrs  | 2         |
-| Fullerton Bay Hotel | 2.00-2.30pm | 30 mins  | 2         |
-| The Fullerton Hotel | 2.30pm-4pm  | 1.5 hrs  | 2         |
-
+<div style="text-align: center; width: 100%;">
+<table class="rt rt-centered">
+  <thead>
+    <tr>
+      <th>Property</th>
+      <th>Time</th>
+      <th>Duration</th>
+      <th>Observers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Marina Bay Sands</td>
+      <td>2:00–4:30pm</td>
+      <td>2.5 hrs</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Fullerton Bay Hotel</td>
+      <td>2.00-2.30pm</td>
+      <td>30 mins</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>The Fullerton Hotel</td>
+      <td>2.30pm-4pm</td>
+      <td>1.5 hrs</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 **Observational Methodology**  
 Observational research was selected as a complementary method to the interviews documented in Section 3.3.3. While interviews surface staff accounts of the check-in experience, observation captures what actually happens,  including behaviours, adaptations, and frictions that practitioners may not consciously register or volunteer. The distinction is deliberate: staff accounts are shaped by professional norms, institutional memory, and the desire to present their operations favourably, whereas direct observation is not subject to these filters.
@@ -3016,43 +3041,43 @@ The broader rating range was a deliberate methodological choice: by including po
 
 **Key Findings**
 
-<div style="text-align: center; margin: 24px 0;">
-  <table style="margin-left: auto; margin-right: auto;">
-    <thead>
-      <tr>
-        <th>Dimension</th>
-        <th>Avg Score</th>
-        <th>No. of Reviews Scored</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Luggage Handling</td>
-        <td>3.37</td>
-        <td>68</td>
-      </tr>
-      <tr>
-        <td>High Touch Service</td>
-        <td>3.59</td>
-        <td>34</td>
-      </tr>
-      <tr>
-        <td>Staff Availability</td>
-        <td>3.46</td>
-        <td>37</td>
-      </tr>
-      <tr>
-        <td>Staff Competency</td>
-        <td>3.28</td>
-        <td>32</td>
-      </tr>
-      <tr>
-        <td>Staff Attitude</td>
-        <td>3.67</td>
-        <td>45</td>
-      </tr>
-    </tbody>
-  </table>
+<div style="text-align: center; width: 100%;">
+<table class="rt rt-centered">
+  <thead>
+    <tr>
+      <th>Dimension</th>
+      <th>Avg Score</th>
+      <th>No. of Reviews Scored</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Luggage Handling</td>
+      <td>3.37</td>
+      <td>68</td>
+    </tr>
+    <tr>
+      <td>High Touch Service</td>
+      <td>3.59</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td>Staff Availability</td>
+      <td>3.46</td>
+      <td>37</td>
+    </tr>
+    <tr>
+      <td>Staff Competency</td>
+      <td>3.28</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td>Staff Attitude</td>
+      <td>3.67</td>
+      <td>45</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 **Overall average rating:** 3.5 / 5.0 across 109 reviews
