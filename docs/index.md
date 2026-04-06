@@ -2205,13 +2205,13 @@ When the robot was repositioned to face the back wall of the lift, the response 
 A second round of navigation testing was conducted in the open corridors and common areas of NUS, where the robot encountered approximately 10 pedestrians per minute. We wanted to observe how members of the public responded to the robot moving through shared space. 
 
 
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.4.2_image_one.png" alt="Figure 96" style="max-width: 100%;">
-</div>
-
-
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.4.2_image_two.png" alt="Figure 97" style="max-width: 100%;">
+<div style="display: flex; justify-content: center; gap: 24px; margin: 16px 0;">
+  <div style="flex:1; max-width: 48%; text-align: center;">
+    <img src="assets/final/images/7.4.2_image_one.png" alt="Figure 96" style="max-width: 100%;">
+  </div>
+  <div style="flex:1; max-width: 48%; text-align: center;">
+    <img src="assets/final/images/7.4.2_image_two.png" alt="Figure 97" style="max-width: 100%;">
+  </div>
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 96 and Figure 97: Real-world corridor navigation testing. (left) A passerby waiting patiently for ELEVIA to pass, (right) pedestrians instinctively moving aside to make way for the robot</strong></p>
