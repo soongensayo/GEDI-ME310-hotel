@@ -1826,35 +1826,76 @@ Testing was conducted with multiple NFC-enabled cards and mobile wallets to veri
 
 With all components — the WiFi router, Jetson Orin Nano, LED monitor, and ESP-32 — set up individually, the next challenge was establishing a common power source that would allow the prototype to operate without any connection to wall sockets, which would otherwise constrain the AMR's freedom of movement. Opening the SESTO Magnus control panel revealed a user power outlet using a D-Sub type connector, labelled as port 7 in Figure 79, capable of supplying 48V DC at a maximum of 20A. The close-up of this connector is shown in Figure 80
 
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_User_Interface_Panel.png" alt="Figure 79: User Interface Panel" style="max-width: 40%;">
-</div>
-
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_CloseUp_UserPower.png" alt="Figure 80: Close-up of User Power Connector" style="max-width: 30%;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 32px; margin: 16px 0;">
+  <div style="flex: 1; min-width: 200px; max-width: 40%;">
+    <img src="assets/final/images/6.6_User_Interface_Panel.png" alt="Figure 79: User Interface Panel" style="width: 100%; max-width: 100%;">
+    <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 79: User Interface Panel</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 200px; max-width: 30%;">
+    <img src="assets/final/images/6.6_CloseUp_UserPower.png" alt="Figure 80: Close-up of User Power Connector" style="width: 100%; max-width: 100%;">
+    <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 80: Close-up of User Power Connector</strong></p>
+  </div>
 </div>
 
 To draw power from this outlet, we procured an Amphenol CONEC 302W2CPXX41A10X connector and its corresponding housing (Figures 81 and 82).
 
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_User_Power_Connector.png" alt="Figure 81: Amphenol Connector" style="max-width: 30%;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 32px; margin: 16px 0;">
+  <div style="flex: 1; min-width: 200px; max-width: 30%;">
+    <img src="assets/final/images/6.6_User_Power_Connector.png" alt="Figure 81: Amphenol Connector" style="width: 100%; max-width: 100%;">
+    <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 81: Amphenol Connector</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 200px; max-width: 30%;">
+    <img src="assets/final/images/6.6_User_Power_Housing.png" alt="Figure 82: Connector Housing" style="width: 100%; max-width: 100%;">
+    <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 82: Connector Housing</strong></p>
+  </div>
 </div>
-
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_User_Power_Housing.png" alt="Figure 82: Connector Housing" style="max-width: 30%;">
-</div> 
 
 With the source voltage and maximum current established, we identified the input voltage requirements for each component as summarised in Table 15 below.
 
-
-| Component                 | Source/ Input Voltage | Current | Step-Down Required |
-| ------------------------- | --------------------- | ------- | ------------------ |
-| SESTO Magnus AMR (Output) | 48V DC                | 20A max |                    |
-| Jetson Orin Nano          | 19V DC                | 2.37A   | 48V to 19V         |
-| ESP-32                    | 5 to 9V DC            | 1.5A    | 48V to 5V          |
-| WiFi Router               | 12V DC                | 2A      | 48V to 12V         |
-| LED Monitor               | 19V DC                | 240mA   | 48V to 19V         |
-
+<div style="display: flex; justify-content: center; margin: 16px 0;">
+  <table style="margin: 0 auto;">
+    <thead>
+      <tr>
+        <th>Component</th>
+        <th>Source/ Input Voltage</th>
+        <th>Current</th>
+        <th>Step-Down Required</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>SESTO Magnus AMR (Output)</td>
+        <td>48V DC</td>
+        <td>20A max</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Jetson Orin Nano</td>
+        <td>19V DC</td>
+        <td>2.37A</td>
+        <td>48V to 19V</td>
+      </tr>
+      <tr>
+        <td>ESP-32</td>
+        <td>5 to 9V DC</td>
+        <td>1.5A</td>
+        <td>48V to 5V</td>
+      </tr>
+      <tr>
+        <td>WiFi Router</td>
+        <td>12V DC</td>
+        <td>2A</td>
+        <td>48V to 12V</td>
+      </tr>
+      <tr>
+        <td>LED Monitor</td>
+        <td>19V DC</td>
+        <td>240mA</td>
+        <td>48V to 19V</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 15: Power Requirements of Prototype Components</strong></p>
 
@@ -1864,7 +1905,7 @@ Since the components required different input voltages stepped down from the 48V
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_CloseUp_UserPower.png" alt="Figure 83: Wiring of Buck Converter" style="max-width: 30%;">
+  <img src="assets/final/images/7.6_Buck_Converter.png" alt="Figure 83: Wiring of Buck Converter" style="max-width: 30%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 83: Wiring of Buck Converter</strong></p>
@@ -1875,7 +1916,7 @@ All wired components were then consolidated using Wago 221 push-in wire clamp te
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.6_User_Power_Housing.png" alt="Figure 84: Wago Connections" style="max-width: 30%;">
+  <img src="assets/final/images/7.6_Wago_Connections.png" alt="Figure 84: Wago Connections" style="max-width: 30%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 84: Wago Connections</strong></p>
