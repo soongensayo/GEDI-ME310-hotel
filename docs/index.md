@@ -163,6 +163,16 @@ Through our literature review, we have identified five key dimensions that captu
 
 <style>
 .rt { width: 100%; border-collapse: collapse; margin: 1.2em 0; font-size: 0.93em; }
+/* Shrink-to-fit tables centered in the column (overrides .rt width: 100%) */
+.rt.rt-centered {
+  width: auto !important;
+  max-width: 100%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: inline-table;
+  vertical-align: top;
+  text-align: left;
+}
 .rt td, .rt th { border: 1px solid #ccc; padding: 11px 14px; vertical-align: top; }
 .rt th { background: #f5f5f5; font-weight: bold; text-align: left; }
 .rt-concept { width: 22%; font-weight: bold; vertical-align: middle !important; }
@@ -1852,7 +1862,8 @@ To draw power from this outlet, we procured an Amphenol CONEC 302W2CPXX41A10X co
 
 With the source voltage and maximum current established, we identified the input voltage requirements for each component as summarised in Table 15 below.
 
-<table class="rt" style="margin: 16px auto; width: auto;">
+<div style="text-align: center; width: 100%;">
+<table class="rt rt-centered">
   <thead>
     <tr>
       <th>Component</th>
@@ -1894,6 +1905,7 @@ With the source voltage and maximum current established, we identified the input
     </tr>
   </tbody>
 </table>
+</div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 15: Power Requirements of Prototype Components</strong></p>
 
