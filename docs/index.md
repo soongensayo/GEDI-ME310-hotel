@@ -774,9 +774,7 @@ The hospitality industry is undergoing a rapid technological shift, with robotic
 
 The hospitality robots market reached USD 0.76 billion in 2026 and is projected to grow to USD 2.23 billion by 2030 (Mordor, 2026), as illustrated in Figure 18 This growth is underpinned by both falling costs and rising guest acceptance: humanoid robot costs dropped approximately 40% between 2022 and 2024 (Hanbury et al., 2025), while a meta-analytic review of 56 studies confirmed that consumers are increasingly receptive to hotel service robots, with performance expectancy and customer attitude emerging as the strongest drivers of acceptance (Begum et al., 2024). Major chains including Marriott, Hilton, and IHG have active robot deployments, with Asia-Pacific properties accounting for the highest density globally (AI, 2025). Over 45% of luxury hotels have already deployed service robots to enhance guest safety and operational efficiency (Intel Market Research, 2026). 
 
-```
 The luxury segment has learned from earlier missteps. The Henn-na Hotel experience demonstrated that wholesale automation without warmth or reliability undermines the premium experience. The industry has consequently shifted toward using robots for physically demanding tasks while preserving human presence for high-touch interactions.
-```
 
 <a id="4-7-2-rise-of-ai-in-guest-facing-hotel-interactions"></a>
 
