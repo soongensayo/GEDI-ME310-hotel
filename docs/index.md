@@ -156,7 +156,7 @@ The scope covers the arrival stage of the guest journey, from the moment a guest
 
 The meaning of luxury hotels has evolved beyond extravagance, expansive spaces or high-quality amenities. It now centres on crafting meaningful, emotionally resonant experiences that create a deep sense of connection and personal value for each guest.
 
-This shift is being driven by intensifying competition and changing guest expectations. As luxury features are increasingly adopted by non-luxury hotels, their power as differentiators has eroded (Mann et al., 2024). Affluent travellers have responded by prioritising unique experiences and vibrant atmospheres over opulent formality or material products (Mann et al., 2024). Research shows that the top factor influencing brand choice is not value, convenience, or quality, but the positive emotional experiences guests have had with a brand in the past (Mann et al., 2024 Personalisation has emerged as the clearest expression of this shift where 65% of customers consider it essential and would pay up to 25% more for it (EHL Insights, 2025), a preference that is even more pronounced among younger luxury consumers who expect experiences that feel authentically tailored rather than transactional (EHL Insights, 2023). True luxury today is therefore rooted more in thoughtful, carefully executed service, where staff anticipate needs, deliver beyond expectations, and create moments that guests carry with them long after checkout (Mann et al., 2024). 
+This shift is being driven by intensifying competition and changing guest expectations. As luxury features are increasingly adopted by non-luxury hotels, their power as differentiators has eroded (Mann et al., 2024). Affluent travellers have responded by prioritising unique experiences and vibrant atmospheres over opulent formality or material products (Mann et al., 2024). Research shows that the top factor influencing brand choice is not value, convenience, or quality, but the positive emotional experiences guests have had with a brand in the past (Mann et al., 2024). Personalisation has emerged as the clearest expression of this shift where 65% of customers consider it essential and would pay up to 25% more for it (EHL Insights, 2025), a preference that is even more pronounced among younger luxury consumers who expect experiences that feel authentically tailored rather than transactional (EHL Insights, 2023). True luxury today is therefore rooted more in thoughtful, carefully executed service, where staff anticipate needs, deliver beyond expectations, and create moments that guests carry with them long after checkout (Mann et al., 2024). 
 
 Through our literature review, we have identified five key dimensions that capture these characteristics of contemporary luxury hospitality.
 
@@ -301,7 +301,7 @@ Participants represented a diverse range of roles within the hotel ecosystem, in
       <td>
         <div class="rt-head">Human Touch vs Automation</div>
         <ul>
-          <li>Up to 99% of guests approach human staff over kiosks even when self-service is available</li>
+          <li>Up to 99% of guests at Shangri-La approach human staff over kiosks even when self-service is available</li>
           <li>Existing kiosks described as emotionless, transactional, and misaligned with luxury expectations</li>
           <li>Hoteliers expressed that automation should enhance rather than replace the human warmth</li>
         </ul>
@@ -334,7 +334,7 @@ Participants represented a diverse range of roles within the hotel ecosystem, in
       <td>
         <div class="rt-head">Manpower and Role Design of Staff</div>
         <ul>
-          <li>Recruiting and retaining front-desk staff is increasingly difficult due to long hours and low career appeal</li>
+          <li>Recruiting and retaining front-desk staff is difficult due to long hours and low career appeal</li>
           <li>Hotels are redesigning roles to combine operational efficiency with relational expertise</li>
           <li>Technology reduces repetitive tasks but cannot replace emotional labour</li>
         </ul>
@@ -597,7 +597,7 @@ A review of existing market solutions was conducted to understand what has alrea
   <tbody>
     <tr>
       <td>
-        <strong>Self-service kiosks</strong> are the most common attempt to address check-in speed, observed directly at Amara Hotel. While faster for straightforward check-ins, kiosk adoption at luxury properties was found to be below 1%. Guests consistently bypassed them in favour of human staff, negating the intended efficiency benefit.
+        <strong>Self-service kiosks</strong> are the most common attempt to address check-in speed, observed directly at Amara Hotel. While faster for straightforward check-ins, kiosk adoption at luxury properties was mentioned to be below 1% at a property visited. Guests consistently bypassed them in favour of human staff, negating the intended efficiency benefit.
       </td>
       <td class="rt-sol-img">
         <img src="assets/final/images/3.6_amara_kiosk.png" alt="Figure 9: Amara Hotel Self-Service Kiosk" style="max-width:90%;">
@@ -818,7 +818,7 @@ The research conducted across Sections 3.1 to 3.6 converges on four distinct but
       <td class="rt-num">2</td>
       <td>
         <div class="rt-head">Unlocking Real-Time Hyper-Personalisation</div>
-        Although hotels collect extensive guest data, it is often underutilised at the point of arrival. Personalisation remains largely reserved for VIP guests and relies on staff memory rather than systematic data activation. The opportunity lies in designing systems that surface this data in real time.
+        Although hotels collect extensive guest data, it is often underutilised at the point of arrival. Personalisation remains largely reserved for VIP guests and relies on prior checks on data base rather than systematic data activation. The opportunity lies in designing systems that surface this data in real time.
         <br><br>
         <strong>Design statement:</strong> <em>Personalisation and Guest Preference Intelligence</em> — transforming fragmented guest data into meaningful, timely personalisation across the check-in journey.
         <br><strong>HMW:</strong> How might we enable hotels to provide genuinely personalised and tailored experiences?
@@ -1384,6 +1384,8 @@ For the purpose of prototyping and validating the ELEVIA concept, the team utili
   <img src="assets/final/images/5.1_SESTOAMR.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 100%;">
 </div>
 
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 49: SESTO Magnus AMR</strong></p>
+
 The SESTO Magnus was evaluated against the functional requirements established in section 6 and proved well-suited for prototyping purposes. Its relatively compact, low-profile form factor (743 × 627 × 350 mm) aligned with the sleek aesthetic central to the luxury hotel context. Its open cargo deck supported a payload of up to 300 kg, comfortably exceeding typical guest luggage loads, and its footprint was confirmed to accommodate at least two large suitcases without requiring modification or the addition of retractable extenders. Its maximum operating speed of 1.2 m/s was compatible with a comfortable average human walking pace of approximately 1.3 m/s (Cronkleton, 2025), satisfying the requirement for the robot to travel naturally alongside a guest. Navigation was handled by dual Safety LiDARs with a range of 40 m each and 360° combined coverage, providing the real-time obstacle detection and rerouting capability needed for safe deployment in a live, high-footfall environment.
 
 Together, these characteristics confirmed that the SESTO Magnus was not merely a convenient available platform, but one that genuinely met the functional requirements of the luggage porter use case without compromise.
@@ -1404,7 +1406,17 @@ We mounted a dedicated WiFi router with a SIM card onto the SESTO Magnus to serv
 
 We mapped the EDIC Hub by manually driving the SESTO Magnus around the space using a wired remote controller, as shown in Figure XX, tracing the perimeter first before covering all navigable internal paths. This allowed the system to register fixed obstacles such as tables, chairs, and couches throughout the space. The completed floor map as rendered in the Fleet UI is shown in Figure XX.
 
-<!-- image pending -->
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/7.2.1.2_Remote_Controller.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 50%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 50: Remote Controller of the SESTO Magnus AMR</strong></p>
+
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/7.2.1.2_Rendered_Mapping.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 50%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 51: Rendered Mapping of EDIC Hub on the SESTO Magnus AMR Fleet UI</strong></p>
 
 <!-- image pending -->
 
@@ -1420,7 +1432,11 @@ After mapping, we initialised the AMR by physically pushing it to the designated
 
 We plotted waypoints across the EDIC Hub to simulate a hotel environment, defining a minimum of one recovery point, one park point, and one charging point as required by the system. The recovery point was set as the AMR's default standby position when idle. Additional waypoints representing hotel locations including the hotel porch, lobby, restaurant, and room destinations such as Rooms 2501, 1501, and 3501 were placed at distinct reference points around the hub as shown in Figure XX. For each destination waypoint, we configured the arrival heading angle to ensure the AMR oriented itself correctly relative to the guest upon reaching its destination, which is important for a natural and intuitive handover moment at the room entrance.
 
-<!-- image pending -->
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/7.2.1.4_Waypoints.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 50%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 52: Waypoints plotted based on mapping</strong></p>
 
 <a id="7-2-1-5-safety-parameters"></a>
 
@@ -1428,7 +1444,11 @@ We plotted waypoints across the EDIC Hub to simulate a hotel environment, defini
 
 We set the obstacle stopping distance to 1 metre, ensuring the AMR decelerates and halts well before entering the personal space of nearby guests during navigation. Selected configuration parameters are shown in Figure XX.
 
-<!-- image pending -->
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/7.2.1.5_Configurations Parameter1.png" alt="Figure 49: SESTO Magnus AMR" style="max-width: 50%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 53: Configuration Parameters of each waypoint and intermediaries</strong></p>
 
 <a id="7-2-2-sesto-magnus-amr-testing"></a>
 
@@ -1477,9 +1497,9 @@ The design process began with dimensioning the kiosk frame footprint against the
 
 The frame was constructed from 30x30mm aluminium T-slot extrusion profiles, selected for their ready availability, ease of cutting and drilling, and compatibility with the inner corner L-brackets and rhombus nut fasteners used throughout the assembly. Aluminium was preferred over steel for its lower weight, reducing the overall load on the AMR platform while maintaining sufficient structural rigidity for the prototype's requirements.
 
-The structure is organised into five functional levels, with component placement determined by ergonomic accessibility and spatial requirements, as shown in Figure 56 The first level sits at the base of the frame directly above the AMR platform and is intentionally left without a screwed-on shelf panel to preserve access to the Sesto's control panel for routine startup and maintenance. The second level houses the Jetson module and the server box, positioned low in the structure as it requires no guest interaction and should only be accessed for maintenance and software updates. The third level is dedicated to the router, which requires the full clearance of that level due to its size and should be covered up for the same reason unless maintenance is required. The fourth level houses the NFC scanner and emergency stop button, positioned at approximately arms-reach height for intuitive guest interaction and accessible operator intervention. The passport reader is mounted at the front of the fifth level, positioned just to the side of the monitor to minimise guest reach distance and improve interaction intuitiveness. The fifth and uppermost level consists of a thick 5mm aluminium plate mounting the monitor stand, selected for the rigidity and load-bearing strength required to hold the monitor securely during robot movement, where acrylic would be insufficient.
+The structure is organised into five functional levels, with component placement determined by ergonomic accessibility and spatial requirements, as shown in Figure 56 The first level sits at the base of the frame directly above the AMR platform and is intentionally left without a screwed-on shelf panel to preserve access to the Sesto's control panel for routine startup and maintenance. The second level houses the Jetson module and the server box, positioned low in the structure as it requires no guest interaction and should only be accessed for maintenance and software updates. The third level is dedicated to the router, which requires the full clearance of that level due to its size and should be covered up for the same reason unless maintenance is required. The fourth level houses the NFC scanner and emergency stop button, positioned at approximately arms-reach height for intuitive guest interaction and accessible operator intervention. The passport reader is mounted at the front of the fifth level, positioned just to the side of the monitor to minimise guest reach distance and improve interaction intuitiveness. The fifth and uppermost level consists of a thick 10mm aluminium plate mounting the monitor stand, selected for the rigidity and load-bearing strength required to hold the monitor securely during robot movement, where acrylic would be insufficient.
 
-Intermediate shelf levels use 3mm white acrylic, chosen for its low cost, low weight, and ease of cutting, while matching the Sesto's default white body colour. The visible shelf surface is lined with maroon felt to reinforce the premium aesthetic of the overall system.
+Intermediate shelf levels use 5mm white acrylic, chosen for its low cost, low weight, strength, and ease of cutting, while matching the Sesto's default white body colour. The visible shelf surface is lined with maroon felt to reinforce the premium aesthetic of the overall system.
 
 To ensure the structure integrated visually with the Sesto body, custom interface frames were modelled in PTC Creo and 3D printed in white. These frames sit mostly flush against the curves of the Sesto base, with cutouts aligned to the aluminium profiles for direct fastening via rhombus nuts. As the cutouts reduced the material thickness at the curved edge, a corresponding protrusion was added on the opposite side to compensate, maintaining the structural rigidity of the printed frame. A removable magnetic door provides quick access to the Sesto's control panel for maintenance without disrupting the exterior appearance of the structure. The following are images of the right bottom level frame. 
 
@@ -1491,6 +1511,35 @@ To ensure the structure integrated visually with the Sesto body, custom interfac
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 57: Computer-Aided Design of the AMR Shelf Panels</strong></p>
+
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/6.3_Computer_Aided design of AMR shelf panels assembled.png" alt="Figure 58: Computer-Aided Design of the AMR Shelf Panels" style="max-width: 50%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 58: Computer-Aided Design of the AMR Shelf Panels assembled</strong></p>
+
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/6.3_Assembled_3D_printed_panels.png" alt="Figure 59: Assembled 3D printed panels with the magnetic panel" style="max-width: 50%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 59: Assembled 3D printed panels with the magnetic panel</strong></p>
+
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/7.3_Fully Assembled Pheripheral Housing and AI Avatar Eye Height.png" alt="Figure 60: Fully Assembled Pheripheral Housing and AI Avatar Eye Height  
+" style="max-width: 60%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 60: Fully Assembled Pheripheral Housing and AI Avatar Eye Height  
+</strong></p>
+
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/6.3_Monitor Arm Screwed onto the Metal Plate.png" alt="Figure 61: Monitor Arm Screwed onto the Metal Plate 
+" style="max-width: 50%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 61: Monitor Arm Screwed onto the Metal Plate 
+</strong></p>
+
 
 A monitor was chosen over alternative display types such as tablets or touchscreen panels as it offered the combination of cost-effectiveness, appropriate screen size for the life-sized AI avatar display, and ease of mounting on a height-adjustable stand. The monitor stand was also readily available for purchase and also allows the screen height to be manually adjusted, with the AI avatar's eyes positioned at approximately 1530mm from the ground. This height was determined using anthropometric data from BS ISO 7250-3:2015, specifically the Asian regional standing eye height ranges, which better represent the expected user demographic in a Singapore hospitality context than worldwide ranges (British Standards Institution, 2015). The midrange value across Asian male and female adults is approximately 1530mm ensuring the avatar's gaze meets the eyeline of the majority of standing Asian adult guests for a natural face-to-face interaction.
 
@@ -1597,13 +1646,29 @@ Our approach was to embed a passport scanner box directly onto the robot's kiosk
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 64: Guest Scanning Passport</strong></p>
 
+
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/6.5.1_USB_Camera_in_passport_scanner.png" alt="Figure 64: Guest Scanning Passport" style="max-width: 80%;">
+</div>
+
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 65: USB Camera in the scanner box</strong></p>
 
 The passport reader hardware went through two main design iterations before reaching its final form, with an additional refinement to the insertion interface. 
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 66: Initial Passport Cover Design                     Figure 67: 2nd Passport Cover Design</strong></p>
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/6.5.1_Initial Passport Cover Design.png" alt="Figure 64: Guest Scanning Passport" style="max-width: 50%;">
+</div>
 
-The first design iteration established the basic enclosure form but proved to be confusing.  A top cover was added to better suggest the correct insertion method for the second iteration. However, it also proved to be unintuitive in user testing. Participants consistently attempted to insert the passport vertically rather than in the intended orientation. The solution came from adding a clear acrylic panel beneath the slot. We also added a passport cover to the fake passport. This made the flat insertion surface visible and immediately communicated to the guest that the passport should be laid flat and slid in horizontally in a particular orientation, which is further reinforced by visual cues on the screen. The feedback received was that the process is similar to the passport scanner at the airport.
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 66: Initial Passport Cover Design</strong></p>
+
+
+<div style="text-align: center; margin: 16px 0;">
+  <img src="assets/final/images/6.5.1_second_passport_design.png" alt="Figure 64: Guest Scanning Passport" style="max-width: 50%;">
+</div>
+
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 67: Second Passport Cover Design</strong></p>
+
+The first passport scanner top frame design iteration established the basic enclosure form but proved to be confusing.  A top cover was added to better suggest the correct insertion method for the second iteration. However, it also proved to be unintuitive in user testing. Participants consistently attempted to insert the passport vertically rather than in the intended orientation. The solution came from adding a clear acrylic panel beneath the slot. We also added a passport cover to the mock passport card. This made the flat insertion surface visible and immediately communicated to the guest that the passport should be laid flat and slid in horizontally in a particular orientation, which is further reinforced by visual cues on the screen. The feedback received was that the process is similar to the passport scanner at the airport. A refinement is to redesign the base of the passport scanner housing to better secure the positioning of the LED strip and camera.
 
 
 
@@ -1615,17 +1680,13 @@ The first design iteration established the basic enclosure form but proved to be
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 68: Passport Scanner with clear acrylic</strong></p>
 
 
-
-
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.5.1_Revised Passport Cover Design.png" alt="Figure 69: Revised Passport Cover Design" style="max-width: 100%;">
+  <img src="assets/final/images/6.5.1_Revised Passport Cover Design.png" alt="Figure 69: Revised Mock Passport Cover" style="max-width: 100%;">
 </div>
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 69: Revised Passport Cover Design</strong></p>
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 69: Revised Mock Passport Cover</strong></p>
 
-The passport reader is mounted on the shelf structure facing the guest. When the AI agent reaches the identity verification stage, the ESP32, which is in wireless communication with the Jetson compute module through the router, triggers an LED strip positioned along the bottom edge of the flat insertion surface, closest to the guest. Once the guest name has been found in the database, the LED strip on the passport scanner will automatically light up and blink continuously in green as the AI avatar instructs the guest to insert their passport, drawing on the universal association of green with a ready or go signal to intuitively indicate that the slot is ready for use while ensuring visibility even in low-light environments. Once the passport details have been captured, the LED strip automatically turns off. A sticker indicating the correct insertion orientation was also added to the passport reader surface as a visual cue, further reinforcing the flat insertion direction for guests.
-
-
+The passport reader is mounted on the shelf structure facing the guest. When the AI agent reaches the identity verification stage, the ESP32, which is in wireless communication with the Jetson compute module through the router, triggers an LED strip positioned along the bottom edge of the flat insertion surface, closest to the guest. Once the guest name has been found in the database, the LED strip on the passport scanner will automatically light up and blink continuously in green as the AI avatar instructs the guest to insert their passport, drawing on the universal association of green with a ready or go signal to intuitively indicate that the slot is ready for use while ensuring visibility even in low-light environments. Once the passport details have been captured, the LED strip automatically turns off. A sticker indicating the correct insertion orientation was also designed to be added to the passport reader surface as a visual cue, further reinforcing the flat insertion direction for guests.
 
 
 <div style="text-align: center; margin: 16px 0;">
@@ -1636,9 +1697,8 @@ The passport reader is mounted on the shelf structure facing the guest. When the
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.5.1_ Green LED Signal.png" alt="Figure 71" style="max-width: 100%;">
+  <img src="assets/final/images/6.5.1_green_LED_guidance.png" alt="Figure 71" style="max-width: 100%;">
 </div>
-
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/6.5.1_ LED flash.png" alt="Figure 72" style="max-width: 100%;">
@@ -1649,10 +1709,10 @@ The passport reader is mounted on the shelf structure facing the guest. When the
 Another LED strip connected to the ESP32 also serves a functional role in the Optical Character Recognition (OCR) pipeline. As shown in Figure 73, the illumination provided by the LED flash improves image clarity and MRZ contrast, directly improving OCR accuracy under the varying lighting conditions typical of hotel lobbies.
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.5.1_with_without_flash.png" alt="Figure 73: Lighting enhancements for passport scanning" style="max-width: 60%;">
+  <img src="assets/final/images/6.5.1_before_after.png" alt="Figure 73: Lighting enhancements for passport scanning" style="max-width: 60%;">
 </div>
 
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 73: Lighting enhancements for passport scanning</strong></p>
+<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 73: Lighting enhancements for passport scanning (before and after)</strong></p>
 
 How It Works
 
@@ -1662,7 +1722,7 @@ Once the passport is presented to the scanner, the system enters a polling loop 
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.5.1_mrz.png" alt="Figure 74: Machine Readable Zone (Sample)" style="max-width: 100%;">
+  <img src="assets/final/images/7.5.1 Passport Reader.png" alt="Figure 74: Machine Readable Zone (Sample)" style="max-width: 100%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 74: Machine Readable Zone (Sample)</strong></p>
@@ -1691,14 +1751,12 @@ The NFC payment module was designed to simulate the contactless payment step wit
 
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.5.2_NFCPaymentJPG.JPG" alt="Figure 75: NFC Payment Module" style="max-width: 30%;">
+  <img src="assets/final/images/6.5.2_payment_module.png" alt="Figure 75: NFC Payment Module" style="max-width: 30%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 75: NFC Payment Module</strong></p>
 
-A sticker was added to the NFC reader surface as a visual cue, allowing guests to immediately identify the tap point without verbal instruction, improving intuitiveness of the interaction.
-
-
+A sticker was designed to be added to the NFC reader surface as a visual cue, allowing guests to immediately identify the tap point without verbal instruction, improving intuitiveness of the interaction.
 
 
 <div style="text-align: center; margin: 16px 0;">
@@ -2055,13 +2113,13 @@ The expert review reinforced the core design premise: that automation in luxury 
 
 ## 8.4 Real-World Navigation Testing
 
-To complement the controlled environment of the NUS Open House testing, we conducted real-world navigation trials in public spaces to observe how people naturally respond to the robot in shared environments. The objective was to understand pedestrian behaviour around the robot, assess comfort levels with robot proximity, and identify design considerations for movement choreography.
+To complement the controlled environment of the NUS Open House testing, we conducted a real-world navigation trial in public spaces to observe how people naturally respond to the robot in shared environments. The objective was to understand pedestrian behaviour around the robot, assess comfort levels with robot proximity, and identify design considerations for movement choreography.
 
 <a id="8-4-1-lift-testing"></a>
 
 ### 8.4.1 Lift Testing
 
-The first round of testing was conducted in a lift environment over approximately one hour, during which the robot interacted with a sample of roughly 100 members of the public.
+The first round of testing was conducted in a lift environment, during which the robot interacted with a sample of roughly 100 members of the public.
 
   
 
@@ -2092,7 +2150,7 @@ The first round of testing was conducted in a lift environment over approximatel
         Three distinct response patterns emerged:
         <ul>
           <li>The majority of participants were initially surprised, then quickly became curious and engaged</li>
-          <li>Approximately 10% refused to enter the lift with the robot present, choosing to wait for the next lift instead</li>
+          <li>Fewer than 2% refused to enter the lift with the robot present, choosing to wait for the next lift instead</li>
           <li>A smaller subset showed visible discomfort, facing away from the robot and standing close to the door, signalling an anxious desire to exit</li>
         </ul>
       </td>
@@ -2119,7 +2177,7 @@ When the robot was repositioned to face the back wall of the lift, the response 
 
 ### 8.4.2 Corridor Navigation Testing
 
-A second round of navigation testing was conducted in the crowded open corridors and common areas of NUS, where the robot encountered approximately 10 pedestrians per minute. We wanted to observe how members of the public responded to the robot moving through shared space. 
+A second round of navigation testing was conducted in the open corridors and common areas of NUS, where the robot encountered approximately 10 pedestrians per minute. We wanted to observe how members of the public responded to the robot moving through shared space. 
 
 
 <div style="text-align: center; margin: 16px 0;">
@@ -2139,7 +2197,7 @@ A second round of navigation testing was conducted in the crowded open corridors
     <tr>
       <td>
         <ul>
-          <li>Pedestrians consistently moved out of the robot's path without instruction or prompting; others held doors open to allow it through</li>
+          <li>Pedestrians consistently moved out of the robot's path without instruction or prompting; another held doors open to allow it through</li>
           <li>Most bystanders showed no signs of discomfort or over-curiosity</li>
           <li>No instances of confusion about the robot's intended direction of travel were observed, suggesting its movement cues were intuitive even in high-footfall environments</li>
         </ul>
@@ -2160,7 +2218,7 @@ A second round of navigation testing was conducted in the crowded open corridors
       <td>
         <ul>
           <li>Public reception was broadly positive, with curiosity and excitement as the dominant initial reactions — the robot's presence reads as novel and engaging rather than threatening in most contexts</li>
-          <li>The 10% refusal rate in the lift highlights that a meaningful minority will be uncomfortable sharing enclosed spaces with a robot</li>
+          <li>The minority refusal rate in the lift highlights that a meaningful minority will be uncomfortable sharing enclosed spaces with a robot</li>
           <li>Robot orientation is a significant variable in perceived comfort — facing away from people in enclosed spaces substantially reduces social discomfort, a finding that directly informs proximity choreography design</li>
           <li>Pedestrians naturally and instinctively accommodate the robot in shared spaces, indicating that corridor navigation is unlikely to pose a significant social barrier in hotel environments</li>
         </ul>
@@ -2263,9 +2321,9 @@ Across the five validation methods, a consistent set of findings emerged that af
       <td>
         <ul>
           <li>Microphone performance and ASR reliability in noisy environments was the most consistently cited technical barrier, raised in 9 of 15 Open House sessions</li>
-          <li>The AI avatar face was identified as a source of discomfort across multiple validation methods — suggestions included orienting the display toward the back of the robot's head or exploring alternative mediums altogether</li>
+          <li>The AI avatar face was identified as a source of discomfort across multiple validation methods. Suggestions included orienting the display toward the back of the robot's head when guiding guest rather than facing the guest directly, or exploring alternative mediums altogether</li>
           <li>PDPA compliance around verbal identity and room disclosure in shared spaces was flagged as a non-negotiable requirement by hotel operators</li>
-          <li>Approximately 10% of lift testing participants refused to share an enclosed space with the robot, reinforcing the need for opt-in modular design</li>
+          <li>An isolated minority of lift testing participants refused to share an enclosed space with the robot, reinforcing the need for opt-in modular design</li>
         </ul>
       </td>
     </tr>
@@ -2359,12 +2417,12 @@ This section closes the loop between the problem space established, the design d
     <tr>
       <td><strong>Empowering Staff Consistency and Confidence</strong><br><em>How might we help hotel staff perform at their best even in high-pressure guest interactions?</em></td>
       <td class="rt-indirect">Indirectly Addressed</td>
-      <td>ELEVIA absorbs check-in, identity verification, payment, and luggage transport, reducing the operational burden on front-office staff.</td>
+      <td>ELEVIA absorbs check-in, identity verification, payment, and luggage transport, indirectly reducing workload for front-desk hotel staff.</td>
     </tr>
     <tr>
       <td><strong>Effortless and Intuitive Arrival</strong><br><em>How might we design an automated hotel arrival experience that feels effortless and intuitive rather than laborious and frustrating?</em></td>
       <td class="rt-yes">Addressed</td>
-      <td>Luggage travels with robot, check-in is conversational, key delivered digitally. Validated: navigation clarity scored 4.67/5 and 80% of Open House participants said they would use it again. Passport scanner affordance and ASR reliability remain the two points where effort was transferred back to the guest.</td>
+      <td>Luggage travels with robot, check-in is conversational, key delivered digitally. Validated: navigation clarity scored 4.67/5 and 80% of Open House participants said they would use it again. Passport scanner affordance and ASR reliability were recognised as the two points where effort was transferred back to the guest.</td>
     </tr>
     <tr>
       <td><strong>Hospitality Beyond the Transaction</strong><br><em>How might we use technology to enhance perceived hospitality that extends beyond the transactional moment of check-in?</em></td>
@@ -2381,15 +2439,15 @@ This section closes the loop between the problem space established, the design d
 
 ## 8.8 Limitations
 
-The most significant limitation of this project is the gap between the solution's intended deployment context and the validation conducted. Due to the size of the ELEVIA prototype, it could not be transported out of the school premises for in-hotel pilot testing. Feedback sessions were therefore conducted using a video demonstration of the prototype rather than direct hands-on interaction, limiting the reliability of responses as indicators of real-world usability and guest acceptance in an actual hotel environment. real-world navigation testing not done in hotel
+The most significant limitation of this project is the gap between the solution's intended deployment context and the validation conducted. Due to the size of the ELEVIA prototype, it could not be transported out of the school premises for in-hotel pilot and real-world navigation testing. Feedback sessions were therefore conducted using a video demonstration of the prototype rather than direct hands-on interaction, limiting the reliability of responses as indicators of real-world usability and guest acceptance in an actual hotel environment. real-world navigation testing not done in hotel
 
-The closest the team came to live prototype testing was at the NUS Open House, where the kiosk frame and shelf were brought out for testing with general students and members of the public. While valuable, this cohort skewed toward digitally native, younger participants rather than the target demographic of luxury hotel guests and frontline hospitality staff. The absence of testing with actual front desk staff is a particularly notable gap, as their operational perspective and workflow compatibility were not validated beyond video viewing feedback.
+The closest the team came to live prototype testing was at the NUS Open House, where the kiosk frame and shelf were brought out for testing with general students and members of the public. While valuable, this cohort skewed toward digitally native, younger participants rather than the target demographic of luxury hotel guests and frontline hospitality staff. The absence of testing with actual front desk staff is a particularly notable gap, as operational perspective and workflow compatibility were not validated beyond video viewing feedback.
 
 The backend was validated using a mock Supabase database modelled on a fictional hotel property rather than a live Property Management System. Integration with an actual PMS such as Oracle Opera, including real reservation data, room inventory, and payment processing, remains unvalidated, and the technical and compliance requirements of such an integration represent a significant unknown.
 
 Our research and interviews were weighted toward ultra-luxury properties, where the findings consistently indicated that human touch remains paramount and automation is less accepted. This reframed the target market toward upscale, midrange, and business-oriented properties, segments where operational efficiency, manpower reduction, and technology adoption are prioritised over personalised human service. Despite this, formal validation with the revised target segment was not conducted, and no pilot testing was carried out to confirm adoption, usability, or operational fit. We gathered qualitative signals from key industry stakeholders, notably Ascott and EHL Singapore, whose representatives expressed strong receptiveness toward the concept, affirming that automation and AI integration aligned closely with their innovation priorities. Their openness suggests that earlier and deeper engagement with this tier of hospitality operator would have strengthened the validation basis for the revised target market.
 
-Finally, the guest survey conducted in Section 7.5 used closed multiple-choice questions, which limits the depth and generalisability of the findings as a measure of guest attitudes toward autonomous check-in.
+Finally, the guest survey conducted in Section 7.5 used closed multiple-choice questions, which limits the depth and generalisability of the findings as a measure of guest attitudes toward autonomous check-in. While the findings revealed useful behavioural patterns and qualitative feedback, they cannot be treated as reliable indicators of real-world performance. Meaningful validation would require deployment testing in an actual hotel environment with surveys and testing with real guests and frontline staff to assess usability, adoption, and operational fit under realistic conditions.
 
 <a id="9-future-work"></a>
 
@@ -2407,7 +2465,7 @@ May visit to Stanford will focus on presenting validation findings from Singapor
 
 ### Form Factor & Platform Direction
 
-Following discussions during Stanford’s visit to NUS, we converged on strengthening the underlying AI check-in infrastructure first, decoupling the core technology from any single physical form factor so it can be deployed in a plug-and-play manner across different mediums. Our Stanford team is independently exploring virtual check-in within limousine services, reflecting a shared recognition that the arrival experience need not begin at the check-in counters.
+Following discussions during Stanford’s visit to NUS, we converged on strengthening the underlying AI check-in infrastructure first, decoupling the core technology from any single physical form factor so it can be deployed in a plug-and-play manner across different mediums. Additionally, we are exploring a video conferencing feature that connects guests with front desk staff on demand, providing a human fallback option when needed. Our Stanford team is independently exploring virtual check-in as well within limousine services, reflecting a shared recognition that the arrival experience need not begin at the check-in counters.
 
 For the EXPE Showcase, beyond improving the underlying AI model, we will explore a holographic AI host interface as advised by the teaching teams and Venture. This addresses hotel feedback that a physical robot can feel unsettling in certain guest interactions, while preserving the warmth and conversational quality of the check-in experience.
 
@@ -2436,7 +2494,7 @@ Future Timeline
 
 Venture Corporation Limited, the industry partner for this project, is a Singapore-based technology solutions company with capabilities spanning embedded computing, AI hardware, robotics, sensing, and communications. Venture represents a credible manufacturing and technology partner for the next stage of development, as several of their existing product capabilities map directly onto the core hardware requirements of the ELEVIA prototype.
 
-Most notably, Venture has been developing proprietary compute boards with on-device AI capabilities. During a visit to their facilities, our team was shown a visual language model running locally on one of their boards, where a camera captures the environment and users can ask natural language questions about what they see. This capability is directly relevant to ELEVIA's next iteration: the current prototype relies on cloud-based APIs from OpenAI for LLM inference, text-to-speech, and speech-to-text, which introduces both latency and recurring subscription costs.
+Most notably, Venture has been developing proprietary compute boards with on-device AI capabilities, including the Jetson Orin Nano and the NXP iMX8M Plus with ARA2 AI accelerator. During a visit to their facilities, our team was shown a visual language model running locally on one of their boards, where a camera captures the environment and users can ask natural language questions about what they see. This capability is directly relevant to ELEVIA's next iteration: the current prototype relies on cloud-based APIs from OpenAI for LLM inference, text-to-speech, and speech-to-text, which introduces both latency and recurring subscription costs.
 
 Beyond the compute board itself, Venture's product ecosystem offers hardware directly compatible with ELEVIA's existing subsystems. Venture's VEST Embedded High-Speed Scanning Kit targets applications in logistics, medical, and identity verification, and is closely aligned with ELEVIA's check-in use case, especially for the passport verification stage.
 
@@ -2480,7 +2538,7 @@ When we first received the brief to reimagine a premium automated hotel check-in
 
 ELEVIA, a robot-mounted AI concierge integrating autonomous luggage transport, conversational check-in, passport verification, and contactless payment into a single continuous arrival experience, represents a genuine attempt to close the gap that existing solutions have left open. Traditional counter check-in is warm but time-consuming, occupying staff with repetitive administrative tasks that could otherwise be directed toward higher-value guest interactions. Self-service kiosks are efficient but transactional, lacking the warmth and guidance expected in a hospitality setting. Neither integrates the physical arrival experience with the check-in process into a single coherent journey. ELEVIA was designed to bridge all three.
 
-The validation process, across the NUS Open House, feedback from Ascott Limited and EHL, confirmed both the promise and the boundaries of the current implementation. Participants responded positively to the conversational AI, the intuitiveness of the check-in flow, and the concept of a luggage companion that stays with them throughout arrival. Feedback received also sharpened the team's understanding of what comes next: decoupling the luggage robot from the check-in kiosk as independent modular options, refining the AI avatar's physical modality, and focusing development on the non-ultra-luxury segment where the solution is most commercially viable.
+The validation process, across the NUS Open House, feedback from Ascott Limited and EHL, confirmed both the promise and the boundaries of the current implementation. Participants responded positively to the conversational AI, the intuitiveness of the check-in flow, and the concept of a luggage companion that stays with them throughout arrival. Feedback received also sharpened the team's understanding of what comes next: decoupling the luggage robot from the check-in kiosk as independent modular options, integrating a video-conferencing alternative with remote front-desk staff, refining the AI avatar's physical modality, and focusing development on the non-ultra-luxury segment where the solution is most commercially viable.
 
 Across ten months of hotel visits, prototyping, testing, and iteration, we have come away with more than a working system, we have a much clearer picture of the real problem, and a stronger foundation to build the next version on.
 
