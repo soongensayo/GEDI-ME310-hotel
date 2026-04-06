@@ -1033,7 +1033,7 @@ The AI Kiosk Assistant was a complementary device designed to work alongside exi
   
 
 <div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/4.3.2_image_two.png" alt="Figure 31: The assistant directs the guest through passport scanning and photo capture using natural language cues such as "*Please face the camera squarely*”." style="max-width: 100%;">
+  <img src="assets/final/images/4.3.2_image_two.png" alt='Figure 31: The assistant directs the guest through passport scanning and photo capture using natural language cues such as "Please face the camera squarely".' style="max-width: 100%;">
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 31 The assistant directs the guest through passport scanning and photo capture using natural language cues such as "*Please face the camera squarely*”.</strong></p>
