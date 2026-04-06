@@ -1512,33 +1512,24 @@ To ensure the structure integrated visually with the Sesto body, custom interfac
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 57: Computer-Aided Design of the AMR Shelf Panels</strong></p>
 
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.3_Computer_Aided design of AMR shelf panels assembled.png" alt="Figure 58: Computer-Aided Design of the AMR Shelf Panels" style="max-width: 50%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 24px 0;">
+  <div style="flex: 1 1 300px; max-width: 47%; text-align: center;">
+    <img src="assets/final/images/6.3_Computer_Aided design of AMR shelf panels assembled.png" alt="Figure 58: Computer-Aided Design of the AMR Shelf Panels assembled" style="width: 100%; max-width: 350px; height: 220px; object-fit: cover; border-radius: 6px;">
+    <p style="text-align:center; font-style:italic; font-size:0.9em; margin-top: 8px;"><strong>Figure 58: Computer-Aided Design of the AMR Shelf Panels assembled</strong></p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 47%; text-align: center;">
+    <img src="assets/final/images/6.3_Assembled_3D_printed_panels.png" alt="Figure 59: Assembled 3D printed panels with the magnetic panel" style="width: 100%; max-width: 350px; height: 220px; object-fit: cover; border-radius: 6px;">
+    <p style="text-align:center; font-style:italic; font-size:0.9em; margin-top: 8px;"><strong>Figure 59: Assembled 3D printed panels with the magnetic panel</strong></p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 47%; text-align: center;">
+    <img src="assets/final/images/7.3_Fully Assembled Pheripheral Housing and AI Avatar Eye Height.png" alt="Figure 60: Fully Assembled Pheripheral Housing and AI Avatar Eye Height" style="width: 100%; max-width: 350px; height: 220px; object-fit: cover; border-radius: 6px;">
+    <p style="text-align:center; font-style:italic; font-size:0.9em; margin-top: 8px;"><strong>Figure 60: Fully Assembled Pheripheral Housing and AI Avatar Eye Height</strong></p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 47%; text-align: center;">
+    <img src="assets/final/images/6.3_Monitor Arm Screwed onto the Metal Plate.png" alt="Figure 61: Monitor Arm Screwed onto the Metal Plate" style="width: 100%; max-width: 350px; height: 220px; object-fit: cover; border-radius: 6px;">
+    <p style="text-align:center; font-style:italic; font-size:0.9em; margin-top: 8px;"><strong>Figure 61: Monitor Arm Screwed onto the Metal Plate</strong></p>
+  </div>
 </div>
-
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 58: Computer-Aided Design of the AMR Shelf Panels assembled</strong></p>
-
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.3_Assembled_3D_printed_panels.png" alt="Figure 59: Assembled 3D printed panels with the magnetic panel" style="max-width: 50%;">
-</div>
-
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 59: Assembled 3D printed panels with the magnetic panel</strong></p>
-
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.3_Fully Assembled Pheripheral Housing and AI Avatar Eye Height.png" alt="Figure 60: Fully Assembled Pheripheral Housing and AI Avatar Eye Height  
-" style="max-width: 60%;">
-</div>
-
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 60: Fully Assembled Pheripheral Housing and AI Avatar Eye Height  
-</strong></p>
-
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/6.3_Monitor Arm Screwed onto the Metal Plate.png" alt="Figure 61: Monitor Arm Screwed onto the Metal Plate 
-" style="max-width: 50%;">
-</div>
-
-<p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 61: Monitor Arm Screwed onto the Metal Plate 
-</strong></p>
 
 
 A monitor was chosen over alternative display types such as tablets or touchscreen panels as it offered the combination of cost-effectiveness, appropriate screen size for the life-sized AI avatar display, and ease of mounting on a height-adjustable stand. The monitor stand was also readily available for purchase and also allows the screen height to be manually adjusted, with the AI avatar's eyes positioned at approximately 1530mm from the ground. This height was determined using anthropometric data from BS ISO 7250-3:2015, specifically the Asian regional standing eye height ranges, which better represent the expected user demographic in a Singapore hospitality context than worldwide ranges (British Standards Institution, 2015). The midrange value across Asian male and female adults is approximately 1530mm ensuring the avatar's gaze meets the eyeline of the majority of standing Asian adult guests for a natural face-to-face interaction.
