@@ -2155,13 +2155,13 @@ The first round of testing was conducted in a lift environment, during which the
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 92: A participant interacting with ELEVIA</strong></p>
 
 
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.4.1_image_two.jpg" alt="Figure 93" style="max-width: 80%;">
-</div>
-
-
-<div style="text-align: center; margin: 16px 0;">
-  <img src="assets/final/images/7.4.1_image_three.jpg" alt="Figure 94" style="max-width: 80%;">
+<div style="display: flex; justify-content: center; gap: 24px; margin: 16px 0;">
+  <div style="flex:1; max-width: 48%; text-align: center;">
+    <img src="assets/final/images/7.4.1_image_two.jpg" alt="Figure 93" style="max-width: 100%;">
+  </div>
+  <div style="flex:1; max-width: 48%; text-align: center;">
+    <img src="assets/final/images/7.4.1_image_three.jpg" alt="Figure 94" style="max-width: 100%;">
+  </div>
 </div>
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Figure 93 and Figure 94: Participants sharing a lift with ELEVIA. (Right Image) The participant in red visibly displaying discomfort and positioning close to the door, eager to exit</strong></p>
