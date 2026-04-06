@@ -2503,9 +2503,7 @@ For the EXPE Showcase, beyond improving the underlying AI model, we will explore
 
 <p style="text-align:center; font-style:italic; font-size:0.9em;"><strong>Table 25: Iteration Priorities from Validation</strong></p>
 
-Future Timeline
-
-  
+### Future Timeline
 
 <div style="text-align: center; margin: 16px 0;">
   <img src="assets/final/images/8.1_timeline.png" alt="Figure 103: Future Timeline" style="max-width: 100%;">
