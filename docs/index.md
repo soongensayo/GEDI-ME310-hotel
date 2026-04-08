@@ -806,7 +806,7 @@ Within luxury specifically, the most viable deployment model blends AI efficienc
 
 ## 4.8 Opportunities and Design Direction
 
-The research conducted across Sections 3.1 to 3.6 converges on four distinct but interconnected opportunity areas. Each opportunity directly motivated a corresponding design direction and How Might We statement that guided the first phase of concept development.
+The research conducted across Sections 3.1 to 3.6 converges on three distinct but interconnected opportunity areas. Each opportunity directly motivated a corresponding design direction and How Might We statement that guided the first phase of concept development.
 
 
 <table class="rt">
