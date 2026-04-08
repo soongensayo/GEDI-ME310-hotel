@@ -1398,7 +1398,7 @@ The integrated check-in flow works as follows. The robot travels to the guest u
 
   <!-- Demo Video Responsive Container -->
   <div style="position:relative; padding-bottom: 56.25%; height:0; max-width: 1000px; width: 100%; box-shadow: 0 8px 40px 0 rgb(80,179,255,0.23); border-radius:18px; overflow:hidden; background:#f3f8fd;">
-    <iframe src="https://youtube.com/embed/Ib0czW4uUcc" title="ELEVIA Demo Video" frameborder="0" style="position:absolute; top:0; left:0; width:100%; height:100%;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://youtube.com/embed/VZe79QCBdNQ" title="ELEVIA Demo Video" frameborder="0" style="position:absolute; top:0; left:0; width:100%; height:100%;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
 
   <!-- Label with icon -->
